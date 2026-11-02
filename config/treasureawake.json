@@ -1,0 +1,1124 @@
+{
+    "CASTITEMS": [
+        {
+            "STONE": 1,
+            "RED": 1
+        },
+        {
+            "STONE": 3,
+            "RED": 1
+        },
+        {
+            "STONE": 6,
+            "RED": 2
+        }
+    ],
+    "AATTRS": {
+        "34256": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 16
+            }
+        ],
+        "34257": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 32
+            }
+        ],
+        "34258": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 49
+            }
+        ],
+        "34266": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 16
+            }
+        ],
+        "34267": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 32
+            }
+        ],
+        "34268": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 49
+            }
+        ],
+        "34276": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 16
+            }
+        ],
+        "34277": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 32
+            }
+        ],
+        "34278": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 49
+            }
+        ],
+        "34286": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 16
+            }
+        ],
+        "34287": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 32
+            }
+        ],
+        "34288": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 49
+            }
+        ],
+        "34296": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 16
+            }
+        ],
+        "34297": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 32
+            }
+        ],
+        "34298": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 49
+            }
+        ],
+        "34366": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 6
+            },
+            {
+                "KEY": "MP",
+                "VAL": 5
+            }
+        ],
+        "34367": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 9
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 13
+            },
+            {
+                "KEY": "MP",
+                "VAL": 5
+            }
+        ],
+        "34368": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 14
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 19
+            },
+            {
+                "KEY": "MP",
+                "VAL": 5
+            }
+        ],
+        "34376": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            }
+        ],
+        "34377": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 9
+            }
+        ],
+        "34378": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 14
+            }
+        ],
+        "34386": [
+            {
+                "KEY": "HP",
+                "VAL": 1800
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            }
+        ],
+        "34387": [
+            {
+                "KEY": "HP",
+                "VAL": 3600
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 18
+            }
+        ],
+        "34388": [
+            {
+                "KEY": "HP",
+                "VAL": 5400
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 27
+            }
+        ],
+        "34396": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 5
+            }
+        ],
+        "34397": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 9
+            }
+        ],
+        "34398": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 14
+            }
+        ],
+        "34426": [
+            {
+                "KEY": "PDEX",
+                "VAL": 4
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 5
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 5
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "34427": [
+            {
+                "KEY": "PDEX",
+                "VAL": 9
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 9
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 9
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "34428": [
+            {
+                "KEY": "PDEX",
+                "VAL": 14
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 14
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 14
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "34436": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 5
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "34437": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 9
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 9
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "34438": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 14
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 14
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "34446": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 5
+            }
+        ],
+        "34447": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 9
+            }
+        ],
+        "34448": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 14
+            }
+        ],
+        "34456": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 9
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 9
+            }
+        ],
+        "34457": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 18
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 18
+            }
+        ],
+        "34458": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 27
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 27
+            }
+        ],
+        "34466": [
+            {
+                "KEY": "PATK",
+                "VAL": 4
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 3
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 9
+            }
+        ],
+        "34467": [
+            {
+                "KEY": "PATK",
+                "VAL": 9
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 5
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 18
+            }
+        ],
+        "34468": [
+            {
+                "KEY": "PATK",
+                "VAL": 14
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 8
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 27
+            }
+        ],
+        "34476": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 3
+            }
+        ],
+        "34477": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 9
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 5
+            }
+        ],
+        "34478": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 14
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 8
+            }
+        ],
+        "34486": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 5
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 5
+            }
+        ],
+        "34487": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 9
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 9
+            }
+        ],
+        "34488": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 14
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 14
+            }
+        ],
+        "34506": [
+            {
+                "KEY": "PCRI",
+                "VAL": 2
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 5
+            }
+        ],
+        "34507": [
+            {
+                "KEY": "PCRI",
+                "VAL": 5
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 9
+            }
+        ],
+        "34508": [
+            {
+                "KEY": "PCRI",
+                "VAL": 8
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 14
+            }
+        ],
+        "34516": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            }
+        ],
+        "34517": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 9
+            }
+        ],
+        "34518": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 14
+            }
+        ],
+        "34526": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 5
+            }
+        ],
+        "34527": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 9
+            }
+        ],
+        "34528": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 14
+            }
+        ],
+        "34546": [
+            {
+                "KEY": "PASP",
+                "VAL": 4
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 5
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 5
+            }
+        ],
+        "34547": [
+            {
+                "KEY": "PASP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 9
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 9
+            }
+        ],
+        "34548": [
+            {
+                "KEY": "PASP",
+                "VAL": 14
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 14
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 14
+            }
+        ],
+        "34556": [
+            {
+                "KEY": "ACCU",
+                "VAL": 4
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 5
+            }
+        ],
+        "34557": [
+            {
+                "KEY": "ACCU",
+                "VAL": 9
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 9
+            }
+        ],
+        "34558": [
+            {
+                "KEY": "ACCU",
+                "VAL": 14
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 14
+            }
+        ],
+        "34576": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 5
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 5
+            }
+        ],
+        "34577": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 9
+            }
+        ],
+        "34578": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 14
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 14
+            }
+        ],
+        "34586": [
+            {
+                "KEY": "PHP",
+                "VAL": 9
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 5
+            }
+        ],
+        "34587": [
+            {
+                "KEY": "PHP",
+                "VAL": 19
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 9
+            }
+        ],
+        "34588": [
+            {
+                "KEY": "PHP",
+                "VAL": 29
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 14
+            }
+        ],
+        "34616": [
+            {
+                "KEY": "PHP",
+                "VAL": 6
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 5
+            }
+        ],
+        "34617": [
+            {
+                "KEY": "PHP",
+                "VAL": 13
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 9
+            }
+        ],
+        "34618": [
+            {
+                "KEY": "PHP",
+                "VAL": 20
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 14
+            }
+        ],
+        "34626": [
+            {
+                "KEY": "PHP",
+                "VAL": 6
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 2
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 6
+            }
+        ],
+        "34627": [
+            {
+                "KEY": "PHP",
+                "VAL": 13
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 4
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 13
+            }
+        ],
+        "34628": [
+            {
+                "KEY": "PHP",
+                "VAL": 20
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 19
+            }
+        ],
+        "34636": [
+            {
+                "KEY": "PHP",
+                "VAL": 6
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 2
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 6
+            }
+        ],
+        "34637": [
+            {
+                "KEY": "PHP",
+                "VAL": 13
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 4
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 13
+            }
+        ],
+        "34638": [
+            {
+                "KEY": "PHP",
+                "VAL": 20
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 19
+            }
+        ],
+        "34646": [
+            {
+                "KEY": "PHP",
+                "VAL": 6
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 2
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 5
+            }
+        ],
+        "34647": [
+            {
+                "KEY": "PHP",
+                "VAL": 13
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 4
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 9
+            }
+        ],
+        "34648": [
+            {
+                "KEY": "PHP",
+                "VAL": 20
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 5
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 14
+            }
+        ],
+        "34656": [
+            {
+                "KEY": "PATK",
+                "VAL": 3
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 4
+            }
+        ],
+        "34657": [
+            {
+                "KEY": "PATK",
+                "VAL": 7
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 7
+            }
+        ],
+        "34658": [
+            {
+                "KEY": "PATK",
+                "VAL": 11
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 11
+            }
+        ]
+    },
+    "UATTRS": [
+        {
+            "ATTR": "PHP",
+            "LEVEL": 1,
+            "VAL": 80,
+            "W": 100
+        },
+        {
+            "ATTR": "PATK",
+            "LEVEL": 1,
+            "VAL": 50,
+            "W": 100
+        },
+        {
+            "ATTR": "PASP",
+            "LEVEL": 1,
+            "VAL": 40,
+            "W": 100
+        },
+        {
+            "ATTR": "PATKDAM",
+            "LEVEL": 1,
+            "VAL": 60,
+            "W": 100
+        },
+        {
+            "ATTR": "PSKIDAM",
+            "LEVEL": 2,
+            "VAL": 100,
+            "W": 100
+        },
+        {
+            "ATTR": "DPCRI",
+            "LEVEL": 2,
+            "VAL": 120,
+            "W": 100
+        },
+        {
+            "ATTR": "PCRID",
+            "LEVEL": 2,
+            "VAL": 90,
+            "W": 100
+        },
+        {
+            "ATTR": "PMPS",
+            "LEVEL": 2,
+            "VAL": 120,
+            "W": 100
+        },
+        {
+            "ATTR": "PRDC",
+            "LEVEL": 3,
+            "VAL": 90,
+            "W": 50
+        },
+        {
+            "ATTR": "PDAM",
+            "LEVEL": 3,
+            "VAL": 90,
+            "W": 50
+        },
+        {
+            "ATTR": "MP",
+            "LEVEL": 3,
+            "VAL": 10,
+            "W": 50
+        },
+        {
+            "ATTR": "PCD",
+            "LEVEL": 3,
+            "VAL": 60,
+            "W": 50
+        }
+    ]
+}

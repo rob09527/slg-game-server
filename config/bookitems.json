@@ -1,0 +1,4006 @@
+{
+    "54001": {
+        "GSID": 54001,
+        "SUIT": 54001,
+        "STAR": 1,
+        "POS": 1,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 1163,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 4651
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54002": {
+        "GSID": 54002,
+        "SUIT": 54001,
+        "STAR": 1,
+        "POS": 2,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 48,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 192
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54003": {
+        "GSID": 54003,
+        "SUIT": 54001,
+        "STAR": 1,
+        "POS": 3,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 775,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 3101
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54004": {
+        "GSID": 54004,
+        "SUIT": 54001,
+        "STAR": 1,
+        "POS": 4,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 32,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 127
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54011": {
+        "GSID": 54011,
+        "SUIT": 54001,
+        "STAR": 2,
+        "POS": 1,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 2326,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 9302
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54012": {
+        "GSID": 54012,
+        "SUIT": 54001,
+        "STAR": 2,
+        "POS": 2,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 96,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 383
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54013": {
+        "GSID": 54013,
+        "SUIT": 54001,
+        "STAR": 2,
+        "POS": 3,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 1550,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 6202
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54014": {
+        "GSID": 54014,
+        "SUIT": 54001,
+        "STAR": 2,
+        "POS": 4,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 64,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 256
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54021": {
+        "GSID": 54021,
+        "SUIT": 54001,
+        "STAR": 3,
+        "POS": 1,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 4651,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 18605
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54022": {
+        "GSID": 54022,
+        "SUIT": 54001,
+        "STAR": 3,
+        "POS": 2,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 192,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 766
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54023": {
+        "GSID": 54023,
+        "SUIT": 54001,
+        "STAR": 3,
+        "POS": 3,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 3101,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 12403
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54024": {
+        "GSID": 54024,
+        "SUIT": 54001,
+        "STAR": 3,
+        "POS": 4,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 127,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 511
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54031": {
+        "GSID": 54031,
+        "SUIT": 54001,
+        "STAR": 4,
+        "POS": 1,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 8140,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 32558
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54032": {
+        "GSID": 54032,
+        "SUIT": 54001,
+        "STAR": 4,
+        "POS": 2,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 335,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 1340
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54033": {
+        "GSID": 54033,
+        "SUIT": 54001,
+        "STAR": 4,
+        "POS": 3,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 5426,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 21706
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54034": {
+        "GSID": 54034,
+        "SUIT": 54001,
+        "STAR": 4,
+        "POS": 4,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 223,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 894
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54041": {
+        "GSID": 54041,
+        "SUIT": 54001,
+        "STAR": 5,
+        "POS": 1,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 46512
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54051
+    },
+    "54042": {
+        "GSID": 54042,
+        "SUIT": 54001,
+        "STAR": 5,
+        "POS": 2,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 1915
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54052
+    },
+    "54043": {
+        "GSID": 54043,
+        "SUIT": 54001,
+        "STAR": 5,
+        "POS": 3,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 31008
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54053
+    },
+    "54044": {
+        "GSID": 54044,
+        "SUIT": 54001,
+        "STAR": 5,
+        "POS": 4,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 1277
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54054
+    },
+    "54051": {
+        "GSID": 54051,
+        "SUIT": 54001,
+        "STAR": 6,
+        "POS": 1,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 62016
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54052": {
+        "GSID": 54052,
+        "SUIT": 54001,
+        "STAR": 6,
+        "POS": 2,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 2556
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54053": {
+        "GSID": 54053,
+        "SUIT": 54001,
+        "STAR": 6,
+        "POS": 3,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 41344
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54054": {
+        "GSID": 54054,
+        "SUIT": 54001,
+        "STAR": 6,
+        "POS": 4,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 1701
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54101": {
+        "GSID": 54101,
+        "SUIT": 54101,
+        "STAR": 1,
+        "POS": 1,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 1163,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 4651
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54102": {
+        "GSID": 54102,
+        "SUIT": 54101,
+        "STAR": 1,
+        "POS": 2,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 48,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 192
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54103": {
+        "GSID": 54103,
+        "SUIT": 54101,
+        "STAR": 1,
+        "POS": 3,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 775,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 3101
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54104": {
+        "GSID": 54104,
+        "SUIT": 54101,
+        "STAR": 1,
+        "POS": 4,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 32,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 127
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54111": {
+        "GSID": 54111,
+        "SUIT": 54101,
+        "STAR": 2,
+        "POS": 1,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 2326,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 9302
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54112": {
+        "GSID": 54112,
+        "SUIT": 54101,
+        "STAR": 2,
+        "POS": 2,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 96,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 383
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54113": {
+        "GSID": 54113,
+        "SUIT": 54101,
+        "STAR": 2,
+        "POS": 3,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 1550,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 6202
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54114": {
+        "GSID": 54114,
+        "SUIT": 54101,
+        "STAR": 2,
+        "POS": 4,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 64,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 256
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54121": {
+        "GSID": 54121,
+        "SUIT": 54101,
+        "STAR": 3,
+        "POS": 1,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 4651,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 18605
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54122": {
+        "GSID": 54122,
+        "SUIT": 54101,
+        "STAR": 3,
+        "POS": 2,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 192,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 766
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54123": {
+        "GSID": 54123,
+        "SUIT": 54101,
+        "STAR": 3,
+        "POS": 3,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 3101,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 12403
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54124": {
+        "GSID": 54124,
+        "SUIT": 54101,
+        "STAR": 3,
+        "POS": 4,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 127,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 511
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54131": {
+        "GSID": 54131,
+        "SUIT": 54101,
+        "STAR": 4,
+        "POS": 1,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 8140,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 32558
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54132": {
+        "GSID": 54132,
+        "SUIT": 54101,
+        "STAR": 4,
+        "POS": 2,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 335,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1340
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54133": {
+        "GSID": 54133,
+        "SUIT": 54101,
+        "STAR": 4,
+        "POS": 3,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 5426,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 21706
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54134": {
+        "GSID": 54134,
+        "SUIT": 54101,
+        "STAR": 4,
+        "POS": 4,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 223,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 894
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54141": {
+        "GSID": 54141,
+        "SUIT": 54101,
+        "STAR": 5,
+        "POS": 1,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 46512
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54151
+    },
+    "54142": {
+        "GSID": 54142,
+        "SUIT": 54101,
+        "STAR": 5,
+        "POS": 2,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1915
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54152
+    },
+    "54143": {
+        "GSID": 54143,
+        "SUIT": 54101,
+        "STAR": 5,
+        "POS": 3,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 31008
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54153
+    },
+    "54144": {
+        "GSID": 54144,
+        "SUIT": 54101,
+        "STAR": 5,
+        "POS": 4,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1277
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54154
+    },
+    "54151": {
+        "GSID": 54151,
+        "SUIT": 54101,
+        "STAR": 6,
+        "POS": 1,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 62016
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54152": {
+        "GSID": 54152,
+        "SUIT": 54101,
+        "STAR": 6,
+        "POS": 2,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 2556
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54153": {
+        "GSID": 54153,
+        "SUIT": 54101,
+        "STAR": 6,
+        "POS": 3,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 41344
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54154": {
+        "GSID": 54154,
+        "SUIT": 54101,
+        "STAR": 6,
+        "POS": 4,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            1,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1701
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54201": {
+        "GSID": 54201,
+        "SUIT": 54201,
+        "STAR": 1,
+        "POS": 1,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 1163,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 4651
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54202": {
+        "GSID": 54202,
+        "SUIT": 54201,
+        "STAR": 1,
+        "POS": 2,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 48,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 192
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54203": {
+        "GSID": 54203,
+        "SUIT": 54201,
+        "STAR": 1,
+        "POS": 3,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 775,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 3101
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54204": {
+        "GSID": 54204,
+        "SUIT": 54201,
+        "STAR": 1,
+        "POS": 4,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 32,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 127
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54211": {
+        "GSID": 54211,
+        "SUIT": 54201,
+        "STAR": 2,
+        "POS": 1,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 2326,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 9302
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54212": {
+        "GSID": 54212,
+        "SUIT": 54201,
+        "STAR": 2,
+        "POS": 2,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 96,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 383
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54213": {
+        "GSID": 54213,
+        "SUIT": 54201,
+        "STAR": 2,
+        "POS": 3,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 1550,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 6202
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54214": {
+        "GSID": 54214,
+        "SUIT": 54201,
+        "STAR": 2,
+        "POS": 4,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 64,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 256
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54221": {
+        "GSID": 54221,
+        "SUIT": 54201,
+        "STAR": 3,
+        "POS": 1,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 4651,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 18605
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54222": {
+        "GSID": 54222,
+        "SUIT": 54201,
+        "STAR": 3,
+        "POS": 2,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 192,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 766
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54223": {
+        "GSID": 54223,
+        "SUIT": 54201,
+        "STAR": 3,
+        "POS": 3,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 3101,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 12403
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54224": {
+        "GSID": 54224,
+        "SUIT": 54201,
+        "STAR": 3,
+        "POS": 4,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 127,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 511
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54231": {
+        "GSID": 54231,
+        "SUIT": 54201,
+        "STAR": 4,
+        "POS": 1,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 8140,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 32558
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54232": {
+        "GSID": 54232,
+        "SUIT": 54201,
+        "STAR": 4,
+        "POS": 2,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 335,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 1340
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54233": {
+        "GSID": 54233,
+        "SUIT": 54201,
+        "STAR": 4,
+        "POS": 3,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 5426,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 21706
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54234": {
+        "GSID": 54234,
+        "SUIT": 54201,
+        "STAR": 4,
+        "POS": 4,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 223,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 894
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54241": {
+        "GSID": 54241,
+        "SUIT": 54201,
+        "STAR": 5,
+        "POS": 1,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 46512
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54251
+    },
+    "54242": {
+        "GSID": 54242,
+        "SUIT": 54201,
+        "STAR": 5,
+        "POS": 2,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 1915
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54252
+    },
+    "54243": {
+        "GSID": 54243,
+        "SUIT": 54201,
+        "STAR": 5,
+        "POS": 3,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 31008
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54253
+    },
+    "54244": {
+        "GSID": 54244,
+        "SUIT": 54201,
+        "STAR": 5,
+        "POS": 4,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 1277
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54254
+    },
+    "54251": {
+        "GSID": 54251,
+        "SUIT": 54201,
+        "STAR": 6,
+        "POS": 1,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 62016
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54252": {
+        "GSID": 54252,
+        "SUIT": 54201,
+        "STAR": 6,
+        "POS": 2,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 2556
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54253": {
+        "GSID": 54253,
+        "SUIT": 54201,
+        "STAR": 6,
+        "POS": 3,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 41344
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54254": {
+        "GSID": 54254,
+        "SUIT": 54201,
+        "STAR": 6,
+        "POS": 4,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 1701
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54301": {
+        "GSID": 54301,
+        "SUIT": 54301,
+        "STAR": 1,
+        "POS": 1,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 1163,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 4651
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54302": {
+        "GSID": 54302,
+        "SUIT": 54301,
+        "STAR": 1,
+        "POS": 2,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 48,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 192
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54303": {
+        "GSID": 54303,
+        "SUIT": 54301,
+        "STAR": 1,
+        "POS": 3,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 775,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 3101
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54304": {
+        "GSID": 54304,
+        "SUIT": 54301,
+        "STAR": 1,
+        "POS": 4,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 32,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 127
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54311": {
+        "GSID": 54311,
+        "SUIT": 54301,
+        "STAR": 2,
+        "POS": 1,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 2326,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 9302
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54312": {
+        "GSID": 54312,
+        "SUIT": 54301,
+        "STAR": 2,
+        "POS": 2,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 96,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 383
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54313": {
+        "GSID": 54313,
+        "SUIT": 54301,
+        "STAR": 2,
+        "POS": 3,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 1550,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 6202
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54314": {
+        "GSID": 54314,
+        "SUIT": 54301,
+        "STAR": 2,
+        "POS": 4,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 64,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 256
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54321": {
+        "GSID": 54321,
+        "SUIT": 54301,
+        "STAR": 3,
+        "POS": 1,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 4651,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 18605
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54322": {
+        "GSID": 54322,
+        "SUIT": 54301,
+        "STAR": 3,
+        "POS": 2,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 192,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 766
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54323": {
+        "GSID": 54323,
+        "SUIT": 54301,
+        "STAR": 3,
+        "POS": 3,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 3101,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 12403
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54324": {
+        "GSID": 54324,
+        "SUIT": 54301,
+        "STAR": 3,
+        "POS": 4,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 127,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 511
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54331": {
+        "GSID": 54331,
+        "SUIT": 54301,
+        "STAR": 4,
+        "POS": 1,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 8140,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 32558
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54332": {
+        "GSID": 54332,
+        "SUIT": 54301,
+        "STAR": 4,
+        "POS": 2,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 335,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 1340
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54333": {
+        "GSID": 54333,
+        "SUIT": 54301,
+        "STAR": 4,
+        "POS": 3,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 5426,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 21706
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54334": {
+        "GSID": 54334,
+        "SUIT": 54301,
+        "STAR": 4,
+        "POS": 4,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 223,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 894
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54341": {
+        "GSID": 54341,
+        "SUIT": 54301,
+        "STAR": 5,
+        "POS": 1,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 46512
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54351
+    },
+    "54342": {
+        "GSID": 54342,
+        "SUIT": 54301,
+        "STAR": 5,
+        "POS": 2,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 1915
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54352
+    },
+    "54343": {
+        "GSID": 54343,
+        "SUIT": 54301,
+        "STAR": 5,
+        "POS": 3,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 31008
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54353
+    },
+    "54344": {
+        "GSID": 54344,
+        "SUIT": 54301,
+        "STAR": 5,
+        "POS": 4,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 1277
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54354
+    },
+    "54351": {
+        "GSID": 54351,
+        "SUIT": 54301,
+        "STAR": 6,
+        "POS": 1,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 62016
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54352": {
+        "GSID": 54352,
+        "SUIT": 54301,
+        "STAR": 6,
+        "POS": 2,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 2556
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54353": {
+        "GSID": 54353,
+        "SUIT": 54301,
+        "STAR": 6,
+        "POS": 3,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "HP": 41344
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54354": {
+        "GSID": 54354,
+        "SUIT": 54301,
+        "STAR": 6,
+        "POS": 4,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            2,
+            3
+        ],
+        "MAINATTR": {
+            "ATK": 1701
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54401": {
+        "GSID": 54401,
+        "SUIT": 54401,
+        "STAR": 1,
+        "POS": 1,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 1163,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 4651
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54402": {
+        "GSID": 54402,
+        "SUIT": 54401,
+        "STAR": 1,
+        "POS": 2,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 48,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 192
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54403": {
+        "GSID": 54403,
+        "SUIT": 54401,
+        "STAR": 1,
+        "POS": 3,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 775,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 3101
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54404": {
+        "GSID": 54404,
+        "SUIT": 54401,
+        "STAR": 1,
+        "POS": 4,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 32,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 127
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54411": {
+        "GSID": 54411,
+        "SUIT": 54401,
+        "STAR": 2,
+        "POS": 1,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 2326,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 9302
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54412": {
+        "GSID": 54412,
+        "SUIT": 54401,
+        "STAR": 2,
+        "POS": 2,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 96,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 383
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54413": {
+        "GSID": 54413,
+        "SUIT": 54401,
+        "STAR": 2,
+        "POS": 3,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 1550,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 6202
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54414": {
+        "GSID": 54414,
+        "SUIT": 54401,
+        "STAR": 2,
+        "POS": 4,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 64,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 256
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54421": {
+        "GSID": 54421,
+        "SUIT": 54401,
+        "STAR": 3,
+        "POS": 1,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 4651,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 18605
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54422": {
+        "GSID": 54422,
+        "SUIT": 54401,
+        "STAR": 3,
+        "POS": 2,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 192,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 766
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54423": {
+        "GSID": 54423,
+        "SUIT": 54401,
+        "STAR": 3,
+        "POS": 3,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 3101,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 12403
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54424": {
+        "GSID": 54424,
+        "SUIT": 54401,
+        "STAR": 3,
+        "POS": 4,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 127,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 511
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54431": {
+        "GSID": 54431,
+        "SUIT": 54401,
+        "STAR": 4,
+        "POS": 1,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 8140,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 32558
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54432": {
+        "GSID": 54432,
+        "SUIT": 54401,
+        "STAR": 4,
+        "POS": 2,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 335,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1340
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54433": {
+        "GSID": 54433,
+        "SUIT": 54401,
+        "STAR": 4,
+        "POS": 3,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 5426,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 21706
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54434": {
+        "GSID": 54434,
+        "SUIT": 54401,
+        "STAR": 4,
+        "POS": 4,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 223,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 894
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54441": {
+        "GSID": 54441,
+        "SUIT": 54401,
+        "STAR": 5,
+        "POS": 1,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 46512
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54451
+    },
+    "54442": {
+        "GSID": 54442,
+        "SUIT": 54401,
+        "STAR": 5,
+        "POS": 2,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1915
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54452
+    },
+    "54443": {
+        "GSID": 54443,
+        "SUIT": 54401,
+        "STAR": 5,
+        "POS": 3,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 31008
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54453
+    },
+    "54444": {
+        "GSID": 54444,
+        "SUIT": 54401,
+        "STAR": 5,
+        "POS": 4,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1277
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54454
+    },
+    "54451": {
+        "GSID": 54451,
+        "SUIT": 54401,
+        "STAR": 6,
+        "POS": 1,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 62016
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54452": {
+        "GSID": 54452,
+        "SUIT": 54401,
+        "STAR": 6,
+        "POS": 2,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 2556
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54453": {
+        "GSID": 54453,
+        "SUIT": 54401,
+        "STAR": 6,
+        "POS": 3,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 41344
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54454": {
+        "GSID": 54454,
+        "SUIT": 54401,
+        "STAR": 6,
+        "POS": 4,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            3,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1701
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54501": {
+        "GSID": 54501,
+        "SUIT": 54501,
+        "STAR": 1,
+        "POS": 1,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 1163,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 4651
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54502": {
+        "GSID": 54502,
+        "SUIT": 54501,
+        "STAR": 1,
+        "POS": 2,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 48,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 192
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54503": {
+        "GSID": 54503,
+        "SUIT": 54501,
+        "STAR": 1,
+        "POS": 3,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 775,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 3101
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54504": {
+        "GSID": 54504,
+        "SUIT": 54501,
+        "STAR": 1,
+        "POS": 4,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 32,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 127
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54511": {
+        "GSID": 54511,
+        "SUIT": 54501,
+        "STAR": 2,
+        "POS": 1,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 2326,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 9302
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54512": {
+        "GSID": 54512,
+        "SUIT": 54501,
+        "STAR": 2,
+        "POS": 2,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 96,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 383
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54513": {
+        "GSID": 54513,
+        "SUIT": 54501,
+        "STAR": 2,
+        "POS": 3,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 1550,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 6202
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54514": {
+        "GSID": 54514,
+        "SUIT": 54501,
+        "STAR": 2,
+        "POS": 4,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 64,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 256
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54521": {
+        "GSID": 54521,
+        "SUIT": 54501,
+        "STAR": 3,
+        "POS": 1,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 4651,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 18605
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54522": {
+        "GSID": 54522,
+        "SUIT": 54501,
+        "STAR": 3,
+        "POS": 2,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 192,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 766
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54523": {
+        "GSID": 54523,
+        "SUIT": 54501,
+        "STAR": 3,
+        "POS": 3,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 3101,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 12403
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54524": {
+        "GSID": 54524,
+        "SUIT": 54501,
+        "STAR": 3,
+        "POS": 4,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 127,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 511
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54531": {
+        "GSID": 54531,
+        "SUIT": 54501,
+        "STAR": 4,
+        "POS": 1,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 8140,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 32558
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54532": {
+        "GSID": 54532,
+        "SUIT": 54501,
+        "STAR": 4,
+        "POS": 2,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 335,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1340
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54533": {
+        "GSID": 54533,
+        "SUIT": 54501,
+        "STAR": 4,
+        "POS": 3,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 5426,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 21706
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54534": {
+        "GSID": 54534,
+        "SUIT": 54501,
+        "STAR": 4,
+        "POS": 4,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 223,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 894
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54541": {
+        "GSID": 54541,
+        "SUIT": 54501,
+        "STAR": 5,
+        "POS": 1,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 46512
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54551
+    },
+    "54542": {
+        "GSID": 54542,
+        "SUIT": 54501,
+        "STAR": 5,
+        "POS": 2,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1915
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54552
+    },
+    "54543": {
+        "GSID": 54543,
+        "SUIT": 54501,
+        "STAR": 5,
+        "POS": 3,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 31008
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54553
+    },
+    "54544": {
+        "GSID": 54544,
+        "SUIT": 54501,
+        "STAR": 5,
+        "POS": 4,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1277
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54554
+    },
+    "54551": {
+        "GSID": 54551,
+        "SUIT": 54501,
+        "STAR": 6,
+        "POS": 1,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 62016
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54552": {
+        "GSID": 54552,
+        "SUIT": 54501,
+        "STAR": 6,
+        "POS": 2,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 2556
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54553": {
+        "GSID": 54553,
+        "SUIT": 54501,
+        "STAR": 6,
+        "POS": 3,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "HP": 41344
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54554": {
+        "GSID": 54554,
+        "SUIT": 54501,
+        "STAR": 6,
+        "POS": 4,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            2,
+            4
+        ],
+        "MAINATTR": {
+            "ATK": 1701
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54601": {
+        "GSID": 54601,
+        "SUIT": 54601,
+        "STAR": 1,
+        "POS": 1,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 1163,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 4651
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54602": {
+        "GSID": 54602,
+        "SUIT": 54601,
+        "STAR": 1,
+        "POS": 2,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 48,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 192
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54603": {
+        "GSID": 54603,
+        "SUIT": 54601,
+        "STAR": 1,
+        "POS": 3,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 775,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 3101
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54604": {
+        "GSID": 54604,
+        "SUIT": 54601,
+        "STAR": 1,
+        "POS": 4,
+        "TOPLV": 3,
+        "EXP": 100,
+        "STR_ADD": 32,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 127
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 100
+            }
+        ],
+        "RARE": 0
+    },
+    "54611": {
+        "GSID": 54611,
+        "SUIT": 54601,
+        "STAR": 2,
+        "POS": 1,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 2326,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 9302
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54612": {
+        "GSID": 54612,
+        "SUIT": 54601,
+        "STAR": 2,
+        "POS": 2,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 96,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 383
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54613": {
+        "GSID": 54613,
+        "SUIT": 54601,
+        "STAR": 2,
+        "POS": 3,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 1550,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 6202
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54614": {
+        "GSID": 54614,
+        "SUIT": 54601,
+        "STAR": 2,
+        "POS": 4,
+        "TOPLV": 6,
+        "EXP": 200,
+        "STR_ADD": 64,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 256
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200
+            }
+        ],
+        "RARE": 0
+    },
+    "54621": {
+        "GSID": 54621,
+        "SUIT": 54601,
+        "STAR": 3,
+        "POS": 1,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 4651,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 18605
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54622": {
+        "GSID": 54622,
+        "SUIT": 54601,
+        "STAR": 3,
+        "POS": 2,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 192,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 766
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54623": {
+        "GSID": 54623,
+        "SUIT": 54601,
+        "STAR": 3,
+        "POS": 3,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 3101,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 12403
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54624": {
+        "GSID": 54624,
+        "SUIT": 54601,
+        "STAR": 3,
+        "POS": 4,
+        "TOPLV": 9,
+        "EXP": 400,
+        "STR_ADD": 127,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 511
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300
+            }
+        ],
+        "RARE": 0
+    },
+    "54631": {
+        "GSID": 54631,
+        "SUIT": 54601,
+        "STAR": 4,
+        "POS": 1,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 8140,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 32558
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54632": {
+        "GSID": 54632,
+        "SUIT": 54601,
+        "STAR": 4,
+        "POS": 2,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 335,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 1340
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54633": {
+        "GSID": 54633,
+        "SUIT": 54601,
+        "STAR": 4,
+        "POS": 3,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 5426,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 21706
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54634": {
+        "GSID": 54634,
+        "SUIT": 54601,
+        "STAR": 4,
+        "POS": 4,
+        "TOPLV": 12,
+        "EXP": 1800,
+        "STR_ADD": 223,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 894
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400
+            }
+        ],
+        "RARE": 0
+    },
+    "54641": {
+        "GSID": 54641,
+        "SUIT": 54601,
+        "STAR": 5,
+        "POS": 1,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 46512
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54651
+    },
+    "54642": {
+        "GSID": 54642,
+        "SUIT": 54601,
+        "STAR": 5,
+        "POS": 2,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 1915
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54652
+    },
+    "54643": {
+        "GSID": 54643,
+        "SUIT": 54601,
+        "STAR": 5,
+        "POS": 3,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 31008
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54653
+    },
+    "54644": {
+        "GSID": 54644,
+        "SUIT": 54601,
+        "STAR": 5,
+        "POS": 4,
+        "TOPLV": 15,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 1277
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 75
+            }
+        ],
+        "RARE": 0,
+        "GSID_AFTER_AWAKE": 54654
+    },
+    "54651": {
+        "GSID": 54651,
+        "SUIT": 54601,
+        "STAR": 6,
+        "POS": 1,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 11628,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 62016
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54652": {
+        "GSID": 54652,
+        "SUIT": 54601,
+        "STAR": 6,
+        "POS": 2,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 479,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 2556
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54653": {
+        "GSID": 54653,
+        "SUIT": 54601,
+        "STAR": 6,
+        "POS": 3,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 7752,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "HP": 41344
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    },
+    "54654": {
+        "GSID": 54654,
+        "SUIT": 54601,
+        "STAR": 6,
+        "POS": 4,
+        "TOPLV": 24,
+        "EXP": 4500,
+        "STR_ADD": 319,
+        "OCCU_RECOM": [
+            1,
+            6
+        ],
+        "MAINATTR": {
+            "ATK": 1701
+        },
+        "DECOMP_ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "RARE": 0
+    }
+}

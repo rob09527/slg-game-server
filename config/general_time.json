@@ -1,0 +1,106 @@
+[
+    {
+        "GSID": 17021,
+        "MGSID": 17030,
+        "HEADID": 50087,
+        "IMAGEID": 52234,
+        "OUTPUT_TIME": 7,
+        "FOR_SALE_TIME": 14
+    },
+    {
+        "GSID": 17161,
+        "MGSID": 17170,
+        "HEADID": 50107,
+        "IMAGEID": 52266,
+        "OUTPUT_TIME": 21,
+        "FOR_SALE_TIME": 28
+    },
+    {
+        "GSID": 16441,
+        "MGSID": 16450,
+        "HEADID": 50103,
+        "IMAGEID": 52254,
+        "OUTPUT_TIME": 35,
+        "FOR_SALE_TIME": 42
+    },
+    {
+        "GSID": 12401,
+        "MGSID": 12410,
+        "HEADID": 50101,
+        "IMAGEID": 52248,
+        "OUTPUT_TIME": 49,
+        "FOR_SALE_TIME": 56
+    },
+    {
+        "GSID": 10441,
+        "MGSID": 10450,
+        "HEADID": 50102,
+        "IMAGEID": 52251,
+        "OUTPUT_TIME": 63,
+        "FOR_SALE_TIME": 70
+    },
+    {
+        "GSID": 0,
+        "MGSID": 0,
+        "HEADID": 0,
+        "IMAGEID": 0,
+        "OUTPUT_TIME": 77,
+        "FOR_SALE_TIME": 84
+    },
+    {
+        "GSID": 0,
+        "MGSID": 0,
+        "HEADID": 0,
+        "IMAGEID": 0,
+        "OUTPUT_TIME": 91,
+        "FOR_SALE_TIME": 98
+    },
+    {
+        "GSID": 0,
+        "MGSID": 0,
+        "HEADID": 0,
+        "IMAGEID": 0,
+        "OUTPUT_TIME": 105,
+        "FOR_SALE_TIME": 112
+    },
+    {
+        "GSID": 10461,
+        "MGSID": 10470,
+        "HEADID": 50109,
+        "IMAGEID": 52283,
+        "OUTPUT_TIME": 119,
+        "FOR_SALE_TIME": 126
+    },
+    {
+        "GSID": 16461,
+        "MGSID": 16470,
+        "HEADID": 50110,
+        "IMAGEID": 52287,
+        "OUTPUT_TIME": 133,
+        "FOR_SALE_TIME": 140
+    },
+    {
+        "GSID": 14441,
+        "MGSID": 14450,
+        "HEADID": 50111,
+        "IMAGEID": 52290,
+        "OUTPUT_TIME": 147,
+        "FOR_SALE_TIME": 154
+    },
+    {
+        "GSID": 12421,
+        "MGSID": 12430,
+        "HEADID": 50112,
+        "IMAGEID": 52294,
+        "OUTPUT_TIME": 161,
+        "FOR_SALE_TIME": 168
+    },
+    {
+        "GSID": 18181,
+        "MGSID": 18190,
+        "HEADID": 50113,
+        "IMAGEID": 52297,
+        "OUTPUT_TIME": 175,
+        "FOR_SALE_TIME": 182
+    }
+]

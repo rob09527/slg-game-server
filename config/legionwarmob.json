@@ -1,0 +1,182 @@
+[
+    {
+        "ID": 1001,
+        "W": 1,
+        "BATTLESET": 5,
+        "LV": 100,
+        "HP": 21000000,
+        "ATTR": [
+            {
+                "KEY": "atk",
+                "VAL": 5
+            }
+        ],
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 10,
+                "MAXCOUNT": 30
+            }
+        ],
+        "KREWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30052,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "ID": 1002,
+        "W": 1,
+        "BATTLESET": 6,
+        "LV": 100,
+        "HP": 21000000,
+        "ATTR": [
+            {
+                "KEY": "hp",
+                "VAL": 5
+            }
+        ],
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 10,
+                "MAXCOUNT": 30
+            }
+        ],
+        "KREWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30052,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "ID": 1003,
+        "W": 1,
+        "BATTLESET": 7,
+        "LV": 100,
+        "HP": 21000000,
+        "ATTR": [
+            {
+                "KEY": "pcrid",
+                "VAL": 10
+            }
+        ],
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 10,
+                "MAXCOUNT": 30
+            }
+        ],
+        "KREWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30052,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "ID": 1004,
+        "W": 1,
+        "BATTLESET": 8,
+        "LV": 100,
+        "HP": 21000000,
+        "ATTR": [
+            {
+                "KEY": "def",
+                "VAL": 5
+            }
+        ],
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 10,
+                "MAXCOUNT": 30
+            }
+        ],
+        "KREWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30052,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "ID": 1005,
+        "W": 1,
+        "BATTLESET": 9,
+        "LV": 100,
+        "HP": 21000000,
+        "ATTR": [
+            {
+                "KEY": "pasp",
+                "VAL": 10
+            }
+        ],
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 10,
+                "MAXCOUNT": 30
+            }
+        ],
+        "KREWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30052,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "ID": 1006,
+        "W": 1,
+        "BATTLESET": 10,
+        "LV": 100,
+        "HP": 21000000,
+        "ATTR": [
+            {
+                "KEY": "_streak_buff",
+                "VAL": 1
+            }
+        ],
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 10,
+                "MAXCOUNT": 30
+            }
+        ],
+        "KREWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30052,
+                "COUNT": 1
+            }
+        ]
+    }
+]

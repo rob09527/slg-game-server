@@ -1,0 +1,174 @@
+{
+    "CAST": [
+        [
+            {
+                "GSID": 30093,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 3000
+            }
+        ],
+        [
+            {
+                "GSID": 30093,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 3000
+            }
+        ],
+        [
+            {
+                "GSID": 30093,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 2000
+            }
+        ],
+        [
+            {
+                "GSID": 30093,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 2000
+            }
+        ]
+    ],
+    "ATTR": [
+        [
+            {
+                "ATTR": "MP",
+                "VAL": 10,
+                "W": 50
+            },
+            {
+                "ATTR": "PDAM",
+                "VAL": 120,
+                "W": 50
+            },
+            {
+                "ATTR": "PRDC",
+                "VAL": 120,
+                "W": 50
+            },
+            {
+                "ATTR": "PASP",
+                "VAL": 80,
+                "W": 150
+            },
+            {
+                "ATTR": "PSKIDAM",
+                "VAL": 50,
+                "W": 100
+            },
+            {
+                "ATTR": "PMPS",
+                "VAL": 80,
+                "W": 150
+            }
+        ],
+        [
+            {
+                "ATTR": "PSKIDAM",
+                "VAL": 120,
+                "W": 50
+            },
+            {
+                "ATTR": "PCRI",
+                "VAL": 50,
+                "W": 50
+            },
+            {
+                "ATTR": "PCRID",
+                "VAL": 250,
+                "W": 50
+            },
+            {
+                "ATTR": "MP",
+                "VAL": 5,
+                "W": 150
+            },
+            {
+                "ATTR": "PASP",
+                "VAL": 80,
+                "W": 100
+            },
+            {
+                "ATTR": "PMPS",
+                "VAL": 80,
+                "W": 150
+            }
+        ],
+        [
+            {
+                "ATTR": "PHP",
+                "VAL": 200,
+                "W": 50
+            },
+            {
+                "ATTR": "PMPS",
+                "VAL": 200,
+                "W": 50
+            },
+            {
+                "ATTR": "DPCRI",
+                "VAL": 80,
+                "W": 50
+            },
+            {
+                "ATTR": "MP",
+                "VAL": 5,
+                "W": 150
+            },
+            {
+                "ATTR": "PASP",
+                "VAL": 80,
+                "W": 150
+            },
+            {
+                "ATTR": "PSKIDAM",
+                "VAL": 50,
+                "W": 100
+            }
+        ],
+        [
+            {
+                "ATTR": "PATK",
+                "VAL": 100,
+                "W": 50
+            },
+            {
+                "ATTR": "PASP",
+                "VAL": 150,
+                "W": 100
+            },
+            {
+                "ATTR": "ACCU",
+                "VAL": 80,
+                "W": 50
+            },
+            {
+                "ATTR": "MP",
+                "VAL": 5,
+                "W": 150
+            },
+            {
+                "ATTR": "PSKIDAM",
+                "VAL": 50,
+                "W": 100
+            },
+            {
+                "ATTR": "PMPS",
+                "VAL": 80,
+                "W": 150
+            }
+        ]
+    ]
+}

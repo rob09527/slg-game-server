@@ -1,0 +1,427 @@
+[
+    {
+        "GSID": 10041,
+        "NAME": "曹洪",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 10061,
+        "NAME": "陈群",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 12041,
+        "NAME": "刘封",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 12061,
+        "NAME": "王平",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 14041,
+        "NAME": "丁奉",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 14061,
+        "NAME": "张纮",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 16041,
+        "NAME": "张济",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 16061,
+        "NAME": "张梁",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 17001,
+        "NAME": "神·刀盾兵",
+        "CHANCE": 25
+    },
+    {
+        "GSID": 18001,
+        "NAME": "魔·骑兵",
+        "CHANCE": 25
+    },
+    {
+        "GSID": 10081,
+        "NAME": "李典",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 10101,
+        "NAME": "张郃",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 10121,
+        "NAME": "乐进",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 10141,
+        "NAME": "甄姬",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 12081,
+        "NAME": "黄月英",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 12101,
+        "NAME": "关平",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 12121,
+        "NAME": "祝融",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 12141,
+        "NAME": "廖化",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 14081,
+        "NAME": "凌统",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 14101,
+        "NAME": "小乔",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 14121,
+        "NAME": "诸葛瑾",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 14141,
+        "NAME": "张昭",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 16081,
+        "NAME": "潘凤",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 16101,
+        "NAME": "汉献帝",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 16121,
+        "NAME": "郭汜",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 16141,
+        "NAME": "陈宫",
+        "CHANCE": 50
+    },
+    {
+        "GSID": 17021,
+        "NAME": "神·庞统",
+        "CHANCE": 25
+    },
+    {
+        "GSID": 17041,
+        "NAME": "神·周泰",
+        "CHANCE": 25
+    },
+    {
+        "GSID": 18021,
+        "NAME": "魔·司马昭",
+        "CHANCE": 25
+    },
+    {
+        "GSID": 18041,
+        "NAME": "魔·于吉",
+        "CHANCE": 25
+    },
+    {
+        "GSID": 10161,
+        "NAME": "荀彧",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 10181,
+        "NAME": "夏侯渊",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 10201,
+        "NAME": "张辽",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 10221,
+        "NAME": "贾诩",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 12161,
+        "NAME": "孟获",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 12181,
+        "NAME": "关羽",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 12201,
+        "NAME": "庞统",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 12221,
+        "NAME": "刘禅",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 12241,
+        "NAME": "徐庶",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 14161,
+        "NAME": "周泰",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 14181,
+        "NAME": "大乔",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 14201,
+        "NAME": "孙尚香",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 14221,
+        "NAME": "潘璋",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 14241,
+        "NAME": "吕蒙",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 16161,
+        "NAME": "于吉",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 16181,
+        "NAME": "文丑",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 16201,
+        "NAME": "颜良",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 16221,
+        "NAME": "公孙瓒",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 16241,
+        "NAME": "蔡文姬",
+        "CHANCE": 60
+    },
+    {
+        "GSID": 17061,
+        "NAME": "神·刘备",
+        "CHANCE": 30
+    },
+    {
+        "GSID": 18061,
+        "NAME": "魔·步练师",
+        "CHANCE": 30
+    },
+    {
+        "GSID": 10241,
+        "NAME": "司马懿",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 10261,
+        "NAME": "庞德",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 10281,
+        "NAME": "许褚",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 10301,
+        "NAME": "曹操",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 10321,
+        "NAME": "夏侯惇",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 12261,
+        "NAME": "马超",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 12281,
+        "NAME": "黄忠",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 12301,
+        "NAME": "刘备",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 12321,
+        "NAME": "姜维",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 14261,
+        "NAME": "陆逊",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 14281,
+        "NAME": "步练师",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 14301,
+        "NAME": "甘宁",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 14321,
+        "NAME": "孙坚",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 16261,
+        "NAME": "董卓",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 16281,
+        "NAME": "袁绍",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 16301,
+        "NAME": "张角",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 16321,
+        "NAME": "华佗",
+        "CHANCE": 20
+    },
+    {
+        "GSID": 17081,
+        "NAME": "神·吕蒙",
+        "CHANCE": 12
+    },
+    {
+        "GSID": 18081,
+        "NAME": "魔·貂蝉",
+        "CHANCE": 12
+    },
+    {
+        "GSID": 10361,
+        "NAME": "徐晃",
+        "CHANCE": 15
+    },
+    {
+        "GSID": 10381,
+        "NAME": "郭嘉",
+        "CHANCE": 15
+    },
+    {
+        "GSID": 12341,
+        "NAME": "张飞",
+        "CHANCE": 15
+    },
+    {
+        "GSID": 12361,
+        "NAME": "赵云",
+        "CHANCE": 5
+    },
+    {
+        "GSID": 14341,
+        "NAME": "孙权",
+        "CHANCE": 15
+    },
+    {
+        "GSID": 14381,
+        "NAME": "周瑜",
+        "CHANCE": 8
+    },
+    {
+        "GSID": 16341,
+        "NAME": "吕布",
+        "CHANCE": 5
+    },
+    {
+        "GSID": 16361,
+        "NAME": "华雄",
+        "CHANCE": 15
+    },
+    {
+        "GSID": 12401,
+        "NAME": "魏延",
+        "CHANCE": 15
+    },
+    {
+        "GSID": 10341,
+        "NAME": "曹仁",
+        "CHANCE": 8
+    },
+    {
+        "GSID": 14361,
+        "NAME": "孙策",
+        "CHANCE": 15
+    },
+    {
+        "GSID": 12381,
+        "NAME": "诸葛亮",
+        "CHANCE": 15
+    },
+    {
+        "GSID": 16381,
+        "NAME": "貂蝉",
+        "CHANCE": 15
+    },
+    {
+        "GSID": 17101,
+        "NAME": "神·张飞",
+        "CHANCE": 0
+    },
+    {
+        "GSID": 18121,
+        "NAME": "魔·孙权",
+        "CHANCE": 0
+    }
+]

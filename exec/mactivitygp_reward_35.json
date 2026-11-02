@@ -1,0 +1,33 @@
+{
+    "REQUIRE": [
+        {
+            "GSID": 97406,
+            "POS": 6
+        },
+        {
+            "GSID": -103,
+            "PARAM": [
+                130
+            ]
+        },
+        {
+            "GSID": 90273,
+            "MAXCOUNT": 35
+        },
+        {
+            "GSID": "special.cz2",
+            "MINCOUNT": 1
+        }
+    ],
+    "FROM": [],
+    "TO": [
+        {
+            "GSID": 97406,
+            "COUNT": 32
+        },
+        {
+            "GSID": 38005,
+            "COUNT": 1200
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+[
+    {
+        "ID": 1001,
+        "EXP": 0,
+        "LIMIT": 3,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 0,
+        "ITEMS": [],
+        "CHOICE": [
+            101,
+            201
+        ]
+    },
+    {
+        "ID": 1002,
+        "EXP": 300,
+        "LIMIT": 3,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 30,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "CHOICE": [
+            102,
+            202
+        ]
+    },
+    {
+        "ID": 1003,
+        "EXP": 680,
+        "LIMIT": 3,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 68,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ],
+        "CHOICE": [
+            103,
+            203
+        ]
+    },
+    {
+        "ID": 1004,
+        "EXP": 980,
+        "LIMIT": 3,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 98,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 980
+            }
+        ],
+        "CHOICE": [
+            104,
+            204
+        ]
+    },
+    {
+        "ID": 1005,
+        "EXP": 1280,
+        "LIMIT": 3,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 128,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            }
+        ],
+        "CHOICE": [
+            105,
+            205
+        ]
+    },
+    {
+        "ID": 1006,
+        "EXP": 1980,
+        "LIMIT": 3,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 198,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            }
+        ],
+        "CHOICE": [
+            106,
+            206
+        ]
+    },
+    {
+        "ID": 1007,
+        "EXP": 3280,
+        "LIMIT": 3,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 328,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            }
+        ],
+        "CHOICE": [
+            107,
+            207
+        ]
+    },
+    {
+        "ID": 1008,
+        "EXP": 6480,
+        "LIMIT": 3,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 648,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            }
+        ],
+        "CHOICE": [
+            108,
+            208
+        ]
+    }
+]

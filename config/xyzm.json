@@ -1,0 +1,564 @@
+{
+    "XYZM": {
+        "POOL": [
+            {
+                "GSID": "XYWJ",
+                "COUNT": 50,
+                "CHANCE": 100,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 36207,
+                "COUNT": 50,
+                "CHANCE": 200,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 32137,
+                "COUNT": 2,
+                "CHANCE": 600,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 32136,
+                "COUNT": 8,
+                "CHANCE": 300,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100,
+                "CHANCE": 1500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 100,
+                "CHANCE": 1500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 5000000,
+                "CHANCE": 200,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 400000,
+                "CHANCE": 2900,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 200000,
+                "CHANCE": 2900,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "COST": [
+            {
+                "TIMES": 1,
+                "ITEM": [
+                    {
+                        "GSID": 30151,
+                        "COUNT": 1
+                    }
+                ],
+                "SCORE": 1,
+                "FREE_CD": 72
+            },
+            {
+                "TIMES": 10,
+                "ITEM": [
+                    {
+                        "GSID": 30151,
+                        "COUNT": 10
+                    }
+                ],
+                "SCORE": 10,
+                "FREE_CD": 0
+            }
+        ],
+        "BAODI5": {
+            "GSID": 36207,
+            "MAX": 30,
+            "GFLMARK": 90636
+        },
+        "XYWJ": {
+            "GSID": "XYWJ",
+            "MAX": 80,
+            "MIN": 20,
+            "GFLMARK": 90637
+        },
+        "GENERAL": {
+            "10341": {
+                "GSID": 20341,
+                "CHANCE": 50
+            },
+            "10361": {
+                "GSID": 20361,
+                "CHANCE": 50
+            },
+            "10381": {
+                "GSID": 20381,
+                "CHANCE": 50
+            },
+            "12341": {
+                "GSID": 22341,
+                "CHANCE": 50
+            },
+            "12361": {
+                "GSID": 22361,
+                "CHANCE": 50
+            },
+            "12381": {
+                "GSID": 22381,
+                "CHANCE": 50
+            },
+            "12401": {
+                "GSID": 22401,
+                "CHANCE": 50
+            },
+            "14341": {
+                "GSID": 24341,
+                "CHANCE": 50
+            },
+            "14361": {
+                "GSID": 24361,
+                "CHANCE": 50
+            },
+            "14381": {
+                "GSID": 24381,
+                "CHANCE": 50
+            },
+            "16341": {
+                "GSID": 26341,
+                "CHANCE": 50
+            },
+            "16361": {
+                "GSID": 26361,
+                "CHANCE": 50
+            },
+            "16381": {
+                "GSID": 26381,
+                "CHANCE": 50
+            },
+            "17101": {
+                "GSID": 27101,
+                "CHANCE": 50
+            },
+            "17121": {
+                "GSID": 27121,
+                "CHANCE": 50
+            },
+            "18101": {
+                "GSID": 28101,
+                "CHANCE": 50
+            },
+            "18121": {
+                "GSID": 28121,
+                "CHANCE": 50
+            }
+        },
+        "GSID": 90638
+    },
+    "LJCZ": {
+        "ITEMS": [
+            {
+                "MONEY": 198,
+                "ITEMS": [
+                    {
+                        "GSID": 32137,
+                        "COUNT": 4
+                    }
+                ]
+            },
+            {
+                "MONEY": 648,
+                "ITEMS": [
+                    {
+                        "GSID": 30134,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "MONEY": 1500,
+                "ITEMS": [
+                    {
+                        "GSID": 32587,
+                        "COUNT": 2
+                    }
+                ]
+            },
+            {
+                "MONEY": 3000,
+                "ITEMS": [
+                    {
+                        "GSID": 32573,
+                        "COUNT": 4
+                    }
+                ]
+            },
+            {
+                "MONEY": 4500,
+                "ITEMS": [
+                    {
+                        "GSID": 34371,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "MONEY": 6000,
+                "ITEMS": [
+                    {
+                        "GSID": 32586,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 2
+                    }
+                ]
+            },
+            {
+                "MONEY": 8000,
+                "ITEMS": [
+                    {
+                        "GSID": 32579,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "MONEY": 10000,
+                "ITEMS": [
+                    {
+                        "GSID": 32595,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 2
+                    }
+                ]
+            }
+        ],
+        "MTITLE": "累计充值",
+        "MCONTENT": "您有未领取的累计充值奖励，请领取！"
+    },
+    "XLBJ": [
+        {
+            "ID": 1000,
+            "PRICE": 0,
+            "EXP": 0,
+            "LIMIT": 1,
+            "REFRESH": 1,
+            "REFRESHTYPE": "day",
+            "TYPE": 38005,
+            "ICON": "xinyuan_zhaomu_1",
+            "ITEMS": [
+                {
+                    "GSID": 30151,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "ID": 1001,
+            "PRICE": 350000,
+            "EXP": 0,
+            "LIMIT": 1,
+            "REFRESH": 1,
+            "REFRESHTYPE": "day",
+            "TYPE": 38006,
+            "ICON": "xinyuan_zhaomu_2",
+            "ITEMS": [
+                {
+                    "GSID": 30151,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 1002,
+            "PRICE": 1400,
+            "EXP": 0,
+            "LIMIT": 1,
+            "REFRESH": 1,
+            "REFRESHTYPE": "day",
+            "TYPE": 38005,
+            "ICON": "xinyuan_zhaomu_3",
+            "ITEMS": [
+                {
+                    "GSID": 30151,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 1003,
+            "PRICE": 68,
+            "EXP": 680,
+            "LIMIT": 4,
+            "REFRESH": 7,
+            "REFRESHTYPE": "activity",
+            "TYPE": 0,
+            "ICON": "xinyuan_zhaomu_4",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 30151,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                }
+            ]
+        },
+        {
+            "ID": 1004,
+            "PRICE": 198,
+            "EXP": 1980,
+            "LIMIT": 8,
+            "REFRESH": 7,
+            "REFRESHTYPE": "activity",
+            "TYPE": 0,
+            "ICON": "xinyuan_zhaomu_5",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1980
+                },
+                {
+                    "GSID": 30151,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 2000000
+                }
+            ]
+        },
+        {
+            "ID": 1005,
+            "PRICE": 648,
+            "EXP": 6480,
+            "LIMIT": 10,
+            "REFRESH": 7,
+            "REFRESHTYPE": "activity",
+            "TYPE": 0,
+            "ICON": "xinyuan_zhaomu_6",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 30151,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 10000000
+                }
+            ]
+        }
+    ],
+    "XYLB": [
+        {
+            "ID": 1001,
+            "PRICE": 30,
+            "EXP": 300,
+            "LIMIT": 2,
+            "SPEC": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 2000000
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 1000
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ]
+        },
+        {
+            "ID": 1002,
+            "PRICE": 68,
+            "EXP": 680,
+            "LIMIT": 2,
+            "SPEC": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 5000000
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 2500
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 8000000
+                }
+            ]
+        },
+        {
+            "ID": 1003,
+            "PRICE": 98,
+            "EXP": 980,
+            "LIMIT": 2,
+            "SPEC": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 980
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 10000000
+                }
+            ]
+        },
+        {
+            "ID": 1004,
+            "PRICE": 198,
+            "EXP": 1980,
+            "LIMIT": 2,
+            "SPEC": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1980
+                },
+                {
+                    "GSID": 32585,
+                    "COUNT": 4
+                },
+                {
+                    "GSID": 31052,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000000
+                }
+            ]
+        },
+        {
+            "ID": 1005,
+            "PRICE": 648,
+            "EXP": 6480,
+            "LIMIT": 2,
+            "SPEC": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 32590,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 30114,
+                    "COUNT": 150
+                },
+                {
+                    "GSID": 30113,
+                    "COUNT": 15000
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+[
+    {
+        "DAILY_REWARD": [
+            {
+                "GSID": 30129,
+                "COUNT": 10
+            },
+            {
+                "GSID": 59002,
+                "COUNT": 10
+            },
+            {
+                "GSID": 59002,
+                "COUNT": 10
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 3
+            },
+            {
+                "GSID": 59002,
+                "COUNT": 20
+            },
+            {
+                "GSID": 30129,
+                "COUNT": 5
+            },
+            {
+                "GSID": 59002,
+                "COUNT": 10
+            },
+            {
+                "GSID": 59002,
+                "COUNT": 10
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 3
+            },
+            {
+                "GSID": 59002,
+                "COUNT": 20
+            },
+            {
+                "GSID": 30129,
+                "COUNT": 5
+            },
+            {
+                "GSID": 59002,
+                "COUNT": 10
+            },
+            {
+                "GSID": 59002,
+                "COUNT": 10
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 4
+            },
+            {
+                "GSID": 59002,
+                "COUNT": 20
+            }
+        ],
+        "FINIAL_REWARD": [
+            {
+                "GSID": 32594,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "DAILY_REWARD": [
+            {
+                "GSID": 30130,
+                "COUNT": 15
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 30
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 15
+            },
+            {
+                "GSID": 32593,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 15
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 15
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 30
+            },
+            {
+                "GSID": 32593,
+                "COUNT": 1
+            },
+            {
+                "GSID": 32594,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 15
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 15
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 30
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 15
+            },
+            {
+                "GSID": 30130,
+                "COUNT": 15
+            },
+            {
+                "GSID": 32593,
+                "COUNT": 1
+            }
+        ],
+        "FINIAL_REWARD": [
+            {
+                "GSID": 32594,
+                "COUNT": 1
+            }
+        ]
+    }
+]

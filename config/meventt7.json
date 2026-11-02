@@ -1,0 +1,89 @@
+[
+    {
+        "ID": 701,
+        "MIN": 600,
+        "DAY": 1,
+        "VEDIO_TYPE": 1,
+        "W": 10,
+        "ITEMS": [
+            [
+                {
+                    "GSID": 38005,
+                    "COUNT": 50
+                }
+            ],
+            [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            [
+                {
+                    "GSID": 38005,
+                    "COUNT": 150
+                }
+            ],
+            [
+                {
+                    "GSID": 38005,
+                    "COUNT": 200
+                }
+            ]
+        ],
+        "TIME": [
+            5,
+            10,
+            15,
+            20
+        ],
+        "VADDRESS": [
+            "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/zhengzhan/1dwzaw.mp4",
+            "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/zhengzhan/2qbdw.mp4",
+            "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/zhengzhan/3jxdb.mp4",
+            "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/zhengzhan/4dhsdj.mp4"
+        ]
+    },
+    {
+        "ID": 702,
+        "MIN": 600,
+        "DAY": 1,
+        "VEDIO_TYPE": 2,
+        "W": 10,
+        "ITEMS": [
+            [
+                {
+                    "GSID": 38005,
+                    "COUNT": 200
+                }
+            ]
+        ],
+        "TIME": [
+            10
+        ],
+        "VADDRESS": [
+            "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/zhengzhan/shuiguan.mp4"
+        ]
+    },
+    {
+        "ID": 703,
+        "MIN": 600,
+        "DAY": 1,
+        "VEDIO_TYPE": 2,
+        "W": 10,
+        "ITEMS": [
+            [
+                {
+                    "GSID": 38005,
+                    "COUNT": 200
+                }
+            ]
+        ],
+        "TIME": [
+            10
+        ],
+        "VADDRESS": [
+            "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/zhengzhan/tafang.mp4"
+        ]
+    }
+]

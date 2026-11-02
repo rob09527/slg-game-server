@@ -1,0 +1,39 @@
+{
+    "REQUIRE": [
+        {
+            "GSID": 90354,
+            "MINCOUNT": 10
+        },
+        {
+            "GSID": 90355,
+            "MAXCOUNT": 0
+        },
+        {
+            "GSID": -111,
+            "PARAM": []
+        }
+    ],
+    "FROM": [],
+    "TO": [
+        {
+            "GSID": 90355,
+            "COUNT": 1
+        },
+        {
+            "GSID": 36001,
+            "COUNT": 20
+        },
+        {
+            "GSID": 30005,
+            "COUNT": 10
+        },
+        {
+            "GSID": 30006,
+            "COUNT": 10
+        },
+        {
+            "GSID": 30001,
+            "COUNT": 200000
+        }
+    ]
+}

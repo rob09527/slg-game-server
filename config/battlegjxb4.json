@@ -1,0 +1,3642 @@
+{
+    "1001": {
+        "1": {
+            "gsid": 12301,
+            "level": 162,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2,
+            "scale": 1.35
+        },
+        "2": {
+            "gsid": 12221,
+            "level": 162,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2
+        },
+        "7": {
+            "gsid": 12321,
+            "level": 162,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2
+        },
+        "8": {
+            "gsid": 10161,
+            "level": 162,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2
+        },
+        "12": {
+            "gsid": 14142,
+            "level": 162,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2
+        },
+        "13": {
+            "gsid": 10321,
+            "level": 162,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2
+        },
+        "14": {
+            "gsid": 14201,
+            "level": 162,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2
+        }
+    },
+    "1002": {
+        "0": {
+            "gsid": 14082,
+            "level": 164,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 16102,
+            "level": 164,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "7": {
+            "gsid": 16181,
+            "level": 164,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 12082,
+            "level": 164,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "12": {
+            "gsid": 12181,
+            "level": 164,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 16241,
+            "level": 164,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 16281,
+            "level": 164,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        }
+    },
+    "1003": {
+        "1": {
+            "gsid": 10142,
+            "level": 166,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "2": {
+            "gsid": 10241,
+            "level": 166,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "5": {
+            "gsid": 10221,
+            "level": 166,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "7": {
+            "gsid": 14122,
+            "level": 166,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 14261,
+            "level": 166,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 14381,
+            "level": 166,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 12321,
+            "level": 166,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        }
+    },
+    "1004": {
+        "1": {
+            "gsid": 16321,
+            "level": 168,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 12142,
+            "level": 168,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "6": {
+            "gsid": 12221,
+            "level": 168,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "7": {
+            "gsid": 12321,
+            "level": 168,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 10161,
+            "level": 168,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "10": {
+            "gsid": 14142,
+            "level": 168,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "12": {
+            "gsid": 10321,
+            "level": 168,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        }
+    },
+    "1005": {
+        "0": {
+            "gsid": 12301,
+            "level": 170,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16122,
+            "level": 170,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "6": {
+            "gsid": 16221,
+            "level": 170,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "7": {
+            "gsid": 12102,
+            "level": 170,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 12261,
+            "level": 170,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 10102,
+            "level": 170,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 10201,
+            "level": 170,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.05
+        }
+    },
+    "1006": {
+        "0": {
+            "gsid": 16083,
+            "level": 178,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16202,
+            "level": 178,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "5": {
+            "gsid": 16262,
+            "level": 178,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "7": {
+            "gsid": 12162,
+            "level": 178,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "9": {
+            "gsid": 16103,
+            "level": 178,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "11": {
+            "gsid": 16182,
+            "level": 178,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 12082,
+            "level": 178,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        }
+    },
+    "1007": {
+        "0": {
+            "gsid": 16202,
+            "level": 180,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16262,
+            "level": 180,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "5": {
+            "gsid": 12162,
+            "level": 180,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "7": {
+            "gsid": 12302,
+            "level": 180,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "9": {
+            "gsid": 16322,
+            "level": 180,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "11": {
+            "gsid": 12143,
+            "level": 180,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 12221,
+            "level": 180,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        }
+    },
+    "1008": {
+        "0": {
+            "gsid": 16103,
+            "level": 182,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16182,
+            "level": 182,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "5": {
+            "gsid": 12083,
+            "level": 182,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "7": {
+            "gsid": 12182,
+            "level": 182,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "9": {
+            "gsid": 14242,
+            "level": 182,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "11": {
+            "gsid": 16242,
+            "level": 182,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 16281,
+            "level": 182,
+            "class": 6,
+            "exhp": 2.5,
+            "exatk": 2.05
+        }
+    },
+    "1009": {
+        "0": {
+            "gsid": 16182,
+            "level": 184,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 12083,
+            "level": 184,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "6": {
+            "gsid": 12182,
+            "level": 184,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "7": {
+            "gsid": 10083,
+            "level": 184,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 12202,
+            "level": 184,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "10": {
+            "gsid": 10143,
+            "level": 184,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 10221,
+            "level": 184,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        }
+    },
+    "1010": {
+        "0": {
+            "gsid": 12083,
+            "level": 186,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 12182,
+            "level": 186,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "6": {
+            "gsid": 10083,
+            "level": 186,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "7": {
+            "gsid": 14162,
+            "level": 186,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 12143,
+            "level": 186,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "10": {
+            "gsid": 12222,
+            "level": 186,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 12321,
+            "level": 186,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        }
+    },
+    "1011": {
+        "1": {
+            "gsid": 12182,
+            "level": 194,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 12342,
+            "level": 194,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 14162,
+            "level": 194,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "9": {
+            "gsid": 14322,
+            "level": 194,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "12": {
+            "gsid": 16181,
+            "level": 194,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 16341,
+            "level": 194,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 10241,
+            "level": 194,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        }
+    },
+    "1012": {
+        "1": {
+            "gsid": 10083,
+            "level": 196,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14162,
+            "level": 196,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 14322,
+            "level": 196,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "9": {
+            "gsid": 14282,
+            "level": 196,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "12": {
+            "gsid": 16321,
+            "level": 196,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 12142,
+            "level": 196,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 12221,
+            "level": 196,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        }
+    },
+    "1013": {
+        "1": {
+            "gsid": 12162,
+            "level": 198,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 12302,
+            "level": 198,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 10262,
+            "level": 198,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "9": {
+            "gsid": 16322,
+            "level": 198,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "12": {
+            "gsid": 12142,
+            "level": 198,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 12221,
+            "level": 198,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 12321,
+            "level": 198,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        }
+    },
+    "1014": {
+        "1": {
+            "gsid": 12182,
+            "level": 200,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 10083,
+            "level": 200,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 14162,
+            "level": 200,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "9": {
+            "gsid": 12143,
+            "level": 200,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "12": {
+            "gsid": 12221,
+            "level": 200,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 12321,
+            "level": 200,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 10161,
+            "level": 200,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        }
+    },
+    "1015": {
+        "1": {
+            "gsid": 12322,
+            "level": 202,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 10162,
+            "level": 202,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "8": {
+            "gsid": 14143,
+            "level": 202,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "9": {
+            "gsid": 16123,
+            "level": 202,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "12": {
+            "gsid": 16221,
+            "level": 202,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "13": {
+            "gsid": 12102,
+            "level": 202,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        },
+        "14": {
+            "gsid": 12261,
+            "level": 202,
+            "class": 6,
+            "exhp": 2.7,
+            "exatk": 2.05
+        }
+    },
+    "1016": {
+        "1": {
+            "gsid": 10262,
+            "level": 210,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 14083,
+            "level": 210,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "4": {
+            "gsid": 10143,
+            "level": 210,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "8": {
+            "gsid": 10222,
+            "level": 210,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "9": {
+            "gsid": 10242,
+            "level": 210,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "13": {
+            "gsid": 14282,
+            "level": 210,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "14": {
+            "gsid": 14143,
+            "level": 210,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        }
+    },
+    "1017": {
+        "1": {
+            "gsid": 14322,
+            "level": 212,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 10282,
+            "level": 212,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "4": {
+            "gsid": 10302,
+            "level": 212,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "8": {
+            "gsid": 10123,
+            "level": 212,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "9": {
+            "gsid": 10182,
+            "level": 212,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "13": {
+            "gsid": 16322,
+            "level": 212,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "14": {
+            "gsid": 14143,
+            "level": 212,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        }
+    },
+    "1018": {
+        "1": {
+            "gsid": 14083,
+            "level": 214,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 14222,
+            "level": 214,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "4": {
+            "gsid": 10322,
+            "level": 214,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "8": {
+            "gsid": 14202,
+            "level": 214,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "9": {
+            "gsid": 14302,
+            "level": 214,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "13": {
+            "gsid": 12143,
+            "level": 214,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "14": {
+            "gsid": 14282,
+            "level": 214,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        }
+    },
+    "1019": {
+        "1": {
+            "gsid": 10282,
+            "level": 216,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 10302,
+            "level": 216,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "4": {
+            "gsid": 16103,
+            "level": 216,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "8": {
+            "gsid": 10162,
+            "level": 216,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "9": {
+            "gsid": 14143,
+            "level": 216,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "13": {
+            "gsid": 16123,
+            "level": 216,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "14": {
+            "gsid": 16222,
+            "level": 216,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        }
+    },
+    "1020": {
+        "3": {
+            "gsid": 14222,
+            "level": 218,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16083,
+            "level": 218,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "6": {
+            "gsid": 10222,
+            "level": 218,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "8": {
+            "gsid": 10242,
+            "level": 218,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "9": {
+            "gsid": 14123,
+            "level": 218,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "13": {
+            "gsid": 16222,
+            "level": 218,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        },
+        "14": {
+            "gsid": 12103,
+            "level": 218,
+            "class": 6,
+            "exhp": 3,
+            "exatk": 2.3
+        }
+    },
+    "1021": {
+        "0": {
+            "gsid": 12182,
+            "level": 223,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6,
+            "scale": 1.35
+        },
+        "2": {
+            "gsid": 10083,
+            "level": 223,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "4": {
+            "gsid": 14162,
+            "level": 223,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "7": {
+            "gsid": 14282,
+            "level": 223,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "11": {
+            "gsid": 16322,
+            "level": 223,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "12": {
+            "gsid": 14103,
+            "level": 223,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "13": {
+            "gsid": 16282,
+            "level": 223,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        }
+    },
+    "1022": {
+        "0": {
+            "gsid": 12302,
+            "level": 225,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6,
+            "scale": 1.35
+        },
+        "2": {
+            "gsid": 10262,
+            "level": 225,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "4": {
+            "gsid": 14083,
+            "level": 225,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "7": {
+            "gsid": 14182,
+            "level": 225,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "11": {
+            "gsid": 14282,
+            "level": 225,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "12": {
+            "gsid": 14242,
+            "level": 225,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "13": {
+            "gsid": 16242,
+            "level": 225,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        }
+    },
+    "1023": {
+        "0": {
+            "gsid": 10083,
+            "level": 227,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6,
+            "scale": 1.35
+        },
+        "2": {
+            "gsid": 14162,
+            "level": 227,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "4": {
+            "gsid": 12262,
+            "level": 227,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "7": {
+            "gsid": 10103,
+            "level": 227,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "11": {
+            "gsid": 10202,
+            "level": 227,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "12": {
+            "gsid": 16242,
+            "level": 227,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "13": {
+            "gsid": 14103,
+            "level": 227,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        }
+    },
+    "1024": {
+        "0": {
+            "gsid": 14322,
+            "level": 229,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6,
+            "scale": 1.35
+        },
+        "2": {
+            "gsid": 10282,
+            "level": 229,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "4": {
+            "gsid": 10302,
+            "level": 229,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "7": {
+            "gsid": 16322,
+            "level": 229,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "11": {
+            "gsid": 12143,
+            "level": 229,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "12": {
+            "gsid": 16143,
+            "level": 229,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "13": {
+            "gsid": 14382,
+            "level": 229,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        }
+    },
+    "1025": {
+        "3": {
+            "gsid": 10262,
+            "level": 231,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14083,
+            "level": 231,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "5": {
+            "gsid": 14222,
+            "level": 231,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "8": {
+            "gsid": 16123,
+            "level": 231,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "9": {
+            "gsid": 16222,
+            "level": 231,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "13": {
+            "gsid": 16162,
+            "level": 231,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        },
+        "14": {
+            "gsid": 14262,
+            "level": 231,
+            "class": 6,
+            "exhp": 3.2,
+            "exatk": 2.6
+        }
+    },
+    "1026": {
+        "3": {
+            "gsid": 10262,
+            "level": 235,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14083,
+            "level": 235,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "5": {
+            "gsid": 14222,
+            "level": 235,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "8": {
+            "gsid": 16123,
+            "level": 235,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "9": {
+            "gsid": 16222,
+            "level": 235,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "13": {
+            "gsid": 16162,
+            "level": 235,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "14": {
+            "gsid": 14262,
+            "level": 235,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        }
+    },
+    "1027": {
+        "3": {
+            "gsid": 10282,
+            "level": 237,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 10302,
+            "level": 237,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "5": {
+            "gsid": 14242,
+            "level": 237,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "8": {
+            "gsid": 16242,
+            "level": 237,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "9": {
+            "gsid": 16282,
+            "level": 237,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "13": {
+            "gsid": 16302,
+            "level": 237,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        },
+        "14": {
+            "gsid": 14262,
+            "level": 237,
+            "class": 6,
+            "exhp": 3.5,
+            "exatk": 2.8
+        }
+    },
+    "1028": {
+        "3": {
+            "gsid": 14083,
+            "level": 239,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14222,
+            "level": 239,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "5": {
+            "gsid": 16083,
+            "level": 239,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "8": {
+            "gsid": 10162,
+            "level": 239,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "9": {
+            "gsid": 14143,
+            "level": 239,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "13": {
+            "gsid": 12202,
+            "level": 239,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "14": {
+            "gsid": 14123,
+            "level": 239,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        }
+    },
+    "1029": {
+        "3": {
+            "gsid": 10302,
+            "level": 241,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16103,
+            "level": 241,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "5": {
+            "gsid": 10103,
+            "level": 241,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "8": {
+            "gsid": 10202,
+            "level": 241,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "9": {
+            "gsid": 10322,
+            "level": 241,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "13": {
+            "gsid": 10143,
+            "level": 241,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "14": {
+            "gsid": 14123,
+            "level": 241,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        }
+    },
+    "1030": {
+        "0": {
+            "gsid": 16103,
+            "level": 243,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 16182,
+            "level": 243,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "4": {
+            "gsid": 12222,
+            "level": 243,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "8": {
+            "gsid": 12322,
+            "level": 243,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "9": {
+            "gsid": 10162,
+            "level": 243,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "13": {
+            "gsid": 10242,
+            "level": 243,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        },
+        "14": {
+            "gsid": 12202,
+            "level": 243,
+            "class": 6,
+            "exhp": 3.6,
+            "exatk": 2.9
+        }
+    },
+    "1031": {
+        "0": {
+            "gsid": 16182,
+            "level": 247,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 12083,
+            "level": 247,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 12182,
+            "level": 247,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 10083,
+            "level": 247,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 12202,
+            "level": 247,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "10": {
+            "gsid": 10143,
+            "level": 247,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 10221,
+            "level": 247,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        }
+    },
+    "1032": {
+        "0": {
+            "gsid": 12083,
+            "level": 249,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 12182,
+            "level": 249,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 10083,
+            "level": 249,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 14162,
+            "level": 249,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 12143,
+            "level": 249,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "10": {
+            "gsid": 12222,
+            "level": 249,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 12321,
+            "level": 249,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        }
+    },
+    "1033": {
+        "0": {
+            "gsid": 12182,
+            "level": 251,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 10083,
+            "level": 251,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 14162,
+            "level": 251,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 14322,
+            "level": 251,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 12262,
+            "level": 251,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "10": {
+            "gsid": 10103,
+            "level": 251,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 10201,
+            "level": 251,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        }
+    },
+    "1034": {
+        "0": {
+            "gsid": 10083,
+            "level": 253,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14162,
+            "level": 253,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 14322,
+            "level": 253,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 10282,
+            "level": 253,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 12302,
+            "level": 253,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "10": {
+            "gsid": 10262,
+            "level": 253,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 14082,
+            "level": 253,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        }
+    },
+    "1035": {
+        "1": {
+            "gsid": 10282,
+            "level": 255,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 10302,
+            "level": 255,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 16103,
+            "level": 255,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 10143,
+            "level": 255,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 10222,
+            "level": 255,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "10": {
+            "gsid": 10242,
+            "level": 255,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 14123,
+            "level": 255,
+            "class": 6,
+            "exhp": 3.8,
+            "exatk": 3
+        }
+    },
+    "1036": {
+        "0": {
+            "gsid": 14143,
+            "level": 260,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14182,
+            "level": 260,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 14282,
+            "level": 260,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 16123,
+            "level": 260,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 16222,
+            "level": 260,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "11": {
+            "gsid": 12102,
+            "level": 260,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "13": {
+            "gsid": 12261,
+            "level": 260,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        }
+    },
+    "1037": {
+        "0": {
+            "gsid": 16083,
+            "level": 262,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16202,
+            "level": 262,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 16262,
+            "level": 262,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 12162,
+            "level": 262,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 16103,
+            "level": 262,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "11": {
+            "gsid": 16181,
+            "level": 262,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "13": {
+            "gsid": 12082,
+            "level": 262,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        }
+    },
+    "1038": {
+        "1": {
+            "gsid": 16202,
+            "level": 264,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 16262,
+            "level": 264,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "5": {
+            "gsid": 12162,
+            "level": 264,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 12302,
+            "level": 264,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "9": {
+            "gsid": 12282,
+            "level": 264,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "10": {
+            "gsid": 10122,
+            "level": 264,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "12": {
+            "gsid": 10181,
+            "level": 264,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        }
+    },
+    "1039": {
+        "1": {
+            "gsid": 16262,
+            "level": 266,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 12162,
+            "level": 266,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "5": {
+            "gsid": 12302,
+            "level": 266,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 10262,
+            "level": 266,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "9": {
+            "gsid": 16162,
+            "level": 266,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "10": {
+            "gsid": 16301,
+            "level": 266,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "12": {
+            "gsid": 12201,
+            "level": 266,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        }
+    },
+    "1040": {
+        "1": {
+            "gsid": 12162,
+            "level": 268,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 12302,
+            "level": 268,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "5": {
+            "gsid": 10262,
+            "level": 268,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "7": {
+            "gsid": 14083,
+            "level": 268,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "9": {
+            "gsid": 14182,
+            "level": 268,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "10": {
+            "gsid": 14281,
+            "level": 268,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        },
+        "12": {
+            "gsid": 16321,
+            "level": 268,
+            "class": 6,
+            "exhp": 4.2,
+            "exatk": 3
+        }
+    },
+    "1041": {
+        "1": {
+            "gsid": 14083,
+            "level": 269,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 14222,
+            "level": 269,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "4": {
+            "gsid": 10322,
+            "level": 269,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 14202,
+            "level": 269,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "9": {
+            "gsid": 14302,
+            "level": 269,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "13": {
+            "gsid": 12143,
+            "level": 269,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 14282,
+            "level": 269,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        }
+    },
+    "1042": {
+        "1": {
+            "gsid": 10282,
+            "level": 271,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 10302,
+            "level": 271,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "4": {
+            "gsid": 16103,
+            "level": 271,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 10162,
+            "level": 271,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "9": {
+            "gsid": 14143,
+            "level": 271,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "13": {
+            "gsid": 16123,
+            "level": 271,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 16222,
+            "level": 271,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        }
+    },
+    "1043": {
+        "3": {
+            "gsid": 14222,
+            "level": 273,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16083,
+            "level": 273,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 10222,
+            "level": 273,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 10242,
+            "level": 273,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "9": {
+            "gsid": 14123,
+            "level": 273,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "13": {
+            "gsid": 16222,
+            "level": 273,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 12103,
+            "level": 273,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        }
+    },
+    "1044": {
+        "3": {
+            "gsid": 10302,
+            "level": 275,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16103,
+            "level": 275,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 12282,
+            "level": 275,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 10123,
+            "level": 275,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "9": {
+            "gsid": 10182,
+            "level": 275,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "13": {
+            "gsid": 12103,
+            "level": 275,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 12262,
+            "level": 275,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        }
+    },
+    "1045": {
+        "3": {
+            "gsid": 16083,
+            "level": 277,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 16202,
+            "level": 277,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "6": {
+            "gsid": 10162,
+            "level": 277,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "8": {
+            "gsid": 14143,
+            "level": 277,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "9": {
+            "gsid": 14182,
+            "level": 277,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "13": {
+            "gsid": 12262,
+            "level": 277,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        },
+        "14": {
+            "gsid": 10103,
+            "level": 277,
+            "class": 6,
+            "exhp": 4.5,
+            "exatk": 3
+        }
+    },
+    "1046": {
+        "2": {
+            "gsid": 12302,
+            "level": 279,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1,
+            "scale": 1.35
+        },
+        "5": {
+            "gsid": 12282,
+            "level": 279,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "6": {
+            "gsid": 10123,
+            "level": 279,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "8": {
+            "gsid": 10143,
+            "level": 279,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "9": {
+            "gsid": 10221,
+            "level": 279,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "11": {
+            "gsid": 12102,
+            "level": 279,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "13": {
+            "gsid": 12261,
+            "level": 279,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        }
+    },
+    "1047": {
+        "2": {
+            "gsid": 10143,
+            "level": 281,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1,
+            "scale": 1.35
+        },
+        "5": {
+            "gsid": 10222,
+            "level": 281,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "6": {
+            "gsid": 10242,
+            "level": 281,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "8": {
+            "gsid": 14123,
+            "level": 281,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "9": {
+            "gsid": 12321,
+            "level": 281,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "11": {
+            "gsid": 10161,
+            "level": 281,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "13": {
+            "gsid": 14142,
+            "level": 281,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        }
+    },
+    "1048": {
+        "2": {
+            "gsid": 16322,
+            "level": 283,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1,
+            "scale": 1.35
+        },
+        "5": {
+            "gsid": 12143,
+            "level": 283,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "6": {
+            "gsid": 12222,
+            "level": 283,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "8": {
+            "gsid": 12322,
+            "level": 283,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "9": {
+            "gsid": 12102,
+            "level": 283,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "11": {
+            "gsid": 12261,
+            "level": 283,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "13": {
+            "gsid": 10102,
+            "level": 283,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        }
+    },
+    "1049": {
+        "2": {
+            "gsid": 12302,
+            "level": 285,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1,
+            "scale": 1.35
+        },
+        "5": {
+            "gsid": 10262,
+            "level": 285,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "6": {
+            "gsid": 14083,
+            "level": 285,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "8": {
+            "gsid": 16123,
+            "level": 285,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "9": {
+            "gsid": 16221,
+            "level": 285,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "11": {
+            "gsid": 12102,
+            "level": 285,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "13": {
+            "gsid": 12261,
+            "level": 285,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        }
+    },
+    "1050": {
+        "1": {
+            "gsid": 12182,
+            "level": 287,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 12342,
+            "level": 287,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "8": {
+            "gsid": 14162,
+            "level": 287,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "9": {
+            "gsid": 14322,
+            "level": 287,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "12": {
+            "gsid": 16181,
+            "level": 287,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "13": {
+            "gsid": 16341,
+            "level": 287,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        },
+        "14": {
+            "gsid": 10241,
+            "level": 287,
+            "class": 6,
+            "exhp": 4.8,
+            "exatk": 3.1
+        }
+    },
+    "1051": {
+        "3": {
+            "gsid": 12182,
+            "level": 290,
+            "class": 6,
+            "exhp": 5,
+            "exatk": 3.2,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 10083,
+            "level": 290,
+            "class": 6,
+            "exhp": 5,
+            "exatk": 3.2
+        },
+        "8": {
+            "gsid": 12123,
+            "level": 290,
+            "class": 6,
+            "exhp": 5,
+            "exatk": 3.2
+        },
+        "9": {
+            "gsid": 12242,
+            "level": 290,
+            "class": 6,
+            "exhp": 5,
+            "exatk": 3.2
+        },
+        "10": {
+            "gsid": 12282,
+            "level": 290,
+            "class": 6,
+            "exhp": 5,
+            "exatk": 3.2
+        },
+        "13": {
+            "gsid": 12222,
+            "level": 290,
+            "class": 6,
+            "exhp": 5,
+            "exatk": 3.2
+        },
+        "14": {
+            "gsid": 12322,
+            "level": 290,
+            "class": 6,
+            "exhp": 5,
+            "exatk": 3.2
+        }
+    },
+    "1052": {
+        "3": {
+            "gsid": 12162,
+            "level": 292,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 12302,
+            "level": 292,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "8": {
+            "gsid": 10262,
+            "level": 292,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "9": {
+            "gsid": 10202,
+            "level": 292,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "10": {
+            "gsid": 10322,
+            "level": 292,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "13": {
+            "gsid": 12322,
+            "level": 292,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "14": {
+            "gsid": 14182,
+            "level": 292,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        }
+    },
+    "1053": {
+        "3": {
+            "gsid": 10083,
+            "level": 294,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14162,
+            "level": 294,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "8": {
+            "gsid": 12202,
+            "level": 294,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "9": {
+            "gsid": 10143,
+            "level": 294,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "10": {
+            "gsid": 10222,
+            "level": 294,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "13": {
+            "gsid": 10162,
+            "level": 294,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "14": {
+            "gsid": 12222,
+            "level": 294,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        }
+    },
+    "1054": {
+        "1": {
+            "gsid": 14162,
+            "level": 296,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 14322,
+            "level": 296,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "4": {
+            "gsid": 14202,
+            "level": 296,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "8": {
+            "gsid": 14302,
+            "level": 296,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "9": {
+            "gsid": 16123,
+            "level": 296,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "13": {
+            "gsid": 14182,
+            "level": 296,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "14": {
+            "gsid": 14143,
+            "level": 296,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        }
+    },
+    "1055": {
+        "1": {
+            "gsid": 10262,
+            "level": 298,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 14083,
+            "level": 298,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "4": {
+            "gsid": 10143,
+            "level": 298,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "8": {
+            "gsid": 10222,
+            "level": 298,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "9": {
+            "gsid": 10242,
+            "level": 298,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "13": {
+            "gsid": 14282,
+            "level": 298,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        },
+        "14": {
+            "gsid": 14143,
+            "level": 298,
+            "class": 6,
+            "exhp": 5.3,
+            "exatk": 3.2
+        }
+    },
+    "1056": {
+        "3": {
+            "gsid": 14346,
+            "level": 420,
+            "class": 6,
+            "exhp": 5.399999999999996,
+            "exatk": 3.0499999999999963,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14346,
+            "level": 420,
+            "class": 6,
+            "exhp": 5.399999999999996,
+            "exatk": 3.0499999999999963
+        },
+        "6": {
+            "gsid": 12366,
+            "level": 420,
+            "class": 6,
+            "exhp": 5.399999999999996,
+            "exatk": 3.0499999999999963
+        },
+        "8": {
+            "gsid": 12266,
+            "level": 420,
+            "class": 6,
+            "exhp": 5.399999999999996,
+            "exatk": 3.0499999999999963
+        },
+        "9": {
+            "gsid": 12326,
+            "level": 420,
+            "class": 6,
+            "exhp": 5.399999999999996,
+            "exatk": 3.0499999999999963
+        },
+        "13": {
+            "gsid": 12326,
+            "level": 420,
+            "class": 6,
+            "exhp": 5.399999999999996,
+            "exatk": 3.0499999999999963
+        },
+        "14": {
+            "gsid": 10246,
+            "level": 420,
+            "class": 6,
+            "exhp": 5.399999999999996,
+            "exatk": 3.0499999999999963
+        }
+    },
+    "1057": {
+        "3": {
+            "gsid": 12346,
+            "level": 422,
+            "class": 6,
+            "exhp": 5.449999999999996,
+            "exatk": 3.099999999999996,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 12346,
+            "level": 422,
+            "class": 6,
+            "exhp": 5.449999999999996,
+            "exatk": 3.099999999999996
+        },
+        "6": {
+            "gsid": 16306,
+            "level": 422,
+            "class": 6,
+            "exhp": 5.449999999999996,
+            "exatk": 3.099999999999996
+        },
+        "8": {
+            "gsid": 16166,
+            "level": 422,
+            "class": 6,
+            "exhp": 5.449999999999996,
+            "exatk": 3.099999999999996
+        },
+        "9": {
+            "gsid": 14186,
+            "level": 422,
+            "class": 6,
+            "exhp": 5.449999999999996,
+            "exatk": 3.099999999999996
+        },
+        "13": {
+            "gsid": 14186,
+            "level": 422,
+            "class": 6,
+            "exhp": 5.449999999999996,
+            "exatk": 3.099999999999996
+        },
+        "14": {
+            "gsid": 16386,
+            "level": 422,
+            "class": 6,
+            "exhp": 5.449999999999996,
+            "exatk": 3.099999999999996
+        }
+    },
+    "1058": {
+        "3": {
+            "gsid": 10306,
+            "level": 424,
+            "class": 6,
+            "exhp": 5.499999999999996,
+            "exatk": 3.149999999999996,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 10306,
+            "level": 424,
+            "class": 6,
+            "exhp": 5.499999999999996,
+            "exatk": 3.149999999999996
+        },
+        "6": {
+            "gsid": 12386,
+            "level": 424,
+            "class": 6,
+            "exhp": 5.499999999999996,
+            "exatk": 3.149999999999996
+        },
+        "8": {
+            "gsid": 12206,
+            "level": 424,
+            "class": 6,
+            "exhp": 5.499999999999996,
+            "exatk": 3.149999999999996
+        },
+        "9": {
+            "gsid": 14286,
+            "level": 424,
+            "class": 6,
+            "exhp": 5.499999999999996,
+            "exatk": 3.149999999999996
+        },
+        "13": {
+            "gsid": 14286,
+            "level": 424,
+            "class": 6,
+            "exhp": 5.499999999999996,
+            "exatk": 3.149999999999996
+        },
+        "14": {
+            "gsid": 10346,
+            "level": 424,
+            "class": 6,
+            "exhp": 5.499999999999996,
+            "exatk": 3.149999999999996
+        }
+    },
+    "1059": {
+        "3": {
+            "gsid": 14326,
+            "level": 426,
+            "class": 6,
+            "exhp": 5.549999999999995,
+            "exatk": 3.1999999999999957,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14326,
+            "level": 426,
+            "class": 6,
+            "exhp": 5.549999999999995,
+            "exatk": 3.1999999999999957
+        },
+        "6": {
+            "gsid": 16286,
+            "level": 426,
+            "class": 6,
+            "exhp": 5.549999999999995,
+            "exatk": 3.1999999999999957
+        },
+        "8": {
+            "gsid": 16246,
+            "level": 426,
+            "class": 6,
+            "exhp": 5.549999999999995,
+            "exatk": 3.1999999999999957
+        },
+        "9": {
+            "gsid": 16326,
+            "level": 426,
+            "class": 6,
+            "exhp": 5.549999999999995,
+            "exatk": 3.1999999999999957
+        },
+        "13": {
+            "gsid": 16326,
+            "level": 426,
+            "class": 6,
+            "exhp": 5.549999999999995,
+            "exatk": 3.1999999999999957
+        },
+        "14": {
+            "gsid": 16366,
+            "level": 426,
+            "class": 6,
+            "exhp": 5.549999999999995,
+            "exatk": 3.1999999999999957
+        }
+    },
+    "1060": {
+        "1": {
+            "gsid": 12366,
+            "level": 428,
+            "class": 6,
+            "exhp": 5.599999999999995,
+            "exatk": 3.2499999999999956,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 12366,
+            "level": 428,
+            "class": 6,
+            "exhp": 5.599999999999995,
+            "exatk": 3.2499999999999956
+        },
+        "5": {
+            "gsid": 12286,
+            "level": 428,
+            "class": 6,
+            "exhp": 5.599999999999995,
+            "exatk": 3.2499999999999956
+        },
+        "6": {
+            "gsid": 12246,
+            "level": 428,
+            "class": 6,
+            "exhp": 5.599999999999995,
+            "exatk": 3.2499999999999956
+        },
+        "8": {
+            "gsid": 16386,
+            "level": 428,
+            "class": 6,
+            "exhp": 5.599999999999995,
+            "exatk": 3.2499999999999956
+        },
+        "9": {
+            "gsid": 16386,
+            "level": 428,
+            "class": 6,
+            "exhp": 5.599999999999995,
+            "exatk": 3.2499999999999956
+        },
+        "14": {
+            "gsid": 10306,
+            "level": 428,
+            "class": 6,
+            "exhp": 5.599999999999995,
+            "exatk": 3.2499999999999956
+        }
+    },
+    "1061": {
+        "1": {
+            "gsid": 16286,
+            "level": 465,
+            "class": 6,
+            "exhp": 10.35000000000002,
+            "exatk": 7.999999999999979,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 16286,
+            "level": 465,
+            "class": 6,
+            "exhp": 10.35000000000002,
+            "exatk": 7.999999999999979
+        },
+        "4": {
+            "gsid": 16226,
+            "level": 465,
+            "class": 6,
+            "exhp": 10.35000000000002,
+            "exatk": 7.999999999999979
+        },
+        "8": {
+            "gsid": 12186,
+            "level": 465,
+            "class": 6,
+            "exhp": 10.35000000000002,
+            "exatk": 7.999999999999979
+        },
+        "9": {
+            "gsid": 10306,
+            "level": 465,
+            "class": 6,
+            "exhp": 10.35000000000002,
+            "exatk": 7.999999999999979
+        },
+        "13": {
+            "gsid": 17166,
+            "level": 465,
+            "class": 6,
+            "exhp": 10.35000000000002,
+            "exatk": 7.999999999999979
+        },
+        "14": {
+            "gsid": 16346,
+            "level": 465,
+            "class": 6,
+            "exhp": 10.35000000000002,
+            "exatk": 7.999999999999979
+        }
+    },
+    "1062": {
+        "1": {
+            "gsid": 10386,
+            "level": 467,
+            "class": 6,
+            "exhp": 10.40000000000002,
+            "exatk": 8.04999999999998,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 10386,
+            "level": 467,
+            "class": 6,
+            "exhp": 10.40000000000002,
+            "exatk": 8.04999999999998
+        },
+        "4": {
+            "gsid": 12266,
+            "level": 467,
+            "class": 6,
+            "exhp": 10.40000000000002,
+            "exatk": 8.04999999999998
+        },
+        "8": {
+            "gsid": 10286,
+            "level": 467,
+            "class": 6,
+            "exhp": 10.40000000000002,
+            "exatk": 8.04999999999998
+        },
+        "9": {
+            "gsid": 14326,
+            "level": 467,
+            "class": 6,
+            "exhp": 10.40000000000002,
+            "exatk": 8.04999999999998
+        },
+        "13": {
+            "gsid": 17066,
+            "level": 467,
+            "class": 6,
+            "exhp": 10.40000000000002,
+            "exatk": 8.04999999999998
+        },
+        "14": {
+            "gsid": 16286,
+            "level": 467,
+            "class": 6,
+            "exhp": 10.40000000000002,
+            "exatk": 8.04999999999998
+        }
+    },
+    "1063": {
+        "1": {
+            "gsid": 12226,
+            "level": 469,
+            "class": 6,
+            "exhp": 10.45000000000002,
+            "exatk": 8.09999999999998,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 12226,
+            "level": 469,
+            "class": 6,
+            "exhp": 10.45000000000002,
+            "exatk": 8.09999999999998
+        },
+        "4": {
+            "gsid": 16166,
+            "level": 469,
+            "class": 6,
+            "exhp": 10.45000000000002,
+            "exatk": 8.09999999999998
+        },
+        "8": {
+            "gsid": 14166,
+            "level": 469,
+            "class": 6,
+            "exhp": 10.45000000000002,
+            "exatk": 8.09999999999998
+        },
+        "9": {
+            "gsid": 12366,
+            "level": 469,
+            "class": 6,
+            "exhp": 10.45000000000002,
+            "exatk": 8.09999999999998
+        },
+        "13": {
+            "gsid": 17106,
+            "level": 469,
+            "class": 6,
+            "exhp": 10.45000000000002,
+            "exatk": 8.09999999999998
+        },
+        "14": {
+            "gsid": 10246,
+            "level": 469,
+            "class": 6,
+            "exhp": 10.45000000000002,
+            "exatk": 8.09999999999998
+        }
+    },
+    "1064": {
+        "1": {
+            "gsid": 12326,
+            "level": 471,
+            "class": 6,
+            "exhp": 10.500000000000021,
+            "exatk": 8.14999999999998,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 12326,
+            "level": 471,
+            "class": 6,
+            "exhp": 10.500000000000021,
+            "exatk": 8.14999999999998
+        },
+        "4": {
+            "gsid": 12206,
+            "level": 471,
+            "class": 6,
+            "exhp": 10.500000000000021,
+            "exatk": 8.14999999999998
+        },
+        "8": {
+            "gsid": 12266,
+            "level": 471,
+            "class": 6,
+            "exhp": 10.500000000000021,
+            "exatk": 8.14999999999998
+        },
+        "9": {
+            "gsid": 10326,
+            "level": 471,
+            "class": 6,
+            "exhp": 10.500000000000021,
+            "exatk": 8.14999999999998
+        },
+        "13": {
+            "gsid": 10326,
+            "level": 471,
+            "class": 6,
+            "exhp": 10.500000000000021,
+            "exatk": 8.14999999999998
+        },
+        "14": {
+            "gsid": 16386,
+            "level": 471,
+            "class": 6,
+            "exhp": 10.500000000000021,
+            "exatk": 8.14999999999998
+        }
+    },
+    "1065": {
+        "3": {
+            "gsid": 14186,
+            "level": 473,
+            "class": 6,
+            "exhp": 10.550000000000022,
+            "exatk": 8.199999999999982,
+            "scale": 1.35
+        },
+        "4": {
+            "gsid": 14186,
+            "level": 473,
+            "class": 6,
+            "exhp": 10.550000000000022,
+            "exatk": 8.199999999999982
+        },
+        "6": {
+            "gsid": 16246,
+            "level": 473,
+            "class": 6,
+            "exhp": 10.550000000000022,
+            "exatk": 8.199999999999982
+        },
+        "8": {
+            "gsid": 10206,
+            "level": 473,
+            "class": 6,
+            "exhp": 10.550000000000022,
+            "exatk": 8.199999999999982
+        },
+        "9": {
+            "gsid": 14306,
+            "level": 473,
+            "class": 6,
+            "exhp": 10.550000000000022,
+            "exatk": 8.199999999999982
+        },
+        "13": {
+            "gsid": 16346,
+            "level": 473,
+            "class": 6,
+            "exhp": 10.550000000000022,
+            "exatk": 8.199999999999982
+        },
+        "14": {
+            "gsid": 10346,
+            "level": 473,
+            "class": 6,
+            "exhp": 10.550000000000022,
+            "exatk": 8.199999999999982
+        }
+    },
+    "1066": {
+        "1": {
+            "gsid": 10266,
+            "level": 589,
+            "class": 6,
+            "exhp": 22.750000000000195,
+            "exatk": 20.400000000000155,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 10266,
+            "level": 589,
+            "class": 6,
+            "exhp": 22.750000000000195,
+            "exatk": 20.400000000000155
+        },
+        "6": {
+            "gsid": 16226,
+            "level": 589,
+            "class": 6,
+            "exhp": 22.750000000000195,
+            "exatk": 20.400000000000155
+        },
+        "7": {
+            "gsid": 16366,
+            "level": 589,
+            "class": 6,
+            "exhp": 22.750000000000195,
+            "exatk": 20.400000000000155
+        },
+        "12": {
+            "gsid": 10841,
+            "level": 589,
+            "class": 6,
+            "exhp": 22.750000000000195,
+            "exatk": 20.400000000000155
+        },
+        "13": {
+            "gsid": 12841,
+            "level": 589,
+            "class": 6,
+            "exhp": 22.750000000000195,
+            "exatk": 20.400000000000155
+        },
+        "14": {
+            "gsid": 14841,
+            "level": 589,
+            "class": 6,
+            "exhp": 22.750000000000195,
+            "exatk": 20.400000000000155
+        }
+    },
+    "1067": {
+        "1": {
+            "gsid": 16226,
+            "level": 594,
+            "class": 6,
+            "exhp": 22.800000000000196,
+            "exatk": 20.450000000000156,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 16226,
+            "level": 594,
+            "class": 6,
+            "exhp": 22.800000000000196,
+            "exatk": 20.450000000000156
+        },
+        "6": {
+            "gsid": 12266,
+            "level": 594,
+            "class": 6,
+            "exhp": 22.800000000000196,
+            "exatk": 20.450000000000156
+        },
+        "7": {
+            "gsid": 12366,
+            "level": 594,
+            "class": 6,
+            "exhp": 22.800000000000196,
+            "exatk": 20.450000000000156
+        },
+        "12": {
+            "gsid": 10861,
+            "level": 594,
+            "class": 6,
+            "exhp": 22.800000000000196,
+            "exatk": 20.450000000000156
+        },
+        "13": {
+            "gsid": 12861,
+            "level": 594,
+            "class": 6,
+            "exhp": 22.800000000000196,
+            "exatk": 20.450000000000156
+        },
+        "14": {
+            "gsid": 14861,
+            "level": 594,
+            "class": 6,
+            "exhp": 22.800000000000196,
+            "exatk": 20.450000000000156
+        }
+    },
+    "1068": {
+        "1": {
+            "gsid": 10286,
+            "level": 599,
+            "class": 6,
+            "exhp": 22.850000000000197,
+            "exatk": 20.500000000000156,
+            "scale": 1.35
+        },
+        "3": {
+            "gsid": 10286,
+            "level": 599,
+            "class": 6,
+            "exhp": 22.850000000000197,
+            "exatk": 20.500000000000156
+        },
+        "6": {
+            "gsid": 16166,
+            "level": 599,
+            "class": 6,
+            "exhp": 22.850000000000197,
+            "exatk": 20.500000000000156
+        },
+        "7": {
+            "gsid": 16306,
+            "level": 599,
+            "class": 6,
+            "exhp": 22.850000000000197,
+            "exatk": 20.500000000000156
+        },
+        "12": {
+            "gsid": 10881,
+            "level": 599,
+            "class": 6,
+            "exhp": 22.850000000000197,
+            "exatk": 20.500000000000156
+        },
+        "13": {
+            "gsid": 12881,
+            "level": 599,
+            "class": 6,
+            "exhp": 22.850000000000197,
+            "exatk": 20.500000000000156
+        },
+        "14": {
+            "gsid": 14881,
+            "level": 599,
+            "class": 6,
+            "exhp": 22.850000000000197,
+            "exatk": 20.500000000000156
+        }
+    },
+    "1069": {
+        "1": {
+            "gsid": 16166,
+            "level": 604,
+            "class": 6,
+            "exhp": 22.900000000000198,
+            "exatk": 20.550000000000157,
+            "scale": 1.35
+        },
+        "2": {
+            "gsid": 16166,
+            "level": 604,
+            "class": 6,
+            "exhp": 22.900000000000198,
+            "exatk": 20.550000000000157
+        },
+        "3": {
+            "gsid": 12206,
+            "level": 604,
+            "class": 6,
+            "exhp": 22.900000000000198,
+            "exatk": 20.550000000000157
+        },
+        "7": {
+            "gsid": 12386,
+            "level": 604,
+            "class": 6,
+            "exhp": 22.900000000000198,
+            "exatk": 20.550000000000157
+        },
+        "12": {
+            "gsid": 10901,
+            "level": 604,
+            "class": 6,
+            "exhp": 22.900000000000198,
+            "exatk": 20.550000000000157
+        },
+        "13": {
+            "gsid": 12901,
+            "level": 604,
+            "class": 6,
+            "exhp": 22.900000000000198,
+            "exatk": 20.550000000000157
+        },
+        "14": {
+            "gsid": 14901,
+            "level": 604,
+            "class": 6,
+            "exhp": 22.900000000000198,
+            "exatk": 20.550000000000157
+        }
+    },
+    "1070": {
+        "1": {
+            "gsid": 10186,
+            "level": 609,
+            "class": 6,
+            "exhp": 22.9500000000002,
+            "exatk": 20.600000000000158,
+            "scale": 1.35
+        },
+        "2": {
+            "gsid": 10186,
+            "level": 609,
+            "class": 6,
+            "exhp": 22.9500000000002,
+            "exatk": 20.600000000000158
+        },
+        "3": {
+            "gsid": 16246,
+            "level": 609,
+            "class": 6,
+            "exhp": 22.9500000000002,
+            "exatk": 20.600000000000158
+        },
+        "7": {
+            "gsid": 16286,
+            "level": 609,
+            "class": 6,
+            "exhp": 22.9500000000002,
+            "exatk": 20.600000000000158
+        },
+        "12": {
+            "gsid": 10921,
+            "level": 609,
+            "class": 6,
+            "exhp": 22.9500000000002,
+            "exatk": 20.600000000000158
+        },
+        "13": {
+            "gsid": 12921,
+            "level": 609,
+            "class": 6,
+            "exhp": 22.9500000000002,
+            "exatk": 20.600000000000158
+        },
+        "14": {
+            "gsid": 14921,
+            "level": 609,
+            "class": 6,
+            "exhp": 22.9500000000002,
+            "exatk": 20.600000000000158
+        }
+    }
+}

@@ -1,0 +1,152 @@
+[
+    {
+        "EXP": 0,
+        "PNUM": 15,
+        "EXPLIMIT": 300
+    },
+    {
+        "EXP": 100,
+        "PNUM": 16,
+        "EXPLIMIT": 320
+    },
+    {
+        "EXP": 200,
+        "PNUM": 16,
+        "EXPLIMIT": 320
+    },
+    {
+        "EXP": 300,
+        "PNUM": 17,
+        "EXPLIMIT": 340
+    },
+    {
+        "EXP": 400,
+        "PNUM": 17,
+        "EXPLIMIT": 340
+    },
+    {
+        "EXP": 500,
+        "PNUM": 18,
+        "EXPLIMIT": 360
+    },
+    {
+        "EXP": 600,
+        "PNUM": 18,
+        "EXPLIMIT": 360
+    },
+    {
+        "EXP": 700,
+        "PNUM": 19,
+        "EXPLIMIT": 380
+    },
+    {
+        "EXP": 800,
+        "PNUM": 19,
+        "EXPLIMIT": 380
+    },
+    {
+        "EXP": 900,
+        "PNUM": 20,
+        "EXPLIMIT": 400
+    },
+    {
+        "EXP": 1000,
+        "PNUM": 20,
+        "EXPLIMIT": 400
+    },
+    {
+        "EXP": 1200,
+        "PNUM": 21,
+        "EXPLIMIT": 420
+    },
+    {
+        "EXP": 1400,
+        "PNUM": 21,
+        "EXPLIMIT": 420
+    },
+    {
+        "EXP": 1600,
+        "PNUM": 22,
+        "EXPLIMIT": 440
+    },
+    {
+        "EXP": 1800,
+        "PNUM": 22,
+        "EXPLIMIT": 440
+    },
+    {
+        "EXP": 2000,
+        "PNUM": 23,
+        "EXPLIMIT": 460
+    },
+    {
+        "EXP": 2200,
+        "PNUM": 23,
+        "EXPLIMIT": 460
+    },
+    {
+        "EXP": 2400,
+        "PNUM": 24,
+        "EXPLIMIT": 480
+    },
+    {
+        "EXP": 2600,
+        "PNUM": 24,
+        "EXPLIMIT": 480
+    },
+    {
+        "EXP": 2800,
+        "PNUM": 25,
+        "EXPLIMIT": 500
+    },
+    {
+        "EXP": 3000,
+        "PNUM": 25,
+        "EXPLIMIT": 500
+    },
+    {
+        "EXP": 3200,
+        "PNUM": 26,
+        "EXPLIMIT": 520
+    },
+    {
+        "EXP": 3400,
+        "PNUM": 26,
+        "EXPLIMIT": 520
+    },
+    {
+        "EXP": 3600,
+        "PNUM": 27,
+        "EXPLIMIT": 540
+    },
+    {
+        "EXP": 3800,
+        "PNUM": 27,
+        "EXPLIMIT": 540
+    },
+    {
+        "EXP": 4000,
+        "PNUM": 28,
+        "EXPLIMIT": 560
+    },
+    {
+        "EXP": 4500,
+        "PNUM": 28,
+        "EXPLIMIT": 560
+    },
+    {
+        "EXP": 5000,
+        "PNUM": 29,
+        "EXPLIMIT": 580
+    },
+    {
+        "EXP": 5500,
+        "PNUM": 29,
+        "EXPLIMIT": 580
+    },
+    {
+        "EXP": 6000,
+        "PNUM": 30,
+        "EXPLIMIT": 600
+    }
+]

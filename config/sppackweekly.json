@@ -1,0 +1,613 @@
+[
+    [
+        {
+            "ID": 1,
+            "PRICE": 30,
+            "LIMIT": 2,
+            "PATH": "meiyue_14",
+            "EXP": 300,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 35,
+            "NAME": "升级礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 1200000
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "PRICE": 68,
+            "LIMIT": 2,
+            "PATH": "meizhou_2",
+            "EXP": 680,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 0,
+            "NAME": "喵将礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 32801,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 2500000
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "PRICE": 68,
+            "LIMIT": 2,
+            "PATH": "meiyue_16",
+            "EXP": 680,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 0,
+            "NAME": "坐骑培养礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 3000
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 4000000
+                }
+            ]
+        },
+        {
+            "ID": 4,
+            "PRICE": 68,
+            "LIMIT": 2,
+            "PATH": "icon_sdth_lb02_lang",
+            "EXP": 680,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 0,
+            "NAME": "喵币大礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 12000000
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "ID": 5,
+            "PRICE": 68,
+            "LIMIT": 2,
+            "PATH": "icon_sdth_lb02_lang",
+            "EXP": 680,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 0,
+            "NAME": "升级大礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 7500000
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "ID": 6,
+            "PRICE": 68,
+            "LIMIT": 2,
+            "PATH": "icon_sdth_lb02_lang",
+            "EXP": 680,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 0,
+            "NAME": "进阶礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 4000
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "ID": 7,
+            "PRICE": 98,
+            "LIMIT": 2,
+            "PATH": "meizhou_6",
+            "EXP": 980,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 80,
+            "NAME": "专属升级礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 980
+                },
+                {
+                    "GSID": 30065,
+                    "COUNT": 60
+                },
+                {
+                    "GSID": 30066,
+                    "COUNT": 40
+                }
+            ]
+        },
+        {
+            "ID": 8,
+            "PRICE": 98,
+            "LIMIT": 2,
+            "PATH": "meiyue_1",
+            "EXP": 980,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 0,
+            "NAME": "招募进阶礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 980
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 20
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 1800
+                }
+            ]
+        },
+        {
+            "ID": 9,
+            "PRICE": 128,
+            "LIMIT": 2,
+            "PATH": "meiyue_8",
+            "EXP": 1280,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 80,
+            "NAME": "专属解锁礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1280
+                },
+                {
+                    "GSID": 30068,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 10000000
+                }
+            ]
+        },
+        {
+            "ID": 10,
+            "PRICE": 128,
+            "LIMIT": 2,
+            "PATH": "icon_sdth_lb03_lang",
+            "EXP": 1280,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 65,
+            "NAME": "神兵突破礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1280
+                },
+                {
+                    "GSID": 30072,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 12000000
+                }
+            ]
+        },
+        {
+            "ID": 11,
+            "PRICE": 128,
+            "LIMIT": 2,
+            "PATH": "icon_sdth_lb03_lang",
+            "EXP": 1280,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 60,
+            "NAME": "坐骑培养礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1280
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 6000
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 100
+                }
+            ]
+        },
+        {
+            "ID": 12,
+            "PRICE": 198,
+            "LIMIT": 2,
+            "PATH": "meiyue_17",
+            "EXP": 1980,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 35,
+            "NAME": "阵营招募礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1980
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 4000
+                }
+            ]
+        },
+        {
+            "ID": 13,
+            "PRICE": 198,
+            "LIMIT": 2,
+            "PATH": "yuanbao_4",
+            "EXP": 1980,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 85,
+            "NAME": "战阵礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1980
+                },
+                {
+                    "GSID": 30114,
+                    "COUNT": 60
+                },
+                {
+                    "GSID": 30113,
+                    "COUNT": 8000
+                }
+            ]
+        },
+        {
+            "ID": 14,
+            "PRICE": 198,
+            "LIMIT": 2,
+            "PATH": "yuanbao_5",
+            "EXP": 1980,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 50,
+            "NAME": "紫色坐骑礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1980
+                },
+                {
+                    "GSID": 62004,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000000
+                }
+            ]
+        },
+        {
+            "ID": 15,
+            "PRICE": 198,
+            "LIMIT": 2,
+            "PATH": "meiyue_1",
+            "EXP": 1980,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 80,
+            "NAME": "招募进阶礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1980
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 4000
+                }
+            ]
+        },
+        {
+            "ID": 16,
+            "PRICE": 328,
+            "LIMIT": 2,
+            "PATH": "yuanbao_6",
+            "EXP": 3280,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 0,
+            "NAME": "资质7自选礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3280
+                },
+                {
+                    "GSID": 32625,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 32801,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "ID": 17,
+            "PRICE": 648,
+            "LIMIT": 2,
+            "PATH": "meiyue_18",
+            "EXP": 6480,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 35,
+            "NAME": "神话宝物礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 37001,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 34000,
+                    "COUNT": 3000
+                }
+            ]
+        },
+        {
+            "ID": 18,
+            "PRICE": 648,
+            "LIMIT": 2,
+            "PATH": "yuanbao_8",
+            "EXP": 6480,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 70,
+            "NAME": "四星灵魄礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 32585,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 5000
+                }
+            ]
+        },
+        {
+            "ID": 19,
+            "PRICE": 648,
+            "LIMIT": 2,
+            "PATH": "meizhou_8",
+            "EXP": 6480,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 75,
+            "NAME": "高级铸宝礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 30130,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 3000
+                }
+            ]
+        },
+        {
+            "ID": 20,
+            "PRICE": 648,
+            "LIMIT": 2,
+            "PATH": "meiyue_1",
+            "EXP": 6480,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 80,
+            "NAME": "招募进阶礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 8000
+                }
+            ]
+        },
+        {
+            "ID": 21,
+            "PRICE": 648,
+            "LIMIT": 2,
+            "PATH": "yuanbao_4",
+            "EXP": 6480,
+            "VIP": [
+                0,
+                15
+            ],
+            "LOCK": -1,
+            "MARK": 0,
+            "LEVEL": 35,
+            "NAME": "阵营招募礼包",
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 33
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 20000000
+                }
+            ]
+        }
+    ]
+]

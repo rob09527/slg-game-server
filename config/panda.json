@@ -1,0 +1,448 @@
+{
+    "XSCJ": [
+        {
+            "type": "XSCJ",
+            "mode": 1,
+            "name": "点将积分1(限时抽将)",
+            "start": 1,
+            "etime": 3,
+            "id": 0,
+            "arg": 1
+        },
+        {
+            "type": "XSCJ",
+            "mode": 1,
+            "name": "点将积分2(限时抽将)",
+            "start": 3,
+            "etime": 5,
+            "id": 1,
+            "arg": 2
+        },
+        {
+            "type": "XSCJ",
+            "mode": 1,
+            "name": "点将积分3(限时抽将)",
+            "start": 5,
+            "etime": 7,
+            "id": 2,
+            "arg": 2
+        }
+    ],
+    "SJTH": [
+        {
+            "type": "SJTH",
+            "mode": 0,
+            "name": "神将特惠2",
+            "start": 2,
+            "etime": 3,
+            "id": 2,
+            "arg": 0
+        },
+        {
+            "type": "SJTH",
+            "mode": 0,
+            "name": "神将特惠3",
+            "start": 3,
+            "etime": 4,
+            "id": 3,
+            "arg": 0
+        },
+        {
+            "type": "SJTH",
+            "mode": 0,
+            "name": "神将特惠4",
+            "start": 4,
+            "etime": 5,
+            "id": 4,
+            "arg": 0
+        },
+        {
+            "type": "SJTH",
+            "mode": 0,
+            "name": "神将特惠5",
+            "start": 5,
+            "etime": 6,
+            "id": 5,
+            "arg": 0
+        },
+        {
+            "type": "SJTH",
+            "mode": 0,
+            "name": "神将特惠6",
+            "start": 6,
+            "etime": 7,
+            "id": 6,
+            "arg": 0
+        },
+        {
+            "type": "SJTH",
+            "mode": 0,
+            "name": "神将特惠7",
+            "start": 7,
+            "etime": 8,
+            "id": 7,
+            "arg": 0
+        }
+    ],
+    "MRSC": [],
+    "XSQG": [
+        {
+            "type": "XSQG",
+            "mode": 0,
+            "name": "限时抢购",
+            "start": 0,
+            "etime": 10,
+            "id": 0,
+            "arg": 0
+        }
+    ],
+    "DLSL": [
+        {
+            "type": "DLSL",
+            "mode": 0,
+            "name": "登录赏令1",
+            "start": 2,
+            "etime": 5,
+            "id": 0,
+            "arg": 0
+        },
+        {
+            "type": "DLSL",
+            "mode": 0,
+            "name": "登录赏令2",
+            "start": 5,
+            "etime": 8,
+            "id": 1,
+            "arg": 0
+        },
+        {
+            "type": "DLSL",
+            "mode": 0,
+            "name": "登录赏令3",
+            "start": 8,
+            "etime": 11,
+            "id": 2,
+            "arg": 0
+        },
+        {
+            "type": "DLSL",
+            "mode": 0,
+            "name": "登录赏令4",
+            "start": 11,
+            "etime": 14,
+            "id": 3,
+            "arg": 0
+        },
+        {
+            "type": "DLSL",
+            "mode": 0,
+            "name": "登录赏令5",
+            "start": 14,
+            "etime": 17,
+            "id": 4,
+            "arg": 0
+        },
+        {
+            "type": "DLSL",
+            "mode": 0,
+            "name": "登录赏令6",
+            "start": 17,
+            "etime": 20,
+            "id": 5,
+            "arg": 0
+        }
+    ],
+    "MRTJ": [],
+    "VIPXG": [],
+    "SHIER": [],
+    "SMZM": [
+        {
+            "type": "SMZM",
+            "mode": 0,
+            "name": "神魔招募",
+            "start": 8,
+            "etime": 15,
+            "id": 0,
+            "arg": 0
+        }
+    ],
+    "SMFL": [
+        {
+            "type": "SMFL",
+            "mode": 0,
+            "name": "神魔福利1",
+            "start": 8,
+            "etime": 11,
+            "id": 1,
+            "arg": 0
+        },
+        {
+            "type": "SMFL",
+            "mode": 0,
+            "name": "神魔福利2",
+            "start": 11,
+            "etime": 15,
+            "id": 2,
+            "arg": 0
+        }
+    ],
+    "PFXP": [
+        {
+            "type": "PFXP",
+            "mode": 0,
+            "name": "皮肤星盘",
+            "start": 2,
+            "etime": 3,
+            "id": 0,
+            "arg": 0
+        },
+        {
+            "type": "PFXP",
+            "mode": 0,
+            "name": "皮肤星盘1",
+            "start": 3,
+            "etime": 5,
+            "id": 1,
+            "arg": 0
+        },
+        {
+            "type": "PFXP",
+            "mode": 0,
+            "name": "皮肤星盘2",
+            "start": 7,
+            "etime": 12,
+            "id": 2,
+            "arg": 0
+        },
+        {
+            "type": "PFXP",
+            "mode": 0,
+            "name": "皮肤星盘3",
+            "start": 15,
+            "etime": 21,
+            "id": 3,
+            "arg": 0
+        },
+        {
+            "type": "PFXP",
+            "mode": 0,
+            "name": "皮肤星盘4",
+            "start": 22,
+            "etime": 28,
+            "id": 4,
+            "arg": 0
+        }
+    ],
+    "XPLB": [
+        {
+            "type": "XPLB",
+            "mode": 0,
+            "name": "星盘礼包",
+            "start": 2,
+            "etime": 3,
+            "id": 0,
+            "arg": 0
+        },
+        {
+            "type": "XPLB",
+            "mode": 0,
+            "name": "星盘礼包1",
+            "start": 3,
+            "etime": 5,
+            "id": 1,
+            "arg": 0
+        },
+        {
+            "type": "XPLB",
+            "mode": 0,
+            "name": "星盘礼包2",
+            "start": 7,
+            "etime": 12,
+            "id": 2,
+            "arg": 0
+        },
+        {
+            "type": "XPLB",
+            "mode": 0,
+            "name": "星盘礼包3",
+            "start": 15,
+            "etime": 21,
+            "id": 3,
+            "arg": 0
+        },
+        {
+            "type": "XPLB",
+            "mode": 0,
+            "name": "星盘礼包4",
+            "start": 22,
+            "etime": 28,
+            "id": 4,
+            "arg": 0
+        }
+    ],
+    "XFTZ": [
+        {
+            "type": "XFTZ",
+            "mode": 1,
+            "name": "新服挑战1",
+            "start": 2,
+            "etime": 4,
+            "id": 0,
+            "arg": 0
+        },
+        {
+            "type": "XFTZ",
+            "mode": 1,
+            "name": "新服挑战2",
+            "start": 5,
+            "etime": 8,
+            "id": 1,
+            "arg": 0
+        }
+    ],
+    "MRTHYJ": [],
+    "MJXW": [],
+    "CSTZ": [
+        {
+            "type": "CSTZ",
+            "mode": 1,
+            "name": "传说挑战",
+            "start": 3,
+            "etime": 6,
+            "id": 0,
+            "arg": 0
+        },
+        {
+            "type": "CSTZ",
+            "mode": 1,
+            "name": "传说挑战1",
+            "start": 7,
+            "etime": 11,
+            "id": 1,
+            "arg": 0
+        }
+    ],
+    "GJXB": [
+        {
+            "type": "GJXB",
+            "mode": 1,
+            "name": "古墓寻龙0",
+            "start": 7,
+            "etime": 16,
+            "id": 0,
+            "arg": 0
+        },
+        {
+            "type": "GJXB",
+            "mode": 1,
+            "name": "古墓寻龙1",
+            "start": 21,
+            "etime": 30,
+            "id": 1,
+            "arg": 0
+        },
+        {
+            "type": "GJXB",
+            "mode": 1,
+            "name": "古墓寻龙2",
+            "start": 35,
+            "etime": 44,
+            "id": 2,
+            "arg": 0
+        },
+        {
+            "type": "GJXB",
+            "mode": 1,
+            "name": "古墓寻龙3",
+            "start": 49,
+            "etime": 58,
+            "id": 3,
+            "arg": 0
+        },
+        {
+            "type": "GJXB",
+            "mode": 1,
+            "name": "古墓寻龙4",
+            "start": 63,
+            "etime": 72,
+            "id": 4,
+            "arg": 0
+        },
+        {
+            "type": "GJXB",
+            "mode": 1,
+            "name": "古墓寻龙5",
+            "start": 77,
+            "etime": 86,
+            "id": 5,
+            "arg": 0
+        }
+    ],
+    "HSGC": [
+        {
+            "type": "HSGC",
+            "mode": 1,
+            "name": "喵灵攻城0",
+            "start": 3,
+            "etime": 10,
+            "id": 0,
+            "arg": 0
+        },
+        {
+            "type": "HSGC",
+            "mode": 1,
+            "name": "喵灵攻城1",
+            "start": 17,
+            "etime": 24,
+            "id": 1,
+            "arg": 0
+        },
+        {
+            "type": "HSGC",
+            "mode": 1,
+            "name": "喵灵攻城2",
+            "start": 31,
+            "etime": 38,
+            "id": 2,
+            "arg": 0
+        },
+        {
+            "type": "HSGC",
+            "mode": 1,
+            "name": "喵灵攻城3",
+            "start": 45,
+            "etime": 52,
+            "id": 3,
+            "arg": 0
+        },
+        {
+            "type": "HSGC",
+            "mode": 1,
+            "name": "喵灵攻城4",
+            "start": 59,
+            "etime": 66,
+            "id": 4,
+            "arg": 0
+        },
+        {
+            "type": "HSGC",
+            "mode": 1,
+            "name": "喵灵攻城5",
+            "start": 73,
+            "etime": 78,
+            "id": 5,
+            "arg": 0
+        }
+    ],
+    "ZSJSB": [
+        {
+            "type": "ZSJSB",
+            "mode": 1,
+            "name": "镇守击杀榜",
+            "start": 1,
+            "etime": 7,
+            "id": 0,
+            "arg": 0
+        }
+    ]
+}

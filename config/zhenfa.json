@@ -1,0 +1,472 @@
+[
+    {
+        "ID": 101,
+        "NAME": "二龙出水阵",
+        "ACTIVE_CAST": [
+            {
+                "GSID": 30113,
+                "COUNT": 10
+            }
+        ],
+        "DESC": "上阵喵灵：攻击速度提升35%。\n阵眼喵灵获得技能：进入战斗后，获得增益效果，初始怒气提升10点，每秒恢复6点怒气，持续到战斗结束。",
+        "LV": [
+            {
+                "SKILLID": 0,
+                "SKILLNUM": 0,
+                "ATTR": {
+                    "pasp": 150
+                }
+            },
+            {
+                "SKILLID": 30000,
+                "SKILLNUM": 1,
+                "ATTR": {
+                    "pasp": 150
+                }
+            },
+            {
+                "SKILLID": 30000,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pasp": 150
+                }
+            },
+            {
+                "SKILLID": 30001,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pasp": 150
+                }
+            },
+            {
+                "SKILLID": 30001,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pasp": 200
+                }
+            },
+            {
+                "SKILLID": 30002,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pasp": 200
+                }
+            },
+            {
+                "SKILLID": 30002,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pasp": 250
+                }
+            },
+            {
+                "SKILLID": 30003,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pasp": 250
+                }
+            },
+            {
+                "SKILLID": 30003,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pasp": 300
+                }
+            },
+            {
+                "SKILLID": 30003,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pasp": 350
+                }
+            },
+            {
+                "SKILLID": 30004,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pasp": 350
+                }
+            }
+        ]
+    },
+    {
+        "ID": 102,
+        "NAME": "六丁六甲阵",
+        "ACTIVE_CAST": [
+            {
+                "GSID": 30113,
+                "COUNT": 10
+            }
+        ],
+        "DESC": "上阵喵灵：护甲和魔抗比例提升20%。\n阵眼喵灵获得技能：受到伤害时，提升物理免伤50%、法术免伤50%，持续3秒，冷却6秒。",
+        "LV": [
+            {
+                "SKILLID": 0,
+                "SKILLNUM": 0,
+                "ATTR": {
+                    "def": 100
+                }
+            },
+            {
+                "SKILLID": 30100,
+                "SKILLNUM": 1,
+                "ATTR": {
+                    "def": 100,
+                    "mdef": 100
+                }
+            },
+            {
+                "SKILLID": 30100,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "def": 100,
+                    "mdef": 100
+                }
+            },
+            {
+                "SKILLID": 30101,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "def": 100,
+                    "mdef": 100
+                }
+            },
+            {
+                "SKILLID": 30101,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "def": 125,
+                    "mdef": 125
+                }
+            },
+            {
+                "SKILLID": 30102,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "def": 125,
+                    "mdef": 125
+                }
+            },
+            {
+                "SKILLID": 30102,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "def": 150,
+                    "mdef": 150
+                }
+            },
+            {
+                "SKILLID": 30103,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "def": 150,
+                    "mdef": 150
+                }
+            },
+            {
+                "SKILLID": 30103,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "def": 175,
+                    "mdef": 175
+                }
+            },
+            {
+                "SKILLID": 30103,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "def": 200,
+                    "mdef": 200
+                }
+            },
+            {
+                "SKILLID": 30104,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "def": 200,
+                    "mdef": 200
+                }
+            }
+        ]
+    },
+    {
+        "ID": 103,
+        "NAME": "四门兜底阵",
+        "ACTIVE_CAST": [
+            {
+                "GSID": 30113,
+                "COUNT": 10
+            }
+        ],
+        "DESC": "上阵喵灵：物理伤害加成提升15%。\n阵眼喵灵获得技能：进入战斗后，提升物理伤害15%、攻击力15%，随后每2秒提升5%物理伤害，持续到战斗结束。",
+        "LV": [
+            {
+                "SKILLID": 0,
+                "SKILLNUM": 0,
+                "ATTR": {
+                    "pprdc": 50
+                }
+            },
+            {
+                "SKILLID": 30200,
+                "SKILLNUM": 1,
+                "ATTR": {
+                    "pprdc": 50
+                }
+            },
+            {
+                "SKILLID": 30200,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pprdc": 50
+                }
+            },
+            {
+                "SKILLID": 30201,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pprdc": 50
+                }
+            },
+            {
+                "SKILLID": 30201,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pprdc": 75
+                }
+            },
+            {
+                "SKILLID": 30202,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pprdc": 75
+                }
+            },
+            {
+                "SKILLID": 30202,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pprdc": 100
+                }
+            },
+            {
+                "SKILLID": 30203,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pprdc": 100
+                }
+            },
+            {
+                "SKILLID": 30203,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pprdc": 125
+                }
+            },
+            {
+                "SKILLID": 30203,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pprdc": 150
+                }
+            },
+            {
+                "SKILLID": 30204,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pprdc": 150
+                }
+            }
+        ]
+    },
+    {
+        "ID": 104,
+        "NAME": "北斗七星阵",
+        "ACTIVE_CAST": [
+            {
+                "GSID": 30113,
+                "COUNT": 10
+            }
+        ],
+        "DESC": "上阵喵灵：法术伤害加成提升15%。\n阵眼喵灵获得技能：进入战斗后，提升法术伤害、法术穿透10%，每次使用法术，提升20%法术伤害20%，持续到战斗结束。",
+        "LV": [
+            {
+                "SKILLID": 0,
+                "SKILLNUM": 0,
+                "ATTR": {
+                    "pmrdc": 50
+                }
+            },
+            {
+                "SKILLID": 30300,
+                "SKILLNUM": 1,
+                "ATTR": {
+                    "pmrdc": 50
+                }
+            },
+            {
+                "SKILLID": 30300,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pmrdc": 50
+                }
+            },
+            {
+                "SKILLID": 30301,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pmrdc": 50
+                }
+            },
+            {
+                "SKILLID": 30301,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pmrdc": 75
+                }
+            },
+            {
+                "SKILLID": 30302,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pmrdc": 75
+                }
+            },
+            {
+                "SKILLID": 30302,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pmrdc": 100
+                }
+            },
+            {
+                "SKILLID": 30303,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pmrdc": 100
+                }
+            },
+            {
+                "SKILLID": 30303,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pmrdc": 125
+                }
+            },
+            {
+                "SKILLID": 30303,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pmrdc": 150
+                }
+            },
+            {
+                "SKILLID": 30304,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pmrdc": 150
+                }
+            }
+        ]
+    },
+    {
+        "ID": 105,
+        "NAME": "十面埋伏阵",
+        "ACTIVE_CAST": [
+            {
+                "GSID": 30113,
+                "COUNT": 10
+            }
+        ],
+        "DESC": "上阵喵灵：闪避提升15%。\n阵眼喵灵获得技能：进入战斗后，提升法术闪避5%、普攻闪避5%；每次被普攻且没有触发普攻闪避时，提升普攻闪避15%（可叠加3层）。每次被技能攻击且没有触发法术闪避时，提升法术闪避15%（可叠加2层），闪避成功后，对应增益移除。",
+        "LV": [
+            {
+                "SKILLID": 0,
+                "SKILLNUM": 0,
+                "ATTR": {
+                    "pdex": 50
+                }
+            },
+            {
+                "SKILLID": 30400,
+                "SKILLNUM": 1,
+                "ATTR": {
+                    "pdex": 50,
+                    "pmdex": 50
+                }
+            },
+            {
+                "SKILLID": 30400,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pdex": 50,
+                    "pmdex": 50
+                }
+            },
+            {
+                "SKILLID": 30401,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pdex": 50,
+                    "pmdex": 50
+                }
+            },
+            {
+                "SKILLID": 30401,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pdex": 75,
+                    "pmdex": 75
+                }
+            },
+            {
+                "SKILLID": 30402,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pdex": 75,
+                    "pmdex": 75
+                }
+            },
+            {
+                "SKILLID": 30402,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pdex": 100,
+                    "pmdex": 100
+                }
+            },
+            {
+                "SKILLID": 30403,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pdex": 100,
+                    "pmdex": 100
+                }
+            },
+            {
+                "SKILLID": 30403,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pdex": 125,
+                    "pmdex": 125
+                }
+            },
+            {
+                "SKILLID": 30403,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pdex": 150,
+                    "pmdex": 150
+                }
+            },
+            {
+                "SKILLID": 30404,
+                "SKILLNUM": 2,
+                "ATTR": {
+                    "pdex": 150,
+                    "pmdex": 150
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,1058 @@
+{
+    "33501": {
+        "POS": 1,
+        "OCCU": 1,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 10000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 100
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 201,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33017",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33502": {
+        "POS": 1,
+        "OCCU": 2,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 14000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 120
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 202,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33017",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33503": {
+        "POS": 1,
+        "OCCU": 3,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 13000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 120
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 65
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 203,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33017",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33504": {
+        "POS": 1,
+        "OCCU": 4,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 14000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 120
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 204,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33017",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33505": {
+        "POS": 1,
+        "OCCU": 5,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 12000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 100
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 205,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33017",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33506": {
+        "POS": 1,
+        "OCCU": 6,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 9000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 40
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 206,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33017",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33601": {
+        "POS": 2,
+        "OCCU": 1,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 180000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 80
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 50
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 201,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33117",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33602": {
+        "POS": 2,
+        "OCCU": 2,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 144000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 80
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 40
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 202,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33117",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33603": {
+        "POS": 2,
+        "OCCU": 3,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 162000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 80
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 45
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 203,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33117",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33604": {
+        "POS": 2,
+        "OCCU": 4,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 144000
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 100
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 40
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 204,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33117",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33605": {
+        "POS": 2,
+        "OCCU": 5,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 162000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 80
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 45
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 205,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33117",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33606": {
+        "POS": 2,
+        "OCCU": 6,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 252000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 100
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 70
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 206,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33117",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33701": {
+        "POS": 3,
+        "OCCU": 1,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 65000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 80
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 50
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 201,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33217",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33702": {
+        "POS": 3,
+        "OCCU": 2,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 52000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 80
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 40
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 202,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33217",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33703": {
+        "POS": 3,
+        "OCCU": 3,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 58500
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 80
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 45
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 203,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33217",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33704": {
+        "POS": 3,
+        "OCCU": 4,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 52000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 100
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 40
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 204,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33217",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33705": {
+        "POS": 3,
+        "OCCU": 5,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 58500
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 100
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 45
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 205,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33217",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33706": {
+        "POS": 3,
+        "OCCU": 6,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 91000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 80
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 70
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 206,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33217",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33801": {
+        "POS": 4,
+        "OCCU": 1,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 6500
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 201,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33317",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33802": {
+        "POS": 4,
+        "OCCU": 2,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 9100
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 80
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 202,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33317",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33803": {
+        "POS": 4,
+        "OCCU": 3,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 8450
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 65
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 203,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33317",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33804": {
+        "POS": 4,
+        "OCCU": 4,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 9100
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 204,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33317",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33805": {
+        "POS": 4,
+        "OCCU": 5,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7800
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 205,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33317",
+                "COUNT": 1
+            }
+        ]
+    },
+    "33806": {
+        "POS": 4,
+        "OCCU": 6,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 5200
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 40
+            }
+        ],
+        "REBUILD": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ],
+        "SETID": 206,
+        "QUALITY": 7,
+        "STAR": 11,
+        "OTHERS_CAST": [
+            {
+                "GSID": 30048,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            }
+        ],
+        "TTAG": 1,
+        "EQUIP_CAST": [
+            {
+                "GSID": "33317",
+                "COUNT": 1
+            }
+        ]
+    }
+}

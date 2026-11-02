@@ -1,0 +1,602 @@
+{
+    "specialbw": {
+        "DAY": 30,
+        "COIN": "RMB",
+        "EXP": 300,
+        "NUM": 30,
+        "REWARD": [
+            {
+                "GSID": 30006,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1000
+            }
+        ]
+    },
+    "specialqz": {
+        "DAY": 30,
+        "COIN": "RMB",
+        "EXP": 680,
+        "NUM": 68,
+        "REWARD": [
+            {
+                "GSID": 30006,
+                "COUNT": 20
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 1500000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 2
+            }
+        ]
+    },
+    "specialzx": {
+        "DAY": -1,
+        "COIN": "YB",
+        "EXP": 0,
+        "NUM": 1288,
+        "REWARD": [
+            {
+                "GSID": 30006,
+                "COUNT": 8
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 200000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 300
+            }
+        ]
+    },
+    "speciallm": {
+        "DAY": 30,
+        "COIN": "YB",
+        "EXP": 0,
+        "NUM": 2888,
+        "REWARD": [
+            {
+                "GSID": 30020,
+                "COUNT": 2500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 2000000
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 25
+            }
+        ]
+    },
+    "specialyd": {
+        "DAY": 30,
+        "COIN": "RMB",
+        "EXP": 1980,
+        "NUM": 198,
+        "REWARD": []
+    },
+    "specialfd": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 980
+            },
+            {
+                "GSID": 38010,
+                "COUNT": 980
+            },
+            {
+                "GSID": 38007,
+                "COUNT": 10
+            }
+        ]
+    },
+    "specialcz": {
+        "DAY": 9999,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "LEVEL": [
+            25,
+            75
+        ],
+        "REWARD": []
+    },
+    "specialcz1": {
+        "DAY": 9999,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "LEVEL": [
+            80,
+            100
+        ],
+        "REWARD": []
+    },
+    "specialcz2": {
+        "DAY": 9999,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "LEVEL": [
+            105,
+            130
+        ],
+        "REWARD": []
+    },
+    "specialgz": {
+        "NAME": "普通",
+        "NDAY": 30,
+        "COIN": "RMB",
+        "EXP": 300,
+        "NUM": 30,
+        "BUYITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "DAILYITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            }
+        ],
+        "DAILYLIMIT": 90274,
+        "REWARD": []
+    },
+    "specialzz": {
+        "NAME": "超级",
+        "NDAY": 30,
+        "COIN": "RMB",
+        "EXP": 680,
+        "NUM": 68,
+        "BUYITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ],
+        "DAILYITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 2
+            }
+        ],
+        "DAILYLIMIT": 90275,
+        "REWARD": []
+    },
+    "specialtower": {
+        "DAY": 9999,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "LEVEL": [
+            20,
+            200
+        ],
+        "REWARD": []
+    },
+    "specialtower1": {
+        "DAY": 9999,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "LEVEL": [
+            225,
+            500
+        ],
+        "REWARD": []
+    },
+    "specialtower2": {
+        "DAY": 9999,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "LEVEL": [
+            525,
+            700
+        ],
+        "REWARD": []
+    },
+    "specialtjsl": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 680,
+        "NUM": 68,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 32590,
+                "COUNT": 30
+            }
+        ]
+    },
+    "specialexp_0": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 450,
+        "NUM": 68,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 450
+            }
+        ]
+    },
+    "specialadv_0": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 450,
+        "NUM": 68,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 450
+            }
+        ]
+    },
+    "specialmoney_0": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 450,
+        "NUM": 68,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 450
+            }
+        ]
+    },
+    "allspecial_exp_adv_money_0": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 980
+            }
+        ]
+    },
+    "specialzk": {
+        "NAME": "普通",
+        "NDAY": 7,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "BUYITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 980
+            }
+        ],
+        "DAILYITEMS": [
+            {
+                "GSID": 30006,
+                "COUNT": 10
+            }
+        ],
+        "DAILYLIMIT": 90635,
+        "REWARD": []
+    },
+    "specialexp_1": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 680,
+        "NUM": 68,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ]
+    },
+    "specialadv_1": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 680,
+        "NUM": 68,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ]
+    },
+    "specialmoney_1": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 680,
+        "NUM": 68,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ]
+    },
+    "allspecial_exp_adv_money_1": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 1280,
+        "NUM": 128,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            }
+        ]
+    },
+    "specialexp_2": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 980
+            }
+        ]
+    },
+    "specialadv_2": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 980
+            }
+        ]
+    },
+    "specialmoney_2": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 980,
+        "NUM": 98,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 980
+            }
+        ]
+    },
+    "allspecial_exp_adv_money_2": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 1980,
+        "NUM": 198,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            }
+        ]
+    },
+    "specialexp_3": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 1280,
+        "NUM": 128,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            }
+        ]
+    },
+    "specialadv_3": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 1280,
+        "NUM": 128,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            }
+        ]
+    },
+    "specialmoney_3": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 1280,
+        "NUM": 128,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            }
+        ]
+    },
+    "allspecial_exp_adv_money_3": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 1980,
+        "NUM": 198,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            }
+        ]
+    },
+    "specialexp_4": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 1980,
+        "NUM": 198,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            }
+        ]
+    },
+    "specialadv_4": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 1980,
+        "NUM": 198,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            }
+        ]
+    },
+    "specialmoney_4": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 1980,
+        "NUM": 198,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            }
+        ]
+    },
+    "allspecial_exp_adv_money_4": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 3280,
+        "NUM": 328,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            }
+        ]
+    },
+    "specialexp_5": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 3280,
+        "NUM": 328,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            }
+        ]
+    },
+    "specialadv_5": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 3280,
+        "NUM": 328,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            }
+        ]
+    },
+    "specialmoney_5": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 3280,
+        "NUM": 328,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            }
+        ]
+    },
+    "allspecial_exp_adv_money_5": {
+        "DAY": -1,
+        "COIN": "RMB",
+        "EXP": 6480,
+        "NUM": 648,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            }
+        ]
+    },
+    "specialmopup": {
+        "DAY": 30,
+        "COIN": "RMB",
+        "EXP": 680,
+        "NUM": 68,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 5
+            },
+            {
+                "GSID": 32801,
+                "COUNT": 1
+            }
+        ]
+    },
+    "specialcjzmtxz": {
+        "DAY": 7,
+        "COIN": "RMB",
+        "EXP": 6480,
+        "NUM": 648,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            }
+        ]
+    },
+    "specialssdbtxz": {
+        "DAY": 7,
+        "COIN": "RMB",
+        "EXP": 6480,
+        "NUM": 648,
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            }
+        ]
+    }
+}

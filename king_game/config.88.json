@@ -1,0 +1,43 @@
+{
+	"DEFAULT_PORT": 8300,
+	"GAMECONFIG": "../config",
+	"EXECUTIONS": "../exec",
+	"PROB": "../prob",
+	"HOST": "127.0.0.1",
+	"CIPHER": {
+		"ALGORITHM": "aes-128-cbc",
+		"KEY": "YOUR_CIPHER_KEY_",
+		"IV": "YOUR_CIPHER_IV__"
+	},
+	"DB": {
+		"HOST": "127.0.0.1",
+		"PORT": 17017,
+		"NAME": "game",
+		"AUTH": {
+			"USER": "root",
+			"PWD": "YOUR_DB_PASSWORD",
+			"SOURCE": "admin"
+		}
+	},
+	"ES": {
+		"HOST": "127.0.0.1:19200",
+		"DEF_INDEX": "king"
+	},
+	"REDIS": {
+		"HOST": "127.0.0.1",
+		"PORT": 16379,
+		"PASSWORD": "YOUR_REDIS_PASSWORD"
+	},
+	"PROXY": {
+		"PROTO": "http",
+		"HOST": "127.0.0.1",
+		"PORT": 8001
+	},
+	"SCF": {
+		"BASE": "127.0.0.1:28100",
+		"ENV": "test",
+		"NAME": "battlelogic"
+	},
+	"windows": true,
+	"GANGER_NO_ORDER": true
+}

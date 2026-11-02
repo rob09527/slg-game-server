@@ -1,0 +1,59 @@
+{
+    "day": {
+        "INTERAL": 24,
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "pvp": {
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "kill": {
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "general": {
+        "INTERAL": 720,
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 1000
+            }
+        ],
+        "MARK": 90033,
+        "TIMES_LIMIT": -1
+    },
+    "decomp": {
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "legion": {
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "star": {
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "offical": {
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "skin": {
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "nation": {
+        "INTERAL": 168,
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "pearl": {
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    },
+    "ancientCoins": {
+        "CAST": [],
+        "TIMES_LIMIT": 0
+    }
+}

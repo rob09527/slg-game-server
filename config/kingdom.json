@@ -1,0 +1,161 @@
+{
+    "CROWN_REWARD": [
+        {
+            "GSID": 38005,
+            "COUNT": 100
+        },
+        {
+            "GSID": 30006,
+            "COUNT": 10
+        },
+        {
+            "GSID": 38006,
+            "COUNT": 1000000
+        }
+    ],
+    "GIFT": [
+        {
+            "REWARDS": [
+                {
+                    "GSID": 30026,
+                    "COUNT": 250
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 1000000
+                }
+            ],
+            "W": 1
+        },
+        {
+            "REWARDS": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 250
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 500000
+                }
+            ],
+            "W": 1
+        },
+        {
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 500000
+                }
+            ],
+            "W": 1
+        },
+        {
+            "REWARDS": [
+                {
+                    "GSID": 30008,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 300
+                }
+            ],
+            "W": 1
+        },
+        {
+            "REWARDS": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1000000
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 100
+                }
+            ],
+            "W": 1
+        },
+        {
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 500000
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 5
+                }
+            ],
+            "W": 1
+        }
+    ],
+    "EDIT_CAST": [
+        [],
+        [
+            {
+                "GSID": 38005,
+                "COUNT": 1000
+            }
+        ]
+    ],
+    "GIFT_REF_CAST": [
+        [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            }
+        ],
+        [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            }
+        ]
+    ],
+    "MOBAI_REWARD": [
+        {
+            "GSID": 38006,
+            "MINCOUNT": 50000,
+            "MAXCOUNT": 100000,
+            "LVR": 2500
+        }
+    ],
+    "SHAME_ACTION_REWARD": [
+        [
+            {
+                "GSID": 38006,
+                "MINCOUNT": 20000,
+                "MAXCOUNT": 25000,
+                "LVR": 2000
+            }
+        ],
+        [
+            {
+                "GSID": 30001,
+                "MINCOUNT": 10000,
+                "MAXCOUNT": 12000,
+                "LVR": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 30015,
+                "MINCOUNT": 5,
+                "MAXCOUNT": 15,
+                "LVR": 0
+            }
+        ]
+    ],
+    "SHAME_REWARD": [
+        {
+            "GSID": 38006,
+            "MINCOUNT": 10000,
+            "MAXCOUNT": 15000,
+            "LVR": 1000
+        }
+    ]
+}

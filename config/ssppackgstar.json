@@ -1,0 +1,168 @@
+[
+    {
+        "STAR": 5,
+        "PRICE": 30,
+        "EXP": 300,
+        "LIMITHOUR": 2,
+        "LIMIT": {
+            "MARK": 90331,
+            "NUM": 5
+        },
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 2000000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 1000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 750
+            }
+        ]
+    },
+    {
+        "STAR": 6,
+        "PRICE": 68,
+        "EXP": 680,
+        "LIMITHOUR": 2,
+        "LIMIT": {
+            "MARK": 90332,
+            "NUM": 3
+        },
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 4000000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 2000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1500
+            }
+        ]
+    },
+    {
+        "STAR": 7,
+        "PRICE": 98,
+        "EXP": 980,
+        "LIMITHOUR": 2,
+        "LIMIT": {
+            "NUM": 1
+        },
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 980
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 6000000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 3000000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 4000
+            }
+        ]
+    },
+    {
+        "STAR": 8,
+        "PRICE": 128,
+        "EXP": 1280,
+        "LIMITHOUR": 4,
+        "LIMIT": {
+            "NUM": 1
+        },
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 10000000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 5000000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 6000
+            }
+        ]
+    },
+    {
+        "STAR": 9,
+        "PRICE": 198,
+        "EXP": 1980,
+        "LIMITHOUR": 4,
+        "LIMIT": {
+            "MARK": 90333,
+            "NUM": 1
+        },
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 15000000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 7500000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 9000
+            }
+        ]
+    },
+    {
+        "STAR": 10,
+        "PRICE": 328,
+        "EXP": 3280,
+        "LIMITHOUR": 4,
+        "LIMIT": {
+            "MARK": 90334,
+            "NUM": 1
+        },
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 24000000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 12000000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 20000
+            }
+        ]
+    }
+]

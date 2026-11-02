@@ -1,0 +1,802 @@
+{
+    "1": {
+        "FLOOR": 1,
+        "MAPID": 12161,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 150000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 30
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 1
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 150000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 30
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 50
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 200000
+            }
+        ]
+    },
+    "2": {
+        "FLOOR": 2,
+        "MAPID": 12181,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 150000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 1
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 150000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 50
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 200000
+            }
+        ]
+    },
+    "3": {
+        "FLOOR": 3,
+        "MAPID": 10341,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 80
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 1
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 200000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 80
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 50
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 1
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 300000
+            }
+        ]
+    },
+    "4": {
+        "FLOOR": 4,
+        "MAPID": 14321,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 250000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 1
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 250000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 50
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            }
+        ]
+    },
+    "5": {
+        "FLOOR": 5,
+        "MAPID": 16341,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 1
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 300000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 80
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 3
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 10
+            }
+        ]
+    },
+    "6": {
+        "FLOOR": 6,
+        "MAPID": 12261,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 400000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 400000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 80
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 3
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 15
+            }
+        ]
+    },
+    "7": {
+        "FLOOR": 7,
+        "MAPID": 14361,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 125
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 125
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 80
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 5
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 20
+            }
+        ]
+    },
+    "8": {
+        "FLOOR": 8,
+        "MAPID": 12361,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 125
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 125
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 100
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 5
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5
+            }
+        ]
+    },
+    "9": {
+        "FLOOR": 9,
+        "MAPID": 10241,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 125
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 125
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 100
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 5
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 10
+            }
+        ]
+    },
+    "10": {
+        "FLOOR": 10,
+        "MAPID": 12382,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 100
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30161,
+                "COUNT": 10
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 15
+            }
+        ]
+    },
+    "11": {
+        "FLOOR": 11,
+        "MAPID": 17121,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 3
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 150
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30162,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 20
+            }
+        ]
+    },
+    "12": {
+        "FLOOR": 12,
+        "MAPID": 18101,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 3
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30162,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 25
+            }
+        ]
+    },
+    "13": {
+        "FLOOR": 13,
+        "MAPID": 10401,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 3
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 3
+            },
+            {
+                "GSID": 54024,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 25
+            }
+        ]
+    },
+    "14": {
+        "FLOOR": 14,
+        "MAPID": 12421,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 3
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30006,
+                "COUNT": 5
+            },
+            {
+                "GSID": 54124,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 25
+            }
+        ]
+    },
+    "15": {
+        "FLOOR": 15,
+        "MAPID": 14401,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 5
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30011,
+                "COUNT": 1
+            },
+            {
+                "GSID": 56020,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 25
+            }
+        ]
+    },
+    "16": {
+        "FLOOR": 16,
+        "MAPID": 16401,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 5
+            }
+        ],
+        "FIRST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1
+            }
+        ],
+        "PASS": [
+            {
+                "GSID": 30011,
+                "COUNT": 1
+            },
+            {
+                "GSID": 56030,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 25
+            }
+        ]
+    }
+}

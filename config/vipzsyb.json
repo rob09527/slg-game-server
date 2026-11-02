@@ -1,0 +1,280 @@
+[
+    {
+        "GSID": 38005,
+        "COUNT": 250,
+        "VIP": 0,
+        "PRICE": 400,
+        "REMARK": 90694,
+        "REWARD": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 500000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 550,
+        "VIP": 1,
+        "PRICE": 1000,
+        "REMARK": 90695,
+        "REWARD": [
+            {
+                "GSID": 30001,
+                "COUNT": 800000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1500000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 800,
+        "VIP": 2,
+        "PRICE": 1500,
+        "REMARK": 90696,
+        "REWARD": [
+            {
+                "GSID": 30001,
+                "COUNT": 1200000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 2000000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 1200,
+        "VIP": 3,
+        "PRICE": 2250,
+        "REMARK": 90697,
+        "REWARD": [
+            {
+                "GSID": 30026,
+                "COUNT": 1200
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 3000000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 1600,
+        "VIP": 4,
+        "PRICE": 3000,
+        "REMARK": 90698,
+        "REWARD": [
+            {
+                "GSID": 30026,
+                "COUNT": 1600
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 4000000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 2000,
+        "VIP": 5,
+        "PRICE": 3750,
+        "REMARK": 90699,
+        "REWARD": [
+            {
+                "GSID": 30026,
+                "COUNT": 2000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 800
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 5000000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 2400,
+        "VIP": 6,
+        "PRICE": 4500,
+        "REMARK": 90700,
+        "REWARD": [
+            {
+                "GSID": 30015,
+                "COUNT": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 6000000
+            },
+            {
+                "GSID": 34000,
+                "COUNT": 500
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 3000,
+        "VIP": 7,
+        "PRICE": 5888,
+        "REMARK": 90701,
+        "REWARD": [
+            {
+                "GSID": 30015,
+                "COUNT": 1200
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 8000000
+            },
+            {
+                "GSID": 34000,
+                "COUNT": 1000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 3800,
+        "VIP": 8,
+        "PRICE": 7300,
+        "REMARK": 90702,
+        "REWARD": [
+            {
+                "GSID": 30015,
+                "COUNT": 1500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 10000000
+            },
+            {
+                "GSID": 34000,
+                "COUNT": 2000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 4800,
+        "VIP": 9,
+        "PRICE": 9400,
+        "REMARK": 90703,
+        "REWARD": [
+            {
+                "GSID": 30048,
+                "COUNT": 4
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1800
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 12000000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 6000,
+        "VIP": 10,
+        "PRICE": 12200,
+        "REMARK": 90704,
+        "REWARD": [
+            {
+                "GSID": 30048,
+                "COUNT": 4
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 2400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 15000000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 7500,
+        "VIP": 11,
+        "PRICE": 15500,
+        "REMARK": 90705,
+        "REWARD": [
+            {
+                "GSID": 32134,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 3000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 9000,
+        "VIP": 12,
+        "PRICE": 20000,
+        "REMARK": 90706,
+        "REWARD": [
+            {
+                "GSID": 32588,
+                "COUNT": 10
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 4000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 25000000
+            }
+        ]
+    },
+    {
+        "GSID": 38005,
+        "COUNT": 11000,
+        "VIP": 13,
+        "PRICE": 24000,
+        "REMARK": 90707,
+        "REWARD": [
+            {
+                "GSID": 31052,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 30000000
+            }
+        ]
+    }
+]

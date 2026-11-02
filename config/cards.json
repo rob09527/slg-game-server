@@ -1,0 +1,1250 @@
+[
+    {
+        "CARDID": 1011,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 1,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1012,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 1,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1013,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 1,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1021,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 2,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1022,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 2,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1023,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 2,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1031,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 3,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1032,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 3,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1033,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 3,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1041,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 4,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1042,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 4,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1043,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 4,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1051,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 5,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1052,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 5,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1053,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 5,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1061,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 6,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1062,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 6,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1063,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 6,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1071,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 7,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1072,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 7,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1073,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 7,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1081,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 8,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1082,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 8,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1083,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 8,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1091,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 9,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1092,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 9,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1093,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 9,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1101,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 10,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1102,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 10,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1103,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 10,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1111,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 11,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1112,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 11,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1113,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 11,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1121,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 12,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1122,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 12,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1123,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 12,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1131,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 13,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1132,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 13,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1133,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 13,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1141,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 14,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1142,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 14,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1143,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 14,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1151,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 15,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1152,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 15,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1153,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 15,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1161,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 16,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1162,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 16,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1163,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 16,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1171,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 17,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1172,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 17,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1173,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 17,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1181,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 18,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1182,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 18,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1183,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 18,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1191,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 19,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1192,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 19,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1193,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 19,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1201,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 20,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1202,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 20,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1203,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 20,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1211,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 21,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1212,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 21,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1213,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 21,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1221,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 22,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1222,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 22,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1223,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 22,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1231,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 23,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1232,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 23,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1233,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 23,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1241,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 24,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1242,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 24,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1243,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 24,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1251,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 25,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1252,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 25,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1253,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 25,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1261,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 26,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1262,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 26,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1263,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 26,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1271,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 27,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1272,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 27,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1273,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 27,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1281,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 28,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1282,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 28,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1283,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 28,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1291,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 29,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1292,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 29,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1293,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 29,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1301,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 30,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1302,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 30,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1303,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 30,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1311,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 31,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1312,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 31,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1313,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 31,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1321,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 32,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1322,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 32,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1323,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 32,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1331,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 33,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1332,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 33,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1333,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 33,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1341,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 34,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1342,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 34,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1343,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 34,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1351,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 35,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1352,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 35,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1353,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 35,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1361,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 36,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1362,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 36,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1363,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 36,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1371,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 37,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1372,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 37,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1373,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 37,
+        "LIMIT": 1,
+        "ISREPEAT": 1
+    },
+    {
+        "CARDID": 1381,
+        "LEVEL": 3,
+        "W": 3,
+        "TYPE": 38,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1391,
+        "LEVEL": 1,
+        "W": 2,
+        "TYPE": 38,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1392,
+        "LEVEL": 2,
+        "W": 1,
+        "TYPE": 38,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1393,
+        "LEVEL": 3,
+        "W": 3,
+        "TYPE": 39,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1401,
+        "LEVEL": 1,
+        "W": 2,
+        "TYPE": 39,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1402,
+        "LEVEL": 2,
+        "W": 1,
+        "TYPE": 39,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1403,
+        "LEVEL": 3,
+        "W": 3,
+        "TYPE": 40,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1411,
+        "LEVEL": 3,
+        "W": 2,
+        "TYPE": 40,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1421,
+        "LEVEL": 1,
+        "W": 1,
+        "TYPE": 40,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1422,
+        "LEVEL": 2,
+        "W": 3,
+        "TYPE": 41,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1423,
+        "LEVEL": 3,
+        "W": 2,
+        "TYPE": 41,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1431,
+        "LEVEL": 1,
+        "W": 1,
+        "TYPE": 41,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1432,
+        "LEVEL": 2,
+        "W": 3,
+        "TYPE": 42,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1433,
+        "LEVEL": 3,
+        "W": 2,
+        "TYPE": 42,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1441,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 42,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1451,
+        "LEVEL": 3,
+        "W": 3,
+        "TYPE": 43,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1461,
+        "LEVEL": 3,
+        "W": 2,
+        "TYPE": 43,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1471,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 43,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1481,
+        "LEVEL": 3,
+        "W": 3,
+        "TYPE": 44,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1491,
+        "LEVEL": 3,
+        "W": 2,
+        "TYPE": 44,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1501,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 44,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1511,
+        "LEVEL": 3,
+        "W": 3,
+        "TYPE": 45,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1521,
+        "LEVEL": 3,
+        "W": 2,
+        "TYPE": 45,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1531,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 45,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1541,
+        "LEVEL": 3,
+        "W": 3,
+        "TYPE": 46,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1551,
+        "LEVEL": 3,
+        "W": 2,
+        "TYPE": 46,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1561,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 46,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1571,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 47,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1572,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 47,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1573,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 47,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1581,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 48,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1582,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 48,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1583,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 48,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1591,
+        "LEVEL": 3,
+        "W": 3,
+        "TYPE": 49,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1601,
+        "LEVEL": 3,
+        "W": 2,
+        "TYPE": 49,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1611,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 49,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1621,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 50,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1622,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 50,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1623,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 50,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1631,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 51,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1632,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 51,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1633,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 51,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1641,
+        "LEVEL": 1,
+        "W": 3,
+        "TYPE": 52,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1642,
+        "LEVEL": 2,
+        "W": 2,
+        "TYPE": 52,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    },
+    {
+        "CARDID": 1643,
+        "LEVEL": 3,
+        "W": 1,
+        "TYPE": 52,
+        "LIMIT": 1,
+        "ISREPEAT": 0
+    }
+]

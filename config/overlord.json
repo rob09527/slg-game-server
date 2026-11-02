@@ -1,0 +1,124 @@
+[
+    {
+        "ID": 1,
+        "TYPE": 1,
+        "PRICE": 30,
+        "EXP": 300,
+        "PATH": "bawang_2",
+        "LIMIT": 1,
+        "VIP": 3,
+        "ITEMS": [
+            {
+                "GSID": 36001,
+                "COUNT": 50
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "TYPE": 1,
+        "PRICE": 68,
+        "EXP": 680,
+        "PATH": "bawang_3",
+        "LIMIT": 1,
+        "VIP": 5,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 10000000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 5000000
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "TYPE": 1,
+        "PRICE": 128,
+        "EXP": 1280,
+        "PATH": "bawang_4",
+        "LIMIT": 1,
+        "VIP": 6,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            },
+            {
+                "GSID": 32801,
+                "COUNT": 2
+            },
+            {
+                "GSID": 36021,
+                "COUNT": 120
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "TYPE": 0,
+        "PRICE": 2888,
+        "EXP": 0,
+        "PATH": "bawang_5",
+        "LIMIT": 1,
+        "VIP": 7,
+        "ITEMS": [
+            {
+                "GSID": 34311,
+                "COUNT": 1
+            },
+            {
+                "GSID": 34000,
+                "COUNT": 2000
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "TYPE": 1,
+        "PRICE": 328,
+        "EXP": 3280,
+        "PATH": "bawang_6",
+        "LIMIT": 1,
+        "VIP": 8,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            },
+            {
+                "GSID": 32802,
+                "COUNT": 4
+            },
+            {
+                "GSID": 32101,
+                "COUNT": 2
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "TYPE": 1,
+        "PRICE": 648,
+        "EXP": 6480,
+        "PATH": "bawang_7",
+        "LIMIT": 1,
+        "VIP": 10,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            },
+            {
+                "GSID": 41034,
+                "COUNT": 18
+            }
+        ]
+    }
+]

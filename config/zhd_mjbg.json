@@ -1,0 +1,1730 @@
+{
+    "EXCHANGE_COINS": 3000,
+    "MARK": 30135,
+    "MARKNAME": "探宝铲",
+    "EVENTNAME": "秘境宝阁",
+    "FINALINDEX": [],
+    "FINALLIST": [
+        [
+            {
+                "GSID": 26101,
+                "COUNT": 50,
+                "CHANCE": 880,
+                "MAXNUM": 1
+            },
+            {
+                "GSID": 20241,
+                "COUNT": 50,
+                "CHANCE": 880,
+                "MAXNUM": 1
+            },
+            {
+                "GSID": 20361,
+                "COUNT": 50,
+                "CHANCE": 880,
+                "MAXNUM": 1
+            }
+        ],
+        [
+            {
+                "GSID": 27046,
+                "COUNT": 50,
+                "CHANCE": 880,
+                "MAXNUM": 1
+            },
+            {
+                "GSID": 20261,
+                "COUNT": 50,
+                "CHANCE": 880,
+                "MAXNUM": 1
+            }
+        ],
+        [
+            {
+                "GSID": 20161,
+                "COUNT": 50,
+                "CHANCE": 620,
+                "MAXNUM": 1
+            },
+            {
+                "GSID": 20281,
+                "COUNT": 50,
+                "CHANCE": 620,
+                "MAXNUM": 1
+            }
+        ],
+        [
+            {
+                "GSID": 22401,
+                "COUNT": 50,
+                "CHANCE": 620,
+                "MAXNUM": 1
+            },
+            {
+                "GSID": 20301,
+                "COUNT": 50,
+                "CHANCE": 620,
+                "MAXNUM": 1
+            }
+        ],
+        [
+            {
+                "GSID": 28121,
+                "COUNT": 50,
+                "CHANCE": 620,
+                "MAXNUM": 1
+            },
+            {
+                "GSID": 20321,
+                "COUNT": 50,
+                "CHANCE": 620,
+                "MAXNUM": 1
+            }
+        ],
+        [
+            {
+                "GSID": 20201,
+                "COUNT": 50,
+                "CHANCE": 390,
+                "MAXNUM": 1
+            },
+            {
+                "GSID": 20341,
+                "COUNT": 50,
+                "CHANCE": 390,
+                "MAXNUM": 1
+            }
+        ],
+        [
+            {
+                "GSID": 32568,
+                "COUNT": 2,
+                "CHANCE": 390,
+                "MAXNUM": 1
+            }
+        ],
+        [
+            {
+                "GSID": 30049,
+                "COUNT": 2,
+                "CHANCE": 390,
+                "MAXNUM": 1
+            }
+        ],
+        [
+            {
+                "GSID": 34511,
+                "COUNT": 2,
+                "CHANCE": 390,
+                "MAXNUM": 1
+            }
+        ]
+    ],
+    "ITEMS": [
+        [
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 450000,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30005,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30008,
+                "COUNT": 2,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 25,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 5,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500,
+                "CHANCE": 1000
+            }
+        ]
+    ],
+    "CONSUME": [
+        {
+            "GSID": 30135,
+            "COUNT": 5,
+            "MIN": 0
+        },
+        {
+            "GSID": 30135,
+            "COUNT": 5,
+            "MIN": 0
+        },
+        {
+            "GSID": 30135,
+            "COUNT": 5,
+            "MIN": 0
+        },
+        {
+            "GSID": 30135,
+            "COUNT": 5,
+            "MIN": 10
+        },
+        {
+            "GSID": 30135,
+            "COUNT": 5,
+            "MIN": 10
+        },
+        {
+            "GSID": 30135,
+            "COUNT": 5,
+            "MIN": 10
+        },
+        {
+            "GSID": 30135,
+            "COUNT": 5,
+            "MIN": 10
+        },
+        {
+            "GSID": 30135,
+            "COUNT": 5,
+            "MIN": 10
+        },
+        {
+            "GSID": 30135,
+            "COUNT": 5,
+            "MIN": 10
+        }
+    ],
+    "LIST": [
+        {
+            "INTRO": "超值礼包",
+            "PAGE": "GJLB"
+        },
+        {
+            "INTRO": "挂机商店",
+            "PAGE": "GJDL"
+        }
+    ]
+}

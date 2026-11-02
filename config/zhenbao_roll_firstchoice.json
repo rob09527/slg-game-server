@@ -1,0 +1,22 @@
+{
+    "NORMAL": [
+        {
+            "TYPE": "PIECE",
+            "W": 950
+        },
+        {
+            "TYPE": "ONE",
+            "W": 50
+        }
+    ],
+    "PREMIUM": [
+        {
+            "TYPE": "PIECE",
+            "W": 950
+        },
+        {
+            "TYPE": "ONE",
+            "W": 50
+        }
+    ]
+}

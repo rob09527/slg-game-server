@@ -1,0 +1,280 @@
+{
+    "OFFICIAL": {
+        "1": {
+            "ATTR": {},
+            "BUFF": {
+                "HP": 80
+            },
+            "REQUIRE_LV": 30,
+            "UNLOCK_REQUIRE": {
+                "38004": 5
+            }
+        },
+        "2": {
+            "ATTR": {},
+            "BUFF": {
+                "ATK": 40
+            },
+            "REQUIRE_LV": 30,
+            "UNLOCK_REQUIRE": {
+                "38004": 5
+            }
+        },
+        "3": {
+            "ATTR": {},
+            "BUFF": {
+                "DEF": 60
+            },
+            "REQUIRE_LV": 30,
+            "UNLOCK_REQUIRE": {
+                "38004": 5
+            }
+        },
+        "4": {
+            "ATTR": {},
+            "BUFF": {
+                "MDEF": 60
+            },
+            "REQUIRE_LV": 30,
+            "UNLOCK_REQUIRE": {
+                "38004": 5
+            }
+        },
+        "5": {
+            "ATTR": {},
+            "BUFF": {
+                "ATK": 80
+            },
+            "REQUIRE_LV": 30,
+            "UNLOCK_REQUIRE": {
+                "38004": 10
+            }
+        },
+        "6": {
+            "ATTR": {},
+            "BUFF": {
+                "HP": 120
+            },
+            "REQUIRE_LV": 30,
+            "UNLOCK_REQUIRE": {
+                "38004": 10
+            }
+        },
+        "7": {
+            "ATTR": {},
+            "BUFF": {
+                "ATK": 120
+            },
+            "REQUIRE_LV": 30,
+            "UNLOCK_REQUIRE": {
+                "38004": 12
+            }
+        }
+    },
+    "RETINUE": {
+        "1": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "2": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "3": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "4": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "5": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 2000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "6": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "7": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 5000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "8": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 10000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "9": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 20000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "10": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "11": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 40000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "12": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "13": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 60000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        },
+        "14": {
+            "UNLOCK_REQUIRE": {
+                "38004": 13
+            },
+            "UNLOCK_CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000000
+                }
+            ],
+            "UNLOCK_CONSUME2": [],
+            "INHERIT": [
+                "level"
+            ]
+        }
+    },
+    "REFRESH_RETINUE": {
+        "FREEZING_TIME": 24,
+        "REFRESH_CONSUME": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            }
+        ]
+    }
+}

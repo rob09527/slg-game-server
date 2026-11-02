@@ -1,0 +1,75 @@
+@error-color: #f5222d;
+@line-color: #dfdfdf;
+.kh-activity-form {
+  .form-line {
+    margin: 4px 0;
+    display: flex;
+    align-items: center;
+    position: relative;
+    .form-expand-icon {
+      position: absolute;
+      right: 0;
+      padding-left: 20px;
+      cursor: pointer;
+    }
+  }
+
+  .form-label{
+      margin-right: 8px;
+      min-width: 60px;
+  }
+  .kh-act-header {
+    .form-label {
+      min-width: 120px;
+    }
+  }
+
+  .w-line{
+    width: 100%;
+    padding: 20px 0;
+    p {
+      height: 1px;
+      margin: 0;
+      background-color: @line-color;
+    }
+  }
+  .activity-content {
+    display: flex;
+    flex-direction: row;
+    background-color: @line-color;
+    .activity-switch {
+      flex: 1;
+      margin-right: 1px;
+      padding-right: 4px;
+      background-color: white;
+    }
+
+    .activity-form {
+      .form-label{
+        width: 80px
+      }
+      flex: 2.5;
+      margin-left: 1px;
+      padding-left: 4px;
+      background-color: white;
+    }
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .ant-modal {
+    width: 100% !important;
+  }
+  .kh-activity-form {
+    .form-label{
+      margin-right: 8px;
+    }
+
+  }
+  .ant-modal-body {
+    padding: 24px 8px;
+    .ant-calendar-picker {
+      width: 40%;
+    }
+  }
+}

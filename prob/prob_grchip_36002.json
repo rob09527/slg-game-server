@@ -1,0 +1,168 @@
+{
+    "COUNTAREA": {
+        "MIN": 1,
+        "MAX": 1
+    },
+    "PROB": [
+        {
+            "RATE": 600,
+            "GOT": [
+                {
+                    "GSID": 10082,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 600,
+            "GOT": [
+                {
+                    "GSID": 10102,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 600,
+            "GOT": [
+                {
+                    "GSID": 10122,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 600,
+            "GOT": [
+                {
+                    "GSID": 10142,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 600,
+            "GOT": [
+                {
+                    "GSID": 10161,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 600,
+            "GOT": [
+                {
+                    "GSID": 10181,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 600,
+            "GOT": [
+                {
+                    "GSID": 10201,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 600,
+            "GOT": [
+                {
+                    "GSID": 10221,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 200,
+            "GOT": [
+                {
+                    "GSID": 10241,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 200,
+            "GOT": [
+                {
+                    "GSID": 10261,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 200,
+            "GOT": [
+                {
+                    "GSID": 10281,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 200,
+            "GOT": [
+                {
+                    "GSID": 10301,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 200,
+            "GOT": [
+                {
+                    "GSID": 10321,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 60,
+            "GOT": [
+                {
+                    "GSID": 10341,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 60,
+            "GOT": [
+                {
+                    "GSID": 10361,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        },
+        {
+            "RATE": 60,
+            "GOT": [
+                {
+                    "GSID": 10381,
+                    "MINCOUNT": 1,
+                    "MAXCOUNT": 1
+                }
+            ]
+        }
+    ]
+}

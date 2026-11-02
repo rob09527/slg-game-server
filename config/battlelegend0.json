@@ -1,0 +1,28 @@
+{
+    "1": {
+        "2": {
+            "gsid": 16343,
+            "level": 130,
+            "class": 6,
+            "exhp": 999,
+            "exatk": 8,
+            "scale": 1.5
+        },
+        "6": {
+            "gsid": 12182,
+            "level": 110,
+            "class": 6,
+            "exhp": 100,
+            "exatk": 5,
+            "scale": 1.3
+        },
+        "8": {
+            "gsid": 10283,
+            "level": 110,
+            "class": 6,
+            "exhp": 100,
+            "exatk": 5,
+            "scale": 1.3
+        }
+    }
+}

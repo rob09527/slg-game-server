@@ -1,0 +1,8550 @@
+{
+    "34000": {
+        "EXP": 1,
+        "PRICE": 1,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 1
+            }
+        ],
+        "QUALITY": 2,
+        "STAR": 1,
+        "QLEVEL": 1
+    },
+    "34001": {
+        "EXP": 20,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 270
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34002
+        },
+        "QUALITY": 1,
+        "STAR": 1,
+        "QLEVEL": 1
+    },
+    "34002": {
+        "EXP": 60,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34003
+        },
+        "QUALITY": 1,
+        "STAR": 2,
+        "QLEVEL": 1
+    },
+    "34003": {
+        "EXP": 100,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 450
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34004
+        },
+        "QUALITY": 1,
+        "STAR": 3,
+        "QLEVEL": 1
+    },
+    "34004": {
+        "EXP": 140,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 70
+            }
+        ],
+        "QUALITY": 1,
+        "STAR": 4,
+        "QLEVEL": 1
+    },
+    "34011": {
+        "EXP": 20,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 270
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34012
+        },
+        "QUALITY": 1,
+        "STAR": 1,
+        "QLEVEL": 1
+    },
+    "34012": {
+        "EXP": 60,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34013
+        },
+        "QUALITY": 1,
+        "STAR": 2,
+        "QLEVEL": 1
+    },
+    "34013": {
+        "EXP": 100,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 450
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34014
+        },
+        "QUALITY": 1,
+        "STAR": 3,
+        "QLEVEL": 1
+    },
+    "34014": {
+        "EXP": 140,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 70
+            }
+        ],
+        "QUALITY": 1,
+        "STAR": 4,
+        "QLEVEL": 1
+    },
+    "34021": {
+        "EXP": 20,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 270
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34022
+        },
+        "QUALITY": 1,
+        "STAR": 1,
+        "QLEVEL": 1
+    },
+    "34022": {
+        "EXP": 60,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34023
+        },
+        "QUALITY": 1,
+        "STAR": 2,
+        "QLEVEL": 1
+    },
+    "34023": {
+        "EXP": 100,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 450
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34024
+        },
+        "QUALITY": 1,
+        "STAR": 3,
+        "QLEVEL": 1
+    },
+    "34024": {
+        "EXP": 140,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 70
+            }
+        ],
+        "QUALITY": 1,
+        "STAR": 4,
+        "QLEVEL": 1
+    },
+    "34031": {
+        "EXP": 20,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 270
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34032
+        },
+        "QUALITY": 1,
+        "STAR": 1,
+        "QLEVEL": 1
+    },
+    "34032": {
+        "EXP": 60,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34033
+        },
+        "QUALITY": 1,
+        "STAR": 2,
+        "QLEVEL": 1
+    },
+    "34033": {
+        "EXP": 100,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 450
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34034
+        },
+        "QUALITY": 1,
+        "STAR": 3,
+        "QLEVEL": 1
+    },
+    "34034": {
+        "EXP": 140,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 70
+            }
+        ],
+        "QUALITY": 1,
+        "STAR": 4,
+        "QLEVEL": 1
+    },
+    "34041": {
+        "EXP": 20,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 270
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34042
+        },
+        "QUALITY": 1,
+        "STAR": 1,
+        "QLEVEL": 1
+    },
+    "34042": {
+        "EXP": 60,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34043
+        },
+        "QUALITY": 1,
+        "STAR": 2,
+        "QLEVEL": 1
+    },
+    "34043": {
+        "EXP": 100,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 450
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 40,
+            "ID": 34044
+        },
+        "QUALITY": 1,
+        "STAR": 3,
+        "QLEVEL": 1
+    },
+    "34044": {
+        "EXP": 140,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 70
+            }
+        ],
+        "QUALITY": 1,
+        "STAR": 4,
+        "QLEVEL": 1
+    },
+    "34051": {
+        "EXP": 40,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 430
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34052
+        },
+        "QUALITY": 2,
+        "STAR": 1,
+        "QLEVEL": 2
+    },
+    "34052": {
+        "EXP": 230,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34053
+        },
+        "QUALITY": 2,
+        "STAR": 2,
+        "QLEVEL": 2
+    },
+    "34053": {
+        "EXP": 420,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 650
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34054
+        },
+        "QUALITY": 2,
+        "STAR": 3,
+        "QLEVEL": 2
+    },
+    "34054": {
+        "EXP": 610,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 760
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 130
+            }
+        ],
+        "QUALITY": 2,
+        "STAR": 4,
+        "QLEVEL": 2
+    },
+    "34061": {
+        "EXP": 40,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 430
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34062
+        },
+        "QUALITY": 2,
+        "STAR": 1,
+        "QLEVEL": 2
+    },
+    "34062": {
+        "EXP": 230,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34063
+        },
+        "QUALITY": 2,
+        "STAR": 2,
+        "QLEVEL": 2
+    },
+    "34063": {
+        "EXP": 420,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 650
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34064
+        },
+        "QUALITY": 2,
+        "STAR": 3,
+        "QLEVEL": 2
+    },
+    "34064": {
+        "EXP": 610,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 760
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 130
+            }
+        ],
+        "QUALITY": 2,
+        "STAR": 4,
+        "QLEVEL": 2
+    },
+    "34071": {
+        "EXP": 40,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 430
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34072
+        },
+        "QUALITY": 2,
+        "STAR": 1,
+        "QLEVEL": 2
+    },
+    "34072": {
+        "EXP": 230,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34073
+        },
+        "QUALITY": 2,
+        "STAR": 2,
+        "QLEVEL": 2
+    },
+    "34073": {
+        "EXP": 420,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 650
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34074
+        },
+        "QUALITY": 2,
+        "STAR": 3,
+        "QLEVEL": 2
+    },
+    "34074": {
+        "EXP": 610,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 760
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 130
+            }
+        ],
+        "QUALITY": 2,
+        "STAR": 4,
+        "QLEVEL": 2
+    },
+    "34081": {
+        "EXP": 40,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 430
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34082
+        },
+        "QUALITY": 2,
+        "STAR": 1,
+        "QLEVEL": 2
+    },
+    "34082": {
+        "EXP": 230,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34083
+        },
+        "QUALITY": 2,
+        "STAR": 2,
+        "QLEVEL": 2
+    },
+    "34083": {
+        "EXP": 420,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 650
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34084
+        },
+        "QUALITY": 2,
+        "STAR": 3,
+        "QLEVEL": 2
+    },
+    "34084": {
+        "EXP": 610,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 760
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 130
+            }
+        ],
+        "QUALITY": 2,
+        "STAR": 4,
+        "QLEVEL": 2
+    },
+    "34091": {
+        "EXP": 40,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 430
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34092
+        },
+        "QUALITY": 2,
+        "STAR": 1,
+        "QLEVEL": 2
+    },
+    "34092": {
+        "EXP": 230,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 540
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34093
+        },
+        "QUALITY": 2,
+        "STAR": 2,
+        "QLEVEL": 2
+    },
+    "34093": {
+        "EXP": 420,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 650
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 190,
+            "ID": 34094
+        },
+        "QUALITY": 2,
+        "STAR": 3,
+        "QLEVEL": 2
+    },
+    "34094": {
+        "EXP": 610,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 760
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 130
+            }
+        ],
+        "QUALITY": 2,
+        "STAR": 4,
+        "QLEVEL": 2
+    },
+    "34101": {
+        "EXP": 150,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34102
+        },
+        "QUALITY": 3,
+        "STAR": 1,
+        "QLEVEL": 3
+    },
+    "34102": {
+        "EXP": 730,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 810
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34103
+        },
+        "QUALITY": 3,
+        "STAR": 2,
+        "QLEVEL": 3
+    },
+    "34103": {
+        "EXP": 1310,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 150
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34104
+        },
+        "QUALITY": 3,
+        "STAR": 3,
+        "QLEVEL": 3
+    },
+    "34104": {
+        "EXP": 1890,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 990
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 170
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34105
+        },
+        "QUALITY": 3,
+        "STAR": 4,
+        "QLEVEL": 3
+    },
+    "34105": {
+        "EXP": 2470,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 190
+            }
+        ],
+        "QUALITY": 3,
+        "STAR": 5,
+        "QLEVEL": 3
+    },
+    "34111": {
+        "EXP": 150,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34112
+        },
+        "QUALITY": 3,
+        "STAR": 1,
+        "QLEVEL": 3
+    },
+    "34112": {
+        "EXP": 730,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 810
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34113
+        },
+        "QUALITY": 3,
+        "STAR": 2,
+        "QLEVEL": 3
+    },
+    "34113": {
+        "EXP": 1310,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 150
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34114
+        },
+        "QUALITY": 3,
+        "STAR": 3,
+        "QLEVEL": 3
+    },
+    "34114": {
+        "EXP": 1890,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 990
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 170
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34115
+        },
+        "QUALITY": 3,
+        "STAR": 4,
+        "QLEVEL": 3
+    },
+    "34115": {
+        "EXP": 2470,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 190
+            }
+        ],
+        "QUALITY": 3,
+        "STAR": 5,
+        "QLEVEL": 3
+    },
+    "34121": {
+        "EXP": 150,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34122
+        },
+        "QUALITY": 3,
+        "STAR": 1,
+        "QLEVEL": 3
+    },
+    "34122": {
+        "EXP": 730,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 810
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34123
+        },
+        "QUALITY": 3,
+        "STAR": 2,
+        "QLEVEL": 3
+    },
+    "34123": {
+        "EXP": 1310,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 150
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34124
+        },
+        "QUALITY": 3,
+        "STAR": 3,
+        "QLEVEL": 3
+    },
+    "34124": {
+        "EXP": 1890,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 990
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 170
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34125
+        },
+        "QUALITY": 3,
+        "STAR": 4,
+        "QLEVEL": 3
+    },
+    "34125": {
+        "EXP": 2470,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 190
+            }
+        ],
+        "QUALITY": 3,
+        "STAR": 5,
+        "QLEVEL": 3
+    },
+    "34131": {
+        "EXP": 150,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34132
+        },
+        "QUALITY": 3,
+        "STAR": 1,
+        "QLEVEL": 3
+    },
+    "34132": {
+        "EXP": 730,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 810
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34133
+        },
+        "QUALITY": 3,
+        "STAR": 2,
+        "QLEVEL": 3
+    },
+    "34133": {
+        "EXP": 1310,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 150
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34134
+        },
+        "QUALITY": 3,
+        "STAR": 3,
+        "QLEVEL": 3
+    },
+    "34134": {
+        "EXP": 1890,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 990
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 170
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34135
+        },
+        "QUALITY": 3,
+        "STAR": 4,
+        "QLEVEL": 3
+    },
+    "34135": {
+        "EXP": 2470,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 190
+            }
+        ],
+        "QUALITY": 3,
+        "STAR": 5,
+        "QLEVEL": 3
+    },
+    "34141": {
+        "EXP": 150,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 720
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34142
+        },
+        "QUALITY": 3,
+        "STAR": 1,
+        "QLEVEL": 3
+    },
+    "34142": {
+        "EXP": 730,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 810
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34143
+        },
+        "QUALITY": 3,
+        "STAR": 2,
+        "QLEVEL": 3
+    },
+    "34143": {
+        "EXP": 1310,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 150
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34144
+        },
+        "QUALITY": 3,
+        "STAR": 3,
+        "QLEVEL": 3
+    },
+    "34144": {
+        "EXP": 1890,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 990
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 170
+            }
+        ],
+        "NEXT": {
+            "EXP": 580,
+            "ID": 34145
+        },
+        "QUALITY": 3,
+        "STAR": 4,
+        "QLEVEL": 3
+    },
+    "34145": {
+        "EXP": 2470,
+        "PRICE": 25000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 190
+            }
+        ],
+        "QUALITY": 3,
+        "STAR": 5,
+        "QLEVEL": 3
+    },
+    "34151": {
+        "EXP": 650,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34152
+        },
+        "QUALITY": 4,
+        "STAR": 1,
+        "QLEVEL": 4
+    },
+    "34152": {
+        "EXP": 2090,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 165
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34153
+        },
+        "QUALITY": 4,
+        "STAR": 2,
+        "QLEVEL": 4
+    },
+    "34153": {
+        "EXP": 3530,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1260
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34154
+        },
+        "QUALITY": 4,
+        "STAR": 3,
+        "QLEVEL": 4
+    },
+    "34154": {
+        "EXP": 4970,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1440
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 215
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34155
+        },
+        "QUALITY": 4,
+        "STAR": 4,
+        "QLEVEL": 4
+    },
+    "34155": {
+        "EXP": 6410,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 240
+            }
+        ],
+        "QUALITY": 4,
+        "STAR": 5,
+        "QLEVEL": 4
+    },
+    "34161": {
+        "EXP": 650,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34162
+        },
+        "QUALITY": 4,
+        "STAR": 1,
+        "QLEVEL": 4
+    },
+    "34162": {
+        "EXP": 2090,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 165
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34163
+        },
+        "QUALITY": 4,
+        "STAR": 2,
+        "QLEVEL": 4
+    },
+    "34163": {
+        "EXP": 3530,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1260
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34164
+        },
+        "QUALITY": 4,
+        "STAR": 3,
+        "QLEVEL": 4
+    },
+    "34164": {
+        "EXP": 4970,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1440
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 215
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34165
+        },
+        "QUALITY": 4,
+        "STAR": 4,
+        "QLEVEL": 4
+    },
+    "34165": {
+        "EXP": 6410,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 240
+            }
+        ],
+        "QUALITY": 4,
+        "STAR": 5,
+        "QLEVEL": 4
+    },
+    "34171": {
+        "EXP": 650,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34172
+        },
+        "QUALITY": 4,
+        "STAR": 1,
+        "QLEVEL": 4
+    },
+    "34172": {
+        "EXP": 2090,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 165
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34173
+        },
+        "QUALITY": 4,
+        "STAR": 2,
+        "QLEVEL": 4
+    },
+    "34173": {
+        "EXP": 3530,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1260
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34174
+        },
+        "QUALITY": 4,
+        "STAR": 3,
+        "QLEVEL": 4
+    },
+    "34174": {
+        "EXP": 4970,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1440
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 215
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34175
+        },
+        "QUALITY": 4,
+        "STAR": 4,
+        "QLEVEL": 4
+    },
+    "34175": {
+        "EXP": 6410,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 240
+            }
+        ],
+        "QUALITY": 4,
+        "STAR": 5,
+        "QLEVEL": 4
+    },
+    "34181": {
+        "EXP": 650,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34182
+        },
+        "QUALITY": 4,
+        "STAR": 1,
+        "QLEVEL": 4
+    },
+    "34182": {
+        "EXP": 2090,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 165
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34183
+        },
+        "QUALITY": 4,
+        "STAR": 2,
+        "QLEVEL": 4
+    },
+    "34183": {
+        "EXP": 3530,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1260
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34184
+        },
+        "QUALITY": 4,
+        "STAR": 3,
+        "QLEVEL": 4
+    },
+    "34184": {
+        "EXP": 4970,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1440
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 215
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34185
+        },
+        "QUALITY": 4,
+        "STAR": 4,
+        "QLEVEL": 4
+    },
+    "34185": {
+        "EXP": 6410,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 240
+            }
+        ],
+        "QUALITY": 4,
+        "STAR": 5,
+        "QLEVEL": 4
+    },
+    "34191": {
+        "EXP": 650,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 900
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34192
+        },
+        "QUALITY": 4,
+        "STAR": 1,
+        "QLEVEL": 4
+    },
+    "34192": {
+        "EXP": 2090,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1080
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 165
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34193
+        },
+        "QUALITY": 4,
+        "STAR": 2,
+        "QLEVEL": 4
+    },
+    "34193": {
+        "EXP": 3530,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1260
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34194
+        },
+        "QUALITY": 4,
+        "STAR": 3,
+        "QLEVEL": 4
+    },
+    "34194": {
+        "EXP": 4970,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1440
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 215
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34195
+        },
+        "QUALITY": 4,
+        "STAR": 4,
+        "QLEVEL": 4
+    },
+    "34195": {
+        "EXP": 6410,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 240
+            }
+        ],
+        "QUALITY": 4,
+        "STAR": 5,
+        "QLEVEL": 4
+    },
+    "34201": {
+        "EXP": 2400,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1350
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34202
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 5
+    },
+    "34202": {
+        "EXP": 5280,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 220
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34203
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 5
+    },
+    "34203": {
+        "EXP": 8160,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1890
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 250
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34204
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 5
+    },
+    "34204": {
+        "EXP": 11040,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2160
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 280
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34205
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 5
+    },
+    "34205": {
+        "EXP": 13920,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2430
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 310
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34206
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 5
+    },
+    "34206": {
+        "EXP": 16800,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 340
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 5
+    },
+    "34211": {
+        "EXP": 2400,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1350
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34212
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 5
+    },
+    "34212": {
+        "EXP": 5280,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 220
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34213
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 5
+    },
+    "34213": {
+        "EXP": 8160,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1890
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 250
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34214
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 5
+    },
+    "34214": {
+        "EXP": 11040,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2160
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 280
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34215
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 5
+    },
+    "34215": {
+        "EXP": 13920,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2430
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 310
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34216
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 5
+    },
+    "34216": {
+        "EXP": 16800,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 340
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 5
+    },
+    "34221": {
+        "EXP": 2400,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1350
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34222
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 5
+    },
+    "34222": {
+        "EXP": 5280,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 220
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34223
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 5
+    },
+    "34223": {
+        "EXP": 8160,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1890
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 250
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34224
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 5
+    },
+    "34224": {
+        "EXP": 11040,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2160
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 280
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34225
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 5
+    },
+    "34225": {
+        "EXP": 13920,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2430
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 310
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34226
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 5
+    },
+    "34226": {
+        "EXP": 16800,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 340
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 5
+    },
+    "34231": {
+        "EXP": 2400,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1350
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34232
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 5
+    },
+    "34232": {
+        "EXP": 5280,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 220
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34233
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 5
+    },
+    "34233": {
+        "EXP": 8160,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1890
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 250
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34234
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 5
+    },
+    "34234": {
+        "EXP": 11040,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2160
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 280
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34235
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 5
+    },
+    "34235": {
+        "EXP": 13920,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2430
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 310
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34236
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 5
+    },
+    "34236": {
+        "EXP": 16800,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 340
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 5
+    },
+    "34241": {
+        "EXP": 2400,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1350
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34242
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 5
+    },
+    "34242": {
+        "EXP": 5280,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1620
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 220
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34243
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 5
+    },
+    "34243": {
+        "EXP": 8160,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1890
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 250
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34244
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 5
+    },
+    "34244": {
+        "EXP": 11040,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2160
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 280
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34245
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 5
+    },
+    "34245": {
+        "EXP": 13920,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2430
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 310
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34246
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 5
+    },
+    "34246": {
+        "EXP": 16800,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 340
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 5
+    },
+    "34251": {
+        "EXP": 3600,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 240
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34252
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34252": {
+        "EXP": 9360,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 3420
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 276
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34253
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34253": {
+        "EXP": 15120,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4140
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 312
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34254
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34254": {
+        "EXP": 20880,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4860
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 348
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34255
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34255": {
+        "EXP": 26640,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 5580
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 384
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34256
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34256": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 6300
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 420
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34257
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34257": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7020
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 456
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34258
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 6
+    },
+    "34258": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7740
+            },
+            {
+                "KEY": "PXFATK",
+                "VAL": 492
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 6
+    },
+    "34261": {
+        "EXP": 3600,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 240
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34262
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34262": {
+        "EXP": 9360,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 3420
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 276
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34263
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34263": {
+        "EXP": 15120,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4140
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 312
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34264
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34264": {
+        "EXP": 20880,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4860
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 348
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34265
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34265": {
+        "EXP": 26640,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 5580
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 384
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34266
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34266": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 6300
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 420
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34267
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34267": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7020
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 456
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34268
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 6
+    },
+    "34268": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7740
+            },
+            {
+                "KEY": "PCKATK",
+                "VAL": 492
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 6
+    },
+    "34271": {
+        "EXP": 3600,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 240
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34272
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34272": {
+        "EXP": 9360,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 3420
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 276
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34273
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34273": {
+        "EXP": 15120,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4140
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 312
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34274
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34274": {
+        "EXP": 20880,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4860
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 348
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34275
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34275": {
+        "EXP": 26640,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 5580
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 384
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34276
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34276": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 6300
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 420
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34277
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34277": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7020
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 456
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34278
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 6
+    },
+    "34278": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7740
+            },
+            {
+                "KEY": "PSSATK",
+                "VAL": 492
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 6
+    },
+    "34281": {
+        "EXP": 3600,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 240
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34282
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34282": {
+        "EXP": 9360,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 3420
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 276
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34283
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34283": {
+        "EXP": 15120,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4140
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 312
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34284
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34284": {
+        "EXP": 20880,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4860
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 348
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34285
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34285": {
+        "EXP": 26640,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 5580
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 384
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34286
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34286": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 6300
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 420
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34287
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34287": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7020
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 456
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34288
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 6
+    },
+    "34288": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7740
+            },
+            {
+                "KEY": "PJSATK",
+                "VAL": 492
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 6
+    },
+    "34291": {
+        "EXP": 3600,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 240
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34292
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34292": {
+        "EXP": 9360,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 3420
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 276
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34293
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34293": {
+        "EXP": 15120,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4140
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 312
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34294
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34294": {
+        "EXP": 20880,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4860
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 348
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34295
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34295": {
+        "EXP": 26640,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 5580
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 384
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34296
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34296": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 6300
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 420
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34297
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34297": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7020
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 456
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34298
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 6
+    },
+    "34298": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7740
+            },
+            {
+                "KEY": "PHSATK",
+                "VAL": 492
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 6
+    },
+    "34301": {
+        "EXP": 2400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34302
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34302": {
+        "EXP": 5280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 20
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34303
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34303": {
+        "EXP": 8160,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 30
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34304
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34304": {
+        "EXP": 11040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34305
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34305": {
+        "EXP": 13920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34306
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34306": {
+        "EXP": 16800,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 60
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34311": {
+        "EXP": 2400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PRDC",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34312
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34312": {
+        "EXP": 5280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PRDC",
+                "VAL": 20
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34313
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34313": {
+        "EXP": 8160,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PRDC",
+                "VAL": 30
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34314
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34314": {
+        "EXP": 11040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PRDC",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34315
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34315": {
+        "EXP": 13920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "PRDC",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34316
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34316": {
+        "EXP": 16800,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PRDC",
+                "VAL": 60
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34321": {
+        "EXP": 2400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEF",
+                "VAL": 90
+            },
+            {
+                "KEY": "PDEX",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34322
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34322": {
+        "EXP": 5280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEF",
+                "VAL": 110
+            },
+            {
+                "KEY": "PDEX",
+                "VAL": 20
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34323
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34323": {
+        "EXP": 8160,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEF",
+                "VAL": 130
+            },
+            {
+                "KEY": "PDEX",
+                "VAL": 30
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34324
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34324": {
+        "EXP": 11040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEF",
+                "VAL": 140
+            },
+            {
+                "KEY": "PDEX",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34325
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34325": {
+        "EXP": 13920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEF",
+                "VAL": 160
+            },
+            {
+                "KEY": "PDEX",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34326
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34326": {
+        "EXP": 16800,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEF",
+                "VAL": 180
+            },
+            {
+                "KEY": "PDEX",
+                "VAL": 60
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34331": {
+        "EXP": 2400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PMDEF",
+                "VAL": 90
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34332
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34332": {
+        "EXP": 5280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PMDEF",
+                "VAL": 110
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 20
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34333
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34333": {
+        "EXP": 8160,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PMDEF",
+                "VAL": 130
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 30
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34334
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34334": {
+        "EXP": 11040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PMDEF",
+                "VAL": 140
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34335
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34335": {
+        "EXP": 13920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PMDEF",
+                "VAL": 160
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34336
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34336": {
+        "EXP": 16800,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PMDEF",
+                "VAL": 180
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 60
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34341": {
+        "EXP": 2400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PPTHR",
+                "VAL": 50
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34342
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34342": {
+        "EXP": 5280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PPTHR",
+                "VAL": 60
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 62
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34343
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34343": {
+        "EXP": 8160,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PPTHR",
+                "VAL": 80
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 74
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34344
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34344": {
+        "EXP": 11040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PPTHR",
+                "VAL": 90
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 86
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34345
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34345": {
+        "EXP": 13920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PPTHR",
+                "VAL": 100
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 98
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34346
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34346": {
+        "EXP": 16800,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PPTHR",
+                "VAL": 110
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 110
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34351": {
+        "EXP": 2400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 30
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34352
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 6
+    },
+    "34352": {
+        "EXP": 5280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 30
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34353
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 6
+    },
+    "34353": {
+        "EXP": 8160,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 40
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 150
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34354
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 6
+    },
+    "34354": {
+        "EXP": 11040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 40
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 180
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34355
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 6
+    },
+    "34355": {
+        "EXP": 13920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 50
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 210
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34356
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 6
+    },
+    "34356": {
+        "EXP": 16800,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 50
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 240
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 6
+    },
+    "34361": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 100
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34362
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 10
+    },
+    "34362": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 150
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 114
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34363
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 10
+    },
+    "34363": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 170
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 128
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34364
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 10
+    },
+    "34364": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 190
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 100
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 142
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34365
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 10
+    },
+    "34365": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 210
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 110
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 156
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34366
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 10
+    },
+    "34366": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 230
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 120
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 170
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34367
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 10
+    },
+    "34367": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 240
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 130
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 184
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34368
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 10
+    },
+    "34368": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 260
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 140
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 198
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 10
+    },
+    "34371": {
+        "EXP": 3600,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2700
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34372
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34372": {
+        "EXP": 9360,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 3420
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34373
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34373": {
+        "EXP": 15120,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4140
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34374
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34374": {
+        "EXP": 20880,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4860
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34375
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34375": {
+        "EXP": 26640,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 5580
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34376
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34376": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 6300
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34377
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34377": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7020
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34378
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34378": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 7740
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 110
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34381": {
+        "EXP": 3600,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 13500
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34382
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34382": {
+        "EXP": 9360,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 17100
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34383
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34383": {
+        "EXP": 15120,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 20700
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34384
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34384": {
+        "EXP": 20880,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 24300
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 150
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34385
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34385": {
+        "EXP": 26640,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 27900
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 170
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34386
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34386": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 31500
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 190
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34387
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34387": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 35100
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 210
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34388
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34388": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 38700
+            },
+            {
+                "KEY": "PHP",
+                "VAL": 230
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34391": {
+        "EXP": 3600,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34392
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34392": {
+        "EXP": 9360,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34393
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34393": {
+        "EXP": 15120,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34394
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34394": {
+        "EXP": 20880,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34395
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34395": {
+        "EXP": 26640,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34396
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34396": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34397
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34397": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 200
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34398
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34398": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 220
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 140
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34421": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEX",
+                "VAL": 70
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 70
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 60
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34422
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 10
+    },
+    "34422": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEX",
+                "VAL": 90
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 85
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 70
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34423
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 10
+    },
+    "34423": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEX",
+                "VAL": 100
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 100
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 80
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34424
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 10
+    },
+    "34424": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEX",
+                "VAL": 110
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 115
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 90
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34425
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 10
+    },
+    "34425": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEX",
+                "VAL": 130
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 130
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 100
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34426
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 10
+    },
+    "34426": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEX",
+                "VAL": 140
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 145
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 110
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34427
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 10
+    },
+    "34427": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEX",
+                "VAL": 150
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 160
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 120
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34428
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 10
+    },
+    "34428": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PDEX",
+                "VAL": 170
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 175
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 130
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 10
+    },
+    "34431": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 150
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34432
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 10
+    },
+    "34432": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 150
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 170
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34433
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 10
+    },
+    "34433": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 170
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 190
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34434
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 10
+    },
+    "34434": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 190
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 100
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 210
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34435
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 10
+    },
+    "34435": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 210
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 110
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 230
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34436
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 10
+    },
+    "34436": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 230
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 120
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 250
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34437
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 10
+    },
+    "34437": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 240
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 130
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 270
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34438
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 10
+    },
+    "34438": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 260
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 140
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 290
+            },
+            {
+                "KEY": "MP",
+                "VAL": 10
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 10
+    },
+    "34441": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 40
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34442
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 7
+    },
+    "34442": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 50
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34443
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 7
+    },
+    "34443": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 60
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34444
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 7
+    },
+    "34444": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 70
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34445
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 7
+    },
+    "34445": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 80
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34446
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 7
+    },
+    "34446": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34447
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 7
+    },
+    "34447": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 200
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 100
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34448
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 7
+    },
+    "34448": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 220
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 150
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 7
+    },
+    "34451": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 50
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34452
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 7
+    },
+    "34452": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 70
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34453
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 7
+    },
+    "34453": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 90
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34454
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 7
+    },
+    "34454": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 110
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34455
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 7
+    },
+    "34455": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 130
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34456
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 7
+    },
+    "34456": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 150
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 160
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34457
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 7
+    },
+    "34457": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 200
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 170
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 180
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34458
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 7
+    },
+    "34458": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 220
+            },
+            {
+                "KEY": "PDEF",
+                "VAL": 190
+            },
+            {
+                "KEY": "PMDEF",
+                "VAL": 200
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 7
+    },
+    "34461": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 30
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34462
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 7
+    },
+    "34462": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 36
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34463
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 7
+    },
+    "34463": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 42
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34464
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 7
+    },
+    "34464": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 48
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 160
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34465
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 7
+    },
+    "34465": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 54
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 180
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34466
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 7
+    },
+    "34466": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 60
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 200
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34467
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 7
+    },
+    "34467": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 100
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 66
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 220
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34468
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 7
+    },
+    "34468": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 110
+            },
+            {
+                "KEY": "PCRI",
+                "VAL": 72
+            },
+            {
+                "KEY": "PCRID",
+                "VAL": 240
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 7
+    },
+    "34471": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 40
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34472
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 7
+    },
+    "34472": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 46
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34473
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 7
+    },
+    "34473": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 52
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34474
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 7
+    },
+    "34474": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 58
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34475
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 7
+    },
+    "34475": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 64
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34476
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 7
+    },
+    "34476": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34477
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 7
+    },
+    "34477": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 200
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 100
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 76
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34478
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 7
+    },
+    "34478": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 220
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 110
+            },
+            {
+                "KEY": "PCD",
+                "VAL": 82
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 7
+    },
+    "34481": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 30
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34482
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 7
+    },
+    "34482": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 40
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34483
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 7
+    },
+    "34483": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 50
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34484
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 7
+    },
+    "34484": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 60
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34485
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 7
+    },
+    "34485": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 70
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34486
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 7
+    },
+    "34486": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 80
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34487
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 7
+    },
+    "34487": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 200
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 90
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34488
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 7
+    },
+    "34488": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 220
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 100
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 150
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 7
+    },
+    "34501": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 40
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34502
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34502": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 40
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34503
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34503": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 50
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34504
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34504": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 50
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34505
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34505": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 60
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34506
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34506": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 60
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34507
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34507": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 70
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34508
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34508": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PCRI",
+                "VAL": 70
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 140
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34511": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34512
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34512": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34513
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34513": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34514
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34514": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34515
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34515": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34516
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34516": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34517
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34517": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 200
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34518
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34518": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 220
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 110
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34521": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34522
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34522": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34523
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34523": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34524
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34524": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34525
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34525": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34526
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34526": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34527
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34527": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 200
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34528
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34528": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 220
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 110
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34541": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PASP",
+                "VAL": 70
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 30
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34542
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34542": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PASP",
+                "VAL": 80
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 40
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34543
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34543": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PASP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 50
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34544
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34544": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PASP",
+                "VAL": 100
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 60
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34545
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34545": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PASP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 70
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34546
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34546": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PASP",
+                "VAL": 120
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 80
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34547
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34547": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PASP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 90
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34548
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34548": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PASP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 100
+            },
+            {
+                "KEY": "PMTHR",
+                "VAL": 110
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34551": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ACCU",
+                "VAL": 70
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34552
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34552": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ACCU",
+                "VAL": 80
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34553
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34553": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ACCU",
+                "VAL": 90
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34554
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34554": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ACCU",
+                "VAL": 100
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34555
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34555": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ACCU",
+                "VAL": 110
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34556
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34556": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ACCU",
+                "VAL": 120
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34557
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34557": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ACCU",
+                "VAL": 130
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34558
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34558": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "ACCU",
+                "VAL": 140
+            },
+            {
+                "KEY": "PMDEX",
+                "VAL": 110
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34571": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 40
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34572
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34572": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 50
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34573
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34573": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 60
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34574
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34574": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 70
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34575
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34575": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 80
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34576
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34576": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34577
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34577": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 200
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 100
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34578
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34578": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 220
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PPTHR",
+                "VAL": 110
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34581": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 40
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34582
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34582": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 110
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34583
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34583": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34584
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34584": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34585
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34585": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 160
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34586
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34586": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34587
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34587": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 200
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 100
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34588
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34588": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 220
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 110
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 120
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34591": {
+        "EXP": 650,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 11250
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 1240
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34592
+        },
+        "QUALITY": 4,
+        "STAR": 1,
+        "QLEVEL": 4
+    },
+    "34592": {
+        "EXP": 2090,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 13500
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 1490
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34593
+        },
+        "QUALITY": 4,
+        "STAR": 2,
+        "QLEVEL": 4
+    },
+    "34593": {
+        "EXP": 3530,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 15750
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 1740
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34594
+        },
+        "QUALITY": 4,
+        "STAR": 3,
+        "QLEVEL": 4
+    },
+    "34594": {
+        "EXP": 4970,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 18000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 1990
+            }
+        ],
+        "NEXT": {
+            "EXP": 1440,
+            "ID": 34595
+        },
+        "QUALITY": 4,
+        "STAR": 4,
+        "QLEVEL": 4
+    },
+    "34595": {
+        "EXP": 6410,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 20250
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 2240
+            }
+        ],
+        "QUALITY": 4,
+        "STAR": 5,
+        "QLEVEL": 4
+    },
+    "34601": {
+        "EXP": 2400,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 14400
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 1990
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34602
+        },
+        "QUALITY": 5,
+        "STAR": 1,
+        "QLEVEL": 5
+    },
+    "34602": {
+        "EXP": 5280,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 17100
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 2290
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34603
+        },
+        "QUALITY": 5,
+        "STAR": 2,
+        "QLEVEL": 5
+    },
+    "34603": {
+        "EXP": 8160,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 19800
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 2590
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34604
+        },
+        "QUALITY": 5,
+        "STAR": 3,
+        "QLEVEL": 5
+    },
+    "34604": {
+        "EXP": 11040,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 22500
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 2890
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34605
+        },
+        "QUALITY": 5,
+        "STAR": 4,
+        "QLEVEL": 5
+    },
+    "34605": {
+        "EXP": 13920,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 25200
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 3190
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 2880,
+            "ID": 34606
+        },
+        "QUALITY": 5,
+        "STAR": 5,
+        "QLEVEL": 5
+    },
+    "34606": {
+        "EXP": 16800,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 27900
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 3490
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 100
+            }
+        ],
+        "QUALITY": 5,
+        "STAR": 6,
+        "QLEVEL": 5
+    },
+    "34611": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 70
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34612
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34612": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 100
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34613
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34613": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 120
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34614
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34614": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34615
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34615": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34616
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34616": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 150
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34617
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34617": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 170
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34618
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34618": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PASP",
+                "VAL": 140
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34621": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34622
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34622": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 100
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 64
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 64
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34623
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34623": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 120
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 68
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 78
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34624
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34624": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 72
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 92
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34625
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34625": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 76
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 106
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34626
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34626": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 150
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34627
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34627": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 170
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 84
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 134
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34628
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34628": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "ACCU",
+                "VAL": 150
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34631": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 50
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34632
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34632": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 100
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 64
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 64
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34633
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34633": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 120
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 68
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 78
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34634
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34634": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 72
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 92
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34635
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34635": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 76
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 106
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34636
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34636": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 150
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34637
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34637": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 170
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 84
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 134
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34638
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34638": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "DPCRI",
+                "VAL": 150
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34641": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 90
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 80
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34642
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34642": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 100
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 64
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 90
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34643
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34643": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 120
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 68
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 100
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34644
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34644": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 130
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 72
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 110
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34645
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34645": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 140
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 76
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 120
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34646
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34646": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 150
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 130
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34647
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34647": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 170
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 84
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 140
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34648
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34648": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PHP",
+                "VAL": 180
+            },
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "PMRDC",
+                "VAL": 150
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    },
+    "34651": {
+        "EXP": 5000,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 40
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34652
+        },
+        "QUALITY": 6,
+        "STAR": 1,
+        "QLEVEL": 8
+    },
+    "34652": {
+        "EXP": 10760,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 50
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 47
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34653
+        },
+        "QUALITY": 6,
+        "STAR": 2,
+        "QLEVEL": 8
+    },
+    "34653": {
+        "EXP": 16520,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 54
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34654
+        },
+        "QUALITY": 6,
+        "STAR": 3,
+        "QLEVEL": 8
+    },
+    "34654": {
+        "EXP": 22280,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 60
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 61
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34655
+        },
+        "QUALITY": 6,
+        "STAR": 4,
+        "QLEVEL": 8
+    },
+    "34655": {
+        "EXP": 28040,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 70
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 68
+            }
+        ],
+        "NEXT": {
+            "EXP": 5760,
+            "ID": 34656
+        },
+        "QUALITY": 6,
+        "STAR": 5,
+        "QLEVEL": 8
+    },
+    "34656": {
+        "EXP": 32400,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 75
+            }
+        ],
+        "NEXT": {
+            "EXP": 11520,
+            "ID": 34657
+        },
+        "QUALITY": 6,
+        "STAR": 6,
+        "QLEVEL": 8
+    },
+    "34657": {
+        "EXP": 43920,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 80
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 82
+            }
+        ],
+        "NEXT": {
+            "EXP": 20160,
+            "ID": 34658
+        },
+        "QUALITY": 7,
+        "STAR": 7,
+        "QLEVEL": 8
+    },
+    "34658": {
+        "EXP": 64080,
+        "PRICE": 250000,
+        "PROP": [
+            {
+                "KEY": "PATK",
+                "VAL": 90
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 90
+            }
+        ],
+        "QUALITY": 7,
+        "STAR": 8,
+        "QLEVEL": 8
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "legion": {
+        "NUM": 1,
+        "LEADTIME": 5,
+        "PACK": [
+            {
+                "PRICE": 648,
+                "EXP": 6480,
+                "NAME": "至尊小黄鱼礼包",
+                "ICON": "yblb_icon_0",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 12960
+                    }
+                ]
+            },
+            {
+                "PRICE": 328,
+                "EXP": 3280,
+                "NAME": "豪华小黄鱼礼包",
+                "ICON": "yblb_icon_1",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6560
+                    }
+                ]
+            },
+            {
+                "PRICE": 128,
+                "EXP": 1280,
+                "NAME": "幸运小黄鱼礼包",
+                "ICON": "yblb_icon_2",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 2560
+                    }
+                ]
+            },
+            {
+                "PRICE": 68,
+                "EXP": 680,
+                "NAME": "特惠小黄鱼礼包",
+                "ICON": "yblb_icon_3",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1360
+                    }
+                ]
+            }
+        ]
+    },
+    "north": {
+        "NUM": 1,
+        "LEADTIME": 5,
+        "PACK": [
+            {
+                "PRICE": 648,
+                "EXP": 6480,
+                "NAME": "至尊小黄鱼礼包",
+                "ICON": "yblb_icon_0",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 12960
+                    }
+                ]
+            },
+            {
+                "PRICE": 328,
+                "EXP": 3280,
+                "NAME": "豪华小黄鱼礼包",
+                "ICON": "yblb_icon_1",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6560
+                    }
+                ]
+            },
+            {
+                "PRICE": 128,
+                "EXP": 1280,
+                "NAME": "幸运小黄鱼礼包",
+                "ICON": "yblb_icon_2",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 2560
+                    }
+                ]
+            },
+            {
+                "PRICE": 68,
+                "EXP": 680,
+                "NAME": "特惠小黄鱼礼包",
+                "ICON": "yblb_icon_3",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1360
+                    }
+                ]
+            }
+        ]
+    },
+    "nation": {
+        "NUM": 4,
+        "LEADTIME": 1260,
+        "PACK": [
+            {
+                "PRICE": 648,
+                "EXP": 6480,
+                "NAME": "至尊小黄鱼礼包",
+                "ICON": "yblb_icon_0",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 30104,
+                        "COUNT": 97200
+                    }
+                ]
+            },
+            {
+                "PRICE": 328,
+                "EXP": 3280,
+                "NAME": "豪华小黄鱼礼包",
+                "ICON": "yblb_icon_1",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 30104,
+                        "COUNT": 49200
+                    }
+                ]
+            },
+            {
+                "PRICE": 128,
+                "EXP": 1280,
+                "NAME": "幸运小黄鱼礼包",
+                "ICON": "yblb_icon_2",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 30104,
+                        "COUNT": 19200
+                    }
+                ]
+            },
+            {
+                "PRICE": 68,
+                "EXP": 680,
+                "NAME": "特惠小黄鱼礼包",
+                "ICON": "yblb_icon_3",
+                "LIMIT": 1,
+                "REWARD": [
+                    {
+                        "GSID": 30104,
+                        "COUNT": 10200
+                    }
+                ]
+            }
+        ]
+    }
+}

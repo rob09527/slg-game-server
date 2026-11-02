@@ -1,0 +1,82 @@
+@error-color: #f5222d;
+.notice{
+  display: flex;
+  flex-direction: row;
+  .notice-editor {
+    flex: 6;
+    .w-e-toolbar{
+      width: 100% !important;
+      flex-flow: wrap-reverse;
+    }
+    .w-e-text-container {
+      height: 400px !important;
+    }
+    .submit {
+
+      margin: 20px auto;
+      text-align: center;
+      button {
+        width: 60%;
+      }
+    }
+  }
+  .notice-preview {
+    width: 290px;
+    background-color: #e9e3d9;
+    min-height: 500px;
+    max-height: 600px;
+    margin-left: 8px;
+    margin-right: 6px;
+    border: #645a5980 1px solid;
+    box-shadow: #645a59 -4px 5px 16px;
+    color: #603615;
+    font-size: 12px;
+
+    font[size="1"] {
+      font-size: 8px;
+    }
+    font[size="2"] {
+      font-size: 10px;
+    }
+    font[size="3"] {
+      font-size: 12px;
+    }
+    font[size="4"] {
+      font-size: 14px;
+    }
+    font[size="5"] {
+      font-size: 16px;
+    }
+    font[size="6"] {
+      font-size: 22px;
+    }
+    font[size="7"] {
+      font-size: 26px;
+    }
+    .title{
+      text-align: center;
+      margin-top: 5px;
+      img{
+        height: 25px;
+      }
+    }
+    .preview-content {
+      padding: 20px;
+      height: calc(100% - 30px);
+      overflow-y: auto;
+      margin: 5px 0;
+
+    }
+    .preview-content::-webkit-scrollbar {
+      display: none
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .notice-preview {
+      display: none;
+    }
+
+  }
+}
+

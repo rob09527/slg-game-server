@@ -1,0 +1,40 @@
+{
+    "1001001": {
+        "hurmtype": 1,
+        "hurmval": 100,
+        "canwalk": 1,
+        "e_buff": [
+            {
+                "buffid": "stun",
+                "prob": 100,
+                "ttime": 0.8
+            },
+            {
+                "buffid": "b47001",
+                "prob": 100,
+                "ttime": 6,
+                "num": -20
+            }
+        ]
+    },
+    "1001002": {
+        "hurmtype": 1,
+        "hurmval": 200,
+        "canwalk": 1,
+        "e_buff": [
+            {
+                "buffid": "stun",
+                "prob": 100,
+                "ttime": 0.85
+            },
+            {
+                "buffid": "b47001",
+                "prob": 100,
+                "ttime": 6,
+                "num": -20
+            }
+        ]
+    },
+    "1101001": {},
+    "1102001": {}
+}

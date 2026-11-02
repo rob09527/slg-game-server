@@ -1,0 +1,532 @@
+{
+    "MARK": 90520,
+    "CMARK": 90519,
+    "PRICE_EACH_ORDER": 12,
+    "REWARDS": [
+        {
+            "DAYS": 1,
+            "ITEMS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 200000
+                }
+            ]
+        },
+        {
+            "DAYS": 2,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 3,
+            "ITEMS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 4,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 5,
+            "ITEMS": [
+                {
+                    "GSID": 30112,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 250000
+                }
+            ]
+        },
+        {
+            "DAYS": 6,
+            "ITEMS": [
+                {
+                    "GSID": 32132,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 7,
+            "ITEMS": [
+                {
+                    "GSID": 32801,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 250000
+                }
+            ]
+        },
+        {
+            "DAYS": 8,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 9,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ]
+        },
+        {
+            "DAYS": 10,
+            "ITEMS": [
+                {
+                    "GSID": 30152,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 11,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 200000
+                }
+            ]
+        },
+        {
+            "DAYS": 12,
+            "ITEMS": [
+                {
+                    "GSID": 32132,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 13,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 14,
+            "ITEMS": [
+                {
+                    "GSID": 32802,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 15,
+            "ITEMS": [
+                {
+                    "GSID": 32133,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 250000
+                }
+            ]
+        },
+        {
+            "DAYS": 16,
+            "ITEMS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 17,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 250000
+                }
+            ]
+        },
+        {
+            "DAYS": 18,
+            "ITEMS": [
+                {
+                    "GSID": 32133,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 19,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ]
+        },
+        {
+            "DAYS": 20,
+            "ITEMS": [
+                {
+                    "GSID": 30152,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 21,
+            "ITEMS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 200000
+                }
+            ]
+        },
+        {
+            "DAYS": 22,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 23,
+            "ITEMS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 24,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 25,
+            "ITEMS": [
+                {
+                    "GSID": 30112,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 250000
+                }
+            ]
+        },
+        {
+            "DAYS": 26,
+            "ITEMS": [
+                {
+                    "GSID": 32132,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 27,
+            "ITEMS": [
+                {
+                    "GSID": 32801,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 250000
+                }
+            ]
+        },
+        {
+            "DAYS": 28,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 29,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ]
+        },
+        {
+            "DAYS": 30,
+            "ITEMS": [
+                {
+                    "GSID": 30152,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 31,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 200000
+                }
+            ]
+        },
+        {
+            "DAYS": 32,
+            "ITEMS": [
+                {
+                    "GSID": 32132,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 33,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 34,
+            "ITEMS": [
+                {
+                    "GSID": 32802,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 35,
+            "ITEMS": [
+                {
+                    "GSID": 32133,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 250000
+                }
+            ]
+        },
+        {
+            "DAYS": 36,
+            "ITEMS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        {
+            "DAYS": 37,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 250000
+                }
+            ]
+        },
+        {
+            "DAYS": 38,
+            "ITEMS": [
+                {
+                    "GSID": 32133,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "DAYS": 39,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ]
+        },
+        {
+            "DAYS": 40,
+            "ITEMS": [
+                {
+                    "GSID": 30152,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ]
+        }
+    ],
+    "DAYARR": [
+        5,
+        10,
+        20
+    ]
+}

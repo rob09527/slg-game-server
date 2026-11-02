@@ -1,0 +1,20 @@
+module.exports = {
+    "success": { code: 200, message: "success" },
+    "request_failed": { code: 400, message: "request_failed" },
+    "order_exists": { code: 401, message: "order_exists" },
+    "user_does_not_exist": { code: 402, message: "user_does_not_exist" },
+    "order_not_exists": { code: 403, message: "order_not_exists" },
+    "invalid_amount": { code: 7000, message: "invalid_amount" },
+    "signature_failed": { code: 7001, message: "signature_failed" },
+    "unabletoaddprop_3099": { code: 9001, message: "unabletoaddprop_3099" },
+    "packages_error": { code: 9002, message: "No gift packages involved in configuration" },
+    "packages_config_error": { code: 9003, message: "The content of the gift package does not match the agreed configuration." },
+    "packages_exit": { code: 9004, message: "The gift package already exists and has been approved." },
+    "packages_rejected": { code: 9005, message: "The gift package already exists and the review was rejected." },
+    "packages_giveup": { code: 9006, message: "The gift package already exists and has been removed for review." },
+    "packages_exit_pending": { code: 9007, message: "The gift package already exists, please wait patiently." },
+    "packages_not_revise": { code: 9008, message: "Order status changed. you can't modify" },
+    "illegal_gsid": { code: 9998, message: "error_gsid" },
+    "illegal_parameters": { code: 9999, message: "Unable to execute your parameter command" },
+}
+

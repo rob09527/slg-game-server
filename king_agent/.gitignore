@@ -1,0 +1,10 @@
+test/
+/node_modules/
+.idea/
+.vscode/
+.history/
+package-lock.json
+/global.d.ts
+*/.DS_Store
+config.local.json
+/dist

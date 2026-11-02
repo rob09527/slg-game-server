@@ -1,0 +1,47 @@
+{
+    "REQUIRE": [
+        {
+            "GSID": 38004,
+            "COUNT": 13
+        },
+        {
+            "GSID": 92052,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 92053,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 92054,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 92055,
+            "MINCOUNT": 1
+        }
+    ],
+    "FROM": [],
+    "TO": [
+        {
+            "GSID": 38004,
+            "COUNT": 1
+        },
+        {
+            "GSID": 32801,
+            "COUNT": 1
+        },
+        {
+            "GSID": 30180,
+            "COUNT": 40
+        },
+        {
+            "GSID": 30029,
+            "COUNT": 70
+        },
+        {
+            "GSID": 38006,
+            "COUNT": 3500000
+        }
+    ]
+}

@@ -1,0 +1,1184 @@
+{
+    "CDDAY": 14,
+    "INTERVALDAY": 0,
+    "OPEN": 0,
+    "PRICE": 128,
+    "EXP": 1280,
+    "WDMARK": 90560,
+    "CHARGEREWARD": [
+        {
+            "GSID": 38005,
+            "COUNT": 1280
+        },
+        {
+            "GSID": 90560,
+            "COUNT": 2000
+        }
+    ],
+    "LEVELCOST": [
+        {
+            "GSID": 38005,
+            "COUNT": 500
+        }
+    ],
+    "LEVELGET": 1000,
+    "WDLEVEL": [
+        {
+            "ID": 1,
+            "LEVEL": 1,
+            "NREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 2,
+            "NREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 180000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 1800000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 3,
+            "NREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 4,
+            "NREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 180000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 1800000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 5,
+            "NREWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 300
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 1500
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 6,
+            "NREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 7,
+            "NREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 180000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 1800000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 8,
+            "NREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 9,
+            "NREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 180000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 1800000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 10,
+            "NREWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 300
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 1500
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 11,
+            "NREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 12,
+            "NREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 180000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 1800000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 13,
+            "NREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 14,
+            "NREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 180000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 1800000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 15,
+            "NREWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 300
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 1500
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 16,
+            "NREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 17,
+            "NREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 180000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 1800000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 18,
+            "NREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 3000000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 19,
+            "NREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 180000
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 1800000
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "LEVEL": 20,
+            "NREWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 500
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 2500
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 1,
+            "NREWARD": [
+                {
+                    "GSID": 30069,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30070,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 2,
+            "NREWARD": [
+                {
+                    "GSID": 30065,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 3,
+            "NREWARD": [
+                {
+                    "GSID": 30069,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30070,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 4,
+            "NREWARD": [
+                {
+                    "GSID": 30065,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 5,
+            "NREWARD": [
+                {
+                    "GSID": 30070,
+                    "COUNT": 5
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30071,
+                    "COUNT": 5
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 6,
+            "NREWARD": [
+                {
+                    "GSID": 30069,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30070,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 7,
+            "NREWARD": [
+                {
+                    "GSID": 30065,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 8,
+            "NREWARD": [
+                {
+                    "GSID": 30069,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30070,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 9,
+            "NREWARD": [
+                {
+                    "GSID": 30065,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 10,
+            "NREWARD": [
+                {
+                    "GSID": 30071,
+                    "COUNT": 2
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30072,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 11,
+            "NREWARD": [
+                {
+                    "GSID": 30069,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30070,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 12,
+            "NREWARD": [
+                {
+                    "GSID": 30065,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 13,
+            "NREWARD": [
+                {
+                    "GSID": 30069,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30070,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 14,
+            "NREWARD": [
+                {
+                    "GSID": 30065,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 15,
+            "NREWARD": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 5
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30067,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 16,
+            "NREWARD": [
+                {
+                    "GSID": 30069,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30070,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 17,
+            "NREWARD": [
+                {
+                    "GSID": 30065,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 18,
+            "NREWARD": [
+                {
+                    "GSID": 30069,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30070,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 19,
+            "NREWARD": [
+                {
+                    "GSID": 30065,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "LEVEL": 20,
+            "NREWARD": [
+                {
+                    "GSID": 30067,
+                    "COUNT": 5
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30068,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 1,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 2,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 3,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 4,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 5,
+            "NREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 6,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 7,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 8,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 9,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 10,
+            "NREWARD": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 11,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 12,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 13,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 14,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 15,
+            "NREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 16,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 17,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 18,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 19,
+            "NREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "LEVEL": 20,
+            "NREWARD": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                }
+            ],
+            "HREWARD": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                }
+            ]
+        }
+    ],
+    "TASKS": [
+        {
+            "TYPE": 1,
+            "INTRO": "登陆游戏",
+            "MARK": 90561,
+            "NUM": 1,
+            "PAGE": 1001,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 1,
+            "INTRO": "领取封地收益2次",
+            "MARK": 90562,
+            "NUM": 2,
+            "PAGE": 1050,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 1,
+            "INTRO": "商店购买1次物品",
+            "MARK": 90563,
+            "NUM": 1,
+            "PAGE": 1008,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 1,
+            "INTRO": "喵将塔挑战1次（不计输赢)",
+            "MARK": 90564,
+            "NUM": 1,
+            "PAGE": 1025,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 1,
+            "INTRO": "封地剿匪3次",
+            "MARK": 90565,
+            "NUM": 3,
+            "PAGE": 1050,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 1,
+            "INTRO": "军团签到1次",
+            "MARK": 90566,
+            "NUM": 1,
+            "PAGE": 1028,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 1,
+            "INTRO": "个人擂台胜利1次",
+            "MARK": 90567,
+            "NUM": 1,
+            "PAGE": 1022,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 1,
+            "INTRO": "互动悬赏2次",
+            "MARK": 90568,
+            "NUM": 2,
+            "PAGE": 1027,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 1,
+            "INTRO": "日常战役5次",
+            "MARK": 90569,
+            "NUM": 5,
+            "PAGE": 1020,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 1,
+            "INTRO": "快速扫荡1次",
+            "MARK": 90570,
+            "NUM": 1,
+            "PAGE": 1001,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 125
+                }
+            ]
+        },
+        {
+            "TYPE": 2,
+            "INTRO": "神将招募100次",
+            "MARK": 90571,
+            "NUM": 100,
+            "PAGE": 1005,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 1500
+                }
+            ]
+        },
+        {
+            "TYPE": 2,
+            "INTRO": "远征胜利100次",
+            "MARK": 90572,
+            "NUM": 100,
+            "PAGE": 1024,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 1500
+                }
+            ]
+        },
+        {
+            "TYPE": 2,
+            "INTRO": "个人演武挑战100次",
+            "MARK": 90573,
+            "NUM": 100,
+            "PAGE": 1022,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 1500
+                }
+            ]
+        },
+        {
+            "TYPE": 2,
+            "INTRO": "封地剿匪40次",
+            "MARK": 90574,
+            "NUM": 40,
+            "PAGE": 1050,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 1500
+                }
+            ]
+        },
+        {
+            "TYPE": 2,
+            "INTRO": "消耗15000小黄鱼",
+            "MARK": 90575,
+            "NUM": 15000,
+            "PAGE": 1008,
+            "REWARD": [
+                {
+                    "GSID": 90560,
+                    "COUNT": 1500
+                }
+            ]
+        }
+    ]
+}

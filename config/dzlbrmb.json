@@ -1,0 +1,97 @@
+[
+    {
+        "ID": 1001,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 0,
+        "ITEMS": [],
+        "CHOICE": [
+            101,
+            201
+        ]
+    },
+    {
+        "ID": 1002,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 30,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "CHOICE": [
+            102,
+            202
+        ]
+    },
+    {
+        "ID": 1003,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 128,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            }
+        ],
+        "CHOICE": [
+            103,
+            203
+        ]
+    },
+    {
+        "ID": 1004,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 328,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            }
+        ],
+        "CHOICE": [
+            104,
+            204
+        ]
+    },
+    {
+        "ID": 1005,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "PRICE": 648,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            }
+        ],
+        "CHOICE": [
+            105,
+            205
+        ]
+    }
+]

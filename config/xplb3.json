@@ -1,0 +1,102 @@
+[
+    {
+        "INDEX": 1001,
+        "PRICE": 648,
+        "EXP": 6480,
+        "LIMIT": 1,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 10
+            },
+            {
+                "GSID": 32118,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "INDEX": 1002,
+        "PRICE": 648,
+        "EXP": 6480,
+        "LIMIT": 1,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 10
+            },
+            {
+                "GSID": 32127,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "INDEX": 1003,
+        "PRICE": 648,
+        "EXP": 6480,
+        "LIMIT": 5,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 35
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 5000
+            }
+        ]
+    },
+    {
+        "INDEX": 1004,
+        "PRICE": 198,
+        "EXP": 1980,
+        "LIMIT": 2,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 10
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1500
+            }
+        ]
+    },
+    {
+        "INDEX": 1005,
+        "PRICE": 68,
+        "EXP": 680,
+        "LIMIT": 1,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 5
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500
+            }
+        ]
+    }
+]

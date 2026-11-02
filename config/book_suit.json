@@ -1,0 +1,730 @@
+{
+    "54001": [
+        {
+            "STAR": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70001
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70011
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70021
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70031
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70041
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70051
+            ]
+        }
+    ],
+    "54101": [
+        {
+            "STAR": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70101
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70111
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70121
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70131
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70141
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70151
+            ]
+        }
+    ],
+    "54201": [
+        {
+            "STAR": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 30000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2500
+                }
+            ],
+            "SKILL": [
+                70201
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 30000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2500
+                }
+            ],
+            "SKILL": [
+                70211
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 30000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2500
+                }
+            ],
+            "SKILL": [
+                70221
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 30000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2500
+                }
+            ],
+            "SKILL": [
+                70231
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 30000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2500
+                }
+            ],
+            "SKILL": [
+                70241
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 30000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2500
+                }
+            ],
+            "SKILL": [
+                70251
+            ]
+        }
+    ],
+    "54301": [
+        {
+            "STAR": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70301
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70311
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70321
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70331
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70341
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 27000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2700
+                }
+            ],
+            "SKILL": [
+                70351
+            ]
+        }
+    ],
+    "54401": [
+        {
+            "STAR": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70401
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70411
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70421
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70431
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70441
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 26000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70451
+            ]
+        }
+    ],
+    "54501": [
+        {
+            "STAR": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 28000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2600
+                }
+            ],
+            "SKILL": [
+                70501
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 28000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2600
+                }
+            ],
+            "SKILL": [
+                70511
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 28000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2600
+                }
+            ],
+            "SKILL": [
+                70521
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 28000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2600
+                }
+            ],
+            "SKILL": [
+                70531
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 28000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2600
+                }
+            ],
+            "SKILL": [
+                70541
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 28000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2600
+                }
+            ],
+            "SKILL": [
+                70551
+            ]
+        }
+    ],
+    "54601": [
+        {
+            "STAR": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 25000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70601
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 25000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70611
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 25000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70621
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 25000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70631
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 25000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70641
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "VAL": 25000
+                },
+                null,
+                {
+                    "KEY": "ATK",
+                    "VAL": 2800
+                }
+            ],
+            "SKILL": [
+                70651
+            ]
+        }
+    ]
+}

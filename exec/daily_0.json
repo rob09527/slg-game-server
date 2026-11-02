@@ -1,0 +1,63 @@
+{
+    "REQUIRE": [
+        {
+            "GSID": 93000,
+            "MAXCOUNT": 0
+        },
+        {
+            "GSID": 93001,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93002,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93003,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93004,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93005,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93006,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93007,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93008,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93009,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93010,
+            "MINCOUNT": 1
+        },
+        {
+            "GSID": 93011,
+            "MINCOUNT": 1
+        }
+    ],
+    "FROM": [],
+    "TO": [
+        {
+            "GSID": 93000,
+            "COUNT": 1
+        },
+        {
+            "GSID": 38005,
+            "COUNT": 100
+        }
+    ]
+}

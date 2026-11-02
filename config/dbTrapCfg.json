@@ -1,0 +1,30 @@
+{
+    "1001": {
+        "id": 1001,
+        "name": "陷阱1",
+        "icon": "bushoujia",
+        "model": "bushoujia",
+        "skillid": 1001001
+    },
+    "1002": {
+        "id": 1002,
+        "name": "陷阱2",
+        "icon": "bushoujia",
+        "model": "bushoujia",
+        "skillid": 1001002
+    },
+    "1101": {
+        "id": 1101,
+        "name": "巨马1",
+        "icon": "juma",
+        "model": "juma",
+        "skillid": 1101001
+    },
+    "1102": {
+        "id": 1102,
+        "name": "巨马2",
+        "icon": "juma",
+        "model": "juma",
+        "skillid": 1102001
+    }
+}

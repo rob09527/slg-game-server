@@ -1,0 +1,86 @@
+[
+    {
+        "DAY": 1,
+        "PRICE": 6,
+        "LIMIT": 1,
+        "EXP": 60,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 888
+            }
+        ]
+    },
+    {
+        "DAY": 2,
+        "PRICE": 10,
+        "LIMIT": 1,
+        "EXP": 100,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 10
+            }
+        ]
+    },
+    {
+        "DAY": 3,
+        "PRICE": 14,
+        "LIMIT": 1,
+        "EXP": 140,
+        "ITEMS": [
+            {
+                "GSID": 36001,
+                "COUNT": 50
+            }
+        ]
+    },
+    {
+        "DAY": 4,
+        "PRICE": 18,
+        "LIMIT": 1,
+        "EXP": 180,
+        "ITEMS": [
+            {
+                "GSID": 37007,
+                "COUNT": 50
+            }
+        ]
+    },
+    {
+        "DAY": 5,
+        "PRICE": 22,
+        "LIMIT": 1,
+        "EXP": 220,
+        "ITEMS": [
+            {
+                "GSID": 30009,
+                "COUNT": 10
+            }
+        ]
+    },
+    {
+        "DAY": 6,
+        "PRICE": 26,
+        "LIMIT": 1,
+        "EXP": 260,
+        "ITEMS": [
+            {
+                "GSID": 30011,
+                "COUNT": 5
+            }
+        ]
+    },
+    {
+        "DAY": 7,
+        "PRICE": 30,
+        "LIMIT": 1,
+        "EXP": 300,
+        "ITEMS": [
+            {
+                "GSID": 32568,
+                "COUNT": 1
+            }
+        ]
+    }
+]

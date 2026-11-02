@@ -1,0 +1,55 @@
+[
+    {},
+    {
+        "ATK": 60,
+        "HP": 1200,
+        "PDEF": 6.3,
+        "PDEX": 3,
+        "DPCRI": 2.5,
+        "PMDEX": 3,
+        "PMDEF": 6.3,
+        "ACCU": 4,
+        "PCRI": 2,
+        "PSKIDAM": 5,
+        "PATKDAM": 5
+    },
+    {
+        "ATK": 120,
+        "HP": 2400,
+        "PDEF": 12.6,
+        "PDEX": 6,
+        "DPCRI": 5,
+        "PMDEX": 6,
+        "PMDEF": 12.6,
+        "ACCU": 8,
+        "PCRI": 4,
+        "PSKIDAM": 10,
+        "PATKDAM": 10
+    },
+    {
+        "ATK": 180,
+        "HP": 3600,
+        "PDEF": 18.9,
+        "PDEX": 9,
+        "DPCRI": 7.5,
+        "PMDEX": 9,
+        "PMDEF": 18.9,
+        "ACCU": 12,
+        "PCRI": 6,
+        "PSKIDAM": 15,
+        "PATKDAM": 15
+    },
+    {
+        "ATK": 240,
+        "HP": 4800,
+        "PDEF": 25.2,
+        "PDEX": 12,
+        "DPCRI": 10,
+        "PMDEX": 12,
+        "PMDEF": 25.2,
+        "ACCU": 16,
+        "PCRI": 8,
+        "PSKIDAM": 20,
+        "PATKDAM": 20
+    }
+]

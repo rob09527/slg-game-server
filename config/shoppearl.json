@@ -1,0 +1,1046 @@
+[
+    [
+        {
+            "GSID": 58020,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58021,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58022,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58023,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58024,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58025,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58026,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58027,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58028,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58029,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58030,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58031,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58032,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58033,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58034,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58035,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58036,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58037,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58038,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58039,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 10,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 10,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58060,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 40,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 5,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58080,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 40,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 5,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58140,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 40,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 5,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58180,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 40,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 5,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58240,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 40,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 5,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58260,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 40,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 5,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58320,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 40,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 5,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58420,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 40,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 5,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    [
+        {
+            "GSID": 58440,
+            "CHANCE": 100,
+            "COIN": 30133,
+            "PRICE": 40,
+            "BUYTIME": -1,
+            "UNLOCK_ID": -1,
+            "HIDE_MAP_ID": -1,
+            "COUNT": [
+                {
+                    "NUM": 5,
+                    "CHANCE": 1
+                }
+            ],
+            "REQUIRE": {
+                "LEVEL": {
+                    "MIN": 0,
+                    "MAX": 999
+                },
+                "VIP": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            },
+            "DISCOUNT": [
+                100,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+]

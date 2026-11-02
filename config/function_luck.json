@@ -1,0 +1,816 @@
+{
+    "MAIN": {
+        "FUNCTION_ID": "MAIN",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "SHOP": {
+        "FUNCTION_ID": "SHOP",
+        "REQUIRE_NAME": "maxmapid",
+        "REQUIRE_COUNT": 10405
+    },
+    "SHOP_LEGION": {
+        "FUNCTION_ID": "SHOP_LEGION",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 28
+    },
+    "SHOP_LOOK": {
+        "FUNCTION_ID": "SHOP_LOOK",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 28
+    },
+    "SHOP_PRES": {
+        "FUNCTION_ID": "SHOP_PRES",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 1
+    },
+    "SHOP_DRAW": {
+        "FUNCTION_ID": "SHOP_DRAW",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "SHOP_MAZE": {
+        "FUNCTION_ID": "SHOP_MAZE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 44
+    },
+    "SHOP_PVP": {
+        "FUNCTION_ID": "SHOP_PVP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 22
+    },
+    "RELIVE": {
+        "FUNCTION_ID": "RELIVE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 15
+    },
+    "RELIVE_REBORN": {
+        "FUNCTION_ID": "RELIVE_REBORN",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 80
+    },
+    "PUB": {
+        "FUNCTION_ID": "PUB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "DRAW": {
+        "FUNCTION_ID": "DRAW",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "SUBS": {
+        "FUNCTION_ID": "SUBS",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "LOOK": {
+        "FUNCTION_ID": "LOOK",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 28
+    },
+    "LOOKSTAR_PREMIUM": {
+        "FUNCTION_ID": "LOOKSTAR_PREMIUM",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 50
+    },
+    "COMP": {
+        "FUNCTION_ID": "COMP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "RANK": {
+        "FUNCTION_ID": "RANK",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 25
+    },
+    "RANK_TOWER": {
+        "FUNCTION_ID": "RANK_TOWER",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 25
+    },
+    "MYTHICAL": {
+        "FUNCTION_ID": "MYTHICAL",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 65
+    },
+    "LEGION": {
+        "FUNCTION_ID": "LEGION",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 28
+    },
+    "GROUND": {
+        "FUNCTION_ID": "GROUND",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 20
+    },
+    "ITNMISSION": {
+        "FUNCTION_ID": "ITNMISSION",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 33
+    },
+    "ITNMISSION_PERS": {
+        "FUNCTION_ID": "ITNMISSION_PERS",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 33
+    },
+    "ITNMISSION_FRIEND": {
+        "FUNCTION_ID": "ITNMISSION_FRIEND",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 33
+    },
+    "PVP": {
+        "FUNCTION_ID": "PVP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 22
+    },
+    "PVP_TEAM": {
+        "FUNCTION_ID": "PVP_TEAM",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 54
+    },
+    "PVP_KING": {
+        "FUNCTION_ID": "PVP_KING",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 45
+    },
+    "BIGBATTLE": {
+        "FUNCTION_ID": "BIGBATTLE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 20
+    },
+    "BIGBATTLE_CB": {
+        "FUNCTION_ID": "BIGBATTLE_CB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 40
+    },
+    "BIGBATTLE_YL": {
+        "FUNCTION_ID": "BIGBATTLE_YL",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 42
+    },
+    "BIGBATTLE_HF": {
+        "FUNCTION_ID": "BIGBATTLE_HF",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 70
+    },
+    "TOWER": {
+        "FUNCTION_ID": "TOWER",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 25
+    },
+    "TOWER_KING": {
+        "FUNCTION_ID": "TOWER_KING",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 25
+    },
+    "TOWER_OCC": {
+        "FUNCTION_ID": "TOWER_OCC",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 95
+    },
+    "MAZE": {
+        "FUNCTION_ID": "MAZE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 44
+    },
+    "DUNGEON": {
+        "FUNCTION_ID": "DUNGEON",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 65
+    },
+    "WORLD_QUICK": {
+        "FUNCTION_ID": "WORLD_QUICK",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 22
+    },
+    "WORLD_CHAPTER": {
+        "FUNCTION_ID": "WORLD_CHAPTER",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "WORLD_EVENT": {
+        "FUNCTION_ID": "WORLD_EVENT",
+        "REQUIRE_NAME": "maxmapid",
+        "REQUIRE_COUNT": 10510
+    },
+    "GENER_TERA": {
+        "FUNCTION_ID": "GENER_TERA",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "GENER_MOUNT": {
+        "FUNCTION_ID": "GENER_MOUNT",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "GENER_FROM": {
+        "FUNCTION_ID": "GENER_FROM",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "OFFICIAL": {
+        "FUNCTION_ID": "OFFICIAL",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "MANOR": {
+        "FUNCTION_ID": "MANOR",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 41
+    },
+    "RECHARGE": {
+        "FUNCTION_ID": "RECHARGE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 5
+    },
+    "ACTIVITY": {
+        "FUNCTION_ID": "ACTIVITY",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "ACTIVITY_NEWBCK": {
+        "FUNCTION_ID": "ACTIVITY_NEWBCK",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ACTIVITY_JCHD": {
+        "FUNCTION_ID": "ACTIVITY_JCHD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "ACTIVITY_YDDH": {
+        "FUNCTION_ID": "ACTIVITY_YDDH",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "ACTIVITY_ZHD_GXDB": {
+        "FUNCTION_ID": "ACTIVITY_ZHD_GXDB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "ACTIVITY_ZHD_DJJF": {
+        "FUNCTION_ID": "ACTIVITY_ZHD_DJJF",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "ACTIVITY_ZHD_DJRW": {
+        "FUNCTION_ID": "ACTIVITY_ZHD_DJRW",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "SEVEN_LOGIN": {
+        "FUNCTION_ID": "SEVEN_LOGIN",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 7
+    },
+    "FRIENDPVP": {
+        "FUNCTION_ID": "FRIENDPVP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "FUSION": {
+        "FUNCTION_ID": "FUSION",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "MULTIPVP": {
+        "FUNCTION_ID": "MULTIPVP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "PRIVATEMAIL": {
+        "FUNCTION_ID": "PRIVATEMAIL",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "HELL_DIFF": {
+        "FUNCTION_ID": "HELL_DIFF",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 66
+    },
+    "FREE_WELFARE": {
+        "FUNCTION_ID": "FREE_WELFARE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9
+    },
+    "FREE_SUP": {
+        "FUNCTION_ID": "FREE_SUP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 5
+    },
+    "ACTIVITY_ZHD": {
+        "FUNCTION_ID": "ACTIVITY_ZHD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "YBTH": {
+        "FUNCTION_ID": "YBTH",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 40
+    },
+    "KAIFU_CZLB": {
+        "FUNCTION_ID": "KAIFU_CZLB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 20
+    },
+    "ACTIVITY_SHOUCHONG": {
+        "FUNCTION_ID": "ACTIVITY_SHOUCHONG",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 6
+    },
+    "LVBU": {
+        "FUNCTION_ID": "LVBU",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 30
+    },
+    "TJLB": {
+        "FUNCTION_ID": "TJLB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "LDJL": {
+        "FUNCTION_ID": "LDJL",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "LHGM": {
+        "FUNCTION_ID": "LHGM",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "SJG": {
+        "FUNCTION_ID": "SJG",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "SJG_DAILY": {
+        "FUNCTION_ID": "SJG_DAILY",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 50
+    },
+    "SJG_EXPEDITION": {
+        "FUNCTION_ID": "SJG_EXPEDITION",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 50
+    },
+    "DAY_SHOUCHONG": {
+        "FUNCTION_ID": "DAY_SHOUCHONG",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 12
+    },
+    "HERO_COME": {
+        "FUNCTION_ID": "HERO_COME",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "PRIV": {
+        "FUNCTION_ID": "PRIV",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 5
+    },
+    "SHOP_PRIV": {
+        "FUNCTION_ID": "SHOP_PRIV",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 5
+    },
+    "PVP_SUMMIT": {
+        "FUNCTION_ID": "PVP_SUMMIT",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 68
+    },
+    "ACTIVITY_WZQD": {
+        "FUNCTION_ID": "ACTIVITY_WZQD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "WEEK_TARGET": {
+        "FUNCTION_ID": "WEEK_TARGET",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "PVP_SUMMIT_CHAPMION": {
+        "FUNCTION_ID": "PVP_SUMMIT_CHAPMION",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "HAND_BOOK": {
+        "FUNCTION_ID": "HAND_BOOK",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 5
+    },
+    "WORTH_FUND": {
+        "FUNCTION_ID": "WORTH_FUND",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 40
+    },
+    "PALACE": {
+        "FUNCTION_ID": "PALACE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "DISMISS_SHOP": {
+        "FUNCTION_ID": "DISMISS_SHOP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 15
+    },
+    "FUND": {
+        "FUNCTION_ID": "FUND",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 25
+    },
+    "FUND_CZ": {
+        "FUNCTION_ID": "FUND_CZ",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 25
+    },
+    "FUND_SL": {
+        "FUNCTION_ID": "FUND_SL",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 30
+    },
+    "RECHARGE_YB": {
+        "FUNCTION_ID": "RECHARGE_YB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 5
+    },
+    "RECHARGE_VIP_CARD": {
+        "FUNCTION_ID": "RECHARGE_VIP_CARD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 5
+    },
+    "RECHARGE_VIP": {
+        "FUNCTION_ID": "RECHARGE_VIP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 5
+    },
+    "GIFT_WEEK": {
+        "FUNCTION_ID": "GIFT_WEEK",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 10
+    },
+    "GIFT_MONTH": {
+        "FUNCTION_ID": "GIFT_MONTH",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 10
+    },
+    "GIFT_DAY": {
+        "FUNCTION_ID": "GIFT_DAY",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 10
+    },
+    "SIGN_DAY": {
+        "FUNCTION_ID": "SIGN_DAY",
+        "REQUIRE_NAME": "level"
+    },
+    "SIGN_WEEKEND": {
+        "FUNCTION_ID": "SIGN_WEEKEND",
+        "REQUIRE_NAME": "level"
+    },
+    "CODE": {
+        "FUNCTION_ID": "CODE",
+        "REQUIRE_NAME": "level"
+    },
+    "CARD": {
+        "FUNCTION_ID": "CARD",
+        "REQUIRE_NAME": "level"
+    },
+    "JTHL": {
+        "FUNCTION_ID": "JTHL",
+        "REQUIRE_NAME": "level"
+    },
+    "RECOMMEND": {
+        "FUNCTION_ID": "RECOMMEND",
+        "REQUIRE_NAME": "level"
+    },
+    "SMITHY": {
+        "FUNCTION_ID": "SMITHY",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "LEGION_WAR": {
+        "FUNCTION_ID": "LEGION_WAR",
+        "REQUIRE_NAME": "level"
+    },
+    "LEGION_PRACTICE": {
+        "FUNCTION_ID": "LEGION_PRACTICE",
+        "REQUIRE_NAME": "level"
+    },
+    "LEIGION_AUCTION": {
+        "FUNCTION_ID": "LEIGION_AUCTION",
+        "REQUIRE_NAME": "level"
+    },
+    "GENERAL_SOUL": {
+        "FUNCTION_ID": "GENERAL_SOUL",
+        "REQUIRE_NAME": "level"
+    },
+    "RECHARGE_REBATE": {
+        "FUNCTION_ID": "RECHARGE_REBATE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ACTIVITY_DJDD": {
+        "FUNCTION_ID": "ACTIVITY_DJDD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 12
+    },
+    "ACTIVITY_HEHD": {
+        "FUNCTION_ID": "ACTIVITY_HEHD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 12
+    },
+    "MRLC": {
+        "FUNCTION_ID": "MRLC",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 5
+    },
+    "REBATE_CRASH": {
+        "FUNCTION_ID": "REBATE_CRASH",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ZYLB": {
+        "FUNCTION_ID": "ZYLB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ZRTJ": {
+        "FUNCTION_ID": "ZRTJ",
+        "REQUIRE_NAME": "level"
+    },
+    "GONGPING_PVP": {
+        "FUNCTION_ID": "GONGPING_PVP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ACTIVITY_SRXSLB": {
+        "FUNCTION_ID": "ACTIVITY_SRXSLB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ACTIVITY_QRQD": {
+        "FUNCTION_ID": "ACTIVITY_QRQD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ACTIVITY_DYRPF": {
+        "FUNCTION_ID": "ACTIVITY_DYRPF",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 20
+    },
+    "ACTIVITY_YYHD": {
+        "FUNCTION_ID": "ACTIVITY_YYHD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ACTIVITY_GONGPING_PVP": {
+        "FUNCTION_ID": "ACTIVITY_GONGPING_PVP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "SHOP_SKIN": {
+        "FUNCTION_ID": "SHOP_SKIN",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ACTIVITY_THJJ": {
+        "FUNCTION_ID": "ACTIVITY_THJJ",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "ACTIVITY_THJJ1": {
+        "FUNCTION_ID": "ACTIVITY_THJJ1",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "ACTIVITY_HDFD": {
+        "FUNCTION_ID": "ACTIVITY_HDFD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "ACTIVITY_YBLB": {
+        "FUNCTION_ID": "ACTIVITY_YBLB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "NEW_VERSION": {
+        "FUNCTION_ID": "NEW_VERSION",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 12
+    },
+    "GENERAL_BOOK": {
+        "FUNCTION_ID": "GENERAL_BOOK",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 70
+    },
+    "ANCIENT_FIELD": {
+        "FUNCTION_ID": "ANCIENT_FIELD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 73
+    },
+    "SHOP_NATION": {
+        "FUNCTION_ID": "SHOP_NATION",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 222
+    },
+    "ACTIVITY_XYBZ": {
+        "FUNCTION_ID": "ACTIVITY_XYBZ",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "NATION_RING": {
+        "FUNCTION_ID": "NATION_RING",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 70
+    },
+    "CHAPTER_DIF": {
+        "FUNCTION_ID": "CHAPTER_DIF",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "MINI_GIFT": {
+        "FUNCTION_ID": "MINI_GIFT",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "ZFXT": {
+        "FUNCTION_ID": "ZFXT",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 85
+    },
+    "SECRET_TRIAL": {
+        "FUNCTION_ID": "SECRET_TRIAL",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 85
+    },
+    "FANTASY": {
+        "FUNCTION_ID": "FANTASY",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 87
+    },
+    "ZHENBAO": {
+        "FUNCTION_ID": "ZHENBAO",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 75
+    },
+    "SMRITI": {
+        "FUNCTION_ID": "SMRITI",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 9999
+    },
+    "SJTHPAGE": {
+        "FUNCTION_ID": "SJTHPAGE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 30
+    },
+    "XSCJ": {
+        "FUNCTION_ID": "XSCJ",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "XYXC": {
+        "FUNCTION_ID": "XYXC",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "LoginSL": {
+        "FUNCTION_ID": "LoginSL",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 10
+    },
+    "XINYZM": {
+        "FUNCTION_ID": "XINYZM",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "SMZM": {
+        "FUNCTION_ID": "SMZM",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "PFXP": {
+        "FUNCTION_ID": "PFXP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 20
+    },
+    "XFTZ": {
+        "FUNCTION_ID": "XFTZ",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 10
+    },
+    "TMY": {
+        "FUNCTION_ID": "TMY",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 35
+    },
+    "MJXW": {
+        "FUNCTION_ID": "MJXW",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 20
+    },
+    "CSTZ": {
+        "FUNCTION_ID": "CSTZ",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 20
+    },
+    "XSQG": {
+        "FUNCTION_ID": "XSQG",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 10
+    },
+    "TWO_WEEK_TARGET": {
+        "FUNCTION_ID": "TWO_WEEK_TARGET",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 30
+    },
+    "TIPS_GOD": {
+        "FUNCTION_ID": "TIPS_GOD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 50
+    },
+    "TIP_ZF": {
+        "FUNCTION_ID": "TIP_ZF",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 60
+    },
+    "XRQD": {
+        "FUNCTION_ID": "XRQD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 55
+    },
+    "XSHD": {
+        "FUNCTION_ID": "XSHD",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 30
+    },
+    "ACTIVITY_FB": {
+        "FUNCTION_ID": "ACTIVITY_FB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 30
+    },
+    "INVITE_CODE": {
+        "FUNCTION_ID": "INVITE_CODE",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 20
+    },
+    "HSGC": {
+        "FUNCTION_ID": "HSGC",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 40
+    },
+    "GJXB": {
+        "FUNCTION_ID": "GJXB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 45
+    },
+    "MLQF": {
+        "FUNCTION_ID": "MLQF",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "DLTP": {
+        "FUNCTION_ID": "DLTP",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 80
+    },
+    "WUBEI": {
+        "FUNCTION_ID": "WUBEI",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 0
+    },
+    "MJXXL": {
+        "FUNCTION_ID": "MJXXL",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 20
+    },
+    "CZPHB": {
+        "FUNCTION_ID": "CZPHB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 10
+    },
+    "XHYXHB": {
+        "FUNCTION_ID": "XHYXHB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 10
+    },
+    "FTMPHB": {
+        "FUNCTION_ID": "FTMPHB",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 45
+    },
+    "CJZM": {
+        "FUNCTION_ID": "CJZM",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 45
+    },
+    "PVP_3VS3": {
+        "FUNCTION_ID": "PVP_3VS3",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 80
+    },
+    "JQZY": {
+        "FUNCTION_ID": "JQZY",
+        "REQUIRE_NAME": "level",
+        "REQUIRE_COUNT": 18
+    }
+}

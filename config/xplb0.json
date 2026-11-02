@@ -1,0 +1,62 @@
+[
+    {
+        "INDEX": 1001,
+        "PRICE": 198,
+        "EXP": 1980,
+        "LIMIT": 3,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            },
+            {
+                "GSID": 30164,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 900
+            }
+        ]
+    },
+    {
+        "INDEX": 1002,
+        "PRICE": 68,
+        "EXP": 680,
+        "LIMIT": 2,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 30164,
+                "COUNT": 30
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500
+            }
+        ]
+    },
+    {
+        "INDEX": 1003,
+        "PRICE": 30,
+        "EXP": 300,
+        "LIMIT": 1,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 30164,
+                "COUNT": 10
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 300
+            }
+        ]
+    }
+]

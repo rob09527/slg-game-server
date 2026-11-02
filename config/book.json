@@ -1,0 +1,898 @@
+{
+    "RANDATTR": [
+        [
+            {
+                "ATTRCOUNT": 1,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 120,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 2400,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 12,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 6,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 5,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 6,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 1,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 120,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 2400,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 12,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 8,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 4,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "pskidam",
+                        "VAL": 10,
+                        "W": 100
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 1,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 120,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 2400,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 12,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 6,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 5,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 6,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 1,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 120,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 2400,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 12,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 8,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 4,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "patkdam",
+                        "VAL": 10,
+                        "W": 100
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "ATTRCOUNT": 1,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 240,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 4800,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 24,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 12,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 10,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 12,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 1,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 240,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 4800,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 24,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 16,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 8,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "pskidam",
+                        "VAL": 20,
+                        "W": 100
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 1,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 240,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 4800,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 24,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 12,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 10,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 12,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 1,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 240,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 4800,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 24,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 16,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 8,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "patkdam",
+                        "VAL": 20,
+                        "W": 100
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "ATTRCOUNT": 2,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 360,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 7200,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 36,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 18,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 15,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 18,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 2,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 360,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 7200,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 36,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 24,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 12,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "pskidam",
+                        "VAL": 30,
+                        "W": 100
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 2,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 360,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 7200,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 36,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 18,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 15,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 18,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 2,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 360,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 7200,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 36,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 24,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 12,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "patkdam",
+                        "VAL": 30,
+                        "W": 100
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "ATTRCOUNT": 2,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 480,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 9600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 48,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 24,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 20,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 24,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 2,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 480,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 9600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 48,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 32,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 16,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "pskidam",
+                        "VAL": 40,
+                        "W": 100
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 2,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 480,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 9600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 48,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 24,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 20,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 24,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 2,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 480,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 9600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 48,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 32,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 16,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "patkdam",
+                        "VAL": 40,
+                        "W": 100
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "ATTRCOUNT": 3,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 12000,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 60,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 30,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 25,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 30,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 3,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 12000,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 60,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 40,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 20,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "pskidam",
+                        "VAL": 50,
+                        "W": 100
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 3,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 12000,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 60,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 30,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 25,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 30,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 3,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 12000,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 60,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 40,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 20,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "patkdam",
+                        "VAL": 50,
+                        "W": 100
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "ATTRCOUNT": 3,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 12000,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 60,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 30,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 25,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 30,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 3,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 12000,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 60,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 40,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 20,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "pskidam",
+                        "VAL": 50,
+                        "W": 100
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 3,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 12000,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pmdef",
+                        "VAL": 60,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pdex",
+                        "VAL": 30,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "dpcri",
+                        "VAL": 25,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "pmdex",
+                        "VAL": 30,
+                        "W": 50
+                    }
+                ]
+            },
+            {
+                "ATTRCOUNT": 3,
+                "ATTRS": [
+                    {
+                        "KEY": "atk",
+                        "VAL": 600,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "hp",
+                        "VAL": 12000,
+                        "W": 100
+                    },
+                    {
+                        "KEY": "pdef",
+                        "VAL": 60,
+                        "W": 50
+                    },
+                    {
+                        "KEY": "accu",
+                        "VAL": 40,
+                        "W": 30
+                    },
+                    {
+                        "KEY": "pcri",
+                        "VAL": 20,
+                        "W": 25
+                    },
+                    {
+                        "KEY": "patkdam",
+                        "VAL": 50,
+                        "W": 100
+                    }
+                ]
+            }
+        ]
+    ],
+    "RESETCAST": [
+        [
+            {
+                "GSID": 30093,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 500
+            }
+        ],
+        [
+            {
+                "GSID": 30093,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 1000
+            }
+        ],
+        [
+            {
+                "GSID": 30093,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 1500
+            }
+        ],
+        [
+            {
+                "GSID": 30093,
+                "COUNT": 3
+            },
+            {
+                "GSID": 30094,
+                "COUNT": 2500
+            }
+        ]
+    ]
+}

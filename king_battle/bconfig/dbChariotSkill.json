@@ -1,0 +1,74 @@
+{
+    "2001001": {
+        "cdtime": 5,
+        "target_num": 1,
+        "pre_occu": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "hurmtype_prop": 1,
+        "hurmval_prop": 5,
+        "hurmtype": 1,
+        "hurmval": 100000,
+        "occu_type": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "occu_hurmval": 500,
+        "hitshow": "zhanche_2001",
+        "e_buff": [
+            {
+                "buffid": "stun",
+                "prob": 100,
+                "ttime": 0.8
+            },
+            {
+                "buffid": "b47001",
+                "prob": 100,
+                "ttime": 6,
+                "num": -20
+            }
+        ]
+    },
+    "2002001": {
+        "cdtime": 4,
+        "target_num": 3,
+        "pre_occu": [
+            5,
+            2,
+            1
+        ],
+        "hurmtype_prop": 1,
+        "hurmval_prop": 5.6,
+        "hurmtype": 1,
+        "hurmval": 500,
+        "occu_type": [
+            5,
+            2,
+            1
+        ],
+        "occu_hurmval": 500,
+        "hitshow": "zhanche_2002",
+        "e_buff": [
+            {
+                "buffid": "stun",
+                "prob": 100,
+                "ttime": 1
+            },
+            {
+                "buffid": "b47001",
+                "prob": 100,
+                "ttime": 6,
+                "num": -20
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+[
+    {
+        "NAME": "九五至尊",
+        "RIGHTS": [
+            {
+                "ID": 1,
+                "VALS": [
+                    50
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PHP",
+                    50
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PATK",
+                    50
+                ]
+            }
+        ],
+        "DAILYREWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 500
+            }
+        ]
+    },
+    {
+        "NAME": "丞相",
+        "RIGHTS": [
+            {
+                "ID": 1,
+                "VALS": [
+                    40
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PHP",
+                    40
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PATK",
+                    40
+                ]
+            }
+        ],
+        "DAILYREWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 400
+            }
+        ]
+    },
+    {
+        "NAME": "太尉",
+        "RIGHTS": [
+            {
+                "ID": 1,
+                "VALS": [
+                    35
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PHP",
+                    30
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PATK",
+                    30
+                ]
+            }
+        ],
+        "DAILYREWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 300
+            }
+        ]
+    },
+    {
+        "NAME": "大司马",
+        "RIGHTS": [
+            {
+                "ID": 1,
+                "VALS": [
+                    30
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PHP",
+                    30
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PATK",
+                    30
+                ]
+            }
+        ],
+        "DAILYREWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 300
+            }
+        ]
+    },
+    {
+        "NAME": "司士",
+        "RIGHTS": [
+            {
+                "ID": 1,
+                "VALS": [
+                    25
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PHP",
+                    20
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PATK",
+                    20
+                ]
+            }
+        ],
+        "DAILYREWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            }
+        ]
+    },
+    {
+        "NAME": "司寇",
+        "RIGHTS": [
+            {
+                "ID": 1,
+                "VALS": [
+                    20
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PHP",
+                    20
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PATK",
+                    20
+                ]
+            }
+        ],
+        "DAILYREWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            }
+        ]
+    },
+    {
+        "NAME": "司空",
+        "RIGHTS": [
+            {
+                "ID": 1,
+                "VALS": [
+                    15
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PHP",
+                    20
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PATK",
+                    20
+                ]
+            }
+        ],
+        "DAILYREWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            }
+        ]
+    },
+    {
+        "NAME": "司徒",
+        "RIGHTS": [
+            {
+                "ID": 1,
+                "VALS": [
+                    10
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PHP",
+                    20
+                ]
+            },
+            {
+                "ID": 2,
+                "VALS": [
+                    "PATK",
+                    20
+                ]
+            }
+        ],
+        "DAILYREWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            }
+        ]
+    }
+]

@@ -1,0 +1,563 @@
+{
+    "CRON": "0 0 0 * * 5",
+    "MILITARY": {
+        "1": {
+            "LV": 1,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 90
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 0
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 0
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 0
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 0
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30100,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 4
+                },
+                {
+                    "GSID": 37002,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "2": {
+            "LV": 2,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 10
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 30
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 30
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 30
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30101,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 4
+                },
+                {
+                    "GSID": 37002,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "3": {
+            "LV": 3,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 110
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 20
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 60
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 60
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 60
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30100,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 4
+                },
+                {
+                    "GSID": 37002,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "4": {
+            "LV": 4,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 110
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 30
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 90
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 90
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 90
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30101,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 4
+                },
+                {
+                    "GSID": 37002,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "5": {
+            "LV": 5,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 110
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 40
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 120
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 120
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 120
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30100,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 4
+                },
+                {
+                    "GSID": 37002,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "6": {
+            "LV": 6,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 110
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 50
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 150
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 150
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 150
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30101,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 6
+                },
+                {
+                    "GSID": 37002,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "7": {
+            "LV": 7,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 110
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "WEEKLY_DECREASE": 10,
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 60
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 180
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 180
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 180
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30100,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 6
+                },
+                {
+                    "GSID": 37001,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "8": {
+            "LV": 8,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 110
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "WEEKLY_DECREASE": 20,
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 70
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 210
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 210
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 210
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30101,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 6
+                },
+                {
+                    "GSID": 37001,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "9": {
+            "LV": 9,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 110
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "WEEKLY_DECREASE": 30,
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 80
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 240
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 240
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 240
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30100,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 6
+                },
+                {
+                    "GSID": 37001,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "10": {
+            "LV": 10,
+            "UPGRADE_CAST": [
+                {
+                    "GSID": 38019,
+                    "COUNT": 110
+                },
+                {
+                    "GSID": 30099,
+                    "COUNT": 2
+                }
+            ],
+            "WEEKLY_DECREASE": 40,
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 90
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 270
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 270
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 270
+                }
+            ],
+            "UPGRADE_REWARDS": [
+                {
+                    "GSID": 30101,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30104,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 38020,
+                    "COUNT": 6
+                },
+                {
+                    "GSID": 37001,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "11": {
+            "LV": 11,
+            "UPGRADE_CAST": [],
+            "ATTR": [
+                {
+                    "KEY": "APOWER",
+                    "VAL": 100
+                },
+                {
+                    "KEY": "DPOWER",
+                    "VAL": 300
+                },
+                {
+                    "KEY": "PHP",
+                    "VAL": 300
+                },
+                {
+                    "KEY": "PATK",
+                    "VAL": 300
+                }
+            ],
+            "UPGRADE_REWARDS": []
+        }
+    },
+    "RANK_REWARD": {
+        "1": {
+            "ITEMS": []
+        },
+        "2": {
+            "ITEMS": []
+        },
+        "3": {
+            "ITEMS": []
+        },
+        "4": {
+            "ITEMS": []
+        },
+        "5": {
+            "ITEMS": []
+        },
+        "6": {
+            "ITEMS": []
+        },
+        "7": {
+            "ITEMS": []
+        },
+        "10": {
+            "ITEMS": []
+        },
+        "15": {
+            "ITEMS": []
+        },
+        "30": {
+            "ITEMS": []
+        },
+        "50": {
+            "ITEMS": []
+        },
+        "100": {
+            "ITEMS": []
+        },
+        "999999": {
+            "ITEMS": []
+        }
+    }
+}

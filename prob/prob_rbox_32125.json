@@ -1,0 +1,28 @@
+{
+    "COUNTAREA": {
+        "MIN": 1,
+        "MAX": 1
+    },
+    "PROB": [
+        {
+            "RATE": 100,
+            "GOT": [
+                {
+                    "GSID": 36006,
+                    "MINCOUNT": 50,
+                    "MAXCOUNT": 50
+                }
+            ]
+        },
+        {
+            "RATE": 100,
+            "GOT": [
+                {
+                    "GSID": 36007,
+                    "MINCOUNT": 50,
+                    "MAXCOUNT": 50
+                }
+            ]
+        }
+    ]
+}

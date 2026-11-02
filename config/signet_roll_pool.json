@@ -1,0 +1,250 @@
+[
+    {
+        "GSID": 60000,
+        "W": 688,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60001,
+        "W": 688,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60002,
+        "W": 688,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60003,
+        "W": 688,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60004,
+        "W": 688,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60005,
+        "W": 688,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60006,
+        "W": 688,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60007,
+        "W": 688,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60010,
+        "W": 500,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60011,
+        "W": 500,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60012,
+        "W": 500,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60013,
+        "W": 500,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60014,
+        "W": 500,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60015,
+        "W": 500,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60016,
+        "W": 500,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60017,
+        "W": 500,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15
+    },
+    {
+        "GSID": 60020,
+        "W": 63,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15,
+        "ENSURE": 1
+    },
+    {
+        "GSID": 60021,
+        "W": 63,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15,
+        "ENSURE": 1
+    },
+    {
+        "GSID": 60022,
+        "W": 63,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15,
+        "ENSURE": 1
+    },
+    {
+        "GSID": 60023,
+        "W": 63,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15,
+        "ENSURE": 1
+    },
+    {
+        "GSID": 60024,
+        "W": 63,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15,
+        "ENSURE": 1
+    },
+    {
+        "GSID": 60025,
+        "W": 63,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15,
+        "ENSURE": 1
+    },
+    {
+        "GSID": 60026,
+        "W": 63,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15,
+        "ENSURE": 1
+    },
+    {
+        "GSID": 60027,
+        "W": 63,
+        "MIN": 1,
+        "MAX": 1,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 15,
+        "ENSURE": 1
+    }
+]

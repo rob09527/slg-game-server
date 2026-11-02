@@ -1,0 +1,5282 @@
+[
+    [
+        {
+            "BUFFID": 101,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 102,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 103,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 104,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 105,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 106,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 107,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 108,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 109,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 110,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 111,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 112,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 113,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 114,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 115,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 116,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 117,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 118,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 119,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 120,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 121,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 122,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 123,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 124,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 201,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 202,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 203,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 204,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 205,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 206,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 207,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 208,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 209,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 210,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 211,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 212,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 213,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 214,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 215,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 216,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 217,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 218,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 219,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 220,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 221,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 222,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 223,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 224,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 301,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 302,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 303,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 304,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 305,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 306,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 307,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 308,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 309,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 310,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 311,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 312,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 313,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 314,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 315,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 316,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 317,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 318,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 319,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 320,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 321,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 322,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 323,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 324,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 401,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 402,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 403,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 404,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 405,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 406,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 407,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 408,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 409,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 410,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 411,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 412,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 413,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 414,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 415,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 416,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 417,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 418,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 419,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 420,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 421,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 422,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 423,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 424,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 501,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 502,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 503,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 504,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 505,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 506,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 507,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 508,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 509,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 510,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 511,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 512,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 513,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 514,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 515,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 516,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 517,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 518,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 519,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 520,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 521,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 522,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 523,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 524,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 601,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 602,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 603,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 604,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 605,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 606,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 607,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 608,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 609,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 610,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 611,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 612,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 613,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 614,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 615,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 616,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 617,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 618,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 619,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 620,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 621,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 622,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 623,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 624,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 701,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 702,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 703,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 704,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 705,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 706,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 707,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 708,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 709,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 710,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 711,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 712,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 713,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 714,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 715,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 716,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 717,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 718,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 719,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 720,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 721,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 722,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 723,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 724,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 801,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 802,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 803,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 804,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 805,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 806,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 807,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 808,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 809,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 810,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 811,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 812,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 813,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 814,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 815,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 816,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 817,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 818,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 819,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 820,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 821,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 822,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 823,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 824,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 901,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 902,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 903,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 904,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 905,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 906,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 907,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 908,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 909,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 910,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 911,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 912,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 913,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 914,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 915,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 916,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 917,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 918,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 919,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 920,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 921,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 922,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 923,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 924,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1001,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1002,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1003,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1004,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1005,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1006,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1007,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1008,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1009,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1010,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1011,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1012,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1013,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1014,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1015,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1016,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1017,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1018,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1019,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1020,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1021,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1022,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1023,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1024,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1101,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1102,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1103,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1104,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1105,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1106,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1107,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1108,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1109,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1110,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1111,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1112,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1113,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1114,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1115,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1116,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1117,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1118,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1119,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1120,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1121,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1122,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1123,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1124,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1201,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1202,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1203,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1204,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1205,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1206,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1207,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1208,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1209,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1210,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1211,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1212,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1213,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1214,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1215,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1216,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1217,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1218,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1219,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1220,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1221,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1222,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1223,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1224,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1301,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1302,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1303,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1304,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1305,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1306,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1307,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1308,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1309,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1310,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1311,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1312,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1313,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1314,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1315,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1316,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1317,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1318,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1319,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1320,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1321,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1322,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1323,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1324,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1401,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1402,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1403,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1404,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1405,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1406,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1407,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1408,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1409,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1410,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1411,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1412,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1413,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1414,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1415,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1416,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1417,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1418,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1419,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1420,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1421,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1422,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1423,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1424,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1501,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1502,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1503,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1504,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1505,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1506,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1507,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1508,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1509,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1510,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1511,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1512,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1513,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1514,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1515,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1516,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1517,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1518,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1519,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1520,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1521,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1522,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1523,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1524,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1601,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1602,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1603,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1604,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1605,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1606,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1607,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1608,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1609,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1610,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1611,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1612,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1613,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1614,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1615,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1616,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1617,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1618,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1619,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1620,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1621,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1622,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1623,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1624,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1701,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1702,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1703,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1704,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1705,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1706,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1707,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1708,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1709,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1710,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1711,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1712,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1713,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1714,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1715,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1716,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1717,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1718,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1719,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1720,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1721,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1722,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1723,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1724,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1801,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1802,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1803,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1804,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1805,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1806,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1807,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1808,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1809,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1810,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1811,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1812,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1813,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1814,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1815,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1816,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1817,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1818,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1819,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1820,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1821,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1822,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1823,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1824,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 1901,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1902,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1903,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1904,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1905,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1906,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 1907,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1908,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1909,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1910,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1911,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1912,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 1913,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1914,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1915,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1916,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1917,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1918,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 1919,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1920,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1921,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1922,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1923,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 1924,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2001,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2002,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2003,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2004,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2005,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2006,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2007,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2008,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2009,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2010,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2011,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2012,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2013,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2014,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2015,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2016,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2017,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2018,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2019,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2020,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2021,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2022,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2023,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2024,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2101,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2102,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2103,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2104,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2105,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2106,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2107,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2108,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2109,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2110,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2111,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2112,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2113,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2114,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2115,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2116,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2117,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2118,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2119,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2120,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2121,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2122,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2123,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2124,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2201,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2202,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2203,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2204,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2205,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2206,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2207,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2208,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2209,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2210,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2211,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2212,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2213,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2214,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2215,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2216,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2217,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2218,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2219,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2220,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2221,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2222,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2223,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2224,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2301,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2302,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2303,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2304,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2305,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2306,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2307,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2308,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2309,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2310,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2311,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2312,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2313,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2314,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2315,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2316,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2317,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2318,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2319,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2320,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2321,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2322,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2323,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2324,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2401,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2402,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2403,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2404,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2405,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2406,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2407,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2408,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2409,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2410,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2411,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2412,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2413,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2414,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2415,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2416,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2417,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2418,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2419,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2420,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2421,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2422,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2423,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2424,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2501,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2502,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2503,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2504,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2505,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2506,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2507,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2508,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2509,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2510,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2511,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2512,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2513,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2514,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2515,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2516,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2517,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2518,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2519,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2520,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2521,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2522,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2523,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2524,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2601,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2602,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2603,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2604,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2605,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2606,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2607,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2608,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2609,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2610,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2611,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2612,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2613,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2614,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2615,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2616,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2617,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2618,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2619,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2620,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2621,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2622,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2623,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2624,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2701,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2702,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2703,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2704,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2705,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2706,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2707,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2708,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2709,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2710,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2711,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2712,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2713,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2714,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2715,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2716,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2717,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2718,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2719,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2720,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2721,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2722,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2723,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2724,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2801,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2802,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2803,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2804,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2805,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2806,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2807,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2808,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2809,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2810,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2811,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2812,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2813,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2814,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2815,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2816,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2817,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2818,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2819,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2820,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2821,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2822,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2823,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2824,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 2901,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2902,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2903,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2904,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2905,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2906,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 2907,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2908,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2909,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2910,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2911,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2912,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 2913,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2914,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2915,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2916,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2917,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2918,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 2919,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2920,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2921,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2922,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2923,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 2924,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ],
+    [
+        {
+            "BUFFID": 3001,
+            "ATTR": "PSKIDAM",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 3002,
+            "ATTR": "PCRID",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 3003,
+            "ATTR": "PCRI",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 3004,
+            "ATTR": "ATK",
+            "VAL": 1,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 3005,
+            "ATTR": "PPTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 3006,
+            "ATTR": "PMTHR",
+            "VAL": 0.5,
+            "TYPE": 1,
+            "W": 1
+        },
+        {
+            "BUFFID": 3007,
+            "ATTR": "PSKIDAM",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 3008,
+            "ATTR": "PCRID",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 3009,
+            "ATTR": "PCRI",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 3010,
+            "ATTR": "ATK",
+            "VAL": 2,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 3011,
+            "ATTR": "PPTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 3012,
+            "ATTR": "PMTHR",
+            "VAL": 1,
+            "TYPE": 2,
+            "W": 1
+        },
+        {
+            "BUFFID": 3013,
+            "ATTR": "PSKIDAM",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 3014,
+            "ATTR": "PCRID",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 3015,
+            "ATTR": "PCRI",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 3016,
+            "ATTR": "ATK",
+            "VAL": 4,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 3017,
+            "ATTR": "PPTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 3018,
+            "ATTR": "PMTHR",
+            "VAL": 2,
+            "TYPE": 3,
+            "W": 1
+        },
+        {
+            "BUFFID": 3019,
+            "ATTR": "PSKIDAM",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 3020,
+            "ATTR": "PCRID",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 3021,
+            "ATTR": "PCRI",
+            "VAL": 10,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 3022,
+            "ATTR": "ATK",
+            "VAL": 30,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 3023,
+            "ATTR": "PPTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        },
+        {
+            "BUFFID": 3024,
+            "ATTR": "PMTHR",
+            "VAL": 15,
+            "TYPE": 8,
+            "W": 1,
+            "LIMIT": 1
+        }
+    ]
+]

@@ -1,0 +1,49 @@
+.kh-board-tooltip {
+  font-size: 12px;
+  .num {
+    color: coral;
+    margin-right: 2px;
+  }
+}
+.kh-board {
+  display: flex;
+  background-color: #f0f2f5;
+  position: relative;
+  padding: 38px 12px 12px 12px;
+  flex-direction: row;
+  flex-flow: wrap;
+  .tooltip-icon {
+    margin-right: 4px;
+  }
+  .title {
+    position: absolute;
+    z-index: 2;
+    top: 12px;
+  }
+  .space-line {
+    height: 1px;
+    background-color: #f0f2f5;
+  }
+
+  .ant-card {
+    margin: 4px;
+    flex: 1;
+    min-width: 120px;
+  }
+
+  .card-footer {
+    .ant-statistic-content-prefix {
+      color: rgba(0, 0, 0, 0.45);
+      font-size: 14px;
+      font-weight: inherit;
+    }
+
+    .ant-statistic-content-value-int {
+      font-size: 14px;
+    }
+    .ant-statistic-content-value-decimal {
+      font-size: 12px;
+    }
+  }
+}
+

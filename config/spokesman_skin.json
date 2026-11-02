@@ -1,0 +1,425 @@
+{
+    "DAY": 0,
+    "TASKS": [
+        {
+            "ID": 101,
+            "TARGET": [
+                {
+                    "INTRO": "成长任务Ⅰ：获得1个5星徐晃",
+                    "MARK": 97200,
+                    "GSID": 10361,
+                    "SKINID": 10362,
+                    "REWARD": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 500
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/101.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅱ：获得1个6星徐晃",
+                    "MARK": 97201,
+                    "GSID": 10362,
+                    "SKINID": 10362,
+                    "REWARD": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 3000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/101.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅲ：获得1个7星徐晃",
+                    "MARK": 97202,
+                    "GSID": 10363,
+                    "SKINID": 10362,
+                    "REWARD": [
+                        {
+                            "GSID": 30026,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/101.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅳ：获得1个8星徐晃",
+                    "MARK": 97203,
+                    "GSID": 10364,
+                    "SKINID": 10362,
+                    "REWARD": [
+                        {
+                            "GSID": 36001,
+                            "COUNT": 50
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/101.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅵ：获得1个10星徐晃",
+                    "MARK": 97205,
+                    "GSID": 10366,
+                    "SKINID": 10362,
+                    "REWARD": [
+                        {
+                            "GSID": 42002,
+                            "COUNT": 1
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/101.mp4"
+                }
+            ]
+        },
+        {
+            "ID": 201,
+            "TARGET": [
+                {
+                    "INTRO": "成长任务Ⅰ：获得1个5星赵云",
+                    "MARK": 97206,
+                    "GSID": 12361,
+                    "SKINID": 12362,
+                    "REWARD": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 500
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/201.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅱ：获得1个6星赵云",
+                    "MARK": 97207,
+                    "GSID": 12362,
+                    "SKINID": 12362,
+                    "REWARD": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 3000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/201.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅲ：获得1个7星赵云",
+                    "MARK": 97208,
+                    "GSID": 12363,
+                    "SKINID": 12362,
+                    "REWARD": [
+                        {
+                            "GSID": 30026,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/201.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅳ：获得1个8星赵云",
+                    "MARK": 97209,
+                    "GSID": 12364,
+                    "SKINID": 12362,
+                    "REWARD": [
+                        {
+                            "GSID": 36001,
+                            "COUNT": 50
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/201.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅵ：获得1个10星赵云",
+                    "MARK": 97211,
+                    "GSID": 12366,
+                    "SKINID": 12362,
+                    "REWARD": [
+                        {
+                            "GSID": 42003,
+                            "COUNT": 1
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/201.mp4"
+                }
+            ]
+        },
+        {
+            "ID": 301,
+            "TARGET": [
+                {
+                    "INTRO": "成长任务Ⅰ：获得1个5星周瑜",
+                    "MARK": 97212,
+                    "GSID": 14381,
+                    "SKINID": 14382,
+                    "REWARD": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 500
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/301.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅱ：获得1个6星周瑜",
+                    "MARK": 97213,
+                    "GSID": 14382,
+                    "SKINID": 14382,
+                    "REWARD": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 3000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/301.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅲ：获得1个7星周瑜",
+                    "MARK": 97214,
+                    "GSID": 14383,
+                    "SKINID": 14382,
+                    "REWARD": [
+                        {
+                            "GSID": 30026,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/301.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅳ：获得1个8星周瑜",
+                    "MARK": 97215,
+                    "GSID": 14384,
+                    "SKINID": 14382,
+                    "REWARD": [
+                        {
+                            "GSID": 36001,
+                            "COUNT": 50
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/301.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅵ：获得1个10星周瑜",
+                    "MARK": 97217,
+                    "GSID": 14386,
+                    "SKINID": 14382,
+                    "REWARD": [
+                        {
+                            "GSID": 42004,
+                            "COUNT": 1
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/301.mp4"
+                }
+            ]
+        },
+        {
+            "ID": 401,
+            "TARGET": [
+                {
+                    "INTRO": "成长任务Ⅰ：获得1个5星貂蝉",
+                    "MARK": 97218,
+                    "GSID": 16381,
+                    "SKINID": 16382,
+                    "REWARD": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 500
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/401.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅱ：获得1个6星貂蝉",
+                    "MARK": 97219,
+                    "GSID": 16382,
+                    "SKINID": 16382,
+                    "REWARD": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 3000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/401.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅲ：获得1个7星貂蝉",
+                    "MARK": 97220,
+                    "GSID": 16383,
+                    "SKINID": 16382,
+                    "REWARD": [
+                        {
+                            "GSID": 30026,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/401.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅳ：获得1个8星貂蝉",
+                    "MARK": 97221,
+                    "GSID": 16384,
+                    "SKINID": 16382,
+                    "REWARD": [
+                        {
+                            "GSID": 36001,
+                            "COUNT": 50
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/401.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅵ：获得1个10星貂蝉",
+                    "MARK": 97223,
+                    "GSID": 16386,
+                    "SKINID": 16382,
+                    "REWARD": [
+                        {
+                            "GSID": 42001,
+                            "COUNT": 1
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/401.mp4"
+                }
+            ]
+        },
+        {
+            "ID": 501,
+            "TARGET": [
+                {
+                    "INTRO": "成长任务Ⅰ：获得1个5星神·张飞",
+                    "MARK": 97224,
+                    "GSID": 17101,
+                    "SKINID": 17102,
+                    "REWARD": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 500
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/501.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅱ：获得1个6星神·张飞",
+                    "MARK": 97225,
+                    "GSID": 17102,
+                    "SKINID": 17102,
+                    "REWARD": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 3000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/501.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅲ：获得1个7星神·张飞",
+                    "MARK": 97226,
+                    "GSID": 17103,
+                    "SKINID": 17102,
+                    "REWARD": [
+                        {
+                            "GSID": 30026,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/501.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅳ：获得1个8星神·张飞",
+                    "MARK": 97227,
+                    "GSID": 17104,
+                    "SKINID": 17102,
+                    "REWARD": [
+                        {
+                            "GSID": 36001,
+                            "COUNT": 50
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/501.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅵ：获得1个10星神·张飞",
+                    "MARK": 97229,
+                    "GSID": 17106,
+                    "SKINID": 17102,
+                    "REWARD": [
+                        {
+                            "GSID": 42005,
+                            "COUNT": 1
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/501.mp4"
+                }
+            ]
+        },
+        {
+            "ID": 601,
+            "TARGET": [
+                {
+                    "INTRO": "成长任务Ⅰ：获得1个5星魔·孙权",
+                    "MARK": 97230,
+                    "GSID": 18121,
+                    "SKINID": 18122,
+                    "REWARD": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 500
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/601.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅱ：获得1个6星魔·孙权",
+                    "MARK": 97231,
+                    "GSID": 18122,
+                    "SKINID": 18122,
+                    "REWARD": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 3000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/601.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅲ：获得1个7星魔·孙权",
+                    "MARK": 97232,
+                    "GSID": 18123,
+                    "SKINID": 18122,
+                    "REWARD": [
+                        {
+                            "GSID": 30026,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/601.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅳ：获得1个8星魔·孙权",
+                    "MARK": 97233,
+                    "GSID": 18124,
+                    "SKINID": 18122,
+                    "REWARD": [
+                        {
+                            "GSID": 36001,
+                            "COUNT": 50
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/601.mp4"
+                },
+                {
+                    "INTRO": "成长任务Ⅵ：获得1个10星魔·孙权",
+                    "MARK": 97235,
+                    "GSID": 18126,
+                    "SKINID": 18122,
+                    "REWARD": [
+                        {
+                            "GSID": 42006,
+                            "COUNT": 1
+                        }
+                    ],
+                    "URL": "https://king-1251011288.file.myqcloud.com/diguo-hot-update/diguo/other_res/601.mp4"
+                }
+            ]
+        }
+    ]
+}

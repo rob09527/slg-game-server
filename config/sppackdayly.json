@@ -1,0 +1,157 @@
+[
+    {
+        "ID": 1,
+        "PRICE": 30,
+        "VIPEXP": 300,
+        "LIMIT": 1,
+        "PATH": "meizhou_00",
+        "EXP": 300,
+        "VIP": [
+            0,
+            15
+        ],
+        "LOCK": -1,
+        "MARK": 0,
+        "LEVEL": 0,
+        "CYCLE": 1,
+        "NAME": "招募礼包",
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 10
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 300
+            }
+        ]
+    },
+    {
+        "ID": 12,
+        "PRICE": 30,
+        "VIPEXP": 300,
+        "LIMIT": 1,
+        "PATH": "meiyue_3",
+        "EXP": 300,
+        "VIP": [
+            0,
+            15
+        ],
+        "LOCK": -1,
+        "MARK": 0,
+        "LEVEL": 0,
+        "CYCLE": 1,
+        "NAME": "坐骑丹礼包",
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 2500
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 5
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "PRICE": 68,
+        "VIPEXP": 680,
+        "LIMIT": 1,
+        "PATH": "meiyue_17",
+        "EXP": 680,
+        "VIP": [
+            0,
+            15
+        ],
+        "LOCK": -1,
+        "MARK": 0,
+        "LEVEL": 0,
+        "CYCLE": 1,
+        "NAME": "进阶丹礼包",
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 20
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1000
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "PRICE": 68,
+        "VIPEXP": 680,
+        "LIMIT": 1,
+        "PATH": "icon_sdth_lb02_lang",
+        "EXP": 680,
+        "VIP": [
+            0,
+            15
+        ],
+        "LOCK": -1,
+        "MARK": 0,
+        "LEVEL": 65,
+        "CYCLE": 1,
+        "NAME": "神锻石礼包",
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 700
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 10
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "PRICE": 68,
+        "VIPEXP": 680,
+        "LIMIT": 1,
+        "PATH": "yuanbao_4",
+        "EXP": 680,
+        "VIP": [
+            0,
+            15
+        ],
+        "LOCK": -1,
+        "MARK": 0,
+        "LEVEL": 65,
+        "CYCLE": 1,
+        "NAME": "炼魂石礼包",
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 10
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+{
+    "COUNTAREA": {
+        "MIN": 1,
+        "MAX": 1
+    },
+    "PROB": [
+        {
+            "RATE": 270,
+            "GOT": [
+                {
+                    "GSID": 38005,
+                    "MINCOUNT": 500,
+                    "MAXCOUNT": 500
+                }
+            ]
+        },
+        {
+            "RATE": 500,
+            "GOT": [
+                {
+                    "GSID": 38005,
+                    "MINCOUNT": 700,
+                    "MAXCOUNT": 700
+                }
+            ]
+        },
+        {
+            "RATE": 150,
+            "GOT": [
+                {
+                    "GSID": 38005,
+                    "MINCOUNT": 900,
+                    "MAXCOUNT": 900
+                }
+            ]
+        },
+        {
+            "RATE": 50,
+            "GOT": [
+                {
+                    "GSID": 38005,
+                    "MINCOUNT": 1200,
+                    "MAXCOUNT": 1200
+                }
+            ]
+        },
+        {
+            "RATE": 30,
+            "GOT": [
+                {
+                    "GSID": 38005,
+                    "MINCOUNT": 1500,
+                    "MAXCOUNT": 1500
+                }
+            ]
+        }
+    ]
+}

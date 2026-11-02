@@ -1,0 +1,10 @@
+{
+    "REQUIRE": [],
+    "FROM": [
+        {
+            "GSID": 36047,
+            "COUNT": 20
+        }
+    ],
+    "PROBTO": "prob_grchip_36047"
+}

@@ -1,0 +1,1197 @@
+{
+    "BOSS_INFO": {
+        "1": {
+            "ID": 1,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33009,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33010,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33011,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33012,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "2": {
+            "ID": 2,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33109,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33110,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33111,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33112,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "3": {
+            "ID": 3,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33209,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33210,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33211,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33212,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "4": {
+            "ID": 4,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "5": {
+            "ID": 5,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "6": {
+            "ID": 6,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "7": {
+            "ID": 7,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "8": {
+            "ID": 8,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "9": {
+            "ID": 9,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "10": {
+            "ID": 10,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "11": {
+            "ID": 11,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "12": {
+            "ID": 12,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "13": {
+            "ID": 13,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "14": {
+            "ID": 14,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "15": {
+            "ID": 15,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "16": {
+            "ID": 16,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "17": {
+            "ID": 17,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        },
+        "18": {
+            "ID": 18,
+            "FIGHT_REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 140000,
+                    "ADD": 0
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 47,
+                    "ADD": 0
+                }
+            ],
+            "RANDOM_RATE": [
+                {
+                    "CHANCE": 630,
+                    "NUM": 0
+                },
+                {
+                    "CHANCE": 370,
+                    "NUM": 1
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 2
+                },
+                {
+                    "CHANCE": 0,
+                    "NUM": 3
+                }
+            ],
+            "RANDOM_REWARD": [
+                {
+                    "GSID": 33309,
+                    "COUNT": 1,
+                    "CHANCE": 400
+                },
+                {
+                    "GSID": 33310,
+                    "COUNT": 1,
+                    "CHANCE": 350
+                },
+                {
+                    "GSID": 33311,
+                    "COUNT": 1,
+                    "CHANCE": 250
+                },
+                {
+                    "GSID": 33312,
+                    "COUNT": 1,
+                    "CHANCE": 0
+                }
+            ]
+        }
+    },
+    "FIGHTING_COST": [
+        0,
+        0,
+        40,
+        80
+    ],
+    "LEGION_HARM_FIRST": [
+        {
+            "GSID": 38006,
+            "COUNT": 4000000
+        },
+        {
+            "GSID": 30020,
+            "COUNT": 2000
+        }
+    ],
+    "LEGION_WORLD_REWARD": [
+        {
+            "MIN": 1,
+            "MAX": 1,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1200
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 10000000
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 16000
+                },
+                {
+                    "GSID": 30052,
+                    "COUNT": 40
+                }
+            ]
+        },
+        {
+            "MIN": 2,
+            "MAX": 2,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 9000000
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 15000
+                },
+                {
+                    "GSID": 30052,
+                    "COUNT": 35
+                }
+            ]
+        },
+        {
+            "MIN": 3,
+            "MAX": 3,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1000
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 8500000
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 14000
+                },
+                {
+                    "GSID": 30052,
+                    "COUNT": 30
+                }
+            ]
+        },
+        {
+            "MIN": 4,
+            "MAX": 4,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 800
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 8000000
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 13000
+                },
+                {
+                    "GSID": 30052,
+                    "COUNT": 28
+                }
+            ]
+        },
+        {
+            "MIN": 5,
+            "MAX": 5,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 600
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 7500000
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 12000
+                },
+                {
+                    "GSID": 30052,
+                    "COUNT": 26
+                }
+            ]
+        },
+        {
+            "MIN": 6,
+            "MAX": 10,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 400
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 7000000
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 11000
+                },
+                {
+                    "GSID": 30052,
+                    "COUNT": 24
+                }
+            ]
+        },
+        {
+            "MIN": 11,
+            "MAX": 15,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 6000000
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 30052,
+                    "COUNT": 22
+                }
+            ]
+        },
+        {
+            "MIN": 16,
+            "MAX": 9999,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 200
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 5000000
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 8000
+                },
+                {
+                    "GSID": 30052,
+                    "COUNT": 20
+                }
+            ]
+        }
+    ],
+    "CONFIG": {
+        "START": "55 23 * * 4",
+        "END": "0 2 * * 4",
+        "END_DAY": 4
+    },
+    "UNLOCK": {
+        "LEGION_LEVEL": 8,
+        "OPEN_SERVER_DAY": 7
+    }
+}

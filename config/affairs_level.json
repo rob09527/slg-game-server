@@ -1,0 +1,170 @@
+[
+    {
+        "LIMIT": 5,
+        "MISSION_0": 1,
+        "TIMES_0": 4,
+        "MISSION_1": 1,
+        "TIMES_1": 1,
+        "STAR_SOLO": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "STAR_FRIEND": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "LIMIT": 5,
+        "MISSION_0": 1,
+        "TIMES_0": 8,
+        "MISSION_1": 1,
+        "TIMES_1": 2,
+        "STAR_SOLO": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "STAR_FRIEND": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "LIMIT": 5,
+        "MISSION_0": 2,
+        "TIMES_0": 10,
+        "MISSION_1": 2,
+        "TIMES_1": 4,
+        "STAR_SOLO": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "STAR_FRIEND": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "LIMIT": 5,
+        "MISSION_0": 3,
+        "TIMES_0": 15,
+        "MISSION_1": 3,
+        "TIMES_1": 8,
+        "STAR_SOLO": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "STAR_FRIEND": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "LIMIT": 5,
+        "MISSION_0": 4,
+        "TIMES_0": 20,
+        "MISSION_1": 4,
+        "TIMES_1": 10,
+        "STAR_SOLO": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "STAR_FRIEND": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "LIMIT": 5,
+        "MISSION_0": 4,
+        "TIMES_0": 30,
+        "MISSION_1": 4,
+        "TIMES_1": 15,
+        "STAR_SOLO": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "STAR_FRIEND": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "LIMIT": 5,
+        "MISSION_0": 0,
+        "TIMES_0": 0,
+        "MISSION_1": 0,
+        "TIMES_1": 0,
+        "STAR_SOLO": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "STAR_FRIEND": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "king_agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "88": "nodemon --inspect index.js config.88.json",
+    "87": "nodemon --inspect index.js config.87.json",
+    "149": "nodemon --inspect index.js config.149.json"
+  },
+  "dependencies": {
+    "node-schedule": "^2.0.0"
+  },
+  "author": "kelvin.man",
+  "license": "Anti 996"
+}

@@ -1,0 +1,3284 @@
+{
+    "SPPACK": {
+        "LV99999": [
+            {
+                "TYPE": "LV",
+                "LIMIT": 99999,
+                "PRICE": 0,
+                "TRIGGER_LIMIT": 0,
+                "ITEMS": []
+            }
+        ],
+        "BATCHZM10": [
+            {
+                "TYPE": "BATCHZM",
+                "LIMIT": 10,
+                "PRICE": 18,
+                "HOUR": 8,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 180,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 180
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 10
+                    },
+                    {
+                        "GSID": 82001,
+                        "COUNT": 20
+                    }
+                ]
+            },
+            {
+                "TYPE": "BATCHZM",
+                "LIMIT": 10,
+                "PRICE": 68,
+                "HOUR": 8,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 30
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 83001,
+                        "COUNT": 20
+                    }
+                ]
+            },
+            {
+                "TYPE": "BATCHZM",
+                "LIMIT": 10,
+                "PRICE": 128,
+                "HOUR": 8,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1280
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 40
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 8
+                    },
+                    {
+                        "GSID": 83001,
+                        "COUNT": 40
+                    }
+                ]
+            }
+        ],
+        "ONLY111": [
+            {
+                "TYPE": "ONLY11",
+                "LIMIT": 1,
+                "PRICE": 68,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30026,
+                        "COUNT": 3000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 8000000
+                    }
+                ]
+            },
+            {
+                "TYPE": "ONLY11",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 30026,
+                        "COUNT": 10000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 20000000
+                    }
+                ]
+            }
+        ],
+        "ONLY121": [
+            {
+                "TYPE": "ONLY12",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 32132,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 32137,
+                        "COUNT": 10
+                    }
+                ]
+            },
+            {
+                "TYPE": "ONLY12",
+                "LIMIT": 1,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 32137,
+                        "COUNT": 25
+                    }
+                ]
+            }
+        ],
+        "ONLY131": [
+            {
+                "TYPE": "ONLY13",
+                "LIMIT": 1,
+                "PRICE": 328,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 3280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 3280
+                    },
+                    {
+                        "GSID": 32577,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 30092,
+                        "COUNT": 10000
+                    }
+                ]
+            },
+            {
+                "TYPE": "ONLY13",
+                "LIMIT": 1,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32578,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30092,
+                        "COUNT": 15000
+                    }
+                ]
+            }
+        ],
+        "ONLY141": [
+            {
+                "TYPE": "ONLY14",
+                "LIMIT": 1,
+                "PRICE": 68,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30065,
+                        "COUNT": 80
+                    }
+                ]
+            },
+            {
+                "TYPE": "ONLY14",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 30065,
+                        "COUNT": 150
+                    },
+                    {
+                        "GSID": 30068,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ],
+        "ONLY151": [
+            {
+                "TYPE": "ONLY15",
+                "LIMIT": 1,
+                "PRICE": 68,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30016,
+                        "COUNT": 500
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 150
+                    }
+                ]
+            },
+            {
+                "TYPE": "ONLY15",
+                "LIMIT": 1,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 30016,
+                        "COUNT": 5000
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 1500
+                    }
+                ]
+            }
+        ],
+        "ONLY161": [
+            {
+                "TYPE": "ONLY16",
+                "LIMIT": 1,
+                "PRICE": 68,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30114,
+                        "COUNT": 50
+                    },
+                    {
+                        "GSID": 30113,
+                        "COUNT": 800
+                    }
+                ]
+            },
+            {
+                "TYPE": "ONLY16",
+                "LIMIT": 1,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32590,
+                        "COUNT": 40
+                    },
+                    {
+                        "GSID": 30114,
+                        "COUNT": 100
+                    }
+                ]
+            }
+        ],
+        "ONLY171": [
+            {
+                "TYPE": "ONLY17",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 30130,
+                        "COUNT": 40
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 7000000
+                    }
+                ]
+            },
+            {
+                "TYPE": "ONLY17",
+                "LIMIT": 1,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 30130,
+                        "COUNT": 120
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 30000000
+                    }
+                ]
+            }
+        ],
+        "LIMIT221": [
+            {
+                "TYPE": "LIMIT22",
+                "LIMIT": 1,
+                "PRICE": 30,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 2,
+                "EXP": 300,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 300
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 10
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 500
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 1000000
+                    }
+                ]
+            },
+            {
+                "TYPE": "LIMIT22",
+                "LIMIT": 1,
+                "PRICE": 68,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 2,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 20
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 2000000
+                    }
+                ]
+            },
+            {
+                "TYPE": "LIMIT22",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 2,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 30
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1500
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 3000000
+                    }
+                ]
+            }
+        ],
+        "LIMIT3330": [
+            {
+                "TYPE": "LIMIT33",
+                "LIMIT": 30,
+                "PRICE": 68,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30016,
+                        "COUNT": 200
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 100
+                    }
+                ]
+            },
+            {
+                "TYPE": "LIMIT33",
+                "LIMIT": 30,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 30016,
+                        "COUNT": 800
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 250
+                    }
+                ]
+            },
+            {
+                "TYPE": "LIMIT33",
+                "LIMIT": 30,
+                "PRICE": 648,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 30016,
+                        "COUNT": 2500
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 800
+                    }
+                ]
+            }
+        ],
+        "LIMIT4415": [
+            {
+                "TYPE": "LIMIT44",
+                "LIMIT": 15,
+                "PRICE": 68,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30114,
+                        "COUNT": 30
+                    },
+                    {
+                        "GSID": 30113,
+                        "COUNT": 800
+                    }
+                ]
+            },
+            {
+                "TYPE": "LIMIT44",
+                "LIMIT": 15,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 30114,
+                        "COUNT": 90
+                    },
+                    {
+                        "GSID": 30113,
+                        "COUNT": 2500
+                    }
+                ]
+            },
+            {
+                "TYPE": "LIMIT44",
+                "LIMIT": 15,
+                "PRICE": 648,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32590,
+                        "COUNT": 30
+                    },
+                    {
+                        "GSID": 30113,
+                        "COUNT": 10000
+                    }
+                ]
+            }
+        ],
+        "LIMIT551": [
+            {
+                "TYPE": "LIMIT55",
+                "LIMIT": 1,
+                "PRICE": 68,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 32137,
+                        "COUNT": 3
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 4000000
+                    }
+                ]
+            },
+            {
+                "TYPE": "LIMIT55",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 32137,
+                        "COUNT": 10
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 10000000
+                    }
+                ]
+            },
+            {
+                "TYPE": "LIMIT55",
+                "LIMIT": 1,
+                "PRICE": 648,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32137,
+                        "COUNT": 25
+                    },
+                    {
+                        "GSID": 32133,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ],
+        "BREAK111": [
+            {
+                "TYPE": "BREAK11",
+                "LIMIT": 1,
+                "PRICE": 128,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1280
+                    },
+                    {
+                        "GSID": 30072,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 10000000
+                    }
+                ]
+            }
+        ],
+        "BREAK1211": [
+            {
+                "TYPE": "BREAK12",
+                "LIMIT": 11,
+                "PRICE": 128,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1280
+                    },
+                    {
+                        "GSID": 30068,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 10000000
+                    }
+                ]
+            }
+        ],
+        "BREAK136": [
+            {
+                "TYPE": "BREAK13",
+                "LIMIT": 6,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 30090,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 34000,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK141": [
+            {
+                "TYPE": "BREAK14",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 30093,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30092,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK151": [
+            {
+                "TYPE": "BREAK15",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 10381,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK161": [
+            {
+                "TYPE": "BREAK16",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 10361,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK171": [
+            {
+                "TYPE": "BREAK17",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 10341,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK181": [
+            {
+                "TYPE": "BREAK18",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 10241,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK191": [
+            {
+                "TYPE": "BREAK19",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 10261,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK201": [
+            {
+                "TYPE": "BREAK20",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 10301,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK211": [
+            {
+                "TYPE": "BREAK21",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 10281,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK221": [
+            {
+                "TYPE": "BREAK22",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 10321,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK231": [
+            {
+                "TYPE": "BREAK23",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 10161,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK241": [
+            {
+                "TYPE": "BREAK24",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 10181,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK251": [
+            {
+                "TYPE": "BREAK25",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 10201,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK261": [
+            {
+                "TYPE": "BREAK26",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 10221,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK271": [
+            {
+                "TYPE": "BREAK27",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 12341,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK281": [
+            {
+                "TYPE": "BREAK28",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 12361,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK291": [
+            {
+                "TYPE": "BREAK29",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 12381,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK301": [
+            {
+                "TYPE": "BREAK30",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 12401,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK311": [
+            {
+                "TYPE": "BREAK31",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 12261,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK321": [
+            {
+                "TYPE": "BREAK32",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 12281,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK331": [
+            {
+                "TYPE": "BREAK33",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 12301,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK341": [
+            {
+                "TYPE": "BREAK34",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 12321,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK351": [
+            {
+                "TYPE": "BREAK35",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 12161,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK361": [
+            {
+                "TYPE": "BREAK36",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 12181,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK371": [
+            {
+                "TYPE": "BREAK37",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 12201,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK381": [
+            {
+                "TYPE": "BREAK38",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 12221,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK391": [
+            {
+                "TYPE": "BREAK39",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 12241,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK401": [
+            {
+                "TYPE": "BREAK40",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 14341,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK411": [
+            {
+                "TYPE": "BREAK41",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 14361,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK421": [
+            {
+                "TYPE": "BREAK42",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 14381,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK431": [
+            {
+                "TYPE": "BREAK43",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 14261,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK441": [
+            {
+                "TYPE": "BREAK44",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 14281,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK451": [
+            {
+                "TYPE": "BREAK45",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 14301,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK461": [
+            {
+                "TYPE": "BREAK46",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 14321,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK471": [
+            {
+                "TYPE": "BREAK47",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 14161,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK481": [
+            {
+                "TYPE": "BREAK48",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 14181,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK491": [
+            {
+                "TYPE": "BREAK49",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 14201,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK501": [
+            {
+                "TYPE": "BREAK50",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 14221,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK511": [
+            {
+                "TYPE": "BREAK51",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 14241,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK521": [
+            {
+                "TYPE": "BREAK52",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 16341,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK531": [
+            {
+                "TYPE": "BREAK53",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 16361,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK541": [
+            {
+                "TYPE": "BREAK54",
+                "LIMIT": 1,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 16381,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK551": [
+            {
+                "TYPE": "BREAK55",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 16261,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK561": [
+            {
+                "TYPE": "BREAK56",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 16281,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK571": [
+            {
+                "TYPE": "BREAK57",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 16301,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK581": [
+            {
+                "TYPE": "BREAK58",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 16321,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK591": [
+            {
+                "TYPE": "BREAK59",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 16161,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK601": [
+            {
+                "TYPE": "BREAK60",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 16181,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK611": [
+            {
+                "TYPE": "BREAK61",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 16201,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK621": [
+            {
+                "TYPE": "BREAK62",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 16221,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK631": [
+            {
+                "TYPE": "BREAK63",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 16241,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK661": [
+            {
+                "TYPE": "BREAK66",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 17081,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK671": [
+            {
+                "TYPE": "BREAK67",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 17061,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK701": [
+            {
+                "TYPE": "BREAK70",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 18081,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK711": [
+            {
+                "TYPE": "BREAK71",
+                "LIMIT": 1,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": -1,
+                "ONE_DAY_LIMIT": 12,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 18061,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "ONLY1899999": [
+            {
+                "TYPE": "ONLY18",
+                "LIMIT": 99999,
+                "PRICE": 18,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 180,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 180
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 2000000
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 4000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 2000000
+                    }
+                ]
+            }
+        ],
+        "GUANYUGY01524": [
+            {
+                "TYPE": "GUANYUGY015",
+                "LIMIT": 24,
+                "PRICE": 30,
+                "HOUR": 8,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 300,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 300
+                    },
+                    {
+                        "GSID": 42009,
+                        "COUNT": 60
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 10
+                    }
+                ]
+            }
+        ],
+        "ZHAOYUN10199100": [
+            {
+                "TYPE": "ZHAOYUN101",
+                "LIMIT": 99100,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 42003,
+                        "COUNT": 60
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 3000
+                    }
+                ]
+            }
+        ],
+        "BREAK7250": [
+            {
+                "TYPE": "BREAK72",
+                "LIMIT": 50,
+                "PRICE": 30,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 300,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 300
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 1000000
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 800
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 2000000
+                    }
+                ]
+            }
+        ],
+        "BREAK73150": [
+            {
+                "TYPE": "BREAK73",
+                "LIMIT": 150,
+                "PRICE": 68,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 10
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 5
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK74250": [
+            {
+                "TYPE": "BREAK74",
+                "LIMIT": 250,
+                "PRICE": 98,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 20
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 10
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    }
+                ]
+            }
+        ],
+        "BREAK82300": [
+            {
+                "TYPE": "BREAK82",
+                "LIMIT": 300,
+                "PRICE": 128,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1280
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 40
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 15
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 3000
+                    }
+                ]
+            }
+        ],
+        "BREAK75350": [
+            {
+                "TYPE": "BREAK75",
+                "LIMIT": 350,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 30068,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32133,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 12000000
+                    }
+                ]
+            }
+        ],
+        "BREAK83400": [
+            {
+                "TYPE": "BREAK83",
+                "LIMIT": 400,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 32577,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30092,
+                        "COUNT": 3000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 6000000
+                    }
+                ]
+            }
+        ],
+        "BREAK76450": [
+            {
+                "TYPE": "BREAK76",
+                "LIMIT": 450,
+                "PRICE": 328,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 3280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 3280
+                    },
+                    {
+                        "GSID": 30093,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 30094,
+                        "COUNT": 2000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 15000000
+                    }
+                ]
+            }
+        ],
+        "BREAK84500": [
+            {
+                "TYPE": "BREAK84",
+                "LIMIT": 500,
+                "PRICE": 328,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 3280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 3280
+                    },
+                    {
+                        "GSID": 30090,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 34000,
+                        "COUNT": 2000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 15000000
+                    }
+                ]
+            }
+        ],
+        "BREAK77550": [
+            {
+                "TYPE": "BREAK77",
+                "LIMIT": 550,
+                "PRICE": 648,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 37001,
+                        "COUNT": 50
+                    },
+                    {
+                        "GSID": 34000,
+                        "COUNT": 3000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 15000000
+                    }
+                ]
+            }
+        ],
+        "BREAK85600": [
+            {
+                "TYPE": "BREAK85",
+                "LIMIT": 600,
+                "PRICE": 648,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32578,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30092,
+                        "COUNT": 12000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 30000000
+                    }
+                ]
+            }
+        ],
+        "BREAK78650": [
+            {
+                "TYPE": "BREAK78",
+                "LIMIT": 650,
+                "PRICE": 648,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 32137,
+                        "COUNT": 25
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 40000000
+                    }
+                ]
+            }
+        ],
+        "BREAK86700": [
+            {
+                "TYPE": "BREAK86",
+                "LIMIT": 700,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 32590,
+                        "COUNT": 6
+                    },
+                    {
+                        "GSID": 30114,
+                        "COUNT": 50
+                    },
+                    {
+                        "GSID": 30113,
+                        "COUNT": 2500
+                    }
+                ]
+            }
+        ],
+        "BREAK79750": [
+            {
+                "TYPE": "BREAK79",
+                "LIMIT": 750,
+                "PRICE": 198,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 30068,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 6000000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 12000000
+                    }
+                ]
+            }
+        ],
+        "BREAK87800": [
+            {
+                "TYPE": "BREAK87",
+                "LIMIT": 800,
+                "PRICE": 328,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 3280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 3280
+                    },
+                    {
+                        "GSID": 30134,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 10000000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 20000000
+                    }
+                ]
+            }
+        ],
+        "BREAK80850": [
+            {
+                "TYPE": "BREAK80",
+                "LIMIT": 850,
+                "PRICE": 328,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 3280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 3280
+                    },
+                    {
+                        "GSID": 32590,
+                        "COUNT": 10
+                    },
+                    {
+                        "GSID": 30114,
+                        "COUNT": 80
+                    },
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5000
+                    }
+                ]
+            }
+        ],
+        "BREAK88900": [
+            {
+                "TYPE": "BREAK88",
+                "LIMIT": 900,
+                "PRICE": 328,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 3280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 3280
+                    },
+                    {
+                        "GSID": 30068,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32587,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 20000000
+                    }
+                ]
+            }
+        ],
+        "BREAK81950": [
+            {
+                "TYPE": "BREAK81",
+                "LIMIT": 950,
+                "PRICE": 648,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 30130,
+                        "COUNT": 100
+                    },
+                    {
+                        "GSID": 30090,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 34000,
+                        "COUNT": 1000
+                    }
+                ]
+            }
+        ],
+        "BREAK891000": [
+            {
+                "TYPE": "BREAK89",
+                "LIMIT": 1000,
+                "PRICE": 648,
+                "HOUR": 4,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32595,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 15000000
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 10000
+                    }
+                ]
+            }
+        ],
+        "ONLY25100": [
+            {
+                "TYPE": "ONLY25",
+                "LIMIT": 100,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 30130,
+                        "COUNT": 150
+                    },
+                    {
+                        "GSID": 30090,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 34000,
+                        "COUNT": 2500
+                    }
+                ]
+            }
+        ],
+        "ONLY2695": [
+            {
+                "TYPE": "ONLY26",
+                "LIMIT": 95,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 32137,
+                        "COUNT": 25
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 40000000
+                    }
+                ]
+            }
+        ],
+        "ONLY2790": [
+            {
+                "TYPE": "ONLY27",
+                "LIMIT": 90,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32630,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32629,
+                        "COUNT": 5
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 30000000
+                    }
+                ]
+            }
+        ],
+        "ONLY2885": [
+            {
+                "TYPE": "ONLY28",
+                "LIMIT": 85,
+                "PRICE": 648,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 6480,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 30130,
+                        "COUNT": 120
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 20
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 8000
+                    }
+                ]
+            }
+        ],
+        "ONLY2980": [
+            {
+                "TYPE": "ONLY29",
+                "LIMIT": 80,
+                "PRICE": 198,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 32590,
+                        "COUNT": 10
+                    },
+                    {
+                        "GSID": 30114,
+                        "COUNT": 80
+                    },
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5000
+                    }
+                ]
+            }
+        ],
+        "ONLY3075": [
+            {
+                "TYPE": "ONLY30",
+                "LIMIT": 75,
+                "PRICE": 198,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 32577,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30092,
+                        "COUNT": 3000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 6000000
+                    }
+                ]
+            }
+        ],
+        "ONLY2470": [
+            {
+                "TYPE": "ONLY24",
+                "LIMIT": 70,
+                "PRICE": 128,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1280
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 10
+                    },
+                    {
+                        "GSID": 32584,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ],
+        "ONLY2365": [
+            {
+                "TYPE": "ONLY23",
+                "LIMIT": 65,
+                "PRICE": 128,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1280
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 20
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 20
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 3000
+                    }
+                ]
+            }
+        ],
+        "ONLY2260": [
+            {
+                "TYPE": "ONLY22",
+                "LIMIT": 60,
+                "PRICE": 98,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 30026,
+                        "COUNT": 8000
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 5000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 15000000
+                    }
+                ]
+            }
+        ],
+        "ONLY1953": [
+            {
+                "TYPE": "ONLY19",
+                "LIMIT": 53,
+                "PRICE": 98,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 980,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 980
+                    },
+                    {
+                        "GSID": 32584,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32126,
+                        "COUNT": 4
+                    }
+                ]
+            }
+        ],
+        "ONLY2040": [
+            {
+                "TYPE": "ONLY20",
+                "LIMIT": 40,
+                "PRICE": 68,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 8000000
+                    },
+                    {
+                        "GSID": 30026,
+                        "COUNT": 4000
+                    }
+                ]
+            }
+        ],
+        "ONLY2130": [
+            {
+                "TYPE": "ONLY21",
+                "LIMIT": 30,
+                "PRICE": 68,
+                "HOUR": 6,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 5000000
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 2000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 3000000
+                    }
+                ]
+            }
+        ],
+        "BATCHLV15": [
+            {
+                "TYPE": "BATCHLV",
+                "LIMIT": 15,
+                "PRICE": 18,
+                "HOUR": 8,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 180,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 180
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 10
+                    }
+                ]
+            },
+            {
+                "TYPE": "BATCHLV",
+                "LIMIT": 15,
+                "PRICE": 68,
+                "HOUR": 8,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 680,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 30
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 2
+                    }
+                ]
+            },
+            {
+                "TYPE": "BATCHLV",
+                "LIMIT": 15,
+                "PRICE": 128,
+                "HOUR": 8,
+                "TRIGGER_LIMIT": 1,
+                "EXP": 1280,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1280
+                    },
+                    {
+                        "GSID": 30006,
+                        "COUNT": 40
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 8
+                    }
+                ]
+            }
+        ]
+    },
+    "GIFT_TYPES": {
+        "97301": "BATCHZM",
+        "97421": "ONLY15",
+        "97422": "ONLY13",
+        "97423": "ONLY12",
+        "97424": "ONLY16",
+        "97425": "ONLY17",
+        "level": "LV",
+        "HORSE_UP_1": "ONLY11",
+        "EXCLUSIVE_UP_1": "ONLY14",
+        "GROWUP_AWAKE": "LIMIT22",
+        "MYTHICAL_CLASS_LV_30": "LIMIT33",
+        "ZHENFA_LV_15": "LIMIT44",
+        "SOULSTONE_MAKE": "LIMIT55",
+        "MYTHICAL_TALENT_LV_MAX": "BREAK11",
+        "GROWUP_STAR_11": "BREAK12",
+        "TREASURE_STAR": "BREAK13",
+        "BOOK_AWAKE": "BREAK14",
+        "GROWUP_10384": "BREAK15",
+        "GROWUP_10364": "BREAK16",
+        "GROWUP_10344": "BREAK17",
+        "GROWUP_10244": "BREAK18",
+        "GROWUP_10264": "BREAK19",
+        "GROWUP_10304": "BREAK20",
+        "GROWUP_10284": "BREAK21",
+        "GROWUP_10324": "BREAK22",
+        "GROWUP_10164": "BREAK23",
+        "GROWUP_10184": "BREAK24",
+        "GROWUP_10204": "BREAK25",
+        "GROWUP_10224": "BREAK26",
+        "GROWUP_12344": "BREAK27",
+        "GROWUP_12364": "BREAK28",
+        "GROWUP_12384": "BREAK29",
+        "GROWUP_12404": "BREAK30",
+        "GROWUP_12264": "BREAK31",
+        "GROWUP_12284": "BREAK32",
+        "GROWUP_12304": "BREAK33",
+        "GROWUP_12324": "BREAK34",
+        "GROWUP_12164": "BREAK35",
+        "GROWUP_12184": "BREAK36",
+        "GROWUP_12204": "BREAK37",
+        "GROWUP_12224": "BREAK38",
+        "GROWUP_12244": "BREAK39",
+        "GROWUP_14344": "BREAK40",
+        "GROWUP_14364": "BREAK41",
+        "GROWUP_14384": "BREAK42",
+        "GROWUP_14264": "BREAK43",
+        "GROWUP_14284": "BREAK44",
+        "GROWUP_14304": "BREAK45",
+        "GROWUP_14324": "BREAK46",
+        "GROWUP_14164": "BREAK47",
+        "GROWUP_14184": "BREAK48",
+        "GROWUP_14204": "BREAK49",
+        "GROWUP_14224": "BREAK50",
+        "GROWUP_14244": "BREAK51",
+        "GROWUP_16344": "BREAK52",
+        "GROWUP_16364": "BREAK53",
+        "GROWUP_16384": "BREAK54",
+        "GROWUP_16264": "BREAK55",
+        "GROWUP_16284": "BREAK56",
+        "GROWUP_16304": "BREAK57",
+        "GROWUP_16324": "BREAK58",
+        "GROWUP_16164": "BREAK59",
+        "GROWUP_16184": "BREAK60",
+        "GROWUP_16204": "BREAK61",
+        "GROWUP_16224": "BREAK62",
+        "GROWUP_16244": "BREAK63",
+        "GROWUP_17084": "BREAK66",
+        "GROWUP_17064": "BREAK67",
+        "GROWUP_18084": "BREAK70",
+        "GROWUP_18064": "BREAK71",
+        "CHAPTER_LOSE": "ONLY18",
+        "LEVEL_UP_24": "GUANYUGY015",
+        "ZHAOYUN_LV_100": "ZHAOYUN101",
+        "TOWER_FLOOR_50": "BREAK72",
+        "TOWER_FLOOR_150": "BREAK73",
+        "TOWER_FLOOR_250": "BREAK74",
+        "TOWER_FLOOR_300": "BREAK82",
+        "TOWER_FLOOR_350": "BREAK75",
+        "TOWER_FLOOR_400": "BREAK83",
+        "TOWER_FLOOR_450": "BREAK76",
+        "TOWER_FLOOR_500": "BREAK84",
+        "TOWER_FLOOR_550": "BREAK77",
+        "TOWER_FLOOR_600": "BREAK85",
+        "TOWER_FLOOR_650": "BREAK78",
+        "TOWER_FLOOR_700": "BREAK86",
+        "TOWER_FLOOR_750": "BREAK79",
+        "TOWER_FLOOR_800": "BREAK87",
+        "TOWER_FLOOR_850": "BREAK80",
+        "TOWER_FLOOR_900": "BREAK88",
+        "TOWER_FLOOR_950": "BREAK81",
+        "TOWER_FLOOR_1000": "BREAK89",
+        "LEVEL_UP_100": "ONLY25",
+        "LEVEL_UP_95": "ONLY26",
+        "LEVEL_UP_90": "ONLY27",
+        "LEVEL_UP_85": "ONLY28",
+        "LEVEL_UP_80": "ONLY29",
+        "LEVEL_UP_75": "ONLY30",
+        "LEVEL_UP_70": "ONLY24",
+        "LEVEL_UP_65": "ONLY23",
+        "LEVEL_UP_60": "ONLY22",
+        "LEVEL_UP_53": "ONLY19",
+        "LEVEL_UP_40": "ONLY20",
+        "LEVEL_UP_30": "ONLY21",
+        "LEVEL_UP": "BATCHLV"
+    },
+    "GIFT_DAYS": {
+        "LIMIT22": 2,
+        "BATCHLV": 2
+    },
+    "GRADE": [
+        30,
+        30,
+        30,
+        163,
+        163,
+        163,
+        163,
+        328,
+        328,
+        328,
+        648,
+        648,
+        648,
+        648,
+        648,
+        648
+    ]
+}

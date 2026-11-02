@@ -1,0 +1,11 @@
+test/
+/node_modules/
+.idea/
+.vscode/
+.history/
+/global.d.ts
+*/.DS_Store
+/dist
+/tmp/anno
+/tmp/update
+/tmp/maintain

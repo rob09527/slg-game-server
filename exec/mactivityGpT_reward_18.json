@@ -1,0 +1,34 @@
+{
+    "REQUIRE": [
+        {
+            "GSID": 97415,
+            "POS": 19
+        },
+        {
+            "GSID": -104,
+            "PARAM": [
+                375
+            ]
+        },
+        {
+            "GSID": 90526,
+            "MAXCOUNT": 18
+        },
+        {
+            "GSID": "special.tower1",
+            "MINCOUNT": 1
+        }
+    ],
+    "FROM": [],
+    "TO": [
+        {
+            "GSID": 97415,
+            "COUNT": 262144
+        },
+        {
+            "GSID": 38005,
+            "COUNT": 1200
+        },
+        {}
+    ]
+}

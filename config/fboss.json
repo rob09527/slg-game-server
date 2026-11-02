@@ -1,0 +1,104 @@
+{
+    "10101": {
+        "GSID": 16301,
+        "NAME": "人公喵灵",
+        "PATH": "affairs_boss_10101",
+        "LV": 100,
+        "MIN": 1440,
+        "BOSSHP": 13500000,
+        "RANGE": [
+            1,
+            60
+        ],
+        "CHALLENGE": [
+            1,
+            65
+        ],
+        "RCHALLENGE": [
+            {
+                "GSID": 38005,
+                "COUNT": 25
+            }
+        ],
+        "RKILL": [
+            {
+                "GSID": 38005,
+                "COUNT": 25
+            }
+        ],
+        "RACTIVE": [
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            }
+        ]
+    },
+    "10102": {
+        "GSID": 16061,
+        "NAME": "地公喵灵",
+        "PATH": "affairs_boss_10102",
+        "LV": 160,
+        "MIN": 1440,
+        "BOSSHP": 54000000,
+        "RANGE": [
+            61,
+            100
+        ],
+        "CHALLENGE": [
+            61,
+            105
+        ],
+        "RCHALLENGE": [
+            {
+                "GSID": 38005,
+                "COUNT": 25
+            }
+        ],
+        "RKILL": [
+            {
+                "GSID": 38005,
+                "COUNT": 25
+            }
+        ],
+        "RACTIVE": [
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            }
+        ]
+    },
+    "10103": {
+        "GSID": 16161,
+        "NAME": "天公喵灵",
+        "PATH": "affairs_boss_10103",
+        "LV": 200,
+        "MIN": 1440,
+        "BOSSHP": 135000000,
+        "RANGE": [
+            101,
+            999
+        ],
+        "CHALLENGE": [
+            101,
+            999
+        ],
+        "RCHALLENGE": [
+            {
+                "GSID": 38005,
+                "COUNT": 25
+            }
+        ],
+        "RKILL": [
+            {
+                "GSID": 38005,
+                "COUNT": 25
+            }
+        ],
+        "RACTIVE": [
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            }
+        ]
+    }
+}

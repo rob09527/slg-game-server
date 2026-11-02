@@ -1,0 +1,1373 @@
+{
+    "EVENT": [
+        {
+            "ID": 1001,
+            "INTRO": "喵灵达到等级",
+            "MARK": 94200
+        },
+        {
+            "ID": 1002,
+            "INTRO": "喵将塔通关层数",
+            "MARK": 94201
+        },
+        {
+            "ID": 1003,
+            "INTRO": "问鼎九州次数",
+            "MARK": 94202
+        },
+        {
+            "ID": 1004,
+            "INTRO": "征战通关关卡数",
+            "MARK": 94208
+        },
+        {
+            "ID": 1005,
+            "INTRO": "皇榜任务完成次数",
+            "MARK": 94204
+        },
+        {
+            "ID": 1006,
+            "INTRO": "赤壁之战累计获得星星数量",
+            "MARK": 90608
+        },
+        {
+            "ID": 1007,
+            "INTRO": "坐骑最高等级",
+            "MARK": 94206
+        },
+        {
+            "ID": 1008,
+            "INTRO": "完成征战事件次数",
+            "MARK": 94207
+        },
+        {
+            "ID": 1009,
+            "INTRO": "装备合成次数",
+            "MARK": 94205
+        },
+        {
+            "ID": 1010,
+            "INTRO": "喵神高级招募次数",
+            "MARK": 94209
+        },
+        {
+            "ID": 1011,
+            "INTRO": "喵转盘次数",
+            "MARK": 94210
+        },
+        {
+            "ID": 1012,
+            "INTRO": "喵灵升星",
+            "MARK": 94211
+        },
+        {
+            "ID": 1013,
+            "INTRO": "月度战役挑战次数",
+            "MARK": 94212
+        },
+        {
+            "ID": 1014,
+            "INTRO": "点将次数",
+            "MARK": 94213
+        },
+        {
+            "ID": 1015,
+            "INTRO": "军团技能升级",
+            "MARK": 98600
+        },
+        {
+            "ID": 1016,
+            "INTRO": "军团挑战",
+            "MARK": 98620
+        },
+        {
+            "ID": 1017,
+            "INTRO": "领取官职日常俸禄",
+            "MARK": 98640
+        },
+        {
+            "ID": 1018,
+            "INTRO": "刷新皇榜任务次数",
+            "MARK": 98660
+        },
+        {
+            "ID": 1019,
+            "INTRO": "达到官职等级",
+            "MARK": 98680
+        },
+        {
+            "ID": 1020,
+            "INTRO": "限时战役进度",
+            "MARK": 98700
+        },
+        {
+            "ID": 1021,
+            "INTRO": "获得5星坐骑个数",
+            "MARK": 98720
+        },
+        {
+            "ID": 1022,
+            "INTRO": "获得7星坐骑个数",
+            "MARK": 98740
+        },
+        {
+            "ID": 1023,
+            "INTRO": "获得10星坐骑个数",
+            "MARK": 98760
+        },
+        {
+            "ID": 1024,
+            "INTRO": "坐骑洗炼次数",
+            "MARK": 98900
+        },
+        {
+            "ID": 1025,
+            "INTRO": "神兵培养提升X级",
+            "MARK": 98780
+        },
+        {
+            "ID": 1026,
+            "INTRO": "神兵光环提升X级",
+            "MARK": 98781
+        },
+        {
+            "ID": 1027,
+            "INTRO": "战阵注灵X次",
+            "MARK": 98782
+        },
+        {
+            "ID": 1028,
+            "INTRO": "战阵升星X星",
+            "MARK": 98783
+        },
+        {
+            "ID": 1029,
+            "INTRO": "装备一套X星及以上器谱",
+            "MARK": 98784
+        },
+        {
+            "ID": 1030,
+            "INTRO": "器谱强化提升X级",
+            "MARK": 98785
+        },
+        {
+            "ID": 1031,
+            "INTRO": "装备X个灵魄",
+            "MARK": 98786
+        },
+        {
+            "ID": 1032,
+            "INTRO": "天命之人洗出X条橙色属性",
+            "MARK": 98787
+        },
+        {
+            "ID": 1033,
+            "INTRO": "天命之人洗出X条红色属性",
+            "MARK": 98788
+        },
+        {
+            "ID": 1034,
+            "INTRO": "天命之人洗炼X次",
+            "MARK": 98789
+        }
+    ],
+    "WELFARE": [
+        {
+            "DATE": 7,
+            "TAG": 0,
+            "INTRO": "免费豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 0
+                }
+            ]
+        },
+        {
+            "DATE": 7,
+            "TAG": 0,
+            "INTRO": "小黄鱼豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 400
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 200
+                }
+            ]
+        },
+        {
+            "DATE": 7,
+            "TAG": 0,
+            "INTRO": "VIP2限购豪礼",
+            "LIMIT": 1,
+            "VIP": 2,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 1000
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30175,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ]
+        },
+        {
+            "DATE": 8,
+            "TAG": 0,
+            "INTRO": "免费豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 0
+                }
+            ]
+        },
+        {
+            "DATE": 8,
+            "TAG": 0,
+            "INTRO": "小黄鱼豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 600000
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 300
+                }
+            ]
+        },
+        {
+            "DATE": 8,
+            "TAG": 0,
+            "INTRO": "VIP2限购豪礼",
+            "LIMIT": 1,
+            "VIP": 2,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 3000000
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30175,
+                    "COUNT": 10
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1280
+                }
+            ]
+        },
+        {
+            "DATE": 8,
+            "TAG": 0,
+            "INTRO": "VIP2限购豪礼",
+            "LIMIT": 1,
+            "VIP": 2,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 32132,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 30176,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2500
+                }
+            ]
+        },
+        {
+            "DATE": 9,
+            "TAG": 0,
+            "INTRO": "免费豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 36021,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 0
+                }
+            ]
+        },
+        {
+            "DATE": 9,
+            "TAG": 0,
+            "INTRO": "小黄鱼豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 32801,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 10
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2888
+                }
+            ]
+        },
+        {
+            "DATE": 9,
+            "TAG": 0,
+            "INTRO": "VIP2限购豪礼",
+            "LIMIT": 1,
+            "VIP": 2,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 1500
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 5000000
+                },
+                {
+                    "GSID": 30178,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3500
+                }
+            ]
+        },
+        {
+            "DATE": 10,
+            "TAG": 0,
+            "INTRO": "免费豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 0
+                }
+            ]
+        },
+        {
+            "DATE": 10,
+            "TAG": 0,
+            "INTRO": "小黄鱼豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1500000
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 388
+                }
+            ]
+        },
+        {
+            "DATE": 10,
+            "TAG": 0,
+            "INTRO": "VIP2限购豪礼",
+            "LIMIT": 1,
+            "VIP": 2,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 6000000
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30177,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1388
+                }
+            ]
+        },
+        {
+            "DATE": 11,
+            "TAG": 0,
+            "INTRO": "免费豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 0
+                }
+            ]
+        },
+        {
+            "DATE": 11,
+            "TAG": 0,
+            "INTRO": "小黄鱼豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1000
+                }
+            ]
+        },
+        {
+            "DATE": 11,
+            "TAG": 0,
+            "INTRO": "VIP2限购豪礼",
+            "LIMIT": 1,
+            "VIP": 2,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30178,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2288
+                }
+            ]
+        },
+        {
+            "DATE": 12,
+            "TAG": 0,
+            "INTRO": "免费豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 500000
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 0
+                }
+            ]
+        },
+        {
+            "DATE": 12,
+            "TAG": 0,
+            "INTRO": "小黄鱼豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 1000000
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 488
+                }
+            ]
+        },
+        {
+            "DATE": 12,
+            "TAG": 0,
+            "INTRO": "VIP2限购豪礼",
+            "LIMIT": 1,
+            "VIP": 2,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 5000000
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30179,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 5
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1588
+                }
+            ]
+        },
+        {
+            "DATE": 13,
+            "TAG": 0,
+            "INTRO": "免费豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 37004,
+                    "COUNT": 20
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 0
+                }
+            ]
+        },
+        {
+            "DATE": 13,
+            "TAG": 0,
+            "INTRO": "小黄鱼豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 37002,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 2
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1680
+                }
+            ]
+        },
+        {
+            "DATE": 13,
+            "TAG": 0,
+            "INTRO": "VIP2限购豪礼",
+            "LIMIT": 1,
+            "VIP": 2,
+            "EXP": 0,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 35301,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30177,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 5
+                }
+            ],
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2888
+                }
+            ]
+        }
+    ],
+    "GIFTPACK": [
+        {
+            "DATE": 7,
+            "TAG": 3,
+            "INTRO": "充值豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 300,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 5
+                }
+            ],
+            "PRICE": 30
+        },
+        {
+            "DATE": 8,
+            "TAG": 3,
+            "INTRO": "充值豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 680,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 1200
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 5
+                }
+            ],
+            "PRICE": 68
+        },
+        {
+            "DATE": 9,
+            "TAG": 3,
+            "INTRO": "充值豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 980,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 980
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 20
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 5
+                }
+            ],
+            "PRICE": 98
+        },
+        {
+            "DATE": 10,
+            "TAG": 3,
+            "INTRO": "充值豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 1980,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1980
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 20
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 32801,
+                    "COUNT": 1
+                }
+            ],
+            "PRICE": 198
+        },
+        {
+            "DATE": 11,
+            "TAG": 3,
+            "INTRO": "充值豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 3280,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3280
+                },
+                {
+                    "GSID": 37001,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 32802,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 5
+                }
+            ],
+            "PRICE": 328
+        },
+        {
+            "DATE": 12,
+            "TAG": 3,
+            "INTRO": "充值豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 6480,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 32596,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 2000
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 10
+                }
+            ],
+            "PRICE": 648
+        },
+        {
+            "DATE": 13,
+            "TAG": 3,
+            "INTRO": "充值豪礼",
+            "LIMIT": 1,
+            "VIP": 0,
+            "EXP": 6480,
+            "SPECLIST": [
+                {
+                    "GSID": 98901,
+                    "COUNT": 0
+                }
+            ],
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 32578,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 3000
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 10
+                }
+            ],
+            "PRICE": 648
+        }
+    ],
+    "RECHARGE": [
+        {
+            "DATE": 7,
+            "TAG": 3,
+            "INTRO": "累充100元",
+            "NUM": 100,
+            "VIP": 0,
+            "MARK": 98892,
+            "PMARK": 98893,
+            "SPECLIST": [
+                {
+                    "GSID": 0,
+                    "COUNT": 0
+                }
+            ],
+            "PAGEID": 0,
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "DATE": 8,
+            "TAG": 3,
+            "INTRO": "累充200元",
+            "NUM": 200,
+            "VIP": 0,
+            "MARK": 98892,
+            "PMARK": 98894,
+            "SPECLIST": [
+                {
+                    "GSID": 0,
+                    "COUNT": 0
+                }
+            ],
+            "PAGEID": 0,
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 37003,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 200
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "DATE": 9,
+            "TAG": 3,
+            "INTRO": "累充300元",
+            "NUM": 300,
+            "VIP": 0,
+            "MARK": 98892,
+            "PMARK": 98895,
+            "SPECLIST": [
+                {
+                    "GSID": 0,
+                    "COUNT": 0
+                }
+            ],
+            "PAGEID": 0,
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 800
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 3000000
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 5000000
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "DATE": 10,
+            "TAG": 3,
+            "INTRO": "累充500元",
+            "NUM": 500,
+            "VIP": 0,
+            "MARK": 98892,
+            "PMARK": 98896,
+            "SPECLIST": [
+                {
+                    "GSID": 0,
+                    "COUNT": 0
+                }
+            ],
+            "PAGEID": 0,
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1200
+                },
+                {
+                    "GSID": 32801,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 800
+                },
+                {
+                    "GSID": 30175,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "DATE": 11,
+            "TAG": 3,
+            "INTRO": "累充800元",
+            "NUM": 800,
+            "VIP": 0,
+            "MARK": 98892,
+            "PMARK": 98897,
+            "SPECLIST": [
+                {
+                    "GSID": 0,
+                    "COUNT": 0
+                }
+            ],
+            "PAGEID": 0,
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1500
+                },
+                {
+                    "GSID": 31006,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 1000
+                },
+                {
+                    "GSID": 30176,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "DATE": 12,
+            "TAG": 3,
+            "INTRO": "累充1200元",
+            "NUM": 1200,
+            "VIP": 0,
+            "MARK": 98892,
+            "PMARK": 98898,
+            "SPECLIST": [
+                {
+                    "GSID": 0,
+                    "COUNT": 0
+                }
+            ],
+            "PAGEID": 0,
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2000
+                },
+                {
+                    "GSID": 37002,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 34000,
+                    "COUNT": 800
+                },
+                {
+                    "GSID": 30177,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "DATE": 13,
+            "TAG": 3,
+            "INTRO": "累充2000元",
+            "NUM": 2000,
+            "VIP": 0,
+            "MARK": 98892,
+            "PMARK": 98899,
+            "SPECLIST": [
+                {
+                    "GSID": 0,
+                    "COUNT": 0
+                }
+            ],
+            "PAGEID": 0,
+            "REWARD": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3000
+                },
+                {
+                    "GSID": 37001,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 34000,
+                    "COUNT": 1000
+                },
+                {
+                    "GSID": 30178,
+                    "COUNT": 2
+                }
+            ]
+        }
+    ]
+}

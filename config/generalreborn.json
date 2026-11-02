@@ -1,0 +1,42 @@
+{
+    "STAR10": {
+        "COST": [
+            {
+                "GSID": 30134,
+                "COUNT": 1
+            }
+        ]
+    },
+    "STAR11": {
+        "COST": [
+            {
+                "GSID": 30134,
+                "COUNT": 2
+            }
+        ]
+    },
+    "STAR12": {
+        "COST": [
+            {
+                "GSID": 30134,
+                "COUNT": 3
+            }
+        ]
+    },
+    "STAR13": {
+        "COST": [
+            {
+                "GSID": 30134,
+                "COUNT": 4
+            }
+        ]
+    },
+    "STAR14": {
+        "COST": [
+            {
+                "GSID": 30134,
+                "COUNT": 5
+            }
+        ]
+    }
+}

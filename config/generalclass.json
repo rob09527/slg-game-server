@@ -1,0 +1,476 @@
+[
+    {
+        "MAXLV": 30,
+        "CLASS": 0,
+        "UNLOCK": 1,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": []
+    },
+    {
+        "MAXLV": 60,
+        "CLASS": 1,
+        "UNLOCK": 1,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 30
+            }
+        ]
+    },
+    {
+        "MAXLV": 100,
+        "CLASS": 2,
+        "UNLOCK": 2,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 200000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 60
+            }
+        ]
+    },
+    {
+        "MAXLV": 150,
+        "CLASS": 3,
+        "UNLOCK": 2,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 120
+            }
+        ]
+    },
+    {
+        "MAXLV": 200,
+        "CLASS": 4,
+        "UNLOCK": 3,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 2000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 250
+            }
+        ]
+    },
+    {
+        "MAXLV": 300,
+        "CLASS": 5,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 400
+            }
+        ]
+    },
+    {
+        "MAXLV": 400,
+        "CLASS": 6,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 6000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 550
+            }
+        ]
+    },
+    {
+        "MAXLV": 500,
+        "CLASS": 7,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 7000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 700
+            }
+        ]
+    },
+    {
+        "MAXLV": 600,
+        "CLASS": 8,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 8000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 900
+            }
+        ]
+    },
+    {
+        "MAXLV": 700,
+        "CLASS": 9,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 9000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1200
+            }
+        ]
+    },
+    {
+        "MAXLV": 800,
+        "CLASS": 10,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 10000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1800
+            }
+        ]
+    },
+    {
+        "MAXLV": 900,
+        "CLASS": 11,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 12000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 2500
+            }
+        ]
+    },
+    {
+        "MAXLV": 1000,
+        "CLASS": 12,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 14000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 3000
+            }
+        ]
+    },
+    {
+        "MAXLV": 1100,
+        "CLASS": 13,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 16000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 3500
+            }
+        ]
+    },
+    {
+        "MAXLV": 1200,
+        "CLASS": 14,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 18000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 4000
+            }
+        ]
+    },
+    {
+        "MAXLV": 1300,
+        "CLASS": 15,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 4500
+            }
+        ]
+    },
+    {
+        "MAXLV": 1400,
+        "CLASS": 16,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 25000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 5000
+            }
+        ]
+    },
+    {
+        "MAXLV": 1500,
+        "CLASS": 17,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 30000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 6000
+            }
+        ]
+    },
+    {
+        "MAXLV": 1600,
+        "CLASS": 18,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 35000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 7000
+            }
+        ]
+    },
+    {
+        "MAXLV": 1700,
+        "CLASS": 19,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 40000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 8000
+            }
+        ]
+    },
+    {
+        "MAXLV": 1800,
+        "CLASS": 20,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 45000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 9000
+            }
+        ]
+    },
+    {
+        "MAXLV": 1900,
+        "CLASS": 21,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 50000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 10000
+            }
+        ]
+    },
+    {
+        "MAXLV": 2000,
+        "CLASS": 22,
+        "UNLOCK": 4,
+        "ADD": {
+            "HP": 0,
+            "ATK": 0,
+            "DEF": 0,
+            "MDEF": 0
+        },
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 75000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 15000
+            }
+        ]
+    }
+]

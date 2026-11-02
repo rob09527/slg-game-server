@@ -1,0 +1,110 @@
+[
+    {
+        "ID": 101,
+        "TRIGGER": 0,
+        "REFRESH": 1,
+        "PRICE": 6,
+        "EXP": 60,
+        "LIMIT": 1,
+        "VIP": [
+            0,
+            15
+        ],
+        "LOCK": -1,
+        "MARK": [
+            91028
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 120
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 300000
+            }
+        ]
+    },
+    {
+        "ID": 201,
+        "TRIGGER": 0,
+        "REFRESH": 1,
+        "PRICE": 6,
+        "EXP": 60,
+        "LIMIT": 1,
+        "VIP": [
+            0,
+            15
+        ],
+        "LOCK": -1,
+        "MARK": [
+            91029
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 120
+            },
+            {
+                "GSID": 30009,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100
+            }
+        ]
+    },
+    {
+        "ID": 301,
+        "TRIGGER": 0,
+        "REFRESH": 1,
+        "PRICE": 6,
+        "EXP": 60,
+        "LIMIT": 1,
+        "VIP": [
+            0,
+            15
+        ],
+        "LOCK": -1,
+        "MARK": [
+            91030
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 120
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 150000
+            }
+        ]
+    },
+    {
+        "ID": 501,
+        "TRIGGER": 0,
+        "REFRESH": 1,
+        "PRICE": 98,
+        "EXP": 980,
+        "LIMIT": 1,
+        "VIP": [
+            0,
+            15
+        ],
+        "MARK": [
+            91028,
+            91029,
+            91030
+        ],
+        "ITEMS": []
+    }
+]

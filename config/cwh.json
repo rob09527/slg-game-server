@@ -1,0 +1,215 @@
+{
+    "PRODUCT": {
+        "cwh_doubleyb_0": {
+            "PRICE": 648,
+            "LIMIT": 5,
+            "MARK": 91037,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 12960}
+            ]
+        },
+        "cwh_doubleyb_1": {
+            "PRICE": 328,
+            "LIMIT": 5,
+            "MARK": 91038,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 6560}
+            ]
+        },
+        "cwh_doubleyb_2": {
+            "PRICE": 198,
+            "LIMIT": 5,
+            "MARK": 91039,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 3960}
+            ]
+        },
+        "cwh_doubleyb_3": {
+            "PRICE": 128,
+            "LIMIT": 5,
+            "MARK": 91040,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 2560}
+            ]
+        },
+        "cwh_doubleyb_4": {
+            "PRICE": 68,
+            "LIMIT": 5,
+            "MARK": 91041,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 1360}
+            ]
+        },
+        "cwh_doubleyb_5": {
+            "PRICE": 30,
+            "LIMIT": 5,
+            "MARK": 91042,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 600}
+            ]
+        },
+        "cwh_doubleyb_6": {
+            "PRICE": 6,
+            "LIMIT": 5,
+            "MARK": 91043,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 120}
+            ]
+        },
+        "cwh_tgduobao": {
+            "PRICE": 1,
+            "MARK": 91036,
+            "ITEMS": [
+                {"GSID": 30096, "COUNT": 3}
+            ]
+        },
+        "cwh_djdaily": {
+            "PRICE": 6,
+            "MARK": 91034,
+            "ITEMS": [
+                [
+                    {"GSID": 38005, "COUNT": 60},
+                    {"GSID": 30024, "COUNT": 6}
+                ],
+                [
+                    {"GSID": 38005, "COUNT": 60},
+                    {"GSID": 38006, "COUNT": 300000},
+                    {"GSID": 30015, "COUNT": 500}
+                ],
+                [
+                    {"GSID": 38005, "COUNT": 60},
+                    {"GSID": 30001, "COUNT": 150000},
+                    {"GSID": 30015, "COUNT": 200}
+                ],
+                [
+                    {"GSID": 30001, "COUNT": 1000000}
+                ],
+                [
+                    {"GSID": 38005, "COUNT": 60},
+                    {"GSID": 30006, "COUNT": 2}
+                ],
+                [
+                    {"GSID": 38005, "COUNT": 60},
+                    {"GSID": 30008, "COUNT": 6}
+                ],
+                [
+                    {"GSID": 38005, "COUNT": 60},
+                    {"GSID": 30009, "COUNT": 1}
+                ]
+            ]
+        },
+        "cwh_djweek": {
+            "PRICE": 68,
+            "MARK": 91035,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 680},
+                {"GSID": 36001, "COUNT": 50},
+                {"GSID": 30029, "COUNT": 100}
+            ]
+        },
+        "cwh_daily": {
+            "PRICE": 0,
+            "MARK": 91021,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 50},
+                {"GSID": 38006, "COUNT": 50000}
+            ]
+        },
+        "cwh_bind": {
+            "PRICE": 0,
+            "MARK": 91032,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 500},
+                {"GSID": 30008, "COUNT": 5},
+                {"GSID": 30006, "COUNT": 2}
+            ]
+        },
+        "cwh_week": {
+            "PRICE": 0,
+            "MARK": 91022,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 100},
+                {"GSID": 30026, "COUNT": 200},
+                {"GSID": 30001, "COUNT": 150000}
+            ]
+        },
+        "cwh_month": {
+            "PRICE": 0,
+            "MARK": 91033,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 200},
+                {"GSID": 30006, "COUNT": 2},
+                {"GSID": 30015, "COUNT": 200}
+            ]
+        },
+        "cwh_nrole": {
+            "PRICE": 6,
+            "MARK": 91023,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 1000}
+            ]
+        },
+        "cwh_vipa": {
+            "RANGE": [
+                {
+                    "LEASTVIP": 0,
+                    "PRICE": 68,
+                    "MARK": 91025,
+                    "LIMIT": 2,
+                    "ITEMS": [
+                        {"GSID": 38005, "COUNT": 680},
+                        {"GSID": 38006, "COUNT": 7500000},
+                        {"GSID": 30001, "COUNT": 6000000},
+                        {"GSID": 30015, "COUNT": 2000}
+                    ]
+                },
+                {
+                    "LEASTVIP": 5,
+                    "PRICE": 328,
+                    "MARK": 91026,
+                    "LIMIT": 2,
+                    "ITEMS": [
+                        {"GSID": 38005, "COUNT": 3280},
+                        {"GSID": 38006, "COUNT": 37500000},
+                        {"GSID": 30001, "COUNT": 30000000},
+                        {"GSID": 30015, "COUNT": 10000}
+                    ]
+                },
+                {
+                    "LEASTVIP": 10,
+                    "PRICE": 648,
+                    "MARK": 91027,
+                    "LIMIT": 2,
+                    "ITEMS": [
+                        {"GSID": 38005, "COUNT": 6480},
+                        {"GSID": 38006, "COUNT": 75000000},
+                        {"GSID": 30001, "COUNT": 60000000},
+                        {"GSID": 30015, "COUNT": 20000}
+                    ]
+                }
+            ]
+        },
+        "cwh_wjmb": {
+            "PRICE": 0,
+            "MARK": 91024,
+            "ITEMS": [
+                {"GSID": 38006, "COUNT": 100000}
+            ]
+        },
+        "cwh_ngtx": {
+            "PRICE": 0,
+            "ITEMS": [
+                {"GSID": 38006, "COUNT": 100000}
+            ]
+        },
+        "cwh_jf101": {
+            "PRICE": 0,
+            "ITEMS": [
+                {"GSID": 38005, "COUNT": 980},
+                {"GSID": 38006, "COUNT": 10000000},
+                {"GSID": 30015, "COUNT": 1000}
+            ]
+        }
+    }
+}
+

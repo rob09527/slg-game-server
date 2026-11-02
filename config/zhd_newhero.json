@@ -1,0 +1,1914 @@
+{
+    "LJDL": {
+        "MARK": 90476,
+        "CLEANMARKS": [
+            90476
+        ],
+        "ITEMS": [
+            [
+                {
+                    "GSID": 30102,
+                    "COUNT": 1
+                }
+            ],
+            [
+                {
+                    "GSID": 30102,
+                    "COUNT": 1
+                }
+            ],
+            [
+                {
+                    "GSID": 30102,
+                    "COUNT": 2
+                }
+            ],
+            [
+                {
+                    "GSID": 30102,
+                    "COUNT": 3
+                }
+            ],
+            [
+                {
+                    "GSID": 30102,
+                    "COUNT": 3
+                }
+            ],
+            [
+                {
+                    "GSID": 30102,
+                    "COUNT": 5
+                }
+            ],
+            [
+                {
+                    "GSID": 30102,
+                    "COUNT": 10
+                }
+            ]
+        ]
+    },
+    "LJCZ": {
+        "MARK": 90477,
+        "ITEMS": [
+            {
+                "NUM": 198,
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 20
+                    }
+                ]
+            },
+            {
+                "NUM": 648,
+                "ITEMS": [
+                    {
+                        "GSID": 30037,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "NUM": 1200,
+                "ITEMS": [
+                    {
+                        "GSID": 36007,
+                        "COUNT": 50
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 4000000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 4000000
+                    }
+                ]
+            },
+            {
+                "NUM": 1800,
+                "ITEMS": [
+                    {
+                        "GSID": 33015,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 33115,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 33215,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 33315,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "NUM": 3000,
+                "ITEMS": [
+                    {
+                        "GSID": 28161,
+                        "COUNT": 50
+                    }
+                ]
+            },
+            {
+                "NUM": 6000,
+                "ITEMS": [
+                    {
+                        "GSID": 30049,
+                        "COUNT": 4
+                    }
+                ]
+            },
+            {
+                "NUM": 10000,
+                "ITEMS": [
+                    {
+                        "GSID": 30047,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "LJCZ2": {
+        "MARK": 90477,
+        "ITEMS": [
+            {
+                "NUM": 198,
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 20
+                    }
+                ]
+            },
+            {
+                "NUM": 648,
+                "ITEMS": [
+                    {
+                        "GSID": 30037,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "NUM": 1200,
+                "ITEMS": [
+                    {
+                        "GSID": 36007,
+                        "COUNT": 50
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 4000000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 4000000
+                    }
+                ]
+            },
+            {
+                "NUM": 1800,
+                "ITEMS": [
+                    {
+                        "GSID": 33015,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 33115,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 33215,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 33315,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "NUM": 3000,
+                "ITEMS": [
+                    {
+                        "GSID": 28161,
+                        "COUNT": 50
+                    }
+                ]
+            },
+            {
+                "NUM": 6000,
+                "ITEMS": [
+                    {
+                        "GSID": 30049,
+                        "COUNT": 4
+                    }
+                ]
+            },
+            {
+                "NUM": 10000,
+                "ITEMS": [
+                    {
+                        "GSID": 30047,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "LJCZ1": {
+        "MARK": 90533,
+        "ITEMS": [
+            {
+                "NUM": 198,
+                "ITEMS": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 50
+                    }
+                ]
+            },
+            {
+                "NUM": 648,
+                "ITEMS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 20000000
+                    }
+                ]
+            },
+            {
+                "NUM": 1200,
+                "ITEMS": [
+                    {
+                        "GSID": 30001,
+                        "COUNT": 30000000
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 5000
+                    }
+                ]
+            },
+            {
+                "NUM": 1800,
+                "ITEMS": [
+                    {
+                        "GSID": 30093,
+                        "COUNT": 2
+                    }
+                ]
+            },
+            {
+                "NUM": 3000,
+                "ITEMS": [
+                    {
+                        "GSID": 33016,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 33116,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 33216,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 33316,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "NUM": 6000,
+                "ITEMS": [
+                    {
+                        "GSID": 30049,
+                        "COUNT": 4
+                    }
+                ]
+            },
+            {
+                "NUM": 10000,
+                "ITEMS": [
+                    {
+                        "GSID": 32570,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "JHLB": [
+        {
+            "ID": 1001,
+            "PRICE": 68,
+            "EXP": 680,
+            "LIMIT": 1,
+            "REFRESH": 1,
+            "ISSHOW": 1,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 7
+                },
+                {
+                    "GSID": 36007,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "ID": 1002,
+            "PRICE": 6,
+            "EXP": 60,
+            "LIMIT": 1,
+            "REFRESH": 1,
+            "ISSHOW": 0,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 60
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 1003,
+            "LIMIT": 1,
+            "REFRESH": 1,
+            "ISSHOW": 1,
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2500
+                }
+            ],
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 30062,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                }
+            ]
+        }
+    ],
+    "JHLB1": [
+        {
+            "ID": 1001,
+            "PRICE": 68,
+            "EXP": 680,
+            "LIMIT": 1,
+            "REFRESH": 1,
+            "ISSHOW": 1,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 680
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 7
+                },
+                {
+                    "GSID": 36007,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "ID": 1002,
+            "PRICE": 6,
+            "EXP": 60,
+            "LIMIT": 1,
+            "REFRESH": 1,
+            "ISSHOW": 0,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 60
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "ID": 1003,
+            "LIMIT": 1,
+            "REFRESH": 1,
+            "ISSHOW": 1,
+            "COST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2500
+                }
+            ],
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 30062,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                }
+            ]
+        }
+    ],
+    "SWLB": [
+        {
+            "PRICE": 648,
+            "EXP": 6480,
+            "LIMIT": 11,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 80
+                },
+                {
+                    "GSID": 30009,
+                    "COUNT": 16
+                }
+            ]
+        },
+        {
+            "PRICE": 448,
+            "EXP": 4480,
+            "LIMIT": 11,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 4480
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 55
+                },
+                {
+                    "GSID": 30009,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "PRICE": 328,
+            "EXP": 3280,
+            "LIMIT": 11,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3280
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 30009,
+                    "COUNT": 8
+                }
+            ]
+        },
+        {
+            "PRICE": 128,
+            "EXP": 1280,
+            "LIMIT": 11,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1280
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 12
+                },
+                {
+                    "GSID": 30009,
+                    "COUNT": 6
+                }
+            ]
+        }
+    ],
+    "SWLB1": [
+        {
+            "PRICE": 648,
+            "EXP": 6480,
+            "LIMIT": 11,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 80
+                },
+                {
+                    "GSID": 30009,
+                    "COUNT": 16
+                }
+            ]
+        },
+        {
+            "PRICE": 448,
+            "EXP": 4480,
+            "LIMIT": 11,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 4480
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 55
+                },
+                {
+                    "GSID": 30009,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "PRICE": 328,
+            "EXP": 3280,
+            "LIMIT": 11,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3280
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 30009,
+                    "COUNT": 8
+                }
+            ]
+        },
+        {
+            "PRICE": 128,
+            "EXP": 1280,
+            "LIMIT": 11,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1280
+                },
+                {
+                    "GSID": 30062,
+                    "COUNT": 12
+                },
+                {
+                    "GSID": 30009,
+                    "COUNT": 6
+                }
+            ]
+        }
+    ],
+    "ATYZM": {
+        "CLEANMARKS": [
+            90480,
+            90481,
+            90482,
+            90483,
+            30045
+        ],
+        "NAME": "龙帝召唤",
+        "COST": [
+            {
+                "TIMES": 1,
+                "ITEM": {
+                    "GSID": 30045,
+                    "COUNT": 1
+                }
+            },
+            {
+                "TIMES": 10,
+                "ITEM": {
+                    "GSID": 30045,
+                    "COUNT": 10
+                }
+            }
+        ],
+        "ATYG": 17141,
+        "S_GSID": 17149,
+        "TOTALMARK": 90480,
+        "FREEMARK": 90481,
+        "STARFLOOR": {
+            "MARK": 90482,
+            "COUNT": 60
+        },
+        "GFLOOR": {
+            "FIRST": {
+                "MARK": 98010,
+                "COUNT": 40
+            },
+            "SPACE": [
+                20,
+                200
+            ],
+            "MARK": 90483
+        },
+        "STARRATE": [
+            0,
+            0,
+            7000,
+            2600,
+            400
+        ]
+    },
+    "ATYZM1": {
+        "CLEANMARKS": [
+            90480,
+            90481,
+            90482,
+            90483,
+            17141
+        ],
+        "NAME": "龙帝召唤",
+        "COST": [
+            {
+                "TIMES": 1,
+                "ITEM": {
+                    "GSID": 30045,
+                    "COUNT": 1
+                }
+            },
+            {
+                "TIMES": 10,
+                "ITEM": {
+                    "GSID": 30045,
+                    "COUNT": 10
+                }
+            }
+        ],
+        "ATYG": 17141,
+        "S_GSID": 17149,
+        "TOTALMARK": 90480,
+        "FREEMARK": 90481,
+        "STARFLOOR": {
+            "MARK": 90482,
+            "COUNT": 60
+        },
+        "GFLOOR": {
+            "FIRST": {
+                "MARK": 98010,
+                "COUNT": 40
+            },
+            "SPACE": [
+                20,
+                200
+            ],
+            "MARK": 90483
+        },
+        "STARRATE": [
+            0,
+            0,
+            7000,
+            2600,
+            400
+        ]
+    },
+    "YHZH": {
+        "NAME": "英魂召唤",
+        "CLEANMARKS": [
+            90491,
+            90492,
+            90493
+        ],
+        "GSID": 28161,
+        "S_GSID": 18169,
+        "TOTALMARK": 90491,
+        "FREEMARK": 90492,
+        "GFLOOR": {
+            "SPACE": [
+                20,
+                160
+            ],
+            "MARK": 90493
+        },
+        "COST": [
+            {
+                "TIMES": 1,
+                "ITEM": {
+                    "GSID": 30062,
+                    "COUNT": 1
+                }
+            },
+            {
+                "TIMES": 10,
+                "ITEM": {
+                    "GSID": 30062,
+                    "COUNT": 10
+                }
+            }
+        ],
+        "POOL": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000000,
+                "CHANCE": 2500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 500000,
+                "CHANCE": 2500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200,
+                "CHANCE": 1500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200,
+                "CHANCE": 1500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 36001,
+                "COUNT": 50,
+                "CHANCE": 300,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 32561,
+                "COUNT": 1,
+                "CHANCE": 1400,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 32564,
+                "COUNT": 1,
+                "CHANCE": 200,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 28161,
+                "COUNT": 50,
+                "CHANCE": 100,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "S_REWARD": [
+            {
+                "GSID": 32564,
+                "COUNT": 1
+            },
+            {
+                "GSID": 32561,
+                "COUNT": 1
+            },
+            {
+                "GSID": 36001,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ]
+    },
+    "YHZH1": {
+        "NAME": "英魂召唤",
+        "CLEANMARKS": [
+            90491,
+            90492,
+            90493
+        ],
+        "GSID": 28161,
+        "S_GSID": 18169,
+        "TOTALMARK": 90491,
+        "FREEMARK": 90492,
+        "GFLOOR": {
+            "SPACE": [
+                20,
+                160
+            ],
+            "MARK": 90493
+        },
+        "COST": [
+            {
+                "TIMES": 1,
+                "ITEM": {
+                    "GSID": 30062,
+                    "COUNT": 1
+                }
+            },
+            {
+                "TIMES": 10,
+                "ITEM": {
+                    "GSID": 30062,
+                    "COUNT": 10
+                }
+            }
+        ],
+        "POOL": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000000,
+                "CHANCE": 2500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 500000,
+                "CHANCE": 2500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200,
+                "CHANCE": 1500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200,
+                "CHANCE": 1500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 36001,
+                "COUNT": 50,
+                "CHANCE": 300,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 32561,
+                "COUNT": 1,
+                "CHANCE": 1400,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 32564,
+                "COUNT": 1,
+                "CHANCE": 200,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 28161,
+                "COUNT": 50,
+                "CHANCE": 100,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "S_REWARD": [
+            {
+                "GSID": 32564,
+                "COUNT": 1
+            },
+            {
+                "GSID": 32561,
+                "COUNT": 1
+            },
+            {
+                "GSID": 36001,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ]
+    },
+    "HTZH": {
+        "NAME": "黄天召唤",
+        "CLEANMARKS": [
+            90593,
+            90594,
+            30105,
+            30106
+        ],
+        "S_GSID": 18189,
+        "TOTALMARK": 90593,
+        "FREEMARK": 90594,
+        "COST": [
+            {
+                "TIMES": 1,
+                "ITEM": {
+                    "GSID": 30105,
+                    "COUNT": 1
+                },
+                "GET": {
+                    "GSID": 30106,
+                    "COUNT": 1
+                }
+            },
+            {
+                "TIMES": 10,
+                "ITEM": {
+                    "GSID": 30105,
+                    "COUNT": 10
+                },
+                "GET": {
+                    "GSID": 30106,
+                    "COUNT": 10
+                }
+            }
+        ],
+        "SHOP": [
+            {
+                "LIMIT": 1,
+                "NAME": "魂浅井长政武将碎片",
+                "GET": [
+                    {
+                        "GSID": 28181,
+                        "COUNT": 50
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 180
+                    }
+                ]
+            },
+            {
+                "LIMIT": 2,
+                "NAME": "魂浅井长政武将碎片",
+                "GET": [
+                    {
+                        "GSID": 28181,
+                        "COUNT": 50
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 300
+                    }
+                ]
+            },
+            {
+                "LIMIT": 3,
+                "NAME": "无双宝物石",
+                "GET": [
+                    {
+                        "GSID": 30090,
+                        "COUNT": 1
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 60
+                    }
+                ]
+            },
+            {
+                "LIMIT": 1,
+                "NAME": "无双专属石",
+                "GET": [
+                    {
+                        "GSID": 30068,
+                        "COUNT": 1
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 60
+                    }
+                ]
+            },
+            {
+                "LIMIT": 1,
+                "NAME": "无双神兽石",
+                "GET": [
+                    {
+                        "GSID": 30072,
+                        "COUNT": 1
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 60
+                    }
+                ]
+            },
+            {
+                "LIMIT": 1,
+                "NAME": "无双兵法石",
+                "GET": [
+                    {
+                        "GSID": 30093,
+                        "COUNT": 1
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 60
+                    }
+                ]
+            },
+            {
+                "LIMIT": 2,
+                "NAME": "五星随机兵书",
+                "GET": [
+                    {
+                        "GSID": 32119,
+                        "COUNT": 1
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 60
+                    }
+                ]
+            },
+            {
+                "LIMIT": 4,
+                "NAME": "四星随机兵书",
+                "GET": [
+                    {
+                        "GSID": 32118,
+                        "COUNT": 1
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 36
+                    }
+                ]
+            },
+            {
+                "LIMIT": 5,
+                "NAME": "高级符文",
+                "GET": [
+                    {
+                        "GSID": 30066,
+                        "COUNT": 10
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 20
+                    }
+                ]
+            },
+            {
+                "LIMIT": 10,
+                "NAME": "普通符文",
+                "GET": [
+                    {
+                        "GSID": 30065,
+                        "COUNT": 20
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 20
+                    }
+                ]
+            },
+            {
+                "LIMIT": 9999,
+                "NAME": "铜钱",
+                "GET": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 15000
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "LIMIT": 9999,
+                "NAME": "武将经验",
+                "GET": [
+                    {
+                        "GSID": 30001,
+                        "COUNT": 7500
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 1
+                    }
+                ]
+            },
+            {
+                "LIMIT": 9999,
+                "NAME": "坐骑丹",
+                "GET": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 10
+                    }
+                ],
+                "COST": [
+                    {
+                        "GSID": 30106,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ],
+        "POOL": [
+            {
+                "GSID": 38006,
+                "COUNT": 400000,
+                "CHANCE": 2865,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 200000,
+                "CHANCE": 2865,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100,
+                "CHANCE": 1500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 100,
+                "CHANCE": 1500,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 36001,
+                "COUNT": 50,
+                "CHANCE": 200,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 32561,
+                "COUNT": 1,
+                "CHANCE": 600,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 32562,
+                "COUNT": 1,
+                "CHANCE": 400,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "GSID": 28181,
+                "COUNT": 50,
+                "CHANCE": 70,
+                "LEVEL": [
+                    1,
+                    999
+                ],
+                "VIP": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "S_REWARD": [
+            {
+                "GSID": 32562,
+                "COUNT": 1
+            },
+            {
+                "GSID": 32561,
+                "COUNT": 1
+            },
+            {
+                "GSID": 36001,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 200000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 400000
+            }
+        ]
+    },
+    "YHSH": {
+        "REFMARKS": [
+            90496,
+            90499,
+            90497,
+            90500,
+            90497,
+            90501,
+            90497,
+            90502,
+            90497,
+            90503
+        ],
+        "EVENTNAME": "英魂守护",
+        "TASK": [
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 2
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗10次",
+                "RMARK": [
+                    {
+                        "GSID": 90499,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90496,
+                        "COUNT": 10
+                    }
+                ]
+            },
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 5
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗胜利5次",
+                "RMARK": [
+                    {
+                        "GSID": 90500,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90497,
+                        "COUNT": 5
+                    }
+                ]
+            },
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 3
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗胜利10次",
+                "RMARK": [
+                    {
+                        "GSID": 90501,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90497,
+                        "COUNT": 10
+                    }
+                ]
+            },
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 4
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗胜利20次",
+                "RMARK": [
+                    {
+                        "GSID": 90502,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90497,
+                        "COUNT": 20
+                    }
+                ]
+            },
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 6
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗胜利30次",
+                "RMARK": [
+                    {
+                        "GSID": 90503,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90497,
+                        "COUNT": 30
+                    }
+                ]
+            }
+        ],
+        "GENERAL": [
+            18161,
+            18162,
+            18163,
+            18164,
+            18165,
+            18166,
+            18167,
+            18168,
+            18169
+        ]
+    },
+    "YHSH1": {
+        "REFMARKS": [
+            90496,
+            90499,
+            90497,
+            90500,
+            90497,
+            90501,
+            90497,
+            90502,
+            90497,
+            90503
+        ],
+        "EVENTNAME": "英魂守护",
+        "TASK": [
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 2
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗10次",
+                "RMARK": [
+                    {
+                        "GSID": 90499,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90496,
+                        "COUNT": 10
+                    }
+                ]
+            },
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 5
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗胜利5次",
+                "RMARK": [
+                    {
+                        "GSID": 90500,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90497,
+                        "COUNT": 5
+                    }
+                ]
+            },
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 3
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗胜利10次",
+                "RMARK": [
+                    {
+                        "GSID": 90501,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90497,
+                        "COUNT": 10
+                    }
+                ]
+            },
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 4
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗胜利20次",
+                "RMARK": [
+                    {
+                        "GSID": 90502,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90497,
+                        "COUNT": 20
+                    }
+                ]
+            },
+            {
+                "ITEMS": [
+                    {
+                        "GSID": 30062,
+                        "COUNT": 6
+                    }
+                ],
+                "INTRO": "使用出云阿国参与演武场战斗胜利30次",
+                "RMARK": [
+                    {
+                        "GSID": 90503,
+                        "COUNT": 1
+                    }
+                ],
+                "FINISH": [
+                    {
+                        "GSID": 90497,
+                        "COUNT": 30
+                    }
+                ]
+            }
+        ],
+        "GENERAL": [
+            18161,
+            18162,
+            18163,
+            18164,
+            18165,
+            18166,
+            18167,
+            18168,
+            18169
+        ]
+    },
+    "HYHL": {
+        "REFMARKS": [
+            90506
+        ],
+        "MARK": 90506,
+        "EVENTNAME": "活跃豪礼",
+        "FOLLOWMARK": 93012,
+        "ITEM": [
+            {
+                "SCORE": 100,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 5
+                    }
+                ]
+            },
+            {
+                "SCORE": 200,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 5
+                    }
+                ]
+            },
+            {
+                "SCORE": 300,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 5
+                    }
+                ]
+            },
+            {
+                "SCORE": 400,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 15
+                    }
+                ]
+            },
+            {
+                "SCORE": 500,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 20
+                    }
+                ]
+            }
+        ]
+    },
+    "HYHL1": {
+        "REFMARKS": [
+            90506
+        ],
+        "MARK": 90506,
+        "EVENTNAME": "活跃豪礼",
+        "FOLLOWMARK": 93012,
+        "ITEM": [
+            {
+                "SCORE": 100,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 5
+                    }
+                ]
+            },
+            {
+                "SCORE": 200,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 5
+                    }
+                ]
+            },
+            {
+                "SCORE": 300,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 5
+                    }
+                ]
+            },
+            {
+                "SCORE": 400,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 15
+                    }
+                ]
+            },
+            {
+                "SCORE": 500,
+                "REWARD": [
+                    {
+                        "GSID": 37002,
+                        "COUNT": 20
+                    }
+                ]
+            }
+        ]
+    },
+    "DLHL": {
+        "MARK": 90531,
+        "CLEANMARKS": [
+            90531
+        ],
+        "ITEMS": [
+            [
+                {
+                    "GSID": 30078,
+                    "COUNT": 50
+                }
+            ],
+            [
+                {
+                    "GSID": 30079,
+                    "COUNT": 10
+                }
+            ],
+            [
+                {
+                    "GSID": 30078,
+                    "COUNT": 100
+                }
+            ],
+            [
+                {
+                    "GSID": 30079,
+                    "COUNT": 10
+                }
+            ],
+            [
+                {
+                    "GSID": 30078,
+                    "COUNT": 150
+                }
+            ],
+            [
+                {
+                    "GSID": 30079,
+                    "COUNT": 10
+                }
+            ],
+            [
+                {
+                    "GSID": 30079,
+                    "COUNT": 20
+                }
+            ]
+        ]
+    },
+    "DLHL1": {
+        "MARK": 90531,
+        "CLEANMARKS": [
+            90531
+        ],
+        "ITEMS": [
+            [
+                {
+                    "GSID": 30078,
+                    "COUNT": 50
+                }
+            ],
+            [
+                {
+                    "GSID": 30079,
+                    "COUNT": 10
+                }
+            ],
+            [
+                {
+                    "GSID": 30078,
+                    "COUNT": 100
+                }
+            ],
+            [
+                {
+                    "GSID": 30079,
+                    "COUNT": 10
+                }
+            ],
+            [
+                {
+                    "GSID": 30078,
+                    "COUNT": 150
+                }
+            ],
+            [
+                {
+                    "GSID": 30079,
+                    "COUNT": 10
+                }
+            ],
+            [
+                {
+                    "GSID": 30079,
+                    "COUNT": 20
+                }
+            ]
+        ]
+    }
+}

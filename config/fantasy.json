@@ -1,0 +1,715 @@
+{
+    "CONFIG": {
+        "FREE": 5,
+        "GAP": 1,
+        "RESETMAX": 99,
+        "RESETCOST": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            }
+        ]
+    },
+    "BOSS": [
+        {
+            "BOSSID": 101,
+            "IMAGE": "image_qmhzl_zl",
+            "HOURS": 72,
+            "RANK_REWARD": [
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 40
+                        },
+                        {
+                            "GSID": 30115,
+                            "COUNT": 20
+                        }
+                    ],
+                    "MINRANK": 1,
+                    "MAXRANK": 1
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 32
+                        },
+                        {
+                            "GSID": 30115,
+                            "COUNT": 15
+                        }
+                    ],
+                    "MINRANK": 2,
+                    "MAXRANK": 2
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 26
+                        },
+                        {
+                            "GSID": 30115,
+                            "COUNT": 10
+                        }
+                    ],
+                    "MINRANK": 3,
+                    "MAXRANK": 3
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 21
+                        },
+                        {
+                            "GSID": 30115,
+                            "COUNT": 8
+                        }
+                    ],
+                    "MINRANK": 4,
+                    "MAXRANK": 10
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 18
+                        },
+                        {
+                            "GSID": 30115,
+                            "COUNT": 6
+                        }
+                    ],
+                    "MINRANK": 11,
+                    "MAXRANK": 50
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 15
+                        },
+                        {
+                            "GSID": 30115,
+                            "COUNT": 4
+                        }
+                    ],
+                    "MINRANK": 51,
+                    "MAXRANK": 200
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 12
+                        },
+                        {
+                            "GSID": 30115,
+                            "COUNT": 2
+                        }
+                    ],
+                    "MINRANK": 201,
+                    "MAXRANK": 500
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30115,
+                            "COUNT": 1
+                        }
+                    ],
+                    "MINRANK": 501,
+                    "MAXRANK": 99999
+                }
+            ],
+            "BOX_REWARD": [
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 10
+                    }
+                ]
+            ]
+        },
+        {
+            "BOSSID": 102,
+            "IMAGE": "image_qmhzl_sq",
+            "HOURS": 72,
+            "RANK_REWARD": [
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 40
+                        },
+                        {
+                            "GSID": 30116,
+                            "COUNT": 20
+                        }
+                    ],
+                    "MINRANK": 1,
+                    "MAXRANK": 1
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 32
+                        },
+                        {
+                            "GSID": 30116,
+                            "COUNT": 15
+                        }
+                    ],
+                    "MINRANK": 2,
+                    "MAXRANK": 2
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 26
+                        },
+                        {
+                            "GSID": 30116,
+                            "COUNT": 10
+                        }
+                    ],
+                    "MINRANK": 3,
+                    "MAXRANK": 3
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 21
+                        },
+                        {
+                            "GSID": 30116,
+                            "COUNT": 8
+                        }
+                    ],
+                    "MINRANK": 4,
+                    "MAXRANK": 10
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 18
+                        },
+                        {
+                            "GSID": 30116,
+                            "COUNT": 6
+                        }
+                    ],
+                    "MINRANK": 11,
+                    "MAXRANK": 50
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 15
+                        },
+                        {
+                            "GSID": 30116,
+                            "COUNT": 4
+                        }
+                    ],
+                    "MINRANK": 51,
+                    "MAXRANK": 200
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 12
+                        },
+                        {
+                            "GSID": 30116,
+                            "COUNT": 2
+                        }
+                    ],
+                    "MINRANK": 201,
+                    "MAXRANK": 500
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30116,
+                            "COUNT": 1
+                        }
+                    ],
+                    "MINRANK": 501,
+                    "MAXRANK": 99999
+                }
+            ],
+            "BOX_REWARD": [
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 10
+                    }
+                ]
+            ]
+        },
+        {
+            "BOSSID": 103,
+            "IMAGE": "image_qmhzl_mcc",
+            "HOURS": 72,
+            "RANK_REWARD": [
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 40
+                        },
+                        {
+                            "GSID": 30117,
+                            "COUNT": 20
+                        }
+                    ],
+                    "MINRANK": 1,
+                    "MAXRANK": 1
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 32
+                        },
+                        {
+                            "GSID": 30117,
+                            "COUNT": 15
+                        }
+                    ],
+                    "MINRANK": 2,
+                    "MAXRANK": 2
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 26
+                        },
+                        {
+                            "GSID": 30117,
+                            "COUNT": 10
+                        }
+                    ],
+                    "MINRANK": 3,
+                    "MAXRANK": 3
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 21
+                        },
+                        {
+                            "GSID": 30117,
+                            "COUNT": 8
+                        }
+                    ],
+                    "MINRANK": 4,
+                    "MAXRANK": 10
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 18
+                        },
+                        {
+                            "GSID": 30117,
+                            "COUNT": 6
+                        }
+                    ],
+                    "MINRANK": 11,
+                    "MAXRANK": 50
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 15
+                        },
+                        {
+                            "GSID": 30117,
+                            "COUNT": 4
+                        }
+                    ],
+                    "MINRANK": 51,
+                    "MAXRANK": 200
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 12
+                        },
+                        {
+                            "GSID": 30117,
+                            "COUNT": 2
+                        }
+                    ],
+                    "MINRANK": 201,
+                    "MAXRANK": 500
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30117,
+                            "COUNT": 1
+                        }
+                    ],
+                    "MINRANK": 501,
+                    "MAXRANK": 99999
+                }
+            ],
+            "BOX_REWARD": [
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 10
+                    }
+                ]
+            ]
+        },
+        {
+            "BOSSID": 104,
+            "IMAGE": "image_qmhzl_slx",
+            "HOURS": 72,
+            "RANK_REWARD": [
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 40
+                        },
+                        {
+                            "GSID": 30118,
+                            "COUNT": 20
+                        }
+                    ],
+                    "MINRANK": 1,
+                    "MAXRANK": 1
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 32
+                        },
+                        {
+                            "GSID": 30118,
+                            "COUNT": 15
+                        }
+                    ],
+                    "MINRANK": 2,
+                    "MAXRANK": 2
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 26
+                        },
+                        {
+                            "GSID": 30118,
+                            "COUNT": 10
+                        }
+                    ],
+                    "MINRANK": 3,
+                    "MAXRANK": 3
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 21
+                        },
+                        {
+                            "GSID": 30118,
+                            "COUNT": 8
+                        }
+                    ],
+                    "MINRANK": 4,
+                    "MAXRANK": 10
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 18
+                        },
+                        {
+                            "GSID": 30118,
+                            "COUNT": 6
+                        }
+                    ],
+                    "MINRANK": 11,
+                    "MAXRANK": 50
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 15
+                        },
+                        {
+                            "GSID": 30118,
+                            "COUNT": 4
+                        }
+                    ],
+                    "MINRANK": 51,
+                    "MAXRANK": 200
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 12
+                        },
+                        {
+                            "GSID": 30118,
+                            "COUNT": 2
+                        }
+                    ],
+                    "MINRANK": 201,
+                    "MAXRANK": 500
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30118,
+                            "COUNT": 1
+                        }
+                    ],
+                    "MINRANK": 501,
+                    "MAXRANK": 99999
+                }
+            ],
+            "BOX_REWARD": [
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 10
+                    }
+                ]
+            ]
+        },
+        {
+            "BOSSID": 105,
+            "IMAGE": "image_qmhzl_zy",
+            "HOURS": 72,
+            "RANK_REWARD": [
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 40
+                        },
+                        {
+                            "GSID": 30119,
+                            "COUNT": 20
+                        }
+                    ],
+                    "MINRANK": 1,
+                    "MAXRANK": 1
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 32
+                        },
+                        {
+                            "GSID": 30119,
+                            "COUNT": 15
+                        }
+                    ],
+                    "MINRANK": 2,
+                    "MAXRANK": 2
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 26
+                        },
+                        {
+                            "GSID": 30119,
+                            "COUNT": 10
+                        }
+                    ],
+                    "MINRANK": 3,
+                    "MAXRANK": 3
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 21
+                        },
+                        {
+                            "GSID": 30119,
+                            "COUNT": 8
+                        }
+                    ],
+                    "MINRANK": 4,
+                    "MAXRANK": 10
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 18
+                        },
+                        {
+                            "GSID": 30119,
+                            "COUNT": 6
+                        }
+                    ],
+                    "MINRANK": 11,
+                    "MAXRANK": 50
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 15
+                        },
+                        {
+                            "GSID": 30119,
+                            "COUNT": 4
+                        }
+                    ],
+                    "MINRANK": 51,
+                    "MAXRANK": 200
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 12
+                        },
+                        {
+                            "GSID": 30119,
+                            "COUNT": 2
+                        }
+                    ],
+                    "MINRANK": 201,
+                    "MAXRANK": 500
+                },
+                {
+                    "ITEMS": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30119,
+                            "COUNT": 1
+                        }
+                    ],
+                    "MINRANK": 501,
+                    "MAXRANK": 99999
+                }
+            ],
+            "BOX_REWARD": [
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 5
+                    }
+                ],
+                [
+                    {
+                        "GSID": 30113,
+                        "COUNT": 10
+                    }
+                ]
+            ]
+        }
+    ],
+    "BOXCOND": [
+        1,
+        2,
+        3
+    ]
+}

@@ -1,0 +1,2352 @@
+{
+    "101": [
+        {
+            "MAXLV": 10,
+            "UNLOCK": 5,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmps": 4,
+                        "mp": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 15,
+            "UNLOCK": 10,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmps": 8,
+                        "mp": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 20
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 20
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 20,
+            "UNLOCK": 15,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmps": 8,
+                        "mp": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 25,
+            "UNLOCK": 20,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmps": 8,
+                        "mp": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 70
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 30,
+            "UNLOCK": 25,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmps": 8,
+                        "mp": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 35,
+            "UNLOCK": 30,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmps": 8,
+                        "mp": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 40,
+            "UNLOCK": 35,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmps": 12,
+                        "mp": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 45,
+            "UNLOCK": 40,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmps": 12,
+                        "mp": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 300
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 2000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 50,
+            "UNLOCK": 45,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmps": 12,
+                        "mp": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 400
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 3000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "102": [
+        {
+            "MAXLV": 10,
+            "UNLOCK": 5,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pprdc": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmrdc": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdef": 2,
+                        "pmdef": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 15,
+            "UNLOCK": 10,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pprdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmrdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdef": 4,
+                        "pmdef": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 20
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 20
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 20,
+            "UNLOCK": 15,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pprdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmrdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdef": 4,
+                        "pmdef": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 25,
+            "UNLOCK": 20,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pprdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmrdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdef": 4,
+                        "pmdef": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 70
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 30,
+            "UNLOCK": 25,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pprdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmrdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdef": 4,
+                        "pmdef": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 35,
+            "UNLOCK": 30,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pprdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmrdc": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdef": 4,
+                        "pmdef": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 40,
+            "UNLOCK": 35,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pprdc": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmrdc": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdef": 6,
+                        "pmdef": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 45,
+            "UNLOCK": 40,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pprdc": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmrdc": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdef": 6,
+                        "pmdef": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 300
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 2000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 50,
+            "UNLOCK": 45,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pprdc": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmrdc": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdef": 6,
+                        "pmdef": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 400
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 3000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "103": [
+        {
+            "MAXLV": 10,
+            "UNLOCK": 5,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "ppdam": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 15,
+            "UNLOCK": 10,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "ppdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 20
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 20
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 20,
+            "UNLOCK": 15,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "ppdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 25,
+            "UNLOCK": 20,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "ppdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 70
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 30,
+            "UNLOCK": 25,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "ppdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 35,
+            "UNLOCK": 30,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "ppdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 40,
+            "UNLOCK": 35,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "ppdam": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 45,
+            "UNLOCK": 40,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "ppdam": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 300
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 2000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 50,
+            "UNLOCK": 45,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3,
+                        "ppdam": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 400
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 3000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "104": [
+        {
+            "MAXLV": 10,
+            "UNLOCK": 5,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "pmdam": 2
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 15,
+            "UNLOCK": 10,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "pmdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 20
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 20
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 20,
+            "UNLOCK": 15,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "pmdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 25,
+            "UNLOCK": 20,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "pmdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 70
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 30,
+            "UNLOCK": 25,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "pmdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 35,
+            "UNLOCK": 30,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 8
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "pmdam": 4
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 40,
+            "UNLOCK": 35,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "pmdam": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 45,
+            "UNLOCK": 40,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 1.5,
+                        "pmdam": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 300
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 2000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 50,
+            "UNLOCK": 45,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "php": 12
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "patk": 3,
+                        "pmdam": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 400
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 3000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "105": [
+        {
+            "MAXLV": 10,
+            "UNLOCK": 5,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 5
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdex": 2,
+                        "pmdex": 1.5
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 15,
+            "UNLOCK": 10,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 10
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdex": 4,
+                        "pmdex": 1.5
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 20
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 20
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 20,
+            "UNLOCK": 15,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 25
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 25
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdex": 4,
+                        "pmdex": 1.5
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 25,
+            "UNLOCK": 20,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 35
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 50
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdex": 4,
+                        "pmdex": 1.5
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 70
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 30,
+            "UNLOCK": 25,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 100
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdex": 4,
+                        "pmdex": 1.5
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 35,
+            "UNLOCK": 30,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 75
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 250
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdex": 4,
+                        "pmdex": 1.5
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 40,
+            "UNLOCK": 35,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 100
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 600
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdex": 6,
+                        "pmdex": 1.5
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 45,
+            "UNLOCK": 40,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmdef": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 150
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1000
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdex": 6,
+                        "pmdex": 1.5
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 300
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 2000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MAXLV": 50,
+            "UNLOCK": 45,
+            "ZJ": [
+                {
+                    "ATTR": {
+                        "pdef": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pmdef": 6
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 200
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 1500
+                        }
+                    ]
+                },
+                {
+                    "ATTR": {
+                        "pdex": 6,
+                        "pmdex": 3
+                    },
+                    "CAST": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 400
+                        },
+                        {
+                            "GSID": 30113,
+                            "COUNT": 3000
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

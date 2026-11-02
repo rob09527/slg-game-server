@@ -1,0 +1,28 @@
+{
+    "1001": {
+        "9": {
+            "gsid": 19001,
+            "level": 100,
+            "hpcover": 1,
+            "class": 5,
+            "exhp": 1000000000,
+            "exatk": 1
+        },
+        "13": {
+            "gsid": 19001,
+            "level": 100,
+            "hpcover": 1,
+            "class": 5,
+            "exhp": 1000000000,
+            "exatk": 1
+        },
+        "18": {
+            "gsid": 19001,
+            "level": 100,
+            "hpcover": 1,
+            "class": 5,
+            "exhp": 1000000000,
+            "exatk": 1
+        }
+    }
+}

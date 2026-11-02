@@ -1,0 +1,202 @@
+[
+    {
+        "ITEMS": [
+            {
+                "NAME": "获得50积分",
+                "CNUM": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 30001,
+                        "COUNT": 1000000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得100积分",
+                "CNUM": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得200积分",
+                "CNUM": 200,
+                "ITEMS": [
+                    {
+                        "GSID": 32585,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 3000000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得300积分",
+                "CNUM": 300,
+                "ITEMS": [
+                    {
+                        "GSID": 32124,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 5000000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得600积分",
+                "CNUM": 500,
+                "ITEMS": [
+                    {
+                        "GSID": 32621,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1500
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得1000积分",
+                "CNUM": 800,
+                "ITEMS": [
+                    {
+                        "GSID": 32595,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 3000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            }
+        ],
+        "MTITLE": "心愿悬赏",
+        "MCONTENT": "您有未领取的心愿悬赏奖励，请领取！"
+    },
+    {
+        "ITEMS": [
+            {
+                "NAME": "获得50积分",
+                "CNUM": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 30001,
+                        "COUNT": 1000000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得100积分",
+                "CNUM": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得200积分",
+                "CNUM": 200,
+                "ITEMS": [
+                    {
+                        "GSID": 32585,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 3000000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得300积分",
+                "CNUM": 300,
+                "ITEMS": [
+                    {
+                        "GSID": 32124,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 5000000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得600积分",
+                "CNUM": 500,
+                "ITEMS": [
+                    {
+                        "GSID": 32621,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1500
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            },
+            {
+                "NAME": "获得1000积分",
+                "CNUM": 800,
+                "ITEMS": [
+                    {
+                        "GSID": 32595,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 3000
+                    }
+                ],
+                "OPTIONAL": {
+                    "ITEMS": []
+                }
+            }
+        ],
+        "MTITLE": "心愿悬赏",
+        "MCONTENT": "您有未领取的心愿悬赏奖励，请领取！"
+    }
+]

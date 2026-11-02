@@ -1,0 +1,860 @@
+[
+    {
+        "ID": 101,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_1",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            }
+        ]
+    },
+    {
+        "ID": 102,
+        "TRIGGER": 101,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_1",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 450
+            }
+        ]
+    },
+    {
+        "ID": 103,
+        "TRIGGER": 102,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_1",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 2500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 900
+            }
+        ]
+    },
+    {
+        "ID": 104,
+        "TRIGGER": 103,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_1",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 1400
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 6000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1800
+            }
+        ]
+    },
+    {
+        "ID": 105,
+        "TRIGGER": 104,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_1",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 2888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 12000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 3600
+            }
+        ]
+    },
+    {
+        "ID": 106,
+        "TRIGGER": 105,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_1",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 4888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 5400
+            }
+        ]
+    },
+    {
+        "ID": 201,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_2",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": 150000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 150
+            }
+        ]
+    },
+    {
+        "ID": 202,
+        "TRIGGER": 201,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_2",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 450
+            }
+        ]
+    },
+    {
+        "ID": 203,
+        "TRIGGER": 202,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_2",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": 1250000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 900
+            }
+        ]
+    },
+    {
+        "ID": 204,
+        "TRIGGER": 203,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_2",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 1400
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": 3000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1800
+            }
+        ]
+    },
+    {
+        "ID": 205,
+        "TRIGGER": 204,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_2",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 2888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": 6000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 3600
+            }
+        ]
+    },
+    {
+        "ID": 206,
+        "TRIGGER": 205,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_2",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 4888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": 10000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 5400
+            }
+        ]
+    },
+    {
+        "ID": 301,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_3",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 300000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 150
+            }
+        ]
+    },
+    {
+        "ID": 302,
+        "TRIGGER": 301,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_3",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 450
+            }
+        ]
+    },
+    {
+        "ID": 303,
+        "TRIGGER": 302,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_3",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 2500000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 900
+            }
+        ]
+    },
+    {
+        "ID": 304,
+        "TRIGGER": 303,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_3",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 1400
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 6000000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 1800
+            }
+        ]
+    },
+    {
+        "ID": 305,
+        "TRIGGER": 304,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_3",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 2888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 12000000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 3600
+            }
+        ]
+    },
+    {
+        "ID": 306,
+        "TRIGGER": 305,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_3",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 4888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000000
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 5400
+            }
+        ]
+    },
+    {
+        "ID": 401,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_4",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 150000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 200
+            }
+        ]
+    },
+    {
+        "ID": 402,
+        "TRIGGER": 401,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_4",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 600
+            }
+        ]
+    },
+    {
+        "ID": 403,
+        "TRIGGER": 402,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_4",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 1250000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 1200
+            }
+        ]
+    },
+    {
+        "ID": 404,
+        "TRIGGER": 403,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_4",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 1400
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 3000000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 2400
+            }
+        ]
+    },
+    {
+        "ID": 405,
+        "TRIGGER": 404,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_4",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 2888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 6000000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 4500
+            }
+        ]
+    },
+    {
+        "ID": 406,
+        "TRIGGER": 405,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_4",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 4888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 10000000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 7000
+            }
+        ]
+    },
+    {
+        "ID": 501,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_5",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 150000
+            },
+            {
+                "GSID": 38010,
+                "COUNT": 50
+            }
+        ]
+    },
+    {
+        "ID": 502,
+        "TRIGGER": 501,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_5",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 38010,
+                "COUNT": 150
+            }
+        ]
+    },
+    {
+        "ID": 503,
+        "TRIGGER": 502,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_5",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 1250000
+            },
+            {
+                "GSID": 38010,
+                "COUNT": 500
+            }
+        ]
+    },
+    {
+        "ID": 504,
+        "TRIGGER": 503,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_5",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 1400
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 3000000
+            },
+            {
+                "GSID": 38010,
+                "COUNT": 1000
+            }
+        ]
+    },
+    {
+        "ID": 505,
+        "TRIGGER": 504,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_5",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 2888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 6000000
+            },
+            {
+                "GSID": 38010,
+                "COUNT": 2000
+            }
+        ]
+    },
+    {
+        "ID": 506,
+        "TRIGGER": 505,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_5",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 4888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 10000000
+            },
+            {
+                "GSID": 38010,
+                "COUNT": 4000
+            }
+        ]
+    },
+    {
+        "ID": 601,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_6",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30016,
+                "COUNT": 40
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 10
+            }
+        ]
+    },
+    {
+        "ID": 602,
+        "TRIGGER": 601,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_6",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30016,
+                "COUNT": 120
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 30
+            }
+        ]
+    },
+    {
+        "ID": 603,
+        "TRIGGER": 602,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_6",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30016,
+                "COUNT": 240
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 60
+            }
+        ]
+    },
+    {
+        "ID": 604,
+        "TRIGGER": 603,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_6",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 1400
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30016,
+                "COUNT": 480
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 120
+            }
+        ]
+    },
+    {
+        "ID": 605,
+        "TRIGGER": 604,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_6",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 2888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30016,
+                "COUNT": 720
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 240
+            }
+        ]
+    },
+    {
+        "ID": 606,
+        "TRIGGER": 605,
+        "UNLOCK_ID": 10101,
+        "REFRESH_DAY": 7,
+        "LIMIT": 1,
+        "PATH": "tehui_6",
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 4888
+            }
+        ],
+        "ITEMS": [
+            {
+                "GSID": 30016,
+                "COUNT": 1440
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 360
+            }
+        ]
+    }
+]

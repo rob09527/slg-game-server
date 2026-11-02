@@ -1,0 +1,27 @@
+{
+    "REQUIRE": [
+        {"GSID": 38001, "COUNT": 0},
+        {"GSID": 38000, "MINCOUNT": 1},
+        {"GSID": 38000, "MAXCOUNT": 9999999999},
+        {"GSID": -100, "PARAM": [1, 5]}
+    ],
+    "FROM": [
+        {"GSID": 38006, "COUNT": 1}
+    ],
+    "TO": [
+        {"GSID": 38001, "COUNT": 1}
+    ],
+    "MAILTO": [
+        {"GSID": 38002, "COUNT": 1}
+    ],
+    "PROBTO": "t100",
+    "SPECIALREQUIRE": [
+        {
+            "GSID": 38003,
+            "COUNT": 0,
+            "BAGMARK": [
+                {"GSID": 38004, "COUNT": 1}
+            ]
+        }
+    ]
+}

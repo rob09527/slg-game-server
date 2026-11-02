@@ -1,0 +1,1560 @@
+[
+    {
+        "ID": 1,
+        "STAR": 1,
+        "CHANCE": 250,
+        "HOUR": 2,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": [
+                    10,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "STAR": 1,
+        "CHANCE": 250,
+        "HOUR": 2,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30005,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "STAR": 1,
+        "CHANCE": 250,
+        "HOUR": 2,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 36041,
+                "COUNT": [
+                    10,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "STAR": 1,
+        "CHANCE": 250,
+        "HOUR": 2,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30028,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "STAR": 1,
+        "CHANCE": 250,
+        "HOUR": 2,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30008,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "STAR": 1,
+        "CHANCE": 500,
+        "HOUR": 2,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    50000,
+                    50000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 7,
+        "STAR": 1,
+        "CHANCE": 500,
+        "HOUR": 2,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    25000,
+                    25000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 8,
+        "STAR": 1,
+        "CHANCE": 250,
+        "HOUR": 2,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    25,
+                    25
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 9,
+        "STAR": 2,
+        "CHANCE": 300,
+        "HOUR": 4,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": [
+                    20,
+                    20
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 10,
+        "STAR": 2,
+        "CHANCE": 300,
+        "HOUR": 4,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30005,
+                "COUNT": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 11,
+        "STAR": 2,
+        "CHANCE": 300,
+        "HOUR": 4,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 36041,
+                "COUNT": [
+                    20,
+                    20
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 12,
+        "STAR": 2,
+        "CHANCE": 300,
+        "HOUR": 4,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30028,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 13,
+        "STAR": 2,
+        "CHANCE": 300,
+        "HOUR": 4,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30008,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 14,
+        "STAR": 2,
+        "CHANCE": 500,
+        "HOUR": 4,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    100000,
+                    100000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 15,
+        "STAR": 2,
+        "CHANCE": 500,
+        "HOUR": 4,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    50000,
+                    50000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 16,
+        "STAR": 2,
+        "CHANCE": 300,
+        "HOUR": 4,
+        "CAST": 0,
+        "GNUM": 1,
+        "STARLIMIT": -1,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    25,
+                    25
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 17,
+        "STAR": 3,
+        "CHANCE": 250,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": [
+                    50,
+                    50
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 18,
+        "STAR": 3,
+        "CHANCE": 250,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30005,
+                "COUNT": [
+                    4,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 19,
+        "STAR": 3,
+        "CHANCE": 250,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 36021,
+                "COUNT": [
+                    15,
+                    15
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 20,
+        "STAR": 3,
+        "CHANCE": 200,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    150000,
+                    150000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 21,
+        "STAR": 3,
+        "CHANCE": 200,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    160000,
+                    160000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 22,
+        "STAR": 3,
+        "CHANCE": 200,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    150000,
+                    150000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 23,
+        "STAR": 3,
+        "CHANCE": 250,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30028,
+                "COUNT": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 24,
+        "STAR": 3,
+        "CHANCE": 250,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30008,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 25,
+        "STAR": 3,
+        "CHANCE": 400,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    200000,
+                    200000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 26,
+        "STAR": 3,
+        "CHANCE": 400,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    100000,
+                    100000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 27,
+        "STAR": 3,
+        "CHANCE": 250,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    50,
+                    50
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 28,
+        "STAR": 3,
+        "CHANCE": 150,
+        "HOUR": 6,
+        "CAST": 20,
+        "GNUM": 2,
+        "STARLIMIT": 3,
+        "CONDNUM": 1,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": [
+                    100,
+                    100
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 29,
+        "STAR": 4,
+        "CHANCE": 150,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30006,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 30,
+        "STAR": 4,
+        "CHANCE": 150,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 36021,
+                "COUNT": [
+                    30,
+                    30
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 31,
+        "STAR": 4,
+        "CHANCE": 150,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30028,
+                "COUNT": [
+                    3,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 32,
+        "STAR": 4,
+        "CHANCE": 150,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30008,
+                "COUNT": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 33,
+        "STAR": 4,
+        "CHANCE": 150,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 37004,
+                "COUNT": [
+                    10,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 34,
+        "STAR": 4,
+        "CHANCE": 225,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    300000,
+                    300000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 35,
+        "STAR": 4,
+        "CHANCE": 225,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    150000,
+                    150000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 36,
+        "STAR": 4,
+        "CHANCE": 200,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    200000,
+                    200000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 37,
+        "STAR": 4,
+        "CHANCE": 200,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    220000,
+                    220000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 38,
+        "STAR": 4,
+        "CHANCE": 200,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    180000,
+                    180000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 39,
+        "STAR": 4,
+        "CHANCE": 150,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    75,
+                    75
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 40,
+        "STAR": 4,
+        "CHANCE": 57,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 37003,
+                "COUNT": [
+                    10,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 41,
+        "STAR": 4,
+        "CHANCE": 57,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": [
+                    150,
+                    150
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 42,
+        "STAR": 4,
+        "CHANCE": 57,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30006,
+                "COUNT": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 43,
+        "STAR": 4,
+        "CHANCE": 57,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 36001,
+                "COUNT": [
+                    10,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 44,
+        "STAR": 4,
+        "CHANCE": 57,
+        "HOUR": 8,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 4,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30028,
+                "COUNT": [
+                    4,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 45,
+        "STAR": 5,
+        "CHANCE": 94,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30008,
+                "COUNT": [
+                    3,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 46,
+        "STAR": 5,
+        "CHANCE": 100,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    500000,
+                    500000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 47,
+        "STAR": 5,
+        "CHANCE": 100,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    250000,
+                    250000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 48,
+        "STAR": 5,
+        "CHANCE": 57,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    100,
+                    100
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 49,
+        "STAR": 5,
+        "CHANCE": 57,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30065,
+                "COUNT": [
+                    4,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 50,
+        "STAR": 5,
+        "CHANCE": 25,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30066,
+                "COUNT": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 51,
+        "STAR": 5,
+        "CHANCE": 10,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30069,
+                "COUNT": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 52,
+        "STAR": 5,
+        "CHANCE": 10,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30070,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 53,
+        "STAR": 5,
+        "CHANCE": 20,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    280000,
+                    280000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 54,
+        "STAR": 5,
+        "CHANCE": 20,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    300000,
+                    300000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 55,
+        "STAR": 5,
+        "CHANCE": 10,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": [
+                    200,
+                    200
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 56,
+        "STAR": 5,
+        "CHANCE": 10,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30006,
+                "COUNT": [
+                    3,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 57,
+        "STAR": 5,
+        "CHANCE": 12,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 36001,
+                "COUNT": [
+                    20,
+                    20
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 58,
+        "STAR": 5,
+        "CHANCE": 10,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30011,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 59,
+        "STAR": 5,
+        "CHANCE": 12,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 30012,
+                "COUNT": [
+                    50,
+                    50
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 60,
+        "STAR": 5,
+        "CHANCE": 12,
+        "HOUR": 12,
+        "CAST": 50,
+        "GNUM": 3,
+        "STARLIMIT": 5,
+        "CONDNUM": 2,
+        "ITEMS": [
+            {
+                "GSID": 37002,
+                "COUNT": [
+                    10,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 61,
+        "STAR": 6,
+        "CHANCE": 12,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30009,
+                "COUNT": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 62,
+        "STAR": 6,
+        "CHANCE": 18,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    1000000,
+                    1000000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 63,
+        "STAR": 6,
+        "CHANCE": 18,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    500000,
+                    500000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 64,
+        "STAR": 6,
+        "CHANCE": 12,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    200,
+                    200
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 65,
+        "STAR": 6,
+        "CHANCE": 12,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30065,
+                "COUNT": [
+                    8,
+                    8
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 66,
+        "STAR": 6,
+        "CHANCE": 4,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30066,
+                "COUNT": [
+                    4,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 67,
+        "STAR": 6,
+        "CHANCE": 2,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30069,
+                "COUNT": [
+                    8,
+                    8
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 68,
+        "STAR": 6,
+        "CHANCE": 2,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30070,
+                "COUNT": [
+                    3,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 69,
+        "STAR": 6,
+        "CHANCE": 2,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": [
+                    300,
+                    300
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 70,
+        "STAR": 6,
+        "CHANCE": 3,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30006,
+                "COUNT": [
+                    4,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 71,
+        "STAR": 6,
+        "CHANCE": 3,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 36001,
+                "COUNT": [
+                    50,
+                    50
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 72,
+        "STAR": 6,
+        "CHANCE": 2,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30011,
+                "COUNT": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 73,
+        "STAR": 6,
+        "CHANCE": 3,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30012,
+                "COUNT": [
+                    100,
+                    100
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 74,
+        "STAR": 6,
+        "CHANCE": 3,
+        "HOUR": 24,
+        "CAST": 100,
+        "GNUM": 4,
+        "STARLIMIT": 5,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 37007,
+                "COUNT": [
+                    10,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 75,
+        "STAR": 7,
+        "CHANCE": 2,
+        "HOUR": 24,
+        "CAST": 200,
+        "GNUM": 4,
+        "STARLIMIT": 6,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30009,
+                "COUNT": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 76,
+        "STAR": 7,
+        "CHANCE": 6,
+        "HOUR": 24,
+        "CAST": 200,
+        "GNUM": 4,
+        "STARLIMIT": 6,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    2000000,
+                    2000000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 77,
+        "STAR": 7,
+        "CHANCE": 5,
+        "HOUR": 24,
+        "CAST": 200,
+        "GNUM": 4,
+        "STARLIMIT": 6,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30001,
+                "COUNT": [
+                    1000000,
+                    1000000
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 78,
+        "STAR": 7,
+        "CHANCE": 3,
+        "HOUR": 24,
+        "CAST": 200,
+        "GNUM": 4,
+        "STARLIMIT": 6,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    500,
+                    500
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 79,
+        "STAR": 7,
+        "CHANCE": 2,
+        "HOUR": 24,
+        "CAST": 200,
+        "GNUM": 4,
+        "STARLIMIT": 6,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30065,
+                "COUNT": [
+                    20,
+                    20
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 80,
+        "STAR": 7,
+        "CHANCE": 1,
+        "HOUR": 24,
+        "CAST": 200,
+        "GNUM": 4,
+        "STARLIMIT": 6,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30066,
+                "COUNT": [
+                    10,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 81,
+        "STAR": 7,
+        "CHANCE": 1,
+        "HOUR": 24,
+        "CAST": 200,
+        "GNUM": 4,
+        "STARLIMIT": 6,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30069,
+                "COUNT": [
+                    18,
+                    18
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 82,
+        "STAR": 7,
+        "CHANCE": 1,
+        "HOUR": 24,
+        "CAST": 200,
+        "GNUM": 4,
+        "STARLIMIT": 6,
+        "CONDNUM": 3,
+        "ITEMS": [
+            {
+                "GSID": 30070,
+                "COUNT": [
+                    6,
+                    6
+                ]
+            }
+        ]
+    }
+]

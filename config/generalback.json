@@ -1,0 +1,614 @@
+[
+    {
+        "GSID": 10086,
+        "STAR": 9,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10106,
+        "STAR": 9,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10126,
+        "STAR": 9,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10146,
+        "STAR": 9,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12086,
+        "STAR": 9,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12106,
+        "STAR": 9,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12126,
+        "STAR": 9,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12146,
+        "STAR": 9,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14086,
+        "STAR": 9,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14106,
+        "STAR": 9,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14126,
+        "STAR": 9,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14146,
+        "STAR": 9,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16086,
+        "STAR": 9,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16106,
+        "STAR": 9,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16126,
+        "STAR": 9,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16146,
+        "STAR": 9,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 17026,
+        "STAR": 9,
+        "CAMP": 5,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 17046,
+        "STAR": 9,
+        "CAMP": 5,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 18026,
+        "STAR": 9,
+        "CAMP": 6,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 18046,
+        "STAR": 9,
+        "CAMP": 6,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10083,
+        "STAR": 6,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10103,
+        "STAR": 6,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10123,
+        "STAR": 6,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10143,
+        "STAR": 6,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12083,
+        "STAR": 6,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12103,
+        "STAR": 6,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12123,
+        "STAR": 6,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12143,
+        "STAR": 6,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14083,
+        "STAR": 6,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14103,
+        "STAR": 6,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14123,
+        "STAR": 6,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14143,
+        "STAR": 6,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16083,
+        "STAR": 6,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16103,
+        "STAR": 6,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16123,
+        "STAR": 6,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16143,
+        "STAR": 6,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 17023,
+        "STAR": 6,
+        "CAMP": 5,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 17043,
+        "STAR": 6,
+        "CAMP": 5,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 18023,
+        "STAR": 6,
+        "CAMP": 6,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 18043,
+        "STAR": 6,
+        "CAMP": 6,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10082,
+        "STAR": 5,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10102,
+        "STAR": 5,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10122,
+        "STAR": 5,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10142,
+        "STAR": 5,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10161,
+        "STAR": 5,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10181,
+        "STAR": 5,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10201,
+        "STAR": 5,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10221,
+        "STAR": 5,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12082,
+        "STAR": 5,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12102,
+        "STAR": 5,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12122,
+        "STAR": 5,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12142,
+        "STAR": 5,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12161,
+        "STAR": 5,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12181,
+        "STAR": 5,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12201,
+        "STAR": 5,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12221,
+        "STAR": 5,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12241,
+        "STAR": 5,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14082,
+        "STAR": 5,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14102,
+        "STAR": 5,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14122,
+        "STAR": 5,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14142,
+        "STAR": 5,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14181,
+        "STAR": 5,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14201,
+        "STAR": 5,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14221,
+        "STAR": 5,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14241,
+        "STAR": 5,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14161,
+        "STAR": 5,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16082,
+        "STAR": 5,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16102,
+        "STAR": 5,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16122,
+        "STAR": 5,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16142,
+        "STAR": 5,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16161,
+        "STAR": 5,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16181,
+        "STAR": 5,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16201,
+        "STAR": 5,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16221,
+        "STAR": 5,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16241,
+        "STAR": 5,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 17022,
+        "STAR": 5,
+        "CAMP": 5,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 17042,
+        "STAR": 5,
+        "CAMP": 5,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 17061,
+        "STAR": 5,
+        "CAMP": 5,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 18022,
+        "STAR": 5,
+        "CAMP": 6,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 18042,
+        "STAR": 5,
+        "CAMP": 6,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 18061,
+        "STAR": 5,
+        "CAMP": 6,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10166,
+        "STAR": 10,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10186,
+        "STAR": 10,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10206,
+        "STAR": 10,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 10226,
+        "STAR": 10,
+        "CAMP": 1,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12166,
+        "STAR": 10,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12186,
+        "STAR": 10,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12206,
+        "STAR": 10,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12226,
+        "STAR": 10,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 12246,
+        "STAR": 10,
+        "CAMP": 2,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14166,
+        "STAR": 10,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14186,
+        "STAR": 10,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14206,
+        "STAR": 10,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14226,
+        "STAR": 10,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 14246,
+        "STAR": 10,
+        "CAMP": 3,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16166,
+        "STAR": 10,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16186,
+        "STAR": 10,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16206,
+        "STAR": 10,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16226,
+        "STAR": 10,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 16246,
+        "STAR": 10,
+        "CAMP": 4,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 17066,
+        "STAR": 10,
+        "CAMP": 5,
+        "CHANCE": 1
+    },
+    {
+        "GSID": 18066,
+        "STAR": 10,
+        "CAMP": 6,
+        "CHANCE": 1
+    }
+]

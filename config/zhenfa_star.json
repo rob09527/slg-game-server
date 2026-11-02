@@ -1,0 +1,3012 @@
+[
+    [
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 59
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 6
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 177
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 11
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 294
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 16
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 412
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 21
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 530
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 26
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 647
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 31
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 765
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 36
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 882
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 41
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1000
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 46
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1118
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 51
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1235
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 56
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1353
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 61
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1470
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 66
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1588
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 71
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1706
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 76
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1823
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 81
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1941
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 86
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2058
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 91
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2176
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 96
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2294
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 101
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2411
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 106
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2529
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 111
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2646
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 116
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2764
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 121
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2882
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 10,
+            "ATTR": {
+                "atk": 126
+            },
+            "CAST": [
+                {
+                    "GSID": 30115,
+                    "COUNT": 25
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 59
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 6
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 177
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 11
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 294
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 16
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 412
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 21
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 530
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 26
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 647
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 31
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 765
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 36
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 882
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 41
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1000
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 46
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1118
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 51
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1235
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 56
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1353
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 61
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1470
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 66
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1588
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 71
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1706
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 76
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1823
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 81
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1941
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 86
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2058
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 91
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2176
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 96
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2294
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 101
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2411
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 106
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2529
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 111
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2646
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 116
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2764
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 121
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2882
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 10,
+            "ATTR": {
+                "atk": 126
+            },
+            "CAST": [
+                {
+                    "GSID": 30117,
+                    "COUNT": 25
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 59
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 6
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 177
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 11
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 294
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 16
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 412
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 21
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 530
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 26
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 647
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 31
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 765
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 36
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 882
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 41
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1000
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 46
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1118
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 51
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1235
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 56
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1353
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 61
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1470
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 66
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1588
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 71
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1706
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 76
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1823
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 81
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1941
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 86
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2058
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 91
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2176
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 96
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2294
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 101
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2411
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 106
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2529
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 111
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2646
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 116
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2764
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 121
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2882
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 10,
+            "ATTR": {
+                "atk": 126
+            },
+            "CAST": [
+                {
+                    "GSID": 30116,
+                    "COUNT": 25
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 59
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 6
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 177
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 11
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 294
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 16
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 412
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 21
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 530
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 26
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 647
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 31
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 765
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 36
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 882
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 41
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1000
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 46
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1118
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 51
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1235
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 56
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1353
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 61
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1470
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 66
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1588
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 71
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1706
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 76
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1823
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 81
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1941
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 86
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2058
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 91
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2176
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 96
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2294
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 101
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2411
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 106
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2529
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 111
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2646
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 116
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2764
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 121
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2882
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 10,
+            "ATTR": {
+                "atk": 126
+            },
+            "CAST": [
+                {
+                    "GSID": 30118,
+                    "COUNT": 25
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 59
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 6
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "hp": 177
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 0,
+            "ATTR": {
+                "atk": 11
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 294
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 16
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 412
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "atk": 21
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 1,
+            "ATTR": {
+                "hp": 530
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 26
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 647
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 31
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "hp": 765
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 2,
+            "ATTR": {
+                "atk": 36
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 882
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 41
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1000
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "atk": 46
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 3,
+            "ATTR": {
+                "hp": 1118
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 51
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 4
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1235
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 56
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "hp": 1353
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 4,
+            "ATTR": {
+                "atk": 61
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1470
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 6
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 66
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1588
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "atk": 71
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 5,
+            "ATTR": {
+                "hp": 1706
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 76
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1823
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 81
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "hp": 1941
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 6,
+            "ATTR": {
+                "atk": 86
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2058
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 12
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 91
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2176
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "atk": 96
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 7,
+            "ATTR": {
+                "hp": 2294
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 101
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 15
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2411
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 106
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "hp": 2529
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 8,
+            "ATTR": {
+                "atk": 111
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2646
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 116
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2764
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "atk": 121
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 9,
+            "ATTR": {
+                "hp": 2882
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "STAR": 10,
+            "ATTR": {
+                "atk": 126
+            },
+            "CAST": [
+                {
+                    "GSID": 30119,
+                    "COUNT": 25
+                }
+            ]
+        }
+    ]
+]

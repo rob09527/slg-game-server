@@ -1,0 +1,122 @@
+[
+    {
+        "INDEX": 1001,
+        "PRICE": 648,
+        "EXP": 6480,
+        "LIMIT": 3,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 30
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 10
+            }
+        ]
+    },
+    {
+        "INDEX": 1001,
+        "PRICE": 648,
+        "EXP": 6480,
+        "LIMIT": 3,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 30
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 40
+            }
+        ]
+    },
+    {
+        "INDEX": 1002,
+        "PRICE": 328,
+        "EXP": 3280,
+        "LIMIT": 2,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 15
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 5
+            }
+        ]
+    },
+    {
+        "INDEX": 1003,
+        "PRICE": 328,
+        "EXP": 3280,
+        "LIMIT": 2,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 15
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 20
+            }
+        ]
+    },
+    {
+        "INDEX": 1004,
+        "PRICE": 198,
+        "EXP": 1980,
+        "LIMIT": 1,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 10
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 2
+            }
+        ]
+    },
+    {
+        "INDEX": 1005,
+        "PRICE": 68,
+        "EXP": 680,
+        "LIMIT": 1,
+        "REWARDS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 30170,
+                "COUNT": 3
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 1
+            }
+        ]
+    }
+]

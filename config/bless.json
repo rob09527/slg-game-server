@@ -1,0 +1,787 @@
+{
+    "BOX": [
+        {
+            "OPEN": 1,
+            "DROPID": 1001,
+            "DROPS": [
+                1001
+            ],
+            "COST": {
+                "GSID": 30005,
+                "COUNT": 1
+            },
+            "SCORECOUNT": 1
+        },
+        {
+            "OPEN": 1,
+            "DROPID": 1002,
+            "DROPS": [
+                1002
+            ],
+            "COST": {
+                "GSID": 30174,
+                "COUNT": 1
+            },
+            "SCORECOUNT": 2
+        },
+        {
+            "OPEN": 1,
+            "DROPID": 1003,
+            "DROPS": [
+                1003
+            ],
+            "COST": {
+                "GSID": 30175,
+                "COUNT": 1
+            },
+            "SCORECOUNT": 3
+        },
+        {
+            "OPEN": 1,
+            "DROPID": 1004,
+            "DROPS": [
+                1004
+            ],
+            "COST": {
+                "GSID": 30176,
+                "COUNT": 1
+            },
+            "SCORECOUNT": 4
+        },
+        {
+            "OPEN": 1,
+            "DROPID": 1005,
+            "DROPS": [
+                1005,
+                1010
+            ],
+            "COST": {
+                "GSID": 30177,
+                "COUNT": 1
+            },
+            "SCORECOUNT": 6
+        },
+        {
+            "OPEN": 0,
+            "DROPID": 1006,
+            "DROPS": [
+                1006,
+                1008
+            ],
+            "COST": {
+                "GSID": 30178,
+                "COUNT": 1
+            },
+            "SCORECOUNT": 10,
+            "TIME": 240,
+            "ADTIME": 10,
+            "SPEED": {
+                "GSID": 30180,
+                "COUNT": 1,
+                "TIME": 10
+            }
+        },
+        {
+            "OPEN": 0,
+            "DROPID": 1007,
+            "DROPS": [
+                1007,
+                1009
+            ],
+            "COST": {
+                "GSID": 30179,
+                "COUNT": 1
+            },
+            "SCORECOUNT": 10,
+            "TIME": 360,
+            "ADTIME": 10,
+            "SPEED": {
+                "GSID": 30180,
+                "COUNT": 1,
+                "TIME": 10
+            },
+            "HELP": {
+                "GSID": 99065,
+                "COUNT": 10,
+                "TIME": 5,
+                "HELPREWARD": 30180,
+                "NUM": 1
+            },
+            "ACTIVE": 1
+        }
+    ],
+    "DROP": [
+        {
+            "DROPID": 1001,
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 3000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 1,
+                    "RATE": 10
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 2500,
+                    "RATE": 60
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 5000,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 12000,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 7000,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30008,
+                    "COUNT": 1,
+                    "RATE": 6
+                },
+                {
+                    "GSID": 30008,
+                    "COUNT": 1,
+                    "RATE": 3
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 50,
+                    "START": 1701014400000,
+                    "END": 1701619199000
+                }
+            ]
+        },
+        {
+            "DROPID": 1002,
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 10000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 1,
+                    "RATE": 15
+                },
+                {
+                    "GSID": 30175,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 15000,
+                    "RATE": 80
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 10000,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 15000,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30008,
+                    "COUNT": 1,
+                    "RATE": 10
+                },
+                {
+                    "GSID": 30008,
+                    "COUNT": 1,
+                    "RATE": 4
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 50,
+                    "START": 1701532800000,
+                    "END": 1701619199000
+                }
+            ]
+        },
+        {
+            "DROPID": 1003,
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 6000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30180,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30176,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 3,
+                    "RATE": 80
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 2,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 2,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 15000,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 5000,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 3000,
+                    "RATE": 80
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100,
+                    "START": 1700496000000,
+                    "END": 1701100799000
+                }
+            ]
+        },
+        {
+            "DROPID": 1004,
+            "REWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 2,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 2,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30177,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 5,
+                    "RATE": 60
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 10,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 2,
+                    "RATE": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000,
+                    "RATE": 75
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100,
+                    "START": 1700496000000,
+                    "END": 1701100799000
+                }
+            ]
+        },
+        {
+            "DROPID": 1005,
+            "REWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 5,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 5
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 5,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 4,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 1,
+                    "RATE": 5
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 12000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 40000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100,
+                    "START": 1700496000000,
+                    "END": 1701100799000
+                }
+            ]
+        },
+        {
+            "DROPID": 1006,
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 55000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 30000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38010,
+                    "COUNT": 100,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 10
+                },
+                {
+                    "GSID": 30175,
+                    "COUNT": 1,
+                    "RATE": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 15000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 22000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100,
+                    "START": 1700496000000,
+                    "END": 1701100799000
+                }
+            ]
+        },
+        {
+            "DROPID": 1007,
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 55000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 40000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 400,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 100,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30175,
+                    "COUNT": 1,
+                    "RATE": 10
+                },
+                {
+                    "GSID": 30176,
+                    "COUNT": 1,
+                    "RATE": 10
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 2,
+                    "RATE": 5
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100,
+                    "START": 1700496000000,
+                    "END": 1701100799000
+                }
+            ]
+        },
+        {
+            "DROPID": 1008,
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 28000,
+                    "RATE": 75
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 30000,
+                    "RATE": 75
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 15000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 35000,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 15000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 25000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 16000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 60
+                },
+                {
+                    "GSID": 32147,
+                    "COUNT": 1,
+                    "RATE": 2
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100,
+                    "START": 1700496000000,
+                    "END": 1701100799000
+                }
+            ]
+        },
+        {
+            "DROPID": 1009,
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 32000,
+                    "RATE": 75
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 35000,
+                    "RATE": 75
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 22500,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 35000,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 27500,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 25000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 16000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 20,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30020,
+                    "COUNT": 10,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100,
+                    "START": 1700496000000,
+                    "END": 1701100799000
+                }
+            ]
+        },
+        {
+            "DROPID": 1010,
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 15000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 12000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 22000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 5000,
+                    "RATE": 60
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 15000,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 4000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 12000,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 2,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100,
+                    "START": 1700496000000,
+                    "END": 1701100799000
+                }
+            ]
+        }
+    ],
+    "SCORE": [
+        {
+            "REWARD": {
+                "GSID": 30005,
+                "COUNT": 1
+            },
+            "SCORE": 30,
+            "SIGN": 99048
+        },
+        {
+            "REWARD": {
+                "GSID": 30175,
+                "COUNT": 1
+            },
+            "SCORE": 40,
+            "SIGN": 99049
+        },
+        {
+            "REWARD": {
+                "GSID": 30005,
+                "COUNT": 1
+            },
+            "SCORE": 50,
+            "SIGN": 99050
+        },
+        {
+            "REWARD": {
+                "GSID": 30174,
+                "COUNT": 1
+            },
+            "SCORE": 60,
+            "SIGN": 99051
+        },
+        {
+            "REWARD": {
+                "GSID": 30175,
+                "COUNT": 1
+            },
+            "SCORE": 80,
+            "SIGN": 99052
+        },
+        {
+            "REWARD": {
+                "GSID": 30005,
+                "COUNT": 1
+            },
+            "SCORE": 90,
+            "SIGN": 99053
+        },
+        {
+            "REWARD": {
+                "GSID": 30176,
+                "COUNT": 1
+            },
+            "SCORE": 100,
+            "SIGN": 99054
+        },
+        {
+            "REWARD": {
+                "GSID": 30005,
+                "COUNT": 1
+            },
+            "SCORE": 110,
+            "SIGN": 99055
+        },
+        {
+            "REWARD": {
+                "GSID": 30174,
+                "COUNT": 1
+            },
+            "SCORE": 120,
+            "SIGN": 99056
+        },
+        {
+            "REWARD": {
+                "GSID": 30176,
+                "COUNT": 1
+            },
+            "SCORE": 140,
+            "SIGN": 99057
+        },
+        {
+            "REWARD": {
+                "GSID": 30005,
+                "COUNT": 1
+            },
+            "SCORE": 150,
+            "SIGN": 99058
+        },
+        {
+            "REWARD": {
+                "GSID": 30175,
+                "COUNT": 1
+            },
+            "SCORE": 170,
+            "SIGN": 99059
+        },
+        {
+            "REWARD": {
+                "GSID": 30177,
+                "COUNT": 1
+            },
+            "SCORE": 200,
+            "SIGN": 99060
+        }
+    ],
+    "SCORESIGN": 99064
+}

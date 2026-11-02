@@ -1,0 +1,13 @@
+unit/unit_config_local.json
+test/
+/node_modules/
+.idea/
+.vscode/
+.history/
+package-lock.json
+/global.d.ts
+*/.DS_Store
+/client/king
+config.local.json
+/dist
+client/

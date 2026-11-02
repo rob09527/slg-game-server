@@ -1,0 +1,874 @@
+[
+    [
+        [
+            {
+                "ID": 3001,
+                "GENERAL": 10201,
+                "LEVEL": 50,
+                "BOSSHP": 60000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 38006,
+                        "CCOUNT": [
+                            60000,
+                            80000
+                        ]
+                    },
+                    {
+                        "GSID": 30001,
+                        "CCOUNT": [
+                            30000,
+                            40000
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 10000000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 7500000
+                    }
+                ],
+                "REMARK": 90710,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3002,
+                "GENERAL": 10281,
+                "LEVEL": 80,
+                "BOSSHP": 120000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 38006,
+                        "CCOUNT": [
+                            60000,
+                            80000
+                        ]
+                    },
+                    {
+                        "GSID": 30001,
+                        "CCOUNT": [
+                            30000,
+                            40000
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 20000000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 10000000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 20
+                    }
+                ],
+                "REMARK": 90710,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3003,
+                "GENERAL": 10322,
+                "LEVEL": 120,
+                "BOSSHP": 360000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 38006,
+                        "CCOUNT": [
+                            60000,
+                            80000
+                        ]
+                    },
+                    {
+                        "GSID": 30001,
+                        "CCOUNT": [
+                            30000,
+                            40000
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 20000000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 12500000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 30
+                    },
+                    {
+                        "GSID": 30068,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90710,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3004,
+                "GENERAL": 10363,
+                "LEVEL": 150,
+                "BOSSHP": 750000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 38006,
+                        "CCOUNT": [
+                            60000,
+                            80000
+                        ]
+                    },
+                    {
+                        "GSID": 30001,
+                        "CCOUNT": [
+                            30000,
+                            40000
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 20000000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 12500000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 60
+                    }
+                ],
+                "REMARK": 90710,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3005,
+                "GENERAL": 10265,
+                "LEVEL": 220,
+                "BOSSHP": 1200000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 38006,
+                        "CCOUNT": [
+                            60000,
+                            80000
+                        ]
+                    },
+                    {
+                        "GSID": 30001,
+                        "CCOUNT": [
+                            30000,
+                            40000
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 25000000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 12500000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 60
+                    }
+                ],
+                "REMARK": 90710,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3006,
+                "GENERAL": 10186,
+                "LEVEL": 280,
+                "BOSSHP": 1800000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 38006,
+                        "CCOUNT": [
+                            60000,
+                            80000
+                        ]
+                    },
+                    {
+                        "GSID": 30001,
+                        "CCOUNT": [
+                            30000,
+                            40000
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 25000000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 12500000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 80
+                    }
+                ],
+                "REMARK": 90710,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3007,
+                "GENERAL": 10326,
+                "LEVEL": 350,
+                "BOSSHP": 3000000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 38006,
+                        "CCOUNT": [
+                            60000,
+                            80000
+                        ]
+                    },
+                    {
+                        "GSID": 30001,
+                        "CCOUNT": [
+                            30000,
+                            40000
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 30000000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 15000000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 100
+                    },
+                    {
+                        "GSID": 30068,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90710,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3008,
+                "GENERAL": 10228,
+                "LEVEL": 400,
+                "BOSSHP": 6000000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 38006,
+                        "CCOUNT": [
+                            60000,
+                            80000
+                        ]
+                    },
+                    {
+                        "GSID": 30001,
+                        "CCOUNT": [
+                            30000,
+                            40000
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 50000000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 17500000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 150
+                    }
+                ],
+                "REMARK": 90710,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "ID": 3011,
+                "GENERAL": 12102,
+                "LEVEL": 50,
+                "BOSSHP": 30000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30026,
+                        "CCOUNT": [
+                            30,
+                            40
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 3000
+                    }
+                ],
+                "REMARK": 90711,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3012,
+                "GENERAL": 12281,
+                "LEVEL": 80,
+                "BOSSHP": 60000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30026,
+                        "CCOUNT": [
+                            30,
+                            40
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 8000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 30
+                    }
+                ],
+                "REMARK": 90711,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3013,
+                "GENERAL": 12182,
+                "LEVEL": 120,
+                "BOSSHP": 180000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30026,
+                        "CCOUNT": [
+                            30,
+                            40
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 10000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 30
+                    }
+                ],
+                "REMARK": 90711,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3014,
+                "GENERAL": 12363,
+                "LEVEL": 150,
+                "BOSSHP": 500000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30026,
+                        "CCOUNT": [
+                            30,
+                            40
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 15000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 50
+                    },
+                    {
+                        "GSID": 30090,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90711,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3015,
+                "GENERAL": 12265,
+                "LEVEL": 220,
+                "BOSSHP": 600000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30026,
+                        "CCOUNT": [
+                            30,
+                            40
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 15000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 50
+                    }
+                ],
+                "REMARK": 90711,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3016,
+                "GENERAL": 12425,
+                "LEVEL": 280,
+                "BOSSHP": 900000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30026,
+                        "CCOUNT": [
+                            30,
+                            40
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 20000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 60
+                    },
+                    {
+                        "GSID": 30090,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90711,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3017,
+                "GENERAL": 12346,
+                "LEVEL": 350,
+                "BOSSHP": 1500000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30026,
+                        "CCOUNT": [
+                            30,
+                            40
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 20000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 60
+                    },
+                    {
+                        "GSID": 30090,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90711,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3018,
+                "GENERAL": 12188,
+                "LEVEL": 400,
+                "BOSSHP": 3000000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30026,
+                        "CCOUNT": [
+                            30,
+                            40
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 30000
+                    },
+                    {
+                        "GSID": 30029,
+                        "COUNT": 100
+                    },
+                    {
+                        "GSID": 30090,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90711,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "ID": 3021,
+                "GENERAL": 14181,
+                "LEVEL": 50,
+                "BOSSHP": 75000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30016,
+                        "CCOUNT": [
+                            3,
+                            6
+                        ]
+                    },
+                    {
+                        "GSID": 30017,
+                        "CCOUNT": [
+                            0,
+                            2
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30016,
+                        "COUNT": 1000
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 800
+                    }
+                ],
+                "REMARK": 90712,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3022,
+                "GENERAL": 14083,
+                "LEVEL": 80,
+                "BOSSHP": 150000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30016,
+                        "CCOUNT": [
+                            3,
+                            6
+                        ]
+                    },
+                    {
+                        "GSID": 30017,
+                        "CCOUNT": [
+                            0,
+                            2
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30016,
+                        "COUNT": 1800
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 1000
+                    },
+                    {
+                        "GSID": 31046,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90712,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3023,
+                "GENERAL": 14162,
+                "LEVEL": 120,
+                "BOSSHP": 450000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30016,
+                        "CCOUNT": [
+                            3,
+                            6
+                        ]
+                    },
+                    {
+                        "GSID": 30017,
+                        "CCOUNT": [
+                            0,
+                            2
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30016,
+                        "COUNT": 2000
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 1000
+                    },
+                    {
+                        "GSID": 31046,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90712,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3024,
+                "GENERAL": 14283,
+                "LEVEL": 150,
+                "BOSSHP": 1250000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30016,
+                        "CCOUNT": [
+                            3,
+                            6
+                        ]
+                    },
+                    {
+                        "GSID": 30017,
+                        "CCOUNT": [
+                            0,
+                            2
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30016,
+                        "COUNT": 3600
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 1500
+                    },
+                    {
+                        "GSID": 30072,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90712,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3025,
+                "GENERAL": 14345,
+                "LEVEL": 220,
+                "BOSSHP": 1500000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30016,
+                        "CCOUNT": [
+                            3,
+                            6
+                        ]
+                    },
+                    {
+                        "GSID": 30017,
+                        "CCOUNT": [
+                            0,
+                            2
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30016,
+                        "COUNT": 3600
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 1500
+                    },
+                    {
+                        "GSID": 31046,
+                        "COUNT": 2
+                    }
+                ],
+                "REMARK": 90712,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3026,
+                "GENERAL": 14266,
+                "LEVEL": 280,
+                "BOSSHP": 2250000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30016,
+                        "CCOUNT": [
+                            3,
+                            6
+                        ]
+                    },
+                    {
+                        "GSID": 30017,
+                        "CCOUNT": [
+                            0,
+                            2
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30016,
+                        "COUNT": 4000
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 2000
+                    },
+                    {
+                        "GSID": 31046,
+                        "COUNT": 3
+                    }
+                ],
+                "REMARK": 90712,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3027,
+                "GENERAL": 14306,
+                "LEVEL": 350,
+                "BOSSHP": 3750000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30016,
+                        "CCOUNT": [
+                            3,
+                            6
+                        ]
+                    },
+                    {
+                        "GSID": 30017,
+                        "CCOUNT": [
+                            0,
+                            2
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30016,
+                        "COUNT": 5000
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 2500
+                    },
+                    {
+                        "GSID": 30072,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90712,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            },
+            {
+                "ID": 3028,
+                "GENERAL": 18128,
+                "LEVEL": 400,
+                "BOSSHP": 7500000000,
+                "CREWARDS": [
+                    {
+                        "GSID": 30016,
+                        "CCOUNT": [
+                            3,
+                            6
+                        ]
+                    },
+                    {
+                        "GSID": 30017,
+                        "CCOUNT": [
+                            0,
+                            2
+                        ]
+                    }
+                ],
+                "REWARDS": [
+                    {
+                        "GSID": 30016,
+                        "COUNT": 7500
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 5000
+                    },
+                    {
+                        "GSID": 30072,
+                        "COUNT": 1
+                    }
+                ],
+                "REMARK": 90712,
+                "COUNTLIMIT": 1,
+                "REWARD_TYPE": 1
+            }
+        ]
+    ]
+]

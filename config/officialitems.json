@@ -1,0 +1,556 @@
+[
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 100
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 10
+            }
+        ],
+        "PEOPLE": 4,
+        "SALARY": []
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 300
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 30
+            }
+        ],
+        "PEOPLE": 5,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 500
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 50
+            }
+        ],
+        "PEOPLE": 5,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 80
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 1000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 100
+            }
+        ],
+        "PEOPLE": 6,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 2500
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 250
+            }
+        ],
+        "PEOPLE": 6,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 120
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 4
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 5000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 500
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 140
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 6000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 600
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 150
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 6
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 7000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 700
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 160
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 7
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 8000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 800
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 170
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 8
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 12000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 1200
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 180
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 9
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 15000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 1500
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 190
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 17500
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 1750
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 11
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 20000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 2000
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 210
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 12
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 22500
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 2250
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 220
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 13
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 25000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 2500
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 230
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 14
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 27500
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 2750
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 240
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 30000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 3000
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 250
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 16
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 32500
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 3250
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 260
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 17
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 35000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 3500
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 270
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 18
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 37500
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 3750
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 280
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 19
+            }
+        ]
+    },
+    {
+        "ATTR": [
+            {
+                "KEY": "HP",
+                "VAL": 40000
+            },
+            {
+                "KEY": "ATK",
+                "VAL": 4000
+            }
+        ],
+        "PEOPLE": 7,
+        "SALARY": [
+            {
+                "GSID": 38005,
+                "COUNT": 290
+            },
+            {
+                "GSID": 30180,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 20
+            }
+        ]
+    }
+]

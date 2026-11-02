@@ -1,0 +1,96 @@
+{
+    "1": [
+        {
+            "CASTITEMS": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 200000
+                }
+            ],
+            "ADDEXP": 200000,
+            "ITEMS": [
+                {
+                    "GSID": 30020,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "CASTITEMS": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 300000
+                }
+            ],
+            "ADDEXP": 200000,
+            "ITEMS": [
+                {
+                    "GSID": 30020,
+                    "COUNT": 25
+                }
+            ]
+        },
+        {
+            "CASTITEMS": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 400000
+                }
+            ],
+            "ADDEXP": 200000,
+            "ITEMS": [
+                {
+                    "GSID": 30020,
+                    "COUNT": 25
+                }
+            ]
+        }
+    ],
+    "2": [
+        {
+            "CASTITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "ADDEXP": 400000,
+            "ITEMS": [
+                {
+                    "GSID": 30020,
+                    "COUNT": 50
+                }
+            ]
+        },
+        {
+            "CASTITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "ADDEXP": 400000,
+            "ITEMS": [
+                {
+                    "GSID": 30020,
+                    "COUNT": 50
+                }
+            ]
+        },
+        {
+            "CASTITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                }
+            ],
+            "ADDEXP": 400000,
+            "ITEMS": [
+                {
+                    "GSID": 30020,
+                    "COUNT": 50
+                }
+            ]
+        }
+    ]
+}

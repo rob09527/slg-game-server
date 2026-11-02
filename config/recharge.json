@@ -1,0 +1,459 @@
+{
+    "charge1": {
+        "TYPE": "RECHARGE",
+        "PRICE": 1,
+        "EXP": 10,
+        "YB": 10,
+        "EXTRA": {
+            "YB": 10
+        }
+    },
+    "charge3": {
+        "TYPE": "RECHARGE",
+        "PRICE": 3,
+        "EXP": 30,
+        "YB": 30,
+        "EXTRA": {
+            "YB": 30
+        }
+    },
+    "charge6": {
+        "TYPE": "RECHARGE",
+        "PRICE": 6,
+        "EXP": 60,
+        "YB": 60,
+        "EXTRA": {
+            "MARK": 91000,
+            "YB": 60
+        }
+    },
+    "charge8": {
+        "TYPE": "RECHARGE",
+        "PRICE": 8,
+        "EXP": 80,
+        "YB": 80,
+        "EXTRA": {
+            "YB": 80
+        }
+    },
+    "charge12": {
+        "TYPE": "RECHARGE",
+        "PRICE": 12,
+        "EXP": 120,
+        "YB": 120,
+        "EXTRA": {
+            "YB": 120
+        }
+    },
+    "charge18": {
+        "TYPE": "RECHARGE",
+        "PRICE": 18,
+        "EXP": 180,
+        "YB": 180,
+        "EXTRA": {
+            "YB": 180
+        }
+    },
+    "charge30": {
+        "TYPE": "RECHARGE",
+        "PRICE": 30,
+        "EXP": 300,
+        "YB": 300,
+        "EXTRA": {
+            "MARK": 91001,
+            "YB": 300
+        }
+    },
+    "charge45": {
+        "TYPE": "RECHARGE",
+        "PRICE": 45,
+        "EXP": 450,
+        "YB": 450,
+        "EXTRA": {
+            "MARK": 91001,
+            "YB": 450
+        }
+    },
+    "charge68": {
+        "TYPE": "RECHARGE",
+        "PRICE": 68,
+        "EXP": 680,
+        "YB": 680,
+        "EXTRA": {
+            "MARK": 91002,
+            "YB": 680
+        }
+    },
+    "charge98": {
+        "TYPE": "RECHARGE",
+        "PRICE": 98,
+        "EXP": 980,
+        "YB": 980,
+        "EXTRA": {}
+    },
+    "charge128": {
+        "TYPE": "RECHARGE",
+        "PRICE": 128,
+        "EXP": 1280,
+        "YB": 1280,
+        "EXTRA": {
+            "MARK": 91003,
+            "YB": 1280
+        }
+    },
+    "charge163": {
+        "TYPE": "RECHARGE",
+        "PRICE": 163,
+        "EXP": 1630,
+        "YB": 1630,
+        "EXTRA": {}
+    },
+    "charge168": {
+        "TYPE": "RECHARGE",
+        "PRICE": 168,
+        "EXP": 1680,
+        "YB": 1680,
+        "EXTRA": {}
+    },
+    "charge198": {
+        "TYPE": "RECHARGE",
+        "PRICE": 198,
+        "EXP": 1980,
+        "YB": 1980,
+        "EXTRA": {
+            "MARK": 91004,
+            "YB": 1980
+        }
+    },
+    "charge258": {
+        "TYPE": "RECHARGE",
+        "PRICE": 258,
+        "EXP": 2580,
+        "YB": 2580,
+        "EXTRA": {
+            "YB": 2580
+        }
+    },
+    "charge328": {
+        "TYPE": "RECHARGE",
+        "PRICE": 328,
+        "EXP": 3280,
+        "YB": 3280,
+        "EXTRA": {
+            "MARK": 91005,
+            "YB": 3280
+        }
+    },
+    "charge448": {
+        "TYPE": "RECHARGE",
+        "PRICE": 448,
+        "EXP": 4480,
+        "YB": 4480,
+        "EXTRA": {}
+    },
+    "charge548": {
+        "TYPE": "RECHARGE",
+        "PRICE": 548,
+        "EXP": 5480,
+        "YB": 5480,
+        "EXTRA": {}
+    },
+    "charge648": {
+        "TYPE": "RECHARGE",
+        "PRICE": 648,
+        "EXP": 6480,
+        "YB": 6480,
+        "EXTRA": {
+            "MARK": 91006,
+            "YB": 6480
+        }
+    },
+    "specialbw": {
+        "TYPE": "RIGHT",
+        "PRICE": 30,
+        "EXP": 300
+    },
+    "specialqz": {
+        "TYPE": "RIGHT",
+        "PRICE": 68,
+        "EXP": 680
+    },
+    "specialyd": {
+        "TYPE": "RIGHT",
+        "PRICE": 198,
+        "EXP": 1980
+    },
+    "specialfd": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980
+    },
+    "specialcz": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "LEVEL": [
+            40,
+            85
+        ]
+    },
+    "specialcz1": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "LEVEL": [
+            90,
+            110
+        ]
+    },
+    "specialcz2": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "LEVEL": [
+            112,
+            145
+        ]
+    },
+    "specialgz": {
+        "TYPE": "RIGHT",
+        "PRICE": 30,
+        "EXP": 300,
+        "CARD": 1,
+        "LEGION_BOSS": 2
+    },
+    "specialzz": {
+        "TYPE": "RIGHT",
+        "PRICE": 68,
+        "EXP": 680,
+        "CARD": 1,
+        "LEGION_SIGN": 1
+    },
+    "specialtower": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "LEVEL": [
+            50,
+            325
+        ]
+    },
+    "specialtower1": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "LEVEL": [
+            350,
+            625
+        ]
+    },
+    "specialtower2": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "LEVEL": [
+            650,
+            925
+        ]
+    },
+    "specialtjsl": {
+        "TYPE": "RIGHT",
+        "PRICE": 68,
+        "EXP": 680
+    },
+    "specialexp_0": {
+        "TYPE": "RIGHT",
+        "PRICE": 45,
+        "EXP": 450,
+        "YB": 450,
+        "EXTRA": {}
+    },
+    "specialadv_0": {
+        "TYPE": "RIGHT",
+        "PRICE": 45,
+        "EXP": 450,
+        "YB": 450,
+        "EXTRA": {}
+    },
+    "specialmoney_0": {
+        "TYPE": "RIGHT",
+        "PRICE": 45,
+        "EXP": 450,
+        "YB": 450,
+        "EXTRA": {}
+    },
+    "allspecial_exp_adv_money_0": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "YB": 980,
+        "EXTRA": {}
+    },
+    "specialzk": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "CARD": 1
+    },
+    "specialexp_1": {
+        "TYPE": "RIGHT",
+        "PRICE": 68,
+        "EXP": 680,
+        "YB": 680,
+        "EXTRA": {}
+    },
+    "specialadv_1": {
+        "TYPE": "RIGHT",
+        "PRICE": 68,
+        "EXP": 680,
+        "YB": 680,
+        "EXTRA": {}
+    },
+    "specialmoney_1": {
+        "TYPE": "RIGHT",
+        "PRICE": 68,
+        "EXP": 680,
+        "YB": 680,
+        "EXTRA": {}
+    },
+    "allspecial_exp_adv_money_1": {
+        "TYPE": "RIGHT",
+        "PRICE": 128,
+        "EXP": 1280,
+        "YB": 1280,
+        "EXTRA": {}
+    },
+    "specialexp_2": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "YB": 980,
+        "EXTRA": {}
+    },
+    "specialadv_2": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "YB": 980,
+        "EXTRA": {}
+    },
+    "specialmoney_2": {
+        "TYPE": "RIGHT",
+        "PRICE": 98,
+        "EXP": 980,
+        "YB": 980,
+        "EXTRA": {}
+    },
+    "allspecial_exp_adv_money_2": {
+        "TYPE": "RIGHT",
+        "PRICE": 198,
+        "EXP": 1980,
+        "YB": 1980,
+        "EXTRA": {}
+    },
+    "specialexp_3": {
+        "TYPE": "RIGHT",
+        "PRICE": 128,
+        "EXP": 1280,
+        "YB": 1280,
+        "EXTRA": {}
+    },
+    "specialadv_3": {
+        "TYPE": "RIGHT",
+        "PRICE": 128,
+        "EXP": 1280,
+        "YB": 1280,
+        "EXTRA": {}
+    },
+    "specialmoney_3": {
+        "TYPE": "RIGHT",
+        "PRICE": 128,
+        "EXP": 1280,
+        "YB": 1280,
+        "EXTRA": {}
+    },
+    "allspecial_exp_adv_money_3": {
+        "TYPE": "RIGHT",
+        "PRICE": 198,
+        "EXP": 1980,
+        "YB": 1980,
+        "EXTRA": {}
+    },
+    "specialexp_4": {
+        "TYPE": "RIGHT",
+        "PRICE": 198,
+        "EXP": 1980,
+        "YB": 1980,
+        "EXTRA": {}
+    },
+    "specialadv_4": {
+        "TYPE": "RIGHT",
+        "PRICE": 198,
+        "EXP": 1980,
+        "YB": 1980,
+        "EXTRA": {}
+    },
+    "specialmoney_4": {
+        "TYPE": "RIGHT",
+        "PRICE": 198,
+        "EXP": 1980,
+        "YB": 1980,
+        "EXTRA": {}
+    },
+    "allspecial_exp_adv_money_4": {
+        "TYPE": "RIGHT",
+        "PRICE": 328,
+        "EXP": 3280,
+        "YB": 3280,
+        "EXTRA": {}
+    },
+    "specialexp_5": {
+        "TYPE": "RIGHT",
+        "PRICE": 328,
+        "EXP": 3280,
+        "YB": 3280,
+        "EXTRA": {}
+    },
+    "specialadv_5": {
+        "TYPE": "RIGHT",
+        "PRICE": 328,
+        "EXP": 3280,
+        "YB": 3280,
+        "EXTRA": {}
+    },
+    "specialmoney_5": {
+        "TYPE": "RIGHT",
+        "PRICE": 328,
+        "EXP": 3280,
+        "YB": 3280,
+        "EXTRA": {}
+    },
+    "allspecial_exp_adv_money_5": {
+        "TYPE": "RIGHT",
+        "PRICE": 648,
+        "EXP": 6480,
+        "YB": 6480,
+        "EXTRA": {}
+    },
+    "specialmopup": {
+        "TYPE": "RIGHT",
+        "PRICE": 68,
+        "EXP": 680,
+        "YB": 680,
+        "EXTRA": {}
+    },
+    "specialcjzmtxz": {
+        "TYPE": "RIGHT",
+        "PRICE": 648,
+        "EXP": 6480,
+        "YB": 6480,
+        "EXTRA": {}
+    },
+    "specialssdbtxz": {
+        "TYPE": "RIGHT",
+        "PRICE": 648,
+        "EXP": 6480,
+        "YB": 6480,
+        "EXTRA": {}
+    }
+}

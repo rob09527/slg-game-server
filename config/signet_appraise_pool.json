@@ -1,0 +1,114 @@
+[
+    {
+        "GSID": 60020,
+        "TYPE": 1,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pxfatk"
+    },
+    {
+        "GSID": 60021,
+        "TYPE": 1,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pckatk"
+    },
+    {
+        "GSID": 60022,
+        "TYPE": 1,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "phsatk"
+    },
+    {
+        "GSID": 60023,
+        "TYPE": 1,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pcri"
+    },
+    {
+        "GSID": 60024,
+        "TYPE": 1,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pmdam"
+    },
+    {
+        "GSID": 60025,
+        "TYPE": 1,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "accu"
+    },
+    {
+        "GSID": 60026,
+        "TYPE": 1,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "accu"
+    },
+    {
+        "GSID": 60027,
+        "TYPE": 1,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "ppdam"
+    },
+    {
+        "GSID": 60020,
+        "TYPE": 2,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pssatk"
+    },
+    {
+        "GSID": 60021,
+        "TYPE": 2,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pjsatk"
+    },
+    {
+        "GSID": 60022,
+        "TYPE": 2,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pmsatk"
+    },
+    {
+        "GSID": 60023,
+        "TYPE": 2,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "dpcri"
+    },
+    {
+        "GSID": 60024,
+        "TYPE": 2,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pmrdc"
+    },
+    {
+        "GSID": 60025,
+        "TYPE": 2,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pdex"
+    },
+    {
+        "GSID": 60026,
+        "TYPE": 2,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pmdex"
+    },
+    {
+        "GSID": 60027,
+        "TYPE": 2,
+        "MIN": 40,
+        "MAX": 80,
+        "ATTRS": "pprdc"
+    }
+]

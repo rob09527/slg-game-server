@@ -1,0 +1,4606 @@
+{
+    "WILD_MONSTER": {
+        "1": {
+            "LV": 1,
+            "MONSTER_GROUP": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.3,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 8000,
+                    "MIN": 4000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 8,
+                    "MIN": 5,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 110,
+                    "MIN": 90,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "2": {
+            "LV": 2,
+            "MONSTER_GROUP": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.3,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 10000,
+                    "MIN": 6000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 8,
+                    "MIN": 5,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 110,
+                    "MIN": 90,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "3": {
+            "LV": 3,
+            "MONSTER_GROUP": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.26,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 12000,
+                    "MIN": 8000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 8,
+                    "MIN": 5,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 110,
+                    "MIN": 90,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "4": {
+            "LV": 4,
+            "MONSTER_GROUP": [
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.26,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 14000,
+                    "MIN": 10000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 8,
+                    "MIN": 5,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 110,
+                    "MIN": 90,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "5": {
+            "LV": 5,
+            "MONSTER_GROUP": [
+                51,
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.24,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 16000,
+                    "MIN": 12000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 8,
+                    "MIN": 5,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 130,
+                    "MIN": 120,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "6": {
+            "LV": 6,
+            "MONSTER_GROUP": [
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.24,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 14000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 8,
+                    "MIN": 5,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 130,
+                    "MIN": 120,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "7": {
+            "LV": 7,
+            "MONSTER_GROUP": [
+                71,
+                72,
+                73,
+                74,
+                75,
+                76
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.22,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 20000,
+                    "MIN": 16000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 10,
+                    "MIN": 7,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 130,
+                    "MIN": 120,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "8": {
+            "LV": 8,
+            "MONSTER_GROUP": [
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 60
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 14
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.22,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 22000,
+                    "MIN": 18000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 11,
+                    "MIN": 8,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 160,
+                    "MIN": 140,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "9": {
+            "LV": 9,
+            "MONSTER_GROUP": [
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 60
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 14
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 24000,
+                    "MIN": 20000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 12,
+                    "MIN": 9,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 160,
+                    "MIN": 140,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "10": {
+            "LV": 10,
+            "MONSTER_GROUP": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 60
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 14
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 26000,
+                    "MIN": 22000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 13,
+                    "MIN": 10,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 160,
+                    "MIN": 140,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "11": {
+            "LV": 11,
+            "MONSTER_GROUP": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 70
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 18
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 28000,
+                    "MIN": 24000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 14,
+                    "MIN": 11,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 180,
+                    "MIN": 170,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "12": {
+            "LV": 12,
+            "MONSTER_GROUP": [
+                121,
+                122,
+                123,
+                124,
+                125,
+                126
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 70
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 18
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 30000,
+                    "MIN": 26000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 15,
+                    "MIN": 12,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 180,
+                    "MIN": 170,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "13": {
+            "LV": 13,
+            "MONSTER_GROUP": [
+                131,
+                132,
+                133,
+                134,
+                135,
+                136
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 70
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 18
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 32000,
+                    "MIN": 28000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 16,
+                    "MIN": 13,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 180,
+                    "MIN": 170,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "14": {
+            "LV": 14,
+            "MONSTER_GROUP": [
+                141,
+                142,
+                143,
+                144,
+                145,
+                146
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 80
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 22
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 34000,
+                    "MIN": 30000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 17,
+                    "MIN": 14,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 210,
+                    "MIN": 190,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "15": {
+            "LV": 15,
+            "MONSTER_GROUP": [
+                151,
+                152,
+                153,
+                154,
+                155,
+                156
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 80
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 22
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 36000,
+                    "MIN": 32000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 18,
+                    "MIN": 15,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 210,
+                    "MIN": 190,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "16": {
+            "LV": 16,
+            "MONSTER_GROUP": [
+                161,
+                162,
+                163,
+                164,
+                165,
+                166
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 80
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 22
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 38000,
+                    "MIN": 34000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 19,
+                    "MIN": 16,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 210,
+                    "MIN": 190,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "17": {
+            "LV": 17,
+            "MONSTER_GROUP": [
+                171,
+                172,
+                173,
+                174,
+                175,
+                176
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 90
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 26
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 39000,
+                    "MIN": 35000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 20,
+                    "MIN": 17,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 230,
+                    "MIN": 220,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "18": {
+            "LV": 18,
+            "MONSTER_GROUP": [
+                181,
+                182,
+                183,
+                184,
+                185,
+                186
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 90
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 26
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 24000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 40000,
+                    "MIN": 36000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 21,
+                    "MIN": 18,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 230,
+                    "MIN": 220,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "19": {
+            "LV": 19,
+            "MONSTER_GROUP": [
+                191,
+                192,
+                193,
+                194,
+                195,
+                196
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 41000,
+                    "MIN": 37000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 22,
+                    "MIN": 19,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "20": {
+            "LV": 20,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "21": {
+            "LV": 21,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "22": {
+            "LV": 22,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "23": {
+            "LV": 23,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "24": {
+            "LV": 24,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "25": {
+            "LV": 25,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "26": {
+            "LV": 26,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "27": {
+            "LV": 27,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "28": {
+            "LV": 28,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "29": {
+            "LV": 29,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "30": {
+            "LV": 30,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "31": {
+            "LV": 31,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "32": {
+            "LV": 32,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "33": {
+            "LV": 33,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "34": {
+            "LV": 34,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "35": {
+            "LV": 35,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "36": {
+            "LV": 36,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "37": {
+            "LV": 37,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "38": {
+            "LV": 38,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "39": {
+            "LV": 39,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        },
+        "40": {
+            "LV": 40,
+            "MONSTER_GROUP": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 72000
+                }
+            ],
+            "HIT_BOX": 0.2,
+            "BOX_GIFT": [
+                {
+                    "GSID": 38006,
+                    "MAX": 42000,
+                    "MIN": 38000,
+                    "CHANCE": 550
+                },
+                {
+                    "GSID": 38005,
+                    "MAX": 23,
+                    "MIN": 20,
+                    "CHANCE": 150
+                },
+                {
+                    "GSID": 38010,
+                    "MAX": 260,
+                    "MIN": 240,
+                    "CHANCE": 99.9999999999999
+                },
+                {
+                    "GSID": 37002,
+                    "MAX": 1,
+                    "MIN": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 36002,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36003,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 38
+                },
+                {
+                    "GSID": 36004,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                },
+                {
+                    "GSID": 36005,
+                    "MAX": 3,
+                    "MIN": 1,
+                    "CHANCE": 37
+                }
+            ]
+        }
+    },
+    "BOSS": {
+        "1": {
+            "LV": 1,
+            "BOSS_GROUP": [
+                1001,
+                1002,
+                1003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 180
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 108000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 10,
+                    "MIN": 10
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 4,
+                    "MIN": 4
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "2": {
+            "LV": 2,
+            "BOSS_GROUP": [
+                2001,
+                2002,
+                2003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 180
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 108000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 10,
+                    "MIN": 10
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 4,
+                    "MIN": 4
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "3": {
+            "LV": 3,
+            "BOSS_GROUP": [
+                3001,
+                3002,
+                3003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 180
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 108000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 10,
+                    "MIN": 10
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 4,
+                    "MIN": 4
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "4": {
+            "LV": 4,
+            "BOSS_GROUP": [
+                4001,
+                4002,
+                4003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 180
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 108000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 10,
+                    "MIN": 10
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 4,
+                    "MIN": 4
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "5": {
+            "LV": 5,
+            "BOSS_GROUP": [
+                5001,
+                5002,
+                5003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 210
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 144000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 20,
+                    "MIN": 20
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 4,
+                    "MIN": 4
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "6": {
+            "LV": 6,
+            "BOSS_GROUP": [
+                6001,
+                6002,
+                6003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 210
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 144000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 20,
+                    "MIN": 20
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 4,
+                    "MIN": 4
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "7": {
+            "LV": 7,
+            "BOSS_GROUP": [
+                7001,
+                7002,
+                7003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 210
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 40
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 144000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 20,
+                    "MIN": 20
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 4,
+                    "MIN": 4
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "8": {
+            "LV": 8,
+            "BOSS_GROUP": [
+                8001,
+                8002,
+                8003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 240
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 56
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 180000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 20,
+                    "MIN": 20
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 6,
+                    "MIN": 6
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "9": {
+            "LV": 9,
+            "BOSS_GROUP": [
+                9001,
+                9002,
+                9003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 240
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 56
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 180000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 20,
+                    "MIN": 20
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 6,
+                    "MIN": 6
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "10": {
+            "LV": 10,
+            "BOSS_GROUP": [
+                10001,
+                10002,
+                10003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 240
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 56
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 180000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 20,
+                    "MIN": 20
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 6,
+                    "MIN": 6
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "11": {
+            "LV": 11,
+            "BOSS_GROUP": [
+                11001,
+                11002,
+                11003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 270
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 72
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 216000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 30,
+                    "MIN": 30
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 8,
+                    "MIN": 8
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "12": {
+            "LV": 12,
+            "BOSS_GROUP": [
+                12001,
+                12002,
+                12003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 270
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 72
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 216000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 30,
+                    "MIN": 30
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 8,
+                    "MIN": 8
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "13": {
+            "LV": 13,
+            "BOSS_GROUP": [
+                13001,
+                13002,
+                13003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 270
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 72
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 216000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 30,
+                    "MIN": 30
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 8,
+                    "MIN": 8
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "14": {
+            "LV": 14,
+            "BOSS_GROUP": [
+                14001,
+                14002,
+                14003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 88
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 252000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 30,
+                    "MIN": 30
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 10,
+                    "MIN": 10
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "15": {
+            "LV": 15,
+            "BOSS_GROUP": [
+                15001,
+                15002,
+                15003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 88
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 252000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 30,
+                    "MIN": 30
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 10,
+                    "MIN": 10
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "16": {
+            "LV": 16,
+            "BOSS_GROUP": [
+                16001,
+                16002,
+                16003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 88
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 252000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 30,
+                    "MIN": 30
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 10,
+                    "MIN": 10
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "17": {
+            "LV": 17,
+            "BOSS_GROUP": [
+                17001,
+                17002,
+                17003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 330
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 104
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 288000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 12,
+                    "MIN": 12
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "18": {
+            "LV": 18,
+            "BOSS_GROUP": [
+                18001,
+                18002,
+                18003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 330
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 104
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 288000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 12,
+                    "MIN": 12
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 6000,
+                    "MIN": 6000
+                }
+            ]
+        },
+        "19": {
+            "LV": 19,
+            "BOSS_GROUP": [
+                19001,
+                19002,
+                19003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "20": {
+            "LV": 20,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "21": {
+            "LV": 21,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "22": {
+            "LV": 22,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "23": {
+            "LV": 23,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "24": {
+            "LV": 24,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "25": {
+            "LV": 25,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "26": {
+            "LV": 26,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "27": {
+            "LV": 27,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "28": {
+            "LV": 28,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "29": {
+            "LV": 29,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "30": {
+            "LV": 30,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "31": {
+            "LV": 31,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "32": {
+            "LV": 32,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "33": {
+            "LV": 33,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "34": {
+            "LV": 34,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "35": {
+            "LV": 35,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "36": {
+            "LV": 36,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "37": {
+            "LV": 37,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "38": {
+            "LV": 38,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "39": {
+            "LV": 39,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        },
+        "40": {
+            "LV": 40,
+            "BOSS_GROUP": [
+                20001,
+                20002,
+                20003
+            ],
+            "KILL_GIFT": [
+                {
+                    "GSID": 38010,
+                    "COUNT": 360
+                },
+                {
+                    "GSID": 30016,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 324000
+                }
+            ],
+            "FIGHTING_GIFT": [
+                {
+                    "GSID": 38010,
+                    "MAX": 40,
+                    "MIN": 40
+                },
+                {
+                    "GSID": 30016,
+                    "MAX": 14,
+                    "MIN": 14
+                },
+                {
+                    "GSID": 38006,
+                    "MAX": 18000,
+                    "MIN": 18000
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,146 @@
+[
+    {
+        "LIMITHOUR": 2,
+        "LEVEL": 18,
+        "PRICE": 6,
+        "EXP": 60,
+        "ITEMS": [
+            {
+                "GSID": 16181,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "LIMITHOUR": 24,
+        "LEVEL": 30,
+        "PRICE": 30,
+        "EXP": 300,
+        "ITEMS": [
+            {
+                "GSID": 36001,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1000
+            }
+        ]
+    },
+    {
+        "LIMITHOUR": 24,
+        "LEVEL": 50,
+        "PRICE": 68,
+        "EXP": 680,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 10000000
+            }
+        ]
+    },
+    {
+        "LIMITHOUR": 48,
+        "LEVEL": 62,
+        "PRICE": 128,
+        "EXP": 1280,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            },
+            {
+                "GSID": 26201,
+                "COUNT": 50
+            },
+            {
+                "GSID": 34311,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "LIMITHOUR": 48,
+        "LEVEL": 71,
+        "PRICE": 128,
+        "EXP": 1280,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 1280
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 3000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 1000
+            }
+        ]
+    },
+    {
+        "LIMITHOUR": 48,
+        "LEVEL": 78,
+        "PRICE": 198,
+        "EXP": 1980,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 100
+            }
+        ]
+    },
+    {
+        "LIMITHOUR": 168,
+        "LEVEL": 86,
+        "PRICE": 328,
+        "EXP": 3280,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            },
+            {
+                "GSID": 32568,
+                "COUNT": 1
+            }
+        ]
+    },
+    {
+        "LIMITHOUR": 168,
+        "LEVEL": 92,
+        "PRICE": 648,
+        "EXP": 6480,
+        "ITEMS": [
+            {
+                "GSID": 33017,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33117,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33217,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33317,
+                "COUNT": 1
+            }
+        ]
+    }
+]

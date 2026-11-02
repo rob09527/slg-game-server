@@ -1,0 +1,5942 @@
+[
+    {
+        "GSID": 10001,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 1,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12001,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 1,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14001,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 1,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16001,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 1,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10021,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 2,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12021,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 2,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14021,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 2,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16021,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 2,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10041,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10061,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12041,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12061,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14041,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14061,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16041,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16061,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 17001,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 18001,
+        "LOYAL": {
+            "BASE": 40,
+            "RANGE": [
+                8,
+                12
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 1000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 2
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 120,
+        "RATING": 3,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10081,
+        "LOYAL": {
+            "BASE": 0,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10101,
+        "LOYAL": {
+            "BASE": 0,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 0,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10121,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10141,
+        "LOYAL": {
+            "BASE": 0,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12081,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12101,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12121,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12141,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14081,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14101,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14121,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14141,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16081,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16101,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16121,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16141,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 17021,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 17041,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 18021,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 18041,
+        "LOYAL": {
+            "BASE": 50,
+            "RANGE": [
+                6,
+                10
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10082,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10102,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10122,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10142,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12082,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12102,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12122,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 12142,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14082,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14102,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14122,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 14142,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16082,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16102,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16122,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 16142,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 17022,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 17042,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 18022,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 18042,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 3,
+        "CD": 300,
+        "RATING": 4,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 1
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 1
+        }
+    },
+    {
+        "GSID": 10161,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 10181,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 10201,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 10221,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 10241,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 10261,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 10281,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 10301,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 10321,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 10361,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 10381,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 12161,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 12181,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 12201,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 12221,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 12241,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 12261,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 12281,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 12301,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 12321,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 12341,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 12361,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 14161,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 14181,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 14201,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 14221,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 14241,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 14261,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 14281,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 14301,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 14321,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 14341,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 14381,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 16161,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 16181,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 16201,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 16221,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 16241,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 16261,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 16281,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 16301,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 16321,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 16341,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 16361,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 17061,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 17081,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 20
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 17101,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 17141,
+        "LOYAL": {
+            "BASE": 100,
+            "RANGE": [
+                2,
+                2
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 2000000
+            }
+        ],
+        "LOWEST": 18,
+        "CD": 900,
+        "RATING": 9,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 5
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 10
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 5
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 10
+        }
+    },
+    {
+        "GSID": 18061,
+        "LOYAL": {
+            "BASE": 60,
+            "RANGE": [
+                4,
+                8
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 20
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 15
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 600000
+            }
+        ],
+        "LOWEST": 8,
+        "CD": 480,
+        "RATING": 5,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 1
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 2
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 1
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 2
+        }
+    },
+    {
+        "GSID": 18081,
+        "LOYAL": {
+            "BASE": 70,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 3
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 20
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 800000
+            }
+        ],
+        "LOWEST": 10,
+        "CD": 600,
+        "RATING": 6,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 2
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 3
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 2
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 3
+        }
+    },
+    {
+        "GSID": 18121,
+        "LOYAL": {
+            "BASE": 80,
+            "RANGE": [
+                2,
+                6
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 5
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 25
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 1000000
+            }
+        ],
+        "LOWEST": 12,
+        "CD": 720,
+        "RATING": 7,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 3
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 6
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 3
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 6
+        }
+    },
+    {
+        "GSID": 18141,
+        "LOYAL": {
+            "BASE": 100,
+            "RANGE": [
+                2,
+                2
+            ]
+        },
+        "CAST": [
+            {
+                "GSID": 30029,
+                "COUNT": 10
+            }
+        ],
+        "SRENDER": [],
+        "KILL": [
+            {
+                "GSID": 30029,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 2000000
+            }
+        ],
+        "LOWEST": 18,
+        "CD": 900,
+        "RATING": 9,
+        "ITEM": [
+            {
+                "gsid": 30196,
+                "count": 5
+            }
+        ],
+        "ITEM_1": [
+            {
+                "gsid": 30197,
+                "count": 10
+            }
+        ],
+        "GOTOITEM": {
+            "gsid": 30196,
+            "count": 5
+        },
+        "JYITEM": {
+            "gsid": 30197,
+            "count": 10
+        }
+    }
+]

@@ -1,0 +1,1669 @@
+{
+    "10001": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10001,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50001,
+        "IMAGEID": 52001,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10021": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10021,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50005,
+        "IMAGEID": 52005,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10041": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10041,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50009,
+        "IMAGEID": 52009,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10061": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10061,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50010,
+        "IMAGEID": 52010,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10081": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10081,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50019,
+        "IMAGEID": 52019,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10101": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10101,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50020,
+        "IMAGEID": 52020,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10121": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10121,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50021,
+        "IMAGEID": 52021,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10141": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10141,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50022,
+        "IMAGEID": 52022,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10161": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10161,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50039,
+        "IMAGEID": 52039,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10181": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10181,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50040,
+        "IMAGEID": 52040,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10201": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10201,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50041,
+        "IMAGEID": 52041,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10221": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10221,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50042,
+        "IMAGEID": 52042,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10241": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10241,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50043,
+        "IMAGEID": 52043,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10261": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10261,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50044,
+        "IMAGEID": 52044,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10281": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10281,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50045,
+        "IMAGEID": 52045,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10301": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10301,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50046,
+        "IMAGEID": 52046,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10302": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 5
+            },
+            {
+                "ID": "patk",
+                "NUM": 5
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "atk",
+                "NUM": 100
+            }
+        ],
+        "GENERAL_GSID": 10301,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50114,
+        "IMAGEID": 52114,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42011,
+                "COUNT": 60
+            }
+        ]
+    },
+    "10303": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 5
+            },
+            {
+                "ID": "patk",
+                "NUM": 5
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "atk",
+                "NUM": 100
+            }
+        ],
+        "GENERAL_GSID": 10301,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50118,
+        "IMAGEID": 52118,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42015,
+                "COUNT": 60
+            }
+        ]
+    },
+    "10321": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10321,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50047,
+        "IMAGEID": 52047,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10341": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10341,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50048,
+        "IMAGEID": 52048,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10361": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10361,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50049,
+        "IMAGEID": 52049,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10362": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10361,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50099,
+        "IMAGEID": 52099,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42002,
+                "COUNT": 1
+            }
+        ]
+    },
+    "10381": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10381,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50050,
+        "IMAGEID": 52050,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "10401": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 10401,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50107,
+        "IMAGEID": 52107,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12001": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12001,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50002,
+        "IMAGEID": 52002,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12021": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12021,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50006,
+        "IMAGEID": 52006,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12041": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12041,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50011,
+        "IMAGEID": 52011,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12061": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12061,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50012,
+        "IMAGEID": 52012,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12081": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12081,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50023,
+        "IMAGEID": 52023,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12101": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12101,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50024,
+        "IMAGEID": 52024,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12121": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12121,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50025,
+        "IMAGEID": 52025,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12141": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12141,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50026,
+        "IMAGEID": 52026,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12161": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12161,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50051,
+        "IMAGEID": 52051,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12181": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12181,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50052,
+        "IMAGEID": 52052,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12182": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 10
+            },
+            {
+                "ID": "patk",
+                "NUM": 5
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "atk",
+                "NUM": 100
+            }
+        ],
+        "GENERAL_GSID": 12181,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50106,
+        "IMAGEID": 52106,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42009,
+                "COUNT": 60
+            }
+        ]
+    },
+    "12201": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12201,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50053,
+        "IMAGEID": 52053,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12221": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12221,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50054,
+        "IMAGEID": 52054,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12241": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12241,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50055,
+        "IMAGEID": 52055,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12261": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12261,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50056,
+        "IMAGEID": 52056,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12281": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12281,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50057,
+        "IMAGEID": 52057,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12301": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12301,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50058,
+        "IMAGEID": 52058,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12321": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12321,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50059,
+        "IMAGEID": 52059,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12341": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12341,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50060,
+        "IMAGEID": 52060,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12361": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12361,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50061,
+        "IMAGEID": 52061,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12362": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 25
+            },
+            {
+                "ID": "patk",
+                "NUM": 25
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 12000
+            },
+            {
+                "ID": "atk",
+                "NUM": 600
+            }
+        ],
+        "GENERAL_GSID": 12361,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50099,
+        "IMAGEID": 52100,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42003,
+                "COUNT": 60
+            }
+        ]
+    },
+    "12363": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 5
+            },
+            {
+                "ID": "patk",
+                "NUM": 5
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "atk",
+                "NUM": 100
+            }
+        ],
+        "GENERAL_GSID": 12361,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50117,
+        "IMAGEID": 52117,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42014,
+                "COUNT": 60
+            }
+        ]
+    },
+    "12381": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12381,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50062,
+        "IMAGEID": 52062,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12401": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12401,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50105,
+        "IMAGEID": 52105,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "12421": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 12421,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50110,
+        "IMAGEID": 52110,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14001": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14001,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50003,
+        "IMAGEID": 52003,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14021": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14021,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50007,
+        "IMAGEID": 52007,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14041": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14041,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50013,
+        "IMAGEID": 52013,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14061": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14061,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50014,
+        "IMAGEID": 52014,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14081": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14081,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50027,
+        "IMAGEID": 52027,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14101": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14101,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50028,
+        "IMAGEID": 52028,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14121": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14121,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50029,
+        "IMAGEID": 52029,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14141": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14141,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50030,
+        "IMAGEID": 52030,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14161": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14161,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50063,
+        "IMAGEID": 52063,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14181": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14181,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50064,
+        "IMAGEID": 52064,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14201": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14201,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50065,
+        "IMAGEID": 52065,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14221": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14221,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50066,
+        "IMAGEID": 52066,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14241": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14241,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50067,
+        "IMAGEID": 52067,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14261": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14261,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50068,
+        "IMAGEID": 52068,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14281": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14281,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50069,
+        "IMAGEID": 52069,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14301": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14301,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50070,
+        "IMAGEID": 52070,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14321": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14321,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50071,
+        "IMAGEID": 52071,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14341": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14341,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50072,
+        "IMAGEID": 52072,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14361": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14361,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50073,
+        "IMAGEID": 52073,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14381": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14381,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50074,
+        "IMAGEID": 52074,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "14382": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14381,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50100,
+        "IMAGEID": 52101,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42004,
+                "COUNT": 1
+            }
+        ]
+    },
+    "14401": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 14401,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50108,
+        "IMAGEID": 52108,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16001": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16001,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50004,
+        "IMAGEID": 52004,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16021": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16021,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50008,
+        "IMAGEID": 52008,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16041": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16041,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50015,
+        "IMAGEID": 52015,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16061": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16061,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50016,
+        "IMAGEID": 52016,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16081": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16081,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50031,
+        "IMAGEID": 52031,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16101": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16101,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50032,
+        "IMAGEID": 52032,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16121": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16121,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50033,
+        "IMAGEID": 52033,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16141": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16141,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50034,
+        "IMAGEID": 52034,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16161": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16161,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50075,
+        "IMAGEID": 52075,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16181": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16181,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50076,
+        "IMAGEID": 52076,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16201": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16201,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50077,
+        "IMAGEID": 52077,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16221": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16221,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50078,
+        "IMAGEID": 52078,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16241": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16241,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50079,
+        "IMAGEID": 52079,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16261": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16261,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50080,
+        "IMAGEID": 52080,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16281": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16281,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50081,
+        "IMAGEID": 52081,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16301": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16301,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50082,
+        "IMAGEID": 52082,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16321": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16321,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50083,
+        "IMAGEID": 52083,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16341": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16341,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50084,
+        "IMAGEID": 52084,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16342": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 40
+            },
+            {
+                "ID": "patk",
+                "NUM": 20
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 12000
+            },
+            {
+                "ID": "atk",
+                "NUM": 600
+            }
+        ],
+        "GENERAL_GSID": 16341,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50113,
+        "IMAGEID": 52113,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42010,
+                "COUNT": 60
+            }
+        ]
+    },
+    "16361": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16361,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50085,
+        "IMAGEID": 52085,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16381": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16381,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50086,
+        "IMAGEID": 52086,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "16382": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16381,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50101,
+        "IMAGEID": 52102,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42001,
+                "COUNT": 1
+            }
+        ]
+    },
+    "16401": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 16401,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50109,
+        "IMAGEID": 52109,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17001": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17001,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50017,
+        "IMAGEID": 52017,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17021": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17021,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50035,
+        "IMAGEID": 52035,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17041": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17041,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50036,
+        "IMAGEID": 52036,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17061": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17061,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50087,
+        "IMAGEID": 52087,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17081": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17081,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50088,
+        "IMAGEID": 52088,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17101": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17101,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50089,
+        "IMAGEID": 52089,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17102": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 5000
+            },
+            {
+                "ID": "atk",
+                "NUM": 500
+            }
+        ],
+        "GENERAL_GSID": 17101,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50102,
+        "IMAGEID": 52103,
+        "SKILLS": {
+            "42341": 47341,
+            "42342": 47342,
+            "42343": 47343,
+            "42344": 47344
+        },
+        "CAST": [
+            {
+                "GSID": 42005,
+                "COUNT": 60
+            }
+        ]
+    },
+    "17121": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17121,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50090,
+        "IMAGEID": 52090,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17141": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17141,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50091,
+        "IMAGEID": 52091,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17142": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 10000
+            },
+            {
+                "ID": "atk",
+                "NUM": 500
+            }
+        ],
+        "GENERAL_GSID": 17141,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50116,
+        "IMAGEID": 52116,
+        "SKILLS": {
+            "17141": 47141,
+            "17142": 47142,
+            "17143": 47143,
+            "17144": 47144
+        },
+        "CAST": [
+            {
+                "GSID": 42013,
+                "COUNT": 60
+            }
+        ]
+    },
+    "17161": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17161,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50092,
+        "IMAGEID": 52092,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17162": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 35
+            },
+            {
+                "ID": "patk",
+                "NUM": 35
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 15000
+            },
+            {
+                "ID": "atk",
+                "NUM": 750
+            }
+        ],
+        "GENERAL_GSID": 17161,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50121,
+        "IMAGEID": 52121,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42007,
+                "COUNT": 60
+            }
+        ]
+    },
+    "17181": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 17181,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50111,
+        "IMAGEID": 52111,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "17182": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 10000
+            },
+            {
+                "ID": "atk",
+                "NUM": 500
+            }
+        ],
+        "GENERAL_GSID": 17181,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50122,
+        "IMAGEID": 52122,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42017,
+                "COUNT": 60
+            }
+        ]
+    },
+    "18001": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18001,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50018,
+        "IMAGEID": 52018,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "18021": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18021,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50037,
+        "IMAGEID": 52037,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "18041": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18041,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50038,
+        "IMAGEID": 52038,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "18061": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18061,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50093,
+        "IMAGEID": 52093,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "18081": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18081,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50094,
+        "IMAGEID": 52094,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "18101": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18101,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50095,
+        "IMAGEID": 52095,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "18121": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18121,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50096,
+        "IMAGEID": 52096,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "18122": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18121,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50103,
+        "IMAGEID": 52104,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42006,
+                "COUNT": 1
+            }
+        ]
+    },
+    "18141": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18141,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50097,
+        "IMAGEID": 52097,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "18142": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 10000
+            },
+            {
+                "ID": "atk",
+                "NUM": 500
+            }
+        ],
+        "GENERAL_GSID": 18141,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50115,
+        "IMAGEID": 52115,
+        "SKILLS": {
+            "18141": 48141,
+            "18142": 48142,
+            "18143": 48143,
+            "18144": 48144
+        },
+        "CAST": [
+            {
+                "GSID": 42012,
+                "COUNT": 60
+            }
+        ]
+    },
+    "18161": {
+        "ATTR": [],
+        "ALLATTR": [],
+        "GENERAL_GSID": 18161,
+        "THEMIN": 0,
+        "TIMELIMIT": -1,
+        "HEADID": 50098,
+        "IMAGEID": 52098,
+        "SKILLS": {},
+        "CAST": []
+    },
+    "18162": {
+        "ATTR": [
+            {
+                "ID": "php",
+                "NUM": 35
+            },
+            {
+                "ID": "patk",
+                "NUM": 35
+            }
+        ],
+        "ALLATTR": [
+            {
+                "ID": "hp",
+                "NUM": 15000
+            },
+            {
+                "ID": "atk",
+                "NUM": 750
+            }
+        ],
+        "GENERAL_GSID": 18161,
+        "THEMIN": 1,
+        "TIMELIMIT": -1,
+        "HEADID": 50120,
+        "IMAGEID": 52120,
+        "SKILLS": {},
+        "CAST": [
+            {
+                "GSID": 42016,
+                "COUNT": 60
+            }
+        ]
+    }
+}

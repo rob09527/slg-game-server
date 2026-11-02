@@ -1,0 +1,31 @@
+{
+	"DEFAULT_PORT": 20000,
+	"GAMECONFIG": "../config",
+	"EXECUTIONS": "../exec",
+	"PROB": "../prob",
+	"GAMEPATH": "../king_game",
+	"HOST": "",
+	"DB": {
+		"HOST": "127.0.0.1",
+		"PORT": 27017,
+		"NAME": "game"
+	},
+	"ES": {
+		"HOST": "127.0.0.1:19200",
+		"DEF_INDEX": "king"
+	},
+	"REDIS": {
+		"HOST": "127.0.0.1",
+		"PORT": 6379
+	},
+	"PROXY": {
+		"PROTO": "http",
+		"HOST": "127.0.0.1",
+		"PORT": 8001
+	},
+	"SCF": {
+		"BASE": "127.0.0.1:8082",
+		"ENV": "test",
+		"NAME": "battlelogic"
+	}
+}

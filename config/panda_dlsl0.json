@@ -1,0 +1,732 @@
+{
+    "server": {
+        "jysl": [
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97500,
+                        "POS": 1
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 1
+                    },
+                    {
+                        "GSID": 90628,
+                        "MAXCOUNT": 0
+                    },
+                    {
+                        "GSID": "special.exp",
+                        "MINCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97500,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 3600000
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97500,
+                        "POS": 2
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 2
+                    },
+                    {
+                        "GSID": 90628,
+                        "MAXCOUNT": 1
+                    },
+                    {
+                        "GSID": "special.exp",
+                        "MINCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97500,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 3600000
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97500,
+                        "POS": 3
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 3
+                    },
+                    {
+                        "GSID": 90628,
+                        "MAXCOUNT": 2
+                    },
+                    {
+                        "GSID": "special.exp",
+                        "MINCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97500,
+                        "COUNT": 4
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 3600000
+                    }
+                ]
+            }
+        ],
+        "jjsl": [
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97501,
+                        "POS": 1
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 1
+                    },
+                    {
+                        "GSID": 90629,
+                        "MAXCOUNT": 0
+                    },
+                    {
+                        "GSID": "special.adv",
+                        "MINCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97501,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1600
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97501,
+                        "POS": 2
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 2
+                    },
+                    {
+                        "GSID": 90629,
+                        "MAXCOUNT": 1
+                    },
+                    {
+                        "GSID": "special.adv",
+                        "MINCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97501,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1600
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97501,
+                        "POS": 3
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 3
+                    },
+                    {
+                        "GSID": 90629,
+                        "MAXCOUNT": 2
+                    },
+                    {
+                        "GSID": "special.adv",
+                        "MINCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97501,
+                        "COUNT": 4
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 1600
+                    }
+                ]
+            }
+        ],
+        "tbsl": [
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97503,
+                        "POS": 1
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 1
+                    },
+                    {
+                        "GSID": 90630,
+                        "MAXCOUNT": 0
+                    },
+                    {
+                        "GSID": "special.money",
+                        "MINCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97503,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 7200000
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97503,
+                        "POS": 2
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 2
+                    },
+                    {
+                        "GSID": 90630,
+                        "MAXCOUNT": 1
+                    },
+                    {
+                        "GSID": "special.money",
+                        "MINCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97503,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 7200000
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97503,
+                        "POS": 3
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 3
+                    },
+                    {
+                        "GSID": 90630,
+                        "MAXCOUNT": 2
+                    },
+                    {
+                        "GSID": "special.money",
+                        "MINCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97503,
+                        "COUNT": 4
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 7200000
+                    }
+                ]
+            }
+        ],
+        "jyslfree": [
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97504,
+                        "POS": 1
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 1
+                    },
+                    {
+                        "GSID": 90631,
+                        "MAXCOUNT": 0
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97504,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 150000
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97504,
+                        "POS": 2
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 2
+                    },
+                    {
+                        "GSID": 90631,
+                        "MAXCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97504,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 150000
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97504,
+                        "POS": 3
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 3
+                    },
+                    {
+                        "GSID": 90631,
+                        "MAXCOUNT": 2
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97504,
+                        "COUNT": 4
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 150000
+                    }
+                ]
+            }
+        ],
+        "jjslfree": [
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97505,
+                        "POS": 1
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 1
+                    },
+                    {
+                        "GSID": 90632,
+                        "MAXCOUNT": 0
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97505,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 100
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97505,
+                        "POS": 2
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 2
+                    },
+                    {
+                        "GSID": 90632,
+                        "MAXCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97505,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 100
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97505,
+                        "POS": 3
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 3
+                    },
+                    {
+                        "GSID": 90632,
+                        "MAXCOUNT": 2
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97505,
+                        "COUNT": 4
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 100
+                    }
+                ]
+            }
+        ],
+        "tbslfree": [
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97502,
+                        "POS": 1
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 1
+                    },
+                    {
+                        "GSID": 90633,
+                        "MAXCOUNT": 0
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97502,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 300000
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97502,
+                        "POS": 2
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 2
+                    },
+                    {
+                        "GSID": 90633,
+                        "MAXCOUNT": 1
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97502,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 300000
+                    }
+                ]
+            },
+            {
+                "REQUIRE": [
+                    {
+                        "GSID": 97502,
+                        "POS": 3
+                    },
+                    {
+                        "GSID": 90652,
+                        "MINCOUNT": 3
+                    },
+                    {
+                        "GSID": 90633,
+                        "MAXCOUNT": 2
+                    }
+                ],
+                "FROM": [],
+                "TO": [
+                    {
+                        "GSID": 97502,
+                        "COUNT": 4
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 300000
+                    }
+                ]
+            }
+        ]
+    },
+    "client": {
+        "jysl": [
+            {
+                "SIGNIN": 1,
+                "GSID": 30001,
+                "COUNT": 3600000,
+                "MARK": 97500,
+                "OMARK": 90628,
+                "NUM": 0,
+                "PATH": "jijin_1",
+                "POS": 1
+            },
+            {
+                "SIGNIN": 2,
+                "GSID": 30001,
+                "COUNT": 3600000,
+                "MARK": 97500,
+                "OMARK": 90628,
+                "NUM": 1,
+                "PATH": "jijin_1",
+                "POS": 2
+            },
+            {
+                "SIGNIN": 3,
+                "GSID": 30001,
+                "COUNT": 3600000,
+                "MARK": 97500,
+                "OMARK": 90628,
+                "NUM": 2,
+                "PATH": "jijin_1",
+                "POS": 3
+            }
+        ],
+        "jjsl": [
+            {
+                "SIGNIN": 1,
+                "GSID": 30015,
+                "COUNT": 1600,
+                "MARK": 97501,
+                "OMARK": 90629,
+                "NUM": 0,
+                "PATH": "jijin_1",
+                "POS": 1
+            },
+            {
+                "SIGNIN": 2,
+                "GSID": 30015,
+                "COUNT": 1600,
+                "MARK": 97501,
+                "OMARK": 90629,
+                "NUM": 1,
+                "PATH": "jijin_1",
+                "POS": 2
+            },
+            {
+                "SIGNIN": 3,
+                "GSID": 30015,
+                "COUNT": 1600,
+                "MARK": 97501,
+                "OMARK": 90629,
+                "NUM": 2,
+                "PATH": "jijin_1",
+                "POS": 3
+            }
+        ],
+        "tbsl": [
+            {
+                "SIGNIN": 1,
+                "GSID": 38006,
+                "COUNT": 7200000,
+                "MARK": 97503,
+                "OMARK": 90630,
+                "NUM": 0,
+                "PATH": "jijin_1",
+                "POS": 1
+            },
+            {
+                "SIGNIN": 2,
+                "GSID": 38006,
+                "COUNT": 7200000,
+                "MARK": 97503,
+                "OMARK": 90630,
+                "NUM": 1,
+                "PATH": "jijin_1",
+                "POS": 2
+            },
+            {
+                "SIGNIN": 3,
+                "GSID": 38006,
+                "COUNT": 7200000,
+                "MARK": 97503,
+                "OMARK": 90630,
+                "NUM": 2,
+                "PATH": "jijin_1",
+                "POS": 3
+            }
+        ],
+        "jyslfree": [
+            {
+                "SIGNIN": 1,
+                "GSID": 30001,
+                "COUNT": 150000,
+                "MARK": 97504,
+                "OMARK": 90631,
+                "NUM": 0,
+                "PATH": "jijin_1",
+                "POS": 1
+            },
+            {
+                "SIGNIN": 2,
+                "GSID": 30001,
+                "COUNT": 150000,
+                "MARK": 97504,
+                "OMARK": 90631,
+                "NUM": 1,
+                "PATH": "jijin_1",
+                "POS": 2
+            },
+            {
+                "SIGNIN": 3,
+                "GSID": 30001,
+                "COUNT": 150000,
+                "MARK": 97504,
+                "OMARK": 90631,
+                "NUM": 2,
+                "PATH": "jijin_1",
+                "POS": 3
+            }
+        ],
+        "jjslfree": [
+            {
+                "SIGNIN": 1,
+                "GSID": 30015,
+                "COUNT": 100,
+                "MARK": 97505,
+                "OMARK": 90632,
+                "NUM": 0,
+                "PATH": "jijin_1",
+                "POS": 1
+            },
+            {
+                "SIGNIN": 2,
+                "GSID": 30015,
+                "COUNT": 100,
+                "MARK": 97505,
+                "OMARK": 90632,
+                "NUM": 1,
+                "PATH": "jijin_1",
+                "POS": 2
+            },
+            {
+                "SIGNIN": 3,
+                "GSID": 30015,
+                "COUNT": 100,
+                "MARK": 97505,
+                "OMARK": 90632,
+                "NUM": 2,
+                "PATH": "jijin_1",
+                "POS": 3
+            }
+        ],
+        "tbslfree": [
+            {
+                "SIGNIN": 1,
+                "GSID": 38006,
+                "COUNT": 300000,
+                "MARK": 97502,
+                "OMARK": 90633,
+                "NUM": 0,
+                "PATH": "jijin_1",
+                "POS": 1
+            },
+            {
+                "SIGNIN": 2,
+                "GSID": 38006,
+                "COUNT": 300000,
+                "MARK": 97502,
+                "OMARK": 90633,
+                "NUM": 1,
+                "PATH": "jijin_1",
+                "POS": 2
+            },
+            {
+                "SIGNIN": 3,
+                "GSID": 38006,
+                "COUNT": 300000,
+                "MARK": 97502,
+                "OMARK": 90633,
+                "NUM": 2,
+                "PATH": "jijin_1",
+                "POS": 3
+            }
+        ]
+    }
+}

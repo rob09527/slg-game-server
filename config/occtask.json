@@ -1,0 +1,1403 @@
+{
+    "FREE_GOOD_ITEMS": [
+        {
+            "GSID": 30001,
+            "COUNT": 75000
+        },
+        {
+            "GSID": 38006,
+            "COUNT": 150000
+        },
+        {
+            "GSID": 30015,
+            "COUNT": 100
+        },
+        {
+            "GSID": 30006,
+            "COUNT": 2
+        }
+    ],
+    "TASK": {
+        "1": {
+            "WORK": [
+                {
+                    "PMARK": 90379,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90383,
+                    "FNUM": 1,
+                    "INTRO": "单人演武挑战20次",
+                    "PAGE": "pvpentrancepage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90380,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90384,
+                    "FNUM": 1,
+                    "INTRO": "普通转盘20次",
+                    "PAGE": "lookstarpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90381,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90385,
+                    "FNUM": 1,
+                    "INTRO": "内政任务20次",
+                    "PAGE": "itnmissionpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90382,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90386,
+                    "FNUM": 1,
+                    "INTRO": "点金20次",
+                    "PAGE": "goldmidaspage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ],
+            "ALLFINISH_ITEM": {
+                "PMARK": 90387,
+                "NUM": 1,
+                "ITEMS": [
+                    {
+                        "GSID": 26001,
+                        "COUNT": 50
+                    }
+                ]
+            }
+        },
+        "2": {
+            "WORK": [
+                {
+                    "PMARK": 90379,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90383,
+                    "FNUM": 1,
+                    "INTRO": "单人演武挑战20次",
+                    "PAGE": "pvpentrancepage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90380,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90384,
+                    "FNUM": 1,
+                    "INTRO": "普通转盘20次",
+                    "PAGE": "lookstarpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90381,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90385,
+                    "FNUM": 1,
+                    "INTRO": "内政任务20次",
+                    "PAGE": "itnmissionpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90382,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90386,
+                    "FNUM": 1,
+                    "INTRO": "点金20次",
+                    "PAGE": "goldmidaspage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ],
+            "ALLFINISH_ITEM": {
+                "PMARK": 90387,
+                "NUM": 1,
+                "ITEMS": [
+                    {
+                        "GSID": 20041,
+                        "COUNT": 50
+                    }
+                ]
+            }
+        },
+        "3": {
+            "WORK": [
+                {
+                    "PMARK": 90379,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90383,
+                    "FNUM": 1,
+                    "INTRO": "单人演武挑战20次",
+                    "PAGE": "pvpentrancepage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90380,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90384,
+                    "FNUM": 1,
+                    "INTRO": "普通转盘20次",
+                    "PAGE": "lookstarpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90381,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90385,
+                    "FNUM": 1,
+                    "INTRO": "内政任务20次",
+                    "PAGE": "itnmissionpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90382,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90386,
+                    "FNUM": 1,
+                    "INTRO": "点金20次",
+                    "PAGE": "goldmidaspage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ],
+            "ALLFINISH_ITEM": {
+                "PMARK": 90387,
+                "NUM": 1,
+                "ITEMS": [
+                    {
+                        "GSID": 24081,
+                        "COUNT": 50
+                    }
+                ]
+            }
+        },
+        "4": {
+            "WORK": [
+                {
+                    "PMARK": 90379,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90383,
+                    "FNUM": 1,
+                    "INTRO": "单人演武挑战20次",
+                    "PAGE": "pvpentrancepage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90380,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90384,
+                    "FNUM": 1,
+                    "INTRO": "普通转盘20次",
+                    "PAGE": "lookstarpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90381,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90385,
+                    "FNUM": 1,
+                    "INTRO": "内政任务20次",
+                    "PAGE": "itnmissionpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90382,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90386,
+                    "FNUM": 1,
+                    "INTRO": "点金20次",
+                    "PAGE": "goldmidaspage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ],
+            "ALLFINISH_ITEM": {
+                "PMARK": 90387,
+                "NUM": 1,
+                "ITEMS": [
+                    {
+                        "GSID": 22141,
+                        "COUNT": 50
+                    }
+                ]
+            }
+        },
+        "5": {
+            "WORK": [
+                {
+                    "PMARK": 90379,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90383,
+                    "FNUM": 1,
+                    "INTRO": "单人演武挑战20次",
+                    "PAGE": "pvpentrancepage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90380,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90384,
+                    "FNUM": 1,
+                    "INTRO": "普通转盘20次",
+                    "PAGE": "lookstarpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90381,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90385,
+                    "FNUM": 1,
+                    "INTRO": "内政任务20次",
+                    "PAGE": "itnmissionpage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                {
+                    "PMARK": 90382,
+                    "NUM": 20,
+                    "LIMIT": 20,
+                    "FMARK": 90386,
+                    "FNUM": 1,
+                    "INTRO": "点金20次",
+                    "PAGE": "goldmidaspage",
+                    "ITEMS": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                }
+            ],
+            "ALLFINISH_ITEM": {
+                "PMARK": 90387,
+                "NUM": 1,
+                "ITEMS": [
+                    {
+                        "GSID": 26201,
+                        "COUNT": 50
+                    }
+                ]
+            }
+        }
+    },
+    "GIFT_PACKS": {
+        "1": {
+            "PREWARDS": [
+                24401,
+                22021,
+                30009,
+                24001,
+                26001,
+                30011,
+                30026,
+                38006,
+                22182,
+                30015,
+                30006,
+                30001,
+                26021
+            ],
+            "PACKS": [
+                {
+                    "ID": 101,
+                    "ITEMS": [
+                        {
+                            "GSID": 24401,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 22021,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30009,
+                            "COUNT": 20
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 102,
+                    "ITEMS": [
+                        {
+                            "GSID": 24001,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 26001,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 15
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 103,
+                    "ITEMS": [
+                        {
+                            "GSID": 24401,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30026,
+                            "COUNT": 10000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 20000000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 448,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 104,
+                    "ITEMS": [
+                        {
+                            "GSID": 24001,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 22182,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 328,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 105,
+                    "ITEMS": [
+                        {
+                            "GSID": 26001,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30006,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 10
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 198,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 106,
+                    "ITEMS": [
+                        {
+                            "GSID": 26001,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 22182,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 500
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 98,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 107,
+                    "ITEMS": [
+                        {
+                            "GSID": 26001,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 30001,
+                            "COUNT": 10000000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 5000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 108,
+                    "ITEMS": [
+                        {
+                            "GSID": 26021,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 22182,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 100000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 3000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 109,
+                    "ITEMS": [
+                        {
+                            "GSID": 26021,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 500000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 1500,
+                    "WEIGHT": 1
+                }
+            ]
+        },
+        "2": {
+            "PREWARDS": [
+                28121,
+                26061,
+                30009,
+                22061,
+                20041,
+                30011,
+                30026,
+                38006,
+                22202,
+                30015,
+                30006,
+                30001,
+                24021
+            ],
+            "PACKS": [
+                {
+                    "ID": 201,
+                    "ITEMS": [
+                        {
+                            "GSID": 28121,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 26061,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30009,
+                            "COUNT": 20
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 202,
+                    "ITEMS": [
+                        {
+                            "GSID": 22061,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 20041,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 15
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 203,
+                    "ITEMS": [
+                        {
+                            "GSID": 28121,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30026,
+                            "COUNT": 10000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 20000000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 448,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 204,
+                    "ITEMS": [
+                        {
+                            "GSID": 22061,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 22202,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 328,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 205,
+                    "ITEMS": [
+                        {
+                            "GSID": 20041,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30006,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 10
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 198,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 206,
+                    "ITEMS": [
+                        {
+                            "GSID": 20041,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 22202,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 500
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 98,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 207,
+                    "ITEMS": [
+                        {
+                            "GSID": 20041,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 30001,
+                            "COUNT": 10000000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 5000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 208,
+                    "ITEMS": [
+                        {
+                            "GSID": 24021,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 22202,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 100000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 3000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 209,
+                    "ITEMS": [
+                        {
+                            "GSID": 24021,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 500000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 1500,
+                    "WEIGHT": 1
+                }
+            ]
+        },
+        "3": {
+            "PREWARDS": [
+                26101,
+                20101,
+                30009,
+                20421,
+                24081,
+                30011,
+                30026,
+                38006,
+                20262,
+                30015,
+                30006,
+                30001,
+                22121
+            ],
+            "PACKS": [
+                {
+                    "ID": 301,
+                    "ITEMS": [
+                        {
+                            "GSID": 26101,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 20101,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30009,
+                            "COUNT": 20
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 302,
+                    "ITEMS": [
+                        {
+                            "GSID": 20421,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 24081,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 15
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 303,
+                    "ITEMS": [
+                        {
+                            "GSID": 26101,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30026,
+                            "COUNT": 10000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 20000000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 448,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 304,
+                    "ITEMS": [
+                        {
+                            "GSID": 20421,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 20262,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 328,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 305,
+                    "ITEMS": [
+                        {
+                            "GSID": 24081,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30006,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 10
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 198,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 306,
+                    "ITEMS": [
+                        {
+                            "GSID": 24081,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 20262,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 500
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 98,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 307,
+                    "ITEMS": [
+                        {
+                            "GSID": 24081,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 30001,
+                            "COUNT": 10000000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 5000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 308,
+                    "ITEMS": [
+                        {
+                            "GSID": 22121,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 20262,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 100000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 3000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 309,
+                    "ITEMS": [
+                        {
+                            "GSID": 22121,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 500000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 1500,
+                    "WEIGHT": 1
+                }
+            ]
+        },
+        "4": {
+            "PREWARDS": [
+                27121,
+                26161,
+                30009,
+                22381,
+                22141,
+                30011,
+                30026,
+                38006,
+                24262,
+                30015,
+                30006,
+                30001,
+                24141
+            ],
+            "PACKS": [
+                {
+                    "ID": 401,
+                    "ITEMS": [
+                        {
+                            "GSID": 27121,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 26161,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30009,
+                            "COUNT": 20
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 402,
+                    "ITEMS": [
+                        {
+                            "GSID": 22381,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 22141,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 15
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 403,
+                    "ITEMS": [
+                        {
+                            "GSID": 27121,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30026,
+                            "COUNT": 10000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 20000000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 448,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 404,
+                    "ITEMS": [
+                        {
+                            "GSID": 22381,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 24262,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 328,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 405,
+                    "ITEMS": [
+                        {
+                            "GSID": 22141,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30006,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 10
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 198,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 406,
+                    "ITEMS": [
+                        {
+                            "GSID": 22141,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 24262,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 500
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 98,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 407,
+                    "ITEMS": [
+                        {
+                            "GSID": 22141,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 30001,
+                            "COUNT": 10000000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 5000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 408,
+                    "ITEMS": [
+                        {
+                            "GSID": 24141,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 24262,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 100000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 3000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 409,
+                    "ITEMS": [
+                        {
+                            "GSID": 24141,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 500000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 1500,
+                    "WEIGHT": 1
+                }
+            ]
+        },
+        "5": {
+            "PREWARDS": [
+                26421,
+                22161,
+                30009,
+                20161,
+                26201,
+                30011,
+                30026,
+                38006,
+                20302,
+                30015,
+                30006,
+                30001,
+                26181
+            ],
+            "PACKS": [
+                {
+                    "ID": 501,
+                    "ITEMS": [
+                        {
+                            "GSID": 26421,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 22161,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30009,
+                            "COUNT": 20
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 502,
+                    "ITEMS": [
+                        {
+                            "GSID": 20161,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 26201,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 15
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 648,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 503,
+                    "ITEMS": [
+                        {
+                            "GSID": 26421,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30026,
+                            "COUNT": 10000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 20000000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 448,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 504,
+                    "ITEMS": [
+                        {
+                            "GSID": 20161,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 20302,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 5000
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 328,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 505,
+                    "ITEMS": [
+                        {
+                            "GSID": 26201,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30006,
+                            "COUNT": 10
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 10
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 198,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 506,
+                    "ITEMS": [
+                        {
+                            "GSID": 26201,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 20302,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 500
+                        }
+                    ],
+                    "TYPE": 0,
+                    "VALUE": 98,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 507,
+                    "ITEMS": [
+                        {
+                            "GSID": 26201,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 30001,
+                            "COUNT": 10000000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 5000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 508,
+                    "ITEMS": [
+                        {
+                            "GSID": 26181,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 20302,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 100000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 3000,
+                    "WEIGHT": 1
+                },
+                {
+                    "ID": 509,
+                    "ITEMS": [
+                        {
+                            "GSID": 26181,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 1000
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 500000
+                        }
+                    ],
+                    "TYPE": 1,
+                    "VALUE": 1500,
+                    "WEIGHT": 1
+                }
+            ]
+        }
+    },
+    "REFRESH": [
+        {
+            "GSID": 38005,
+            "COUNT": 0
+        },
+        {
+            "GSID": 38005,
+            "COUNT": 20
+        },
+        {
+            "GSID": 38005,
+            "COUNT": 50
+        }
+    ]
+}

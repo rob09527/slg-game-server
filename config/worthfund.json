@@ -1,0 +1,580 @@
+{
+    "LIMITHOUR": 144,
+    "GETDAY": 30,
+    "CDD": 14,
+    "MTITLE": "超值基金",
+    "MCONTENT": "请查收超值基金每日奖励",
+    "PRICE": 810,
+    "PRICE_ORG": 976,
+    "DISCOUNT": 8.3,
+    "FUND": [
+        {
+            "PRICE": 198,
+            "EXP": 1980,
+            "SPRICE": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1980
+                }
+            ],
+            "ITEMS": [
+                [
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 388
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 288
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 388
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 5
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 288
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 36001,
+                                "COUNT": 50
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 288
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 5
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 388
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 300
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 300
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 5
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 200
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 200
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 200
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 200
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 388
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 200
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 5
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 36001,
+                                "COUNT": 50
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 300
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 888
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 20
+                            }
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "PRICE": 648,
+            "EXP": 6480,
+            "SPRICE": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 6480
+                }
+            ],
+            "ITEMS": [
+                [
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 30
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 1288
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 30
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 40
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 1288
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 688
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 32125,
+                                "COUNT": 1
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 20
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 1288
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 30
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 1288
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 10
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 20
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 32125,
+                                "COUNT": 1
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 0,
+                        "REWARD": [
+                            {
+                                "GSID": 38005,
+                                "COUNT": 600
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30011,
+                                "COUNT": 30
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 32568,
+                                "COUNT": 1
+                            }
+                        ]
+                    },
+                    {
+                        "TYPE": 1,
+                        "REWARD": [
+                            {
+                                "GSID": 30006,
+                                "COUNT": 40
+                            }
+                        ]
+                    }
+                ]
+            ]
+        }
+    ]
+}

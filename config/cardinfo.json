@@ -1,0 +1,2336 @@
+{
+    "1011": {
+        "LEVEL": 1,
+        "TYPE": 1,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1012": {
+        "LEVEL": 2,
+        "TYPE": 1,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1013": {
+        "LEVEL": 3,
+        "TYPE": 1,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1021": {
+        "LEVEL": 1,
+        "TYPE": 2,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1022": {
+        "LEVEL": 2,
+        "TYPE": 2,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1023": {
+        "LEVEL": 3,
+        "TYPE": 2,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1031": {
+        "LEVEL": 1,
+        "TYPE": 3,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1032": {
+        "LEVEL": 2,
+        "TYPE": 3,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1033": {
+        "LEVEL": 3,
+        "TYPE": 3,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1041": {
+        "LEVEL": 1,
+        "TYPE": 4,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1042": {
+        "LEVEL": 2,
+        "TYPE": 4,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1043": {
+        "LEVEL": 3,
+        "TYPE": 4,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1051": {
+        "LEVEL": 1,
+        "TYPE": 5,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1052": {
+        "LEVEL": 2,
+        "TYPE": 5,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1053": {
+        "LEVEL": 3,
+        "TYPE": 5,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1061": {
+        "LEVEL": 1,
+        "TYPE": 6,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1062": {
+        "LEVEL": 2,
+        "TYPE": 6,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1063": {
+        "LEVEL": 3,
+        "TYPE": 6,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1071": {
+        "LEVEL": 1,
+        "TYPE": 7,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1072": {
+        "LEVEL": 2,
+        "TYPE": 7,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1073": {
+        "LEVEL": 3,
+        "TYPE": 7,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1081": {
+        "LEVEL": 1,
+        "TYPE": 8,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1082": {
+        "LEVEL": 2,
+        "TYPE": 8,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1083": {
+        "LEVEL": 3,
+        "TYPE": 8,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1091": {
+        "LEVEL": 1,
+        "TYPE": 9,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1092": {
+        "LEVEL": 2,
+        "TYPE": 9,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1093": {
+        "LEVEL": 3,
+        "TYPE": 9,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1101": {
+        "LEVEL": 3,
+        "TYPE": 10,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1102": {
+        "LEVEL": 3,
+        "TYPE": 10,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1103": {
+        "LEVEL": 3,
+        "TYPE": 10,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1111": {
+        "LEVEL": 3,
+        "TYPE": 10,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1112": {
+        "LEVEL": 3,
+        "TYPE": 11,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1113": {
+        "LEVEL": 3,
+        "TYPE": 11,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1121": {
+        "LEVEL": 3,
+        "TYPE": 11,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1122": {
+        "LEVEL": 3,
+        "TYPE": 11,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "1123": {
+        "LEVEL": 3,
+        "TYPE": 11,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "2171": {
+        "LEVEL": 1,
+        "TYPE": 217,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3001": {
+        "LEVEL": 1,
+        "TYPE": 301,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3002": {
+        "LEVEL": 1,
+        "TYPE": 302,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3003": {
+        "LEVEL": 1,
+        "TYPE": 303,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3004": {
+        "LEVEL": 1,
+        "TYPE": 304,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3005": {
+        "LEVEL": 1,
+        "TYPE": 305,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3006": {
+        "LEVEL": 1,
+        "TYPE": 306,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3007": {
+        "LEVEL": 1,
+        "TYPE": 307,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3008": {
+        "LEVEL": 1,
+        "TYPE": 308,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3009": {
+        "LEVEL": 1,
+        "TYPE": 309,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3010": {
+        "LEVEL": 1,
+        "TYPE": 310,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3011": {
+        "LEVEL": 1,
+        "TYPE": 311,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3012": {
+        "LEVEL": 1,
+        "TYPE": 312,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3013": {
+        "LEVEL": 1,
+        "TYPE": 313,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3014": {
+        "LEVEL": 1,
+        "TYPE": 314,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3015": {
+        "LEVEL": 1,
+        "TYPE": 315,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3016": {
+        "LEVEL": 1,
+        "TYPE": 316,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3017": {
+        "LEVEL": 1,
+        "TYPE": 317,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3018": {
+        "LEVEL": 1,
+        "TYPE": 318,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3019": {
+        "LEVEL": 1,
+        "TYPE": 319,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3020": {
+        "LEVEL": 1,
+        "TYPE": 320,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3021": {
+        "LEVEL": 1,
+        "TYPE": 321,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3022": {
+        "LEVEL": 1,
+        "TYPE": 322,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3023": {
+        "LEVEL": 1,
+        "TYPE": 323,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3024": {
+        "LEVEL": 1,
+        "TYPE": 324,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3025": {
+        "LEVEL": 1,
+        "TYPE": 325,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3026": {
+        "LEVEL": 1,
+        "TYPE": 326,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3027": {
+        "LEVEL": 1,
+        "TYPE": 327,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3028": {
+        "LEVEL": 1,
+        "TYPE": 328,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3029": {
+        "LEVEL": 1,
+        "TYPE": 329,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3030": {
+        "LEVEL": 1,
+        "TYPE": 330,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3031": {
+        "LEVEL": 1,
+        "TYPE": 331,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3032": {
+        "LEVEL": 1,
+        "TYPE": 332,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3033": {
+        "LEVEL": 1,
+        "TYPE": 333,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "3034": {
+        "LEVEL": 1,
+        "TYPE": 334,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4001": {
+        "LEVEL": 1,
+        "TYPE": 401,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4002": {
+        "LEVEL": 1,
+        "TYPE": 402,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4003": {
+        "LEVEL": 1,
+        "TYPE": 403,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4004": {
+        "LEVEL": 1,
+        "TYPE": 404,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4005": {
+        "LEVEL": 1,
+        "TYPE": 405,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4006": {
+        "LEVEL": 1,
+        "TYPE": 406,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4007": {
+        "LEVEL": 1,
+        "TYPE": 407,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4008": {
+        "LEVEL": 1,
+        "TYPE": 408,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4009": {
+        "LEVEL": 1,
+        "TYPE": 409,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4010": {
+        "LEVEL": 1,
+        "TYPE": 410,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4011": {
+        "LEVEL": 1,
+        "TYPE": 411,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4012": {
+        "LEVEL": 1,
+        "TYPE": 412,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "4013": {
+        "LEVEL": 1,
+        "TYPE": 413,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35000": {
+        "LEVEL": 1,
+        "TYPE": 57040,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35001": {
+        "LEVEL": 2,
+        "TYPE": 57041,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35002": {
+        "LEVEL": 3,
+        "TYPE": 57042,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35003": {
+        "LEVEL": 4,
+        "TYPE": 57043,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35004": {
+        "LEVEL": 5,
+        "TYPE": 57044,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35005": {
+        "LEVEL": 6,
+        "TYPE": 57045,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35006": {
+        "LEVEL": 7,
+        "TYPE": 57046,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35007": {
+        "LEVEL": 8,
+        "TYPE": 57047,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35008": {
+        "LEVEL": 9,
+        "TYPE": 57048,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35009": {
+        "LEVEL": 10,
+        "TYPE": 57049,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35010": {
+        "LEVEL": 11,
+        "TYPE": 57050,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35020": {
+        "LEVEL": 1,
+        "TYPE": 57060,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35021": {
+        "LEVEL": 2,
+        "TYPE": 57061,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35022": {
+        "LEVEL": 3,
+        "TYPE": 57062,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35023": {
+        "LEVEL": 4,
+        "TYPE": 57063,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35024": {
+        "LEVEL": 5,
+        "TYPE": 57064,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35025": {
+        "LEVEL": 6,
+        "TYPE": 57065,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35026": {
+        "LEVEL": 7,
+        "TYPE": 57066,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35027": {
+        "LEVEL": 8,
+        "TYPE": 57067,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35028": {
+        "LEVEL": 9,
+        "TYPE": 57068,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35029": {
+        "LEVEL": 10,
+        "TYPE": 57069,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35030": {
+        "LEVEL": 11,
+        "TYPE": 57070,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35040": {
+        "LEVEL": 1,
+        "TYPE": 57080,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35041": {
+        "LEVEL": 2,
+        "TYPE": 57081,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35042": {
+        "LEVEL": 3,
+        "TYPE": 57082,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35043": {
+        "LEVEL": 4,
+        "TYPE": 57083,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35044": {
+        "LEVEL": 5,
+        "TYPE": 57084,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35045": {
+        "LEVEL": 6,
+        "TYPE": 57085,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35046": {
+        "LEVEL": 7,
+        "TYPE": 57086,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35047": {
+        "LEVEL": 8,
+        "TYPE": 57087,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35048": {
+        "LEVEL": 9,
+        "TYPE": 57088,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35049": {
+        "LEVEL": 10,
+        "TYPE": 57089,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35050": {
+        "LEVEL": 11,
+        "TYPE": 57090,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35060": {
+        "LEVEL": 1,
+        "TYPE": 57100,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35061": {
+        "LEVEL": 2,
+        "TYPE": 57101,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35062": {
+        "LEVEL": 3,
+        "TYPE": 57102,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35063": {
+        "LEVEL": 4,
+        "TYPE": 57103,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35064": {
+        "LEVEL": 5,
+        "TYPE": 57104,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35065": {
+        "LEVEL": 6,
+        "TYPE": 57105,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35066": {
+        "LEVEL": 7,
+        "TYPE": 57106,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35067": {
+        "LEVEL": 8,
+        "TYPE": 57107,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35068": {
+        "LEVEL": 9,
+        "TYPE": 57108,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35069": {
+        "LEVEL": 10,
+        "TYPE": 57109,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35070": {
+        "LEVEL": 11,
+        "TYPE": 57110,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35080": {
+        "LEVEL": 1,
+        "TYPE": 57120,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35081": {
+        "LEVEL": 2,
+        "TYPE": 57121,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35082": {
+        "LEVEL": 3,
+        "TYPE": 57122,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35083": {
+        "LEVEL": 4,
+        "TYPE": 57123,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35084": {
+        "LEVEL": 5,
+        "TYPE": 57124,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35085": {
+        "LEVEL": 6,
+        "TYPE": 57125,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35086": {
+        "LEVEL": 7,
+        "TYPE": 57126,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35087": {
+        "LEVEL": 8,
+        "TYPE": 57127,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35088": {
+        "LEVEL": 9,
+        "TYPE": 57128,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35089": {
+        "LEVEL": 10,
+        "TYPE": 57129,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35090": {
+        "LEVEL": 11,
+        "TYPE": 57130,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35100": {
+        "LEVEL": 1,
+        "TYPE": 57140,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35101": {
+        "LEVEL": 2,
+        "TYPE": 57141,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35102": {
+        "LEVEL": 3,
+        "TYPE": 57142,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35103": {
+        "LEVEL": 4,
+        "TYPE": 57143,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35104": {
+        "LEVEL": 5,
+        "TYPE": 57144,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35105": {
+        "LEVEL": 6,
+        "TYPE": 57145,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35106": {
+        "LEVEL": 7,
+        "TYPE": 57146,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35107": {
+        "LEVEL": 8,
+        "TYPE": 57147,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35108": {
+        "LEVEL": 9,
+        "TYPE": 57148,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35109": {
+        "LEVEL": 10,
+        "TYPE": 57149,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35110": {
+        "LEVEL": 11,
+        "TYPE": 57150,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35120": {
+        "LEVEL": 1,
+        "TYPE": 57160,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35121": {
+        "LEVEL": 2,
+        "TYPE": 57161,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35122": {
+        "LEVEL": 3,
+        "TYPE": 57162,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35123": {
+        "LEVEL": 4,
+        "TYPE": 57163,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35124": {
+        "LEVEL": 5,
+        "TYPE": 57164,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35125": {
+        "LEVEL": 6,
+        "TYPE": 57165,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35126": {
+        "LEVEL": 7,
+        "TYPE": 57166,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35127": {
+        "LEVEL": 8,
+        "TYPE": 57167,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35128": {
+        "LEVEL": 9,
+        "TYPE": 57168,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35129": {
+        "LEVEL": 10,
+        "TYPE": 57169,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35130": {
+        "LEVEL": 11,
+        "TYPE": 57170,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35140": {
+        "LEVEL": 1,
+        "TYPE": 57180,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35141": {
+        "LEVEL": 2,
+        "TYPE": 57181,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35142": {
+        "LEVEL": 3,
+        "TYPE": 57182,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35143": {
+        "LEVEL": 4,
+        "TYPE": 57183,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35144": {
+        "LEVEL": 5,
+        "TYPE": 57184,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35145": {
+        "LEVEL": 6,
+        "TYPE": 57185,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35146": {
+        "LEVEL": 7,
+        "TYPE": 57186,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35147": {
+        "LEVEL": 8,
+        "TYPE": 57187,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35148": {
+        "LEVEL": 9,
+        "TYPE": 57188,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35149": {
+        "LEVEL": 10,
+        "TYPE": 57189,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35150": {
+        "LEVEL": 11,
+        "TYPE": 57190,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35160": {
+        "LEVEL": 1,
+        "TYPE": 57200,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35161": {
+        "LEVEL": 2,
+        "TYPE": 57201,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35162": {
+        "LEVEL": 3,
+        "TYPE": 57202,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35163": {
+        "LEVEL": 4,
+        "TYPE": 57203,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35164": {
+        "LEVEL": 5,
+        "TYPE": 57204,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35165": {
+        "LEVEL": 6,
+        "TYPE": 57205,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35166": {
+        "LEVEL": 7,
+        "TYPE": 57206,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35167": {
+        "LEVEL": 8,
+        "TYPE": 57207,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35168": {
+        "LEVEL": 9,
+        "TYPE": 57208,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35169": {
+        "LEVEL": 10,
+        "TYPE": 57209,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35170": {
+        "LEVEL": 11,
+        "TYPE": 57210,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35180": {
+        "LEVEL": 1,
+        "TYPE": 57220,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35181": {
+        "LEVEL": 2,
+        "TYPE": 57221,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35182": {
+        "LEVEL": 3,
+        "TYPE": 57222,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35183": {
+        "LEVEL": 4,
+        "TYPE": 57223,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35184": {
+        "LEVEL": 5,
+        "TYPE": 57224,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35185": {
+        "LEVEL": 6,
+        "TYPE": 57225,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35186": {
+        "LEVEL": 7,
+        "TYPE": 57226,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35187": {
+        "LEVEL": 8,
+        "TYPE": 57227,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35188": {
+        "LEVEL": 9,
+        "TYPE": 57228,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35189": {
+        "LEVEL": 10,
+        "TYPE": 57229,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35190": {
+        "LEVEL": 11,
+        "TYPE": 57230,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35200": {
+        "LEVEL": 1,
+        "TYPE": 57240,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35201": {
+        "LEVEL": 2,
+        "TYPE": 57241,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35202": {
+        "LEVEL": 3,
+        "TYPE": 57242,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35203": {
+        "LEVEL": 4,
+        "TYPE": 57243,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35204": {
+        "LEVEL": 5,
+        "TYPE": 57244,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35205": {
+        "LEVEL": 6,
+        "TYPE": 57245,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35206": {
+        "LEVEL": 7,
+        "TYPE": 57246,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35207": {
+        "LEVEL": 8,
+        "TYPE": 57247,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35208": {
+        "LEVEL": 9,
+        "TYPE": 57248,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35209": {
+        "LEVEL": 10,
+        "TYPE": 57249,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35210": {
+        "LEVEL": 11,
+        "TYPE": 57250,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35220": {
+        "LEVEL": 1,
+        "TYPE": 57260,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35221": {
+        "LEVEL": 2,
+        "TYPE": 57261,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35222": {
+        "LEVEL": 3,
+        "TYPE": 57262,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35223": {
+        "LEVEL": 4,
+        "TYPE": 57263,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35224": {
+        "LEVEL": 5,
+        "TYPE": 57264,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35225": {
+        "LEVEL": 6,
+        "TYPE": 57265,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35226": {
+        "LEVEL": 7,
+        "TYPE": 57266,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35227": {
+        "LEVEL": 8,
+        "TYPE": 57267,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35228": {
+        "LEVEL": 9,
+        "TYPE": 57268,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35229": {
+        "LEVEL": 10,
+        "TYPE": 57269,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35230": {
+        "LEVEL": 11,
+        "TYPE": 57270,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35240": {
+        "LEVEL": 1,
+        "TYPE": 57280,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35241": {
+        "LEVEL": 2,
+        "TYPE": 57281,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35242": {
+        "LEVEL": 3,
+        "TYPE": 57282,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35243": {
+        "LEVEL": 4,
+        "TYPE": 57283,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35244": {
+        "LEVEL": 5,
+        "TYPE": 57284,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35245": {
+        "LEVEL": 6,
+        "TYPE": 57285,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35246": {
+        "LEVEL": 7,
+        "TYPE": 57286,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35247": {
+        "LEVEL": 8,
+        "TYPE": 57287,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35248": {
+        "LEVEL": 9,
+        "TYPE": 57288,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35249": {
+        "LEVEL": 10,
+        "TYPE": 57289,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35250": {
+        "LEVEL": 11,
+        "TYPE": 57290,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35260": {
+        "LEVEL": 1,
+        "TYPE": 57300,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35261": {
+        "LEVEL": 2,
+        "TYPE": 57301,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35262": {
+        "LEVEL": 3,
+        "TYPE": 57302,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35263": {
+        "LEVEL": 4,
+        "TYPE": 57303,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35264": {
+        "LEVEL": 5,
+        "TYPE": 57304,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35265": {
+        "LEVEL": 6,
+        "TYPE": 57305,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35266": {
+        "LEVEL": 7,
+        "TYPE": 57306,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35267": {
+        "LEVEL": 8,
+        "TYPE": 57307,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35268": {
+        "LEVEL": 9,
+        "TYPE": 57308,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35269": {
+        "LEVEL": 10,
+        "TYPE": 57309,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35270": {
+        "LEVEL": 11,
+        "TYPE": 57310,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35280": {
+        "LEVEL": 1,
+        "TYPE": 57320,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35281": {
+        "LEVEL": 2,
+        "TYPE": 57321,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35282": {
+        "LEVEL": 3,
+        "TYPE": 57322,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35283": {
+        "LEVEL": 4,
+        "TYPE": 57323,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35284": {
+        "LEVEL": 5,
+        "TYPE": 57324,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35285": {
+        "LEVEL": 6,
+        "TYPE": 57325,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35286": {
+        "LEVEL": 7,
+        "TYPE": 57326,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35287": {
+        "LEVEL": 8,
+        "TYPE": 57327,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35288": {
+        "LEVEL": 9,
+        "TYPE": 57328,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35289": {
+        "LEVEL": 10,
+        "TYPE": 57329,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35290": {
+        "LEVEL": 11,
+        "TYPE": 57330,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35300": {
+        "LEVEL": 1,
+        "TYPE": 57340,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35301": {
+        "LEVEL": 2,
+        "TYPE": 57341,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35302": {
+        "LEVEL": 3,
+        "TYPE": 57342,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35303": {
+        "LEVEL": 4,
+        "TYPE": 57343,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35304": {
+        "LEVEL": 5,
+        "TYPE": 57344,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35305": {
+        "LEVEL": 6,
+        "TYPE": 57345,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35306": {
+        "LEVEL": 7,
+        "TYPE": 57346,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35307": {
+        "LEVEL": 8,
+        "TYPE": 57347,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35308": {
+        "LEVEL": 9,
+        "TYPE": 57348,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35309": {
+        "LEVEL": 10,
+        "TYPE": 57349,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35310": {
+        "LEVEL": 11,
+        "TYPE": 57350,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35320": {
+        "LEVEL": 1,
+        "TYPE": 57360,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35321": {
+        "LEVEL": 2,
+        "TYPE": 57361,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35322": {
+        "LEVEL": 3,
+        "TYPE": 57362,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35323": {
+        "LEVEL": 4,
+        "TYPE": 57363,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35324": {
+        "LEVEL": 5,
+        "TYPE": 57364,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35325": {
+        "LEVEL": 6,
+        "TYPE": 57365,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35326": {
+        "LEVEL": 7,
+        "TYPE": 57366,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35327": {
+        "LEVEL": 8,
+        "TYPE": 57367,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35328": {
+        "LEVEL": 9,
+        "TYPE": 57368,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35329": {
+        "LEVEL": 10,
+        "TYPE": 57369,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35330": {
+        "LEVEL": 11,
+        "TYPE": 57370,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35340": {
+        "LEVEL": 1,
+        "TYPE": 57380,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35341": {
+        "LEVEL": 2,
+        "TYPE": 57381,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35342": {
+        "LEVEL": 3,
+        "TYPE": 57382,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35343": {
+        "LEVEL": 4,
+        "TYPE": 57383,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35344": {
+        "LEVEL": 5,
+        "TYPE": 57384,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35345": {
+        "LEVEL": 6,
+        "TYPE": 57385,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35346": {
+        "LEVEL": 7,
+        "TYPE": 57386,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35347": {
+        "LEVEL": 8,
+        "TYPE": 57387,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35348": {
+        "LEVEL": 9,
+        "TYPE": 57388,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35349": {
+        "LEVEL": 10,
+        "TYPE": 57389,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35350": {
+        "LEVEL": 11,
+        "TYPE": 57390,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35360": {
+        "LEVEL": 1,
+        "TYPE": 57400,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35361": {
+        "LEVEL": 2,
+        "TYPE": 57401,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35362": {
+        "LEVEL": 3,
+        "TYPE": 57402,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35363": {
+        "LEVEL": 4,
+        "TYPE": 57403,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35364": {
+        "LEVEL": 5,
+        "TYPE": 57404,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35365": {
+        "LEVEL": 6,
+        "TYPE": 57405,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35366": {
+        "LEVEL": 7,
+        "TYPE": 57406,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35367": {
+        "LEVEL": 8,
+        "TYPE": 57407,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35368": {
+        "LEVEL": 9,
+        "TYPE": 57408,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35369": {
+        "LEVEL": 10,
+        "TYPE": 57409,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35370": {
+        "LEVEL": 11,
+        "TYPE": 57410,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35380": {
+        "LEVEL": 1,
+        "TYPE": 57420,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35381": {
+        "LEVEL": 2,
+        "TYPE": 57421,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35382": {
+        "LEVEL": 3,
+        "TYPE": 57422,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35383": {
+        "LEVEL": 4,
+        "TYPE": 57423,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35384": {
+        "LEVEL": 5,
+        "TYPE": 57424,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35385": {
+        "LEVEL": 6,
+        "TYPE": 57425,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35386": {
+        "LEVEL": 7,
+        "TYPE": 57426,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35387": {
+        "LEVEL": 8,
+        "TYPE": 57427,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35388": {
+        "LEVEL": 9,
+        "TYPE": 57428,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35389": {
+        "LEVEL": 10,
+        "TYPE": 57429,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35390": {
+        "LEVEL": 11,
+        "TYPE": 57430,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35400": {
+        "LEVEL": 1,
+        "TYPE": 57440,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35401": {
+        "LEVEL": 2,
+        "TYPE": 57441,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35402": {
+        "LEVEL": 3,
+        "TYPE": 57442,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35403": {
+        "LEVEL": 4,
+        "TYPE": 57443,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35404": {
+        "LEVEL": 5,
+        "TYPE": 57444,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35405": {
+        "LEVEL": 6,
+        "TYPE": 57445,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35406": {
+        "LEVEL": 7,
+        "TYPE": 57446,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35407": {
+        "LEVEL": 8,
+        "TYPE": 57447,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35408": {
+        "LEVEL": 9,
+        "TYPE": 57448,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35409": {
+        "LEVEL": 10,
+        "TYPE": 57449,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35410": {
+        "LEVEL": 11,
+        "TYPE": 57450,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35420": {
+        "LEVEL": 1,
+        "TYPE": 57460,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35421": {
+        "LEVEL": 2,
+        "TYPE": 57461,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35422": {
+        "LEVEL": 3,
+        "TYPE": 57462,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35423": {
+        "LEVEL": 4,
+        "TYPE": 57463,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35424": {
+        "LEVEL": 5,
+        "TYPE": 57464,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35425": {
+        "LEVEL": 6,
+        "TYPE": 57465,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35426": {
+        "LEVEL": 7,
+        "TYPE": 57466,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35427": {
+        "LEVEL": 8,
+        "TYPE": 57467,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35428": {
+        "LEVEL": 9,
+        "TYPE": 57468,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35429": {
+        "LEVEL": 10,
+        "TYPE": 57469,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35430": {
+        "LEVEL": 11,
+        "TYPE": 57470,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35440": {
+        "LEVEL": 1,
+        "TYPE": 57480,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35441": {
+        "LEVEL": 2,
+        "TYPE": 57481,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35442": {
+        "LEVEL": 3,
+        "TYPE": 57482,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35443": {
+        "LEVEL": 4,
+        "TYPE": 57483,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35444": {
+        "LEVEL": 5,
+        "TYPE": 57484,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35445": {
+        "LEVEL": 6,
+        "TYPE": 57485,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35446": {
+        "LEVEL": 7,
+        "TYPE": 57486,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35447": {
+        "LEVEL": 8,
+        "TYPE": 57487,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35448": {
+        "LEVEL": 9,
+        "TYPE": 57488,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35449": {
+        "LEVEL": 10,
+        "TYPE": 57489,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35450": {
+        "LEVEL": 11,
+        "TYPE": 57490,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35460": {
+        "LEVEL": 1,
+        "TYPE": 57500,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35461": {
+        "LEVEL": 2,
+        "TYPE": 57501,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35462": {
+        "LEVEL": 3,
+        "TYPE": 57502,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35463": {
+        "LEVEL": 4,
+        "TYPE": 57503,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35464": {
+        "LEVEL": 5,
+        "TYPE": 57504,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35465": {
+        "LEVEL": 6,
+        "TYPE": 57505,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35466": {
+        "LEVEL": 7,
+        "TYPE": 57506,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35467": {
+        "LEVEL": 8,
+        "TYPE": 57507,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35468": {
+        "LEVEL": 9,
+        "TYPE": 57508,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35469": {
+        "LEVEL": 10,
+        "TYPE": 57509,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35470": {
+        "LEVEL": 11,
+        "TYPE": 57510,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35480": {
+        "LEVEL": 1,
+        "TYPE": 57520,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35481": {
+        "LEVEL": 2,
+        "TYPE": 57521,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35482": {
+        "LEVEL": 3,
+        "TYPE": 57522,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35483": {
+        "LEVEL": 4,
+        "TYPE": 57523,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35484": {
+        "LEVEL": 5,
+        "TYPE": 57524,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35485": {
+        "LEVEL": 6,
+        "TYPE": 57525,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35486": {
+        "LEVEL": 7,
+        "TYPE": 57526,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35487": {
+        "LEVEL": 8,
+        "TYPE": 57527,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35488": {
+        "LEVEL": 9,
+        "TYPE": 57528,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35489": {
+        "LEVEL": 10,
+        "TYPE": 57529,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "35490": {
+        "LEVEL": 11,
+        "TYPE": 57530,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61000": {
+        "LEVEL": 1,
+        "TYPE": 61000,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61001": {
+        "LEVEL": 1,
+        "TYPE": 61001,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61002": {
+        "LEVEL": 1,
+        "TYPE": 61002,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61003": {
+        "LEVEL": 1,
+        "TYPE": 61003,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61004": {
+        "LEVEL": 1,
+        "TYPE": 61004,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61005": {
+        "LEVEL": 1,
+        "TYPE": 61005,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61006": {
+        "LEVEL": 1,
+        "TYPE": 61006,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61007": {
+        "LEVEL": 1,
+        "TYPE": 61007,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61008": {
+        "LEVEL": 1,
+        "TYPE": 61008,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61009": {
+        "LEVEL": 1,
+        "TYPE": 61009,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61010": {
+        "LEVEL": 1,
+        "TYPE": 61010,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61011": {
+        "LEVEL": 1,
+        "TYPE": 61011,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61012": {
+        "LEVEL": 1,
+        "TYPE": 61012,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61013": {
+        "LEVEL": 1,
+        "TYPE": 61013,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61014": {
+        "LEVEL": 1,
+        "TYPE": 61014,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61015": {
+        "LEVEL": 1,
+        "TYPE": 61015,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61016": {
+        "LEVEL": 1,
+        "TYPE": 61016,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61017": {
+        "LEVEL": 1,
+        "TYPE": 61017,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61018": {
+        "LEVEL": 1,
+        "TYPE": 61018,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61019": {
+        "LEVEL": 1,
+        "TYPE": 61019,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61020": {
+        "LEVEL": 1,
+        "TYPE": 61020,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61021": {
+        "LEVEL": 1,
+        "TYPE": 61021,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61022": {
+        "LEVEL": 1,
+        "TYPE": 61022,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61023": {
+        "LEVEL": 1,
+        "TYPE": 61023,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61024": {
+        "LEVEL": 1,
+        "TYPE": 61024,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61025": {
+        "LEVEL": 1,
+        "TYPE": 61025,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61026": {
+        "LEVEL": 1,
+        "TYPE": 61026,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61027": {
+        "LEVEL": 1,
+        "TYPE": 61027,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61028": {
+        "LEVEL": 1,
+        "TYPE": 61028,
+        "DTYPE": [],
+        "CTYPE": []
+    },
+    "61029": {
+        "LEVEL": 1,
+        "TYPE": 61029,
+        "DTYPE": [],
+        "CTYPE": []
+    }
+}

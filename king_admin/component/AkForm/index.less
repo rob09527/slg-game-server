@@ -1,0 +1,66 @@
+@error-color: #f5222d;
+.ak-form {
+  .ak-form-dividing {
+    width: 100%;
+    height: 1px;
+    margin-top: 10px;
+    margin-bottom: 16px;
+    background-color: #dfdfdf;
+  }
+  .ak-form-item {
+    margin: 4px 4px 8px 4px;
+    display: flex;
+    align-items: center;
+    position: relative;
+
+    .ak-form-ipt {
+      flex: 7;
+      .ak-form-error{
+        border: 1px solid @error-color;
+      }
+      .ak-form-require {
+        color: @error-color;
+        text-align: justify;
+        transition: opacity .3s;
+        font-size: 12px;
+        display: inline-block;
+        .ak-form-require-icon{
+          margin-right: 6px;
+        }
+      }
+
+    }
+
+    .ak-form-name {
+      text-align-last: justify;
+      text-align: justify;
+      text-justify: distribute-all-lines; // 这行必加，兼容ie浏览器
+      width: 80px;
+      display: inline-block;
+      margin-right: 12px;
+      .ak-form-describe {
+        color: darkgray;
+        text-align: justify;
+        font-size: 12px;
+        display: inline-block;
+        text-justify: distribute-all-lines; // 这行必加，兼容ie浏览器
+        margin-right: 12px;
+        margin-top: 13px;
+        width: 80px; // 和 ak-form-name 一样
+      }
+    }
+  }
+
+
+  .ak-form-footer {
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 12px;
+
+    .ak-form-button {
+      margin-left: 8px;
+    }
+  }
+
+}

@@ -1,0 +1,39 @@
+{
+  "name": "king_game",
+  "version": "0.0.1",
+  "description": "king backend project",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start-dev": "cross-env NODE_ENV=development nodemon index.js ./config.local.json",
+    "start": "node index.js ./config.default.json",
+    "88": "node --inspect index.js ./config.88.json",
+    "87": "node --inspect index.js ./config.87.json",
+    "149": "node --inspect index.js ./config.149.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:SAAPCOCO/king_game.git"
+  },
+  "author": "king",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.7.2",
+    "eslint-plugin-node": "^11.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mongoose": "5.9.9",
+    "ms": "^2.1.3",
+    "redis": "^3.1.2",
+    "rx-apiwheel": "^1.6.3",
+    "urllib": "^2.37.1",
+    "uuid": "^8.3.2",
+    "ws": "^7.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.0.2",
+    "cross-env": "^7.0.3",
+    "debug": "^4.3.2",
+    "eslint": "^7.32.0"
+  }
+}

@@ -1,0 +1,290 @@
+{
+    "LIST": [
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 5
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1250
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30009,
+                    "COUNT": 5
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2500
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2000
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 300
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 300
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30065,
+                    "COUNT": 10
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30066,
+                    "COUNT": 5
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30067,
+                    "COUNT": 1
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 200
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 32118,
+                    "COUNT": 1
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1800
+                }
+            ],
+            "LIMIT": 1,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 32117,
+                    "COUNT": 1
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 400
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30071,
+                    "COUNT": 1
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 400
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": 1
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 32568,
+                    "COUNT": 1
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 15000
+                }
+            ],
+            "LIMIT": 1,
+            "REFRESH": "finish"
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30068,
+                    "COUNT": 1
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3000
+                }
+            ],
+            "LIMIT": 1,
+            "REFRESH": "finish"
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30072,
+                    "COUNT": 1
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3000
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": "finish"
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30090,
+                    "COUNT": 1
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3000
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": "finish"
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30094,
+                    "COUNT": 1500
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 7500
+                }
+            ],
+            "LIMIT": 1,
+            "REFRESH": "finish"
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 30093,
+                    "COUNT": 1
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 3000
+                }
+            ],
+            "LIMIT": 2,
+            "REFRESH": "finish"
+        },
+        {
+            "ITEMS": [
+                {
+                    "GSID": 37008,
+                    "COUNT": 10
+                }
+            ],
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 2500
+                }
+            ],
+            "LIMIT": 5,
+            "REFRESH": "finish"
+        }
+    ],
+    "DISCOUNT": [
+        [
+            9999,
+            5500
+        ],
+        [
+            4999,
+            2500
+        ],
+        [
+            1999,
+            800
+        ]
+    ]
+}

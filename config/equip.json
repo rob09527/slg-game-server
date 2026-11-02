@@ -1,0 +1,1748 @@
+{
+    "33001": {
+        "POS": 1,
+        "PRICE": 100,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 70
+            }
+        ],
+        "SP": [],
+        "QUALITY": 1,
+        "STAR": 1,
+        "EXP": 1,
+        "NEXT": {
+            "EXP": 2,
+            "ID": 33002,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 800
+                }
+            ]
+        }
+    },
+    "33002": {
+        "POS": 1,
+        "PRICE": 200,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 100
+            }
+        ],
+        "SP": [],
+        "QUALITY": 2,
+        "STAR": 1,
+        "EXP": 3,
+        "NEXT": {
+            "EXP": 6,
+            "ID": 33003,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1600
+                }
+            ]
+        }
+    },
+    "33003": {
+        "POS": 1,
+        "PRICE": 500,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 150
+            }
+        ],
+        "SP": [],
+        "QUALITY": 3,
+        "STAR": 1,
+        "EXP": 9,
+        "NEXT": {
+            "EXP": 18,
+            "ID": 33004,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 4000
+                }
+            ]
+        }
+    },
+    "33004": {
+        "POS": 1,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 200
+            }
+        ],
+        "SP": [],
+        "QUALITY": 3,
+        "STAR": 2,
+        "EXP": 27,
+        "NEXT": {
+            "EXP": 54,
+            "ID": 33005,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 8000
+                }
+            ]
+        }
+    },
+    "33005": {
+        "POS": 1,
+        "PRICE": 2500,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 350
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 1,
+        "EXP": 81,
+        "NEXT": {
+            "EXP": 162,
+            "ID": 33006,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 16000
+                }
+            ]
+        }
+    },
+    "33006": {
+        "POS": 1,
+        "PRICE": 5000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 450
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 2,
+        "EXP": 243,
+        "NEXT": {
+            "EXP": 486,
+            "ID": 33007,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 28000
+                }
+            ]
+        }
+    },
+    "33007": {
+        "POS": 1,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 550
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 3,
+        "EXP": 729,
+        "NEXT": {
+            "EXP": 1458,
+            "ID": 33008,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000
+                }
+            ]
+        }
+    },
+    "33008": {
+        "POS": 1,
+        "PRICE": 15000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 850
+            }
+        ],
+        "SP": [],
+        "SETID": 101,
+        "QUALITY": 5,
+        "STAR": 1,
+        "EXP": 2187,
+        "NEXT": {
+            "EXP": 4374,
+            "ID": 33009,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 160000
+                }
+            ]
+        }
+    },
+    "33009": {
+        "POS": 1,
+        "PRICE": 20000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1100
+            }
+        ],
+        "SP": [],
+        "SETID": 102,
+        "QUALITY": 5,
+        "STAR": 2,
+        "EXP": 6561,
+        "NEXT": {
+            "EXP": 13122,
+            "ID": 33010,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 320000
+                }
+            ]
+        }
+    },
+    "33010": {
+        "POS": 1,
+        "PRICE": 30000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1300
+            }
+        ],
+        "SP": [],
+        "SETID": 103,
+        "QUALITY": 5,
+        "STAR": 3,
+        "EXP": 19683,
+        "NEXT": {
+            "EXP": 39366,
+            "ID": 33011,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 480000
+                }
+            ]
+        }
+    },
+    "33011": {
+        "POS": 1,
+        "PRICE": 40000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1500
+            }
+        ],
+        "SP": [],
+        "SETID": 104,
+        "QUALITY": 5,
+        "STAR": 4,
+        "EXP": 59049,
+        "NEXT": {
+            "EXP": 118098,
+            "ID": 33012,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 640000
+                }
+            ]
+        }
+    },
+    "33012": {
+        "POS": 1,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 20
+            }
+        ],
+        "SP": [],
+        "SETID": 105,
+        "QUALITY": 6,
+        "STAR": 1,
+        "EXP": 177147,
+        "NEXT": {
+            "EXP": 354294,
+            "ID": 33013,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 800000
+                }
+            ]
+        }
+    },
+    "33013": {
+        "POS": 1,
+        "PRICE": 60000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2500
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 40
+            }
+        ],
+        "SP": [],
+        "SETID": 106,
+        "QUALITY": 6,
+        "STAR": 2,
+        "EXP": 531441,
+        "NEXT": {
+            "EXP": 1062882,
+            "ID": 33014,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 960000
+                }
+            ]
+        }
+    },
+    "33014": {
+        "POS": 1,
+        "PRICE": 70000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 3000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 50
+            }
+        ],
+        "SP": [],
+        "SETID": 107,
+        "QUALITY": 6,
+        "STAR": 3,
+        "EXP": 1594323,
+        "NEXT": {
+            "EXP": 3188646,
+            "ID": 33015,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1120000
+                }
+            ]
+        }
+    },
+    "33015": {
+        "POS": 1,
+        "PRICE": 80000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 3500
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 60
+            }
+        ],
+        "SP": [],
+        "SETID": 108,
+        "QUALITY": 6,
+        "STAR": 4,
+        "EXP": 4782969,
+        "NEXT": {
+            "EXP": 9565938,
+            "ID": 33016,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1600000
+                }
+            ]
+        }
+    },
+    "33016": {
+        "POS": 1,
+        "PRICE": 90000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 6000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 70
+            }
+        ],
+        "SP": [],
+        "SETID": 109,
+        "QUALITY": 6,
+        "STAR": 5,
+        "EXP": 14348907,
+        "NEXT": {
+            "EXP": 28697814,
+            "ID": 33017,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 2000000
+                }
+            ]
+        }
+    },
+    "33017": {
+        "POS": 1,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 8000
+            },
+            {
+                "KEY": "PSKIDAM",
+                "VAL": 80
+            }
+        ],
+        "SP": [],
+        "SETID": 110,
+        "QUALITY": 6,
+        "STAR": 6,
+        "EXP": 43046721
+    },
+    "33101": {
+        "POS": 2,
+        "PRICE": 100,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 400
+            }
+        ],
+        "SP": [],
+        "QUALITY": 1,
+        "STAR": 1,
+        "EXP": 1,
+        "NEXT": {
+            "EXP": 2,
+            "ID": 33102,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 800
+                }
+            ]
+        }
+    },
+    "33102": {
+        "POS": 2,
+        "PRICE": 200,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 600
+            }
+        ],
+        "SP": [],
+        "QUALITY": 2,
+        "STAR": 1,
+        "EXP": 3,
+        "NEXT": {
+            "EXP": 6,
+            "ID": 33103,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1600
+                }
+            ]
+        }
+    },
+    "33103": {
+        "POS": 2,
+        "PRICE": 500,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 1000
+            }
+        ],
+        "SP": [],
+        "QUALITY": 3,
+        "STAR": 1,
+        "EXP": 9,
+        "NEXT": {
+            "EXP": 18,
+            "ID": 33104,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 4000
+                }
+            ]
+        }
+    },
+    "33104": {
+        "POS": 2,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 1500
+            }
+        ],
+        "SP": [],
+        "QUALITY": 3,
+        "STAR": 2,
+        "EXP": 27,
+        "NEXT": {
+            "EXP": 54,
+            "ID": 33105,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 8000
+                }
+            ]
+        }
+    },
+    "33105": {
+        "POS": 2,
+        "PRICE": 2500,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 2500
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 1,
+        "EXP": 81,
+        "NEXT": {
+            "EXP": 162,
+            "ID": 33106,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 16000
+                }
+            ]
+        }
+    },
+    "33106": {
+        "POS": 2,
+        "PRICE": 5000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 3300
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 2,
+        "EXP": 243,
+        "NEXT": {
+            "EXP": 486,
+            "ID": 33107,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 28000
+                }
+            ]
+        }
+    },
+    "33107": {
+        "POS": 2,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 4500
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 3,
+        "EXP": 729,
+        "NEXT": {
+            "EXP": 1458,
+            "ID": 33108,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000
+                }
+            ]
+        }
+    },
+    "33108": {
+        "POS": 2,
+        "PRICE": 15000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 7500
+            }
+        ],
+        "SP": [],
+        "SETID": 101,
+        "QUALITY": 5,
+        "STAR": 1,
+        "EXP": 2187,
+        "NEXT": {
+            "EXP": 4374,
+            "ID": 33109,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 160000
+                }
+            ]
+        }
+    },
+    "33109": {
+        "POS": 2,
+        "PRICE": 20000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 10000
+            }
+        ],
+        "SP": [],
+        "SETID": 102,
+        "QUALITY": 5,
+        "STAR": 2,
+        "EXP": 6561,
+        "NEXT": {
+            "EXP": 13122,
+            "ID": 33110,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 320000
+                }
+            ]
+        }
+    },
+    "33110": {
+        "POS": 2,
+        "PRICE": 30000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 12000
+            }
+        ],
+        "SP": [],
+        "SETID": 103,
+        "QUALITY": 5,
+        "STAR": 3,
+        "EXP": 19683,
+        "NEXT": {
+            "EXP": 39366,
+            "ID": 33111,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 480000
+                }
+            ]
+        }
+    },
+    "33111": {
+        "POS": 2,
+        "PRICE": 40000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 15000
+            }
+        ],
+        "SP": [],
+        "SETID": 104,
+        "QUALITY": 5,
+        "STAR": 4,
+        "EXP": 59049,
+        "NEXT": {
+            "EXP": 118098,
+            "ID": 33112,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 640000
+                }
+            ]
+        }
+    },
+    "33112": {
+        "POS": 2,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 20000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 20
+            }
+        ],
+        "SP": [],
+        "SETID": 105,
+        "QUALITY": 6,
+        "STAR": 1,
+        "EXP": 177147,
+        "NEXT": {
+            "EXP": 354294,
+            "ID": 33113,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 800000
+                }
+            ]
+        }
+    },
+    "33113": {
+        "POS": 2,
+        "PRICE": 60000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 25000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 40
+            }
+        ],
+        "SP": [],
+        "SETID": 106,
+        "QUALITY": 6,
+        "STAR": 2,
+        "EXP": 531441,
+        "NEXT": {
+            "EXP": 1062882,
+            "ID": 33114,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 960000
+                }
+            ]
+        }
+    },
+    "33114": {
+        "POS": 2,
+        "PRICE": 70000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 35000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 50
+            }
+        ],
+        "SP": [],
+        "SETID": 107,
+        "QUALITY": 6,
+        "STAR": 3,
+        "EXP": 1594323,
+        "NEXT": {
+            "EXP": 3188646,
+            "ID": 33115,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1120000
+                }
+            ]
+        }
+    },
+    "33115": {
+        "POS": 2,
+        "PRICE": 80000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 45000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 60
+            }
+        ],
+        "SP": [],
+        "SETID": 108,
+        "QUALITY": 6,
+        "STAR": 4,
+        "EXP": 4782969,
+        "NEXT": {
+            "EXP": 9565938,
+            "ID": 33116,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1600000
+                }
+            ]
+        }
+    },
+    "33116": {
+        "POS": 2,
+        "PRICE": 90000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 100000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 70
+            }
+        ],
+        "SP": [],
+        "SETID": 109,
+        "QUALITY": 6,
+        "STAR": 5,
+        "EXP": 14348907,
+        "NEXT": {
+            "EXP": 28697814,
+            "ID": 33117,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 2000000
+                }
+            ]
+        }
+    },
+    "33117": {
+        "POS": 2,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 125000
+            },
+            {
+                "KEY": "PEFC",
+                "VAL": 80
+            }
+        ],
+        "SP": [],
+        "SETID": 110,
+        "QUALITY": 6,
+        "STAR": 6,
+        "EXP": 43046721
+    },
+    "33201": {
+        "POS": 3,
+        "PRICE": 100,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 250
+            }
+        ],
+        "SP": [],
+        "QUALITY": 1,
+        "STAR": 1,
+        "EXP": 1,
+        "NEXT": {
+            "EXP": 2,
+            "ID": 33202,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 800
+                }
+            ]
+        }
+    },
+    "33202": {
+        "POS": 3,
+        "PRICE": 200,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 400
+            }
+        ],
+        "SP": [],
+        "QUALITY": 2,
+        "STAR": 1,
+        "EXP": 3,
+        "NEXT": {
+            "EXP": 6,
+            "ID": 33203,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1600
+                }
+            ]
+        }
+    },
+    "33203": {
+        "POS": 3,
+        "PRICE": 500,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 650
+            }
+        ],
+        "SP": [],
+        "QUALITY": 3,
+        "STAR": 1,
+        "EXP": 9,
+        "NEXT": {
+            "EXP": 18,
+            "ID": 33204,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 4000
+                }
+            ]
+        }
+    },
+    "33204": {
+        "POS": 3,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 1000
+            }
+        ],
+        "SP": [],
+        "QUALITY": 3,
+        "STAR": 2,
+        "EXP": 27,
+        "NEXT": {
+            "EXP": 54,
+            "ID": 33205,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 8000
+                }
+            ]
+        }
+    },
+    "33205": {
+        "POS": 3,
+        "PRICE": 2500,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 1667
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 1,
+        "EXP": 81,
+        "NEXT": {
+            "EXP": 162,
+            "ID": 33206,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 16000
+                }
+            ]
+        }
+    },
+    "33206": {
+        "POS": 3,
+        "PRICE": 5000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 2200
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 2,
+        "EXP": 243,
+        "NEXT": {
+            "EXP": 486,
+            "ID": 33207,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 28000
+                }
+            ]
+        }
+    },
+    "33207": {
+        "POS": 3,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 3000
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 3,
+        "EXP": 729,
+        "NEXT": {
+            "EXP": 1458,
+            "ID": 33208,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000
+                }
+            ]
+        }
+    },
+    "33208": {
+        "POS": 3,
+        "PRICE": 15000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 5000
+            }
+        ],
+        "SP": [],
+        "SETID": 101,
+        "QUALITY": 5,
+        "STAR": 1,
+        "EXP": 2187,
+        "NEXT": {
+            "EXP": 4374,
+            "ID": 33209,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 160000
+                }
+            ]
+        }
+    },
+    "33209": {
+        "POS": 3,
+        "PRICE": 20000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 6500
+            }
+        ],
+        "SP": [],
+        "SETID": 102,
+        "QUALITY": 5,
+        "STAR": 2,
+        "EXP": 6561,
+        "NEXT": {
+            "EXP": 13122,
+            "ID": 33210,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 320000
+                }
+            ]
+        }
+    },
+    "33210": {
+        "POS": 3,
+        "PRICE": 30000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 8000
+            }
+        ],
+        "SP": [],
+        "SETID": 103,
+        "QUALITY": 5,
+        "STAR": 3,
+        "EXP": 19683,
+        "NEXT": {
+            "EXP": 39366,
+            "ID": 33211,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 480000
+                }
+            ]
+        }
+    },
+    "33211": {
+        "POS": 3,
+        "PRICE": 40000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 10000
+            }
+        ],
+        "SP": [],
+        "SETID": 104,
+        "QUALITY": 5,
+        "STAR": 4,
+        "EXP": 59049,
+        "NEXT": {
+            "EXP": 118098,
+            "ID": 33212,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 640000
+                }
+            ]
+        }
+    },
+    "33212": {
+        "POS": 3,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 13000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 20
+            }
+        ],
+        "SP": [],
+        "SETID": 105,
+        "QUALITY": 6,
+        "STAR": 1,
+        "EXP": 177147,
+        "NEXT": {
+            "EXP": 354294,
+            "ID": 33213,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 800000
+                }
+            ]
+        }
+    },
+    "33213": {
+        "POS": 3,
+        "PRICE": 60000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 16000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 40
+            }
+        ],
+        "SP": [],
+        "SETID": 106,
+        "QUALITY": 6,
+        "STAR": 2,
+        "EXP": 531441,
+        "NEXT": {
+            "EXP": 1062882,
+            "ID": 33214,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 960000
+                }
+            ]
+        }
+    },
+    "33214": {
+        "POS": 3,
+        "PRICE": 70000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 23000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 50
+            }
+        ],
+        "SP": [],
+        "SETID": 107,
+        "QUALITY": 6,
+        "STAR": 3,
+        "EXP": 1594323,
+        "NEXT": {
+            "EXP": 3188646,
+            "ID": 33215,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1120000
+                }
+            ]
+        }
+    },
+    "33215": {
+        "POS": 3,
+        "PRICE": 80000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 30000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 60
+            }
+        ],
+        "SP": [],
+        "SETID": 108,
+        "QUALITY": 6,
+        "STAR": 4,
+        "EXP": 4782969,
+        "NEXT": {
+            "EXP": 9565938,
+            "ID": 33216,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1600000
+                }
+            ]
+        }
+    },
+    "33216": {
+        "POS": 3,
+        "PRICE": 90000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 40000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 70
+            }
+        ],
+        "SP": [],
+        "SETID": 109,
+        "QUALITY": 6,
+        "STAR": 5,
+        "EXP": 14348907,
+        "NEXT": {
+            "EXP": 28697814,
+            "ID": 33217,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 2000000
+                }
+            ]
+        }
+    },
+    "33217": {
+        "POS": 3,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "HP",
+                "VAL": 50000
+            },
+            {
+                "KEY": "PMPS",
+                "VAL": 80
+            }
+        ],
+        "SP": [],
+        "SETID": 110,
+        "QUALITY": 6,
+        "STAR": 6,
+        "EXP": 43046721
+    },
+    "33301": {
+        "POS": 4,
+        "PRICE": 100,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 45
+            }
+        ],
+        "SP": [],
+        "QUALITY": 1,
+        "STAR": 1,
+        "EXP": 1,
+        "NEXT": {
+            "EXP": 2,
+            "ID": 33302,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 800
+                }
+            ]
+        }
+    },
+    "33302": {
+        "POS": 4,
+        "PRICE": 200,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 60
+            }
+        ],
+        "SP": [],
+        "QUALITY": 2,
+        "STAR": 1,
+        "EXP": 3,
+        "NEXT": {
+            "EXP": 6,
+            "ID": 33303,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1600
+                }
+            ]
+        }
+    },
+    "33303": {
+        "POS": 4,
+        "PRICE": 500,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 100
+            }
+        ],
+        "SP": [],
+        "QUALITY": 3,
+        "STAR": 1,
+        "EXP": 9,
+        "NEXT": {
+            "EXP": 18,
+            "ID": 33304,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 4000
+                }
+            ]
+        }
+    },
+    "33304": {
+        "POS": 4,
+        "PRICE": 1000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 130
+            }
+        ],
+        "SP": [],
+        "QUALITY": 3,
+        "STAR": 2,
+        "EXP": 27,
+        "NEXT": {
+            "EXP": 54,
+            "ID": 33305,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 8000
+                }
+            ]
+        }
+    },
+    "33305": {
+        "POS": 4,
+        "PRICE": 2500,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 240
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 1,
+        "EXP": 81,
+        "NEXT": {
+            "EXP": 162,
+            "ID": 33306,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 16000
+                }
+            ]
+        }
+    },
+    "33306": {
+        "POS": 4,
+        "PRICE": 5000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 300
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 2,
+        "EXP": 243,
+        "NEXT": {
+            "EXP": 486,
+            "ID": 33307,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 28000
+                }
+            ]
+        }
+    },
+    "33307": {
+        "POS": 4,
+        "PRICE": 10000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 360
+            }
+        ],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 3,
+        "EXP": 729,
+        "NEXT": {
+            "EXP": 1458,
+            "ID": 33308,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000
+                }
+            ]
+        }
+    },
+    "33308": {
+        "POS": 4,
+        "PRICE": 15000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 560
+            }
+        ],
+        "SP": [],
+        "SETID": 101,
+        "QUALITY": 5,
+        "STAR": 1,
+        "EXP": 2187,
+        "NEXT": {
+            "EXP": 4374,
+            "ID": 33309,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 160000
+                }
+            ]
+        }
+    },
+    "33309": {
+        "POS": 4,
+        "PRICE": 20000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 750
+            }
+        ],
+        "SP": [],
+        "SETID": 102,
+        "QUALITY": 5,
+        "STAR": 2,
+        "EXP": 6561,
+        "NEXT": {
+            "EXP": 13122,
+            "ID": 33310,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 320000
+                }
+            ]
+        }
+    },
+    "33310": {
+        "POS": 4,
+        "PRICE": 30000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 870
+            }
+        ],
+        "SP": [],
+        "SETID": 103,
+        "QUALITY": 5,
+        "STAR": 3,
+        "EXP": 19683,
+        "NEXT": {
+            "EXP": 39366,
+            "ID": 33311,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 480000
+                }
+            ]
+        }
+    },
+    "33311": {
+        "POS": 4,
+        "PRICE": 40000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1000
+            }
+        ],
+        "SP": [],
+        "SETID": 104,
+        "QUALITY": 5,
+        "STAR": 4,
+        "EXP": 59049,
+        "NEXT": {
+            "EXP": 118098,
+            "ID": 33312,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 640000
+                }
+            ]
+        }
+    },
+    "33312": {
+        "POS": 4,
+        "PRICE": 50000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1300
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 20
+            }
+        ],
+        "SP": [],
+        "SETID": 105,
+        "QUALITY": 6,
+        "STAR": 1,
+        "EXP": 177147,
+        "NEXT": {
+            "EXP": 354294,
+            "ID": 33313,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 800000
+                }
+            ]
+        }
+    },
+    "33313": {
+        "POS": 4,
+        "PRICE": 60000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 1600
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 40
+            }
+        ],
+        "SP": [],
+        "SETID": 106,
+        "QUALITY": 6,
+        "STAR": 2,
+        "EXP": 531441,
+        "NEXT": {
+            "EXP": 1062882,
+            "ID": 33314,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 960000
+                }
+            ]
+        }
+    },
+    "33314": {
+        "POS": 4,
+        "PRICE": 70000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2000
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 50
+            }
+        ],
+        "SP": [],
+        "SETID": 107,
+        "QUALITY": 6,
+        "STAR": 3,
+        "EXP": 1594323,
+        "NEXT": {
+            "EXP": 3188646,
+            "ID": 33315,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1120000
+                }
+            ]
+        }
+    },
+    "33315": {
+        "POS": 4,
+        "PRICE": 80000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 2300
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 60
+            }
+        ],
+        "SP": [],
+        "SETID": 108,
+        "QUALITY": 6,
+        "STAR": 4,
+        "EXP": 4782969,
+        "NEXT": {
+            "EXP": 9565938,
+            "ID": 33316,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 1600000
+                }
+            ]
+        }
+    },
+    "33316": {
+        "POS": 4,
+        "PRICE": 90000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 4000
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 70
+            }
+        ],
+        "SP": [],
+        "SETID": 109,
+        "QUALITY": 6,
+        "STAR": 5,
+        "EXP": 14348907,
+        "NEXT": {
+            "EXP": 28697814,
+            "ID": 33317,
+            "CONSUME": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 2000000
+                }
+            ]
+        }
+    },
+    "33317": {
+        "POS": 4,
+        "PRICE": 100000,
+        "PROP": [
+            {
+                "KEY": "ATK",
+                "VAL": 5250
+            },
+            {
+                "KEY": "PATKDAM",
+                "VAL": 80
+            }
+        ],
+        "SP": [],
+        "SETID": 110,
+        "QUALITY": 6,
+        "STAR": 6,
+        "EXP": 43046721
+    },
+    "33990": {
+        "POS": 0,
+        "PRICE": 10,
+        "PROP": [],
+        "SP": [],
+        "QUALITY": 3,
+        "STAR": 0,
+        "EXP": 10
+    },
+    "33991": {
+        "POS": 0,
+        "PRICE": 10,
+        "PROP": [],
+        "SP": [],
+        "QUALITY": 4,
+        "STAR": 0,
+        "EXP": 100
+    }
+}

@@ -1,0 +1,997 @@
+{
+    "56000": {
+        "GSID": 56000,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 1,
+        "BEAST": 101,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 10,
+            "atk": 500
+        }
+    },
+    "56001": {
+        "GSID": 56001,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 1,
+        "BEAST": 101,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 20,
+            "atk": 1000
+        }
+    },
+    "56002": {
+        "GSID": 56002,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 1,
+        "BEAST": 101,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 30,
+            "atk": 1500
+        }
+    },
+    "56003": {
+        "GSID": 56003,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 1,
+        "BEAST": 101,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 40,
+            "atk": 2000
+        }
+    },
+    "56004": {
+        "GSID": 56004,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 1,
+        "BEAST": 101,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 60,
+            "atk": 2500
+        }
+    },
+    "56010": {
+        "GSID": 56010,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 1,
+        "BEAST": 102,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 10,
+            "hp": 5000
+        }
+    },
+    "56011": {
+        "GSID": 56011,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 1,
+        "BEAST": 102,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 20,
+            "hp": 10000
+        }
+    },
+    "56012": {
+        "GSID": 56012,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 1,
+        "BEAST": 102,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 30,
+            "hp": 15000
+        }
+    },
+    "56013": {
+        "GSID": 56013,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 1,
+        "BEAST": 102,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 40,
+            "hp": 20000
+        }
+    },
+    "56014": {
+        "GSID": 56014,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 1,
+        "BEAST": 102,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 60,
+            "hp": 25000
+        }
+    },
+    "56020": {
+        "GSID": 56020,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 1,
+        "BEAST": 103,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 10,
+            "pmdef": 10
+        }
+    },
+    "56021": {
+        "GSID": 56021,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 1,
+        "BEAST": 103,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 20,
+            "pmdef": 20
+        }
+    },
+    "56022": {
+        "GSID": 56022,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 1,
+        "BEAST": 103,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 40,
+            "pmdef": 40
+        }
+    },
+    "56023": {
+        "GSID": 56023,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 1,
+        "BEAST": 103,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 60,
+            "pmdef": 60
+        }
+    },
+    "56024": {
+        "GSID": 56024,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 1,
+        "BEAST": 103,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 80,
+            "pmdef": 80
+        }
+    },
+    "56030": {
+        "GSID": 56030,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 1,
+        "BEAST": 104,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 20
+        }
+    },
+    "56031": {
+        "GSID": 56031,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 1,
+        "BEAST": 104,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 40
+        }
+    },
+    "56032": {
+        "GSID": 56032,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 1,
+        "BEAST": 104,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 60
+        }
+    },
+    "56033": {
+        "GSID": 56033,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 1,
+        "BEAST": 104,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 80
+        }
+    },
+    "56034": {
+        "GSID": 56034,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 1,
+        "BEAST": 104,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 100
+        }
+    },
+    "56040": {
+        "GSID": 56040,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 1,
+        "BEAST": 105,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 10
+        }
+    },
+    "56041": {
+        "GSID": 56041,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 1,
+        "BEAST": 105,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 20
+        }
+    },
+    "56042": {
+        "GSID": 56042,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 1,
+        "BEAST": 105,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 40
+        }
+    },
+    "56043": {
+        "GSID": 56043,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 1,
+        "BEAST": 105,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 60
+        }
+    },
+    "56044": {
+        "GSID": 56044,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 1,
+        "BEAST": 105,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 80
+        }
+    },
+    "56300": {
+        "GSID": 56300,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 2,
+        "BEAST": 201,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 10,
+            "atk": 500
+        },
+        "ATTR_ADD": 30001
+    },
+    "56301": {
+        "GSID": 56301,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 2,
+        "BEAST": 201,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 20,
+            "atk": 1000
+        },
+        "ATTR_ADD": 30002
+    },
+    "56302": {
+        "GSID": 56302,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 2,
+        "BEAST": 201,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 30,
+            "atk": 1500
+        },
+        "ATTR_ADD": 30003
+    },
+    "56303": {
+        "GSID": 56303,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 2,
+        "BEAST": 201,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 40,
+            "atk": 2000
+        },
+        "ATTR_ADD": 30004
+    },
+    "56304": {
+        "GSID": 56304,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 2,
+        "BEAST": 201,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 60,
+            "atk": 2500
+        },
+        "ATTR_ADD": 30005
+    },
+    "56310": {
+        "GSID": 56310,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 2,
+        "BEAST": 202,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 10,
+            "hp": 5000
+        },
+        "ATTR_ADD": 30001
+    },
+    "56311": {
+        "GSID": 56311,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 2,
+        "BEAST": 202,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 20,
+            "hp": 10000
+        },
+        "ATTR_ADD": 30002
+    },
+    "56312": {
+        "GSID": 56312,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 2,
+        "BEAST": 202,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 30,
+            "hp": 15000
+        },
+        "ATTR_ADD": 30003
+    },
+    "56313": {
+        "GSID": 56313,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 2,
+        "BEAST": 202,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 40,
+            "hp": 20000
+        },
+        "ATTR_ADD": 30004
+    },
+    "56314": {
+        "GSID": 56314,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 2,
+        "BEAST": 202,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 60,
+            "hp": 25000
+        },
+        "ATTR_ADD": 30005
+    },
+    "56320": {
+        "GSID": 56320,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 2,
+        "BEAST": 203,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 10,
+            "pmdef": 10
+        },
+        "ATTR_ADD": 30001
+    },
+    "56321": {
+        "GSID": 56321,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 2,
+        "BEAST": 203,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 20,
+            "pmdef": 20
+        },
+        "ATTR_ADD": 30002
+    },
+    "56322": {
+        "GSID": 56322,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 2,
+        "BEAST": 203,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 40,
+            "pmdef": 40
+        },
+        "ATTR_ADD": 30003
+    },
+    "56323": {
+        "GSID": 56323,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 2,
+        "BEAST": 203,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 60,
+            "pmdef": 60
+        },
+        "ATTR_ADD": 30004
+    },
+    "56324": {
+        "GSID": 56324,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 2,
+        "BEAST": 203,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 80,
+            "pmdef": 80
+        },
+        "ATTR_ADD": 30005
+    },
+    "56330": {
+        "GSID": 56330,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 2,
+        "BEAST": 204,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 20
+        },
+        "ATTR_ADD": 30001
+    },
+    "56331": {
+        "GSID": 56331,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 2,
+        "BEAST": 204,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 40
+        },
+        "ATTR_ADD": 30002
+    },
+    "56332": {
+        "GSID": 56332,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 2,
+        "BEAST": 204,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 60
+        },
+        "ATTR_ADD": 30003
+    },
+    "56333": {
+        "GSID": 56333,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 2,
+        "BEAST": 204,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 80
+        },
+        "ATTR_ADD": 30004
+    },
+    "56334": {
+        "GSID": 56334,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 2,
+        "BEAST": 204,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 100
+        },
+        "ATTR_ADD": 30005
+    },
+    "56340": {
+        "GSID": 56340,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 2,
+        "BEAST": 205,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 10
+        },
+        "ATTR_ADD": 30001
+    },
+    "56341": {
+        "GSID": 56341,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 2,
+        "BEAST": 205,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 20
+        },
+        "ATTR_ADD": 30002
+    },
+    "56342": {
+        "GSID": 56342,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 2,
+        "BEAST": 205,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 40
+        },
+        "ATTR_ADD": 30003
+    },
+    "56343": {
+        "GSID": 56343,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 2,
+        "BEAST": 205,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 60
+        },
+        "ATTR_ADD": 30004
+    },
+    "56344": {
+        "GSID": 56344,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 2,
+        "BEAST": 205,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 80
+        },
+        "ATTR_ADD": 30005
+    },
+    "56600": {
+        "GSID": 56600,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 3,
+        "BEAST": 301,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 10,
+            "atk": 500
+        },
+        "ATTR_ADD": 40001
+    },
+    "56601": {
+        "GSID": 56601,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 3,
+        "BEAST": 301,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 20,
+            "atk": 1000
+        },
+        "ATTR_ADD": 40002
+    },
+    "56602": {
+        "GSID": 56602,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 3,
+        "BEAST": 301,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 30,
+            "atk": 1500
+        },
+        "ATTR_ADD": 40003
+    },
+    "56603": {
+        "GSID": 56603,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 3,
+        "BEAST": 301,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 40,
+            "atk": 2000
+        },
+        "ATTR_ADD": 40004
+    },
+    "56604": {
+        "GSID": 56604,
+        "ATTR_TYPE": 1,
+        "SOUL_TYPE": 3,
+        "BEAST": 301,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "patk": 60,
+            "atk": 2500
+        },
+        "ATTR_ADD": 40005
+    },
+    "56610": {
+        "GSID": 56610,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 3,
+        "BEAST": 302,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 10,
+            "hp": 5000
+        },
+        "ATTR_ADD": 40001
+    },
+    "56611": {
+        "GSID": 56611,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 3,
+        "BEAST": 302,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 20,
+            "hp": 10000
+        },
+        "ATTR_ADD": 40002
+    },
+    "56612": {
+        "GSID": 56612,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 3,
+        "BEAST": 302,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 30,
+            "hp": 15000
+        },
+        "ATTR_ADD": 40003
+    },
+    "56613": {
+        "GSID": 56613,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 3,
+        "BEAST": 302,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 40,
+            "hp": 20000
+        },
+        "ATTR_ADD": 40004
+    },
+    "56614": {
+        "GSID": 56614,
+        "ATTR_TYPE": 2,
+        "SOUL_TYPE": 3,
+        "BEAST": 302,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "php": 60,
+            "hp": 25000
+        },
+        "ATTR_ADD": 40005
+    },
+    "56620": {
+        "GSID": 56620,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 3,
+        "BEAST": 303,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 10,
+            "pmdef": 10
+        },
+        "ATTR_ADD": 40001
+    },
+    "56621": {
+        "GSID": 56621,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 3,
+        "BEAST": 303,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 20,
+            "pmdef": 20
+        },
+        "ATTR_ADD": 40002
+    },
+    "56622": {
+        "GSID": 56622,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 3,
+        "BEAST": 303,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 40,
+            "pmdef": 40
+        },
+        "ATTR_ADD": 40003
+    },
+    "56623": {
+        "GSID": 56623,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 3,
+        "BEAST": 303,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 60,
+            "pmdef": 60
+        },
+        "ATTR_ADD": 40004
+    },
+    "56624": {
+        "GSID": 56624,
+        "ATTR_TYPE": 3,
+        "SOUL_TYPE": 3,
+        "BEAST": 303,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pdef": 80,
+            "pmdef": 80
+        },
+        "ATTR_ADD": 40005
+    },
+    "56630": {
+        "GSID": 56630,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 3,
+        "BEAST": 304,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 20
+        },
+        "ATTR_ADD": 40001
+    },
+    "56631": {
+        "GSID": 56631,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 3,
+        "BEAST": 304,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 40
+        },
+        "ATTR_ADD": 40002
+    },
+    "56632": {
+        "GSID": 56632,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 3,
+        "BEAST": 304,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 60
+        },
+        "ATTR_ADD": 40003
+    },
+    "56633": {
+        "GSID": 56633,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 3,
+        "BEAST": 304,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 80
+        },
+        "ATTR_ADD": 40004
+    },
+    "56634": {
+        "GSID": 56634,
+        "ATTR_TYPE": 4,
+        "SOUL_TYPE": 3,
+        "BEAST": 304,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pasp": 100
+        },
+        "ATTR_ADD": 40005
+    },
+    "56640": {
+        "GSID": 56640,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 3,
+        "BEAST": 305,
+        "STAR": 1,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 10
+        },
+        "ATTR_ADD": 40001
+    },
+    "56641": {
+        "GSID": 56641,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 3,
+        "BEAST": 305,
+        "STAR": 2,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 20
+        },
+        "ATTR_ADD": 40002
+    },
+    "56642": {
+        "GSID": 56642,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 3,
+        "BEAST": 305,
+        "STAR": 3,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 40
+        },
+        "ATTR_ADD": 40003
+    },
+    "56643": {
+        "GSID": 56643,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 3,
+        "BEAST": 305,
+        "STAR": 4,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 60
+        },
+        "ATTR_ADD": 40004
+    },
+    "56644": {
+        "GSID": 56644,
+        "ATTR_TYPE": 5,
+        "SOUL_TYPE": 3,
+        "BEAST": 305,
+        "STAR": 5,
+        "W_COMP": 1000,
+        "W_LVUP": 1000,
+        "ATTRS": {
+            "pskidam": 80
+        },
+        "ATTR_ADD": 40005
+    }
+}

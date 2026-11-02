@@ -1,0 +1,35 @@
+{
+  "name": "king_proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "87": "nodemon --inspect app.js config.87.json",
+    "88": "nodemon --inspect app.js config.88.json",
+    "149": "nodemon --inspect app.js config.149.json"
+  },
+  "dependencies": {
+    "@koa/cors": "^2.2.1",
+    "axios": "^1.7.2",
+    "jsonwebtoken": "^9.0.2",
+    "jwks-client": "^2.0.2",
+    "koa": "^2.2.0",
+    "koa-body": "^4.0.8",
+    "koa-logger": "^2.0.1",
+    "koa-pino-logger": "^2.1.3",
+    "koa-router": "^7.1.1",
+    "lodash": "^4.17.15",
+    "micromatch": "^4.0.2",
+    "moment": "^2.24.0",
+    "mongoose": "5.9.9",
+    "node-schedule": "^1.3.2",
+    "nodemailer": "^6.9.13",
+    "rx-apiwheel": "^1.6.1",
+    "tencentcloud-sdk-nodejs": "^4.0.50",
+    "urlencode": "^1.1.0",
+    "urllib": "^2.25.4",
+    "ws": "^7.5.1"
+  },
+  "author": "kelvin.man",
+  "license": "Anti 996"
+}

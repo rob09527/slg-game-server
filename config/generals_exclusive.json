@@ -1,0 +1,3109 @@
+{
+    "UNLOCK_STAR": 11,
+    "CONFIG": {
+        "1": [
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 1,
+                "PROP": {
+                    "hp": 14000,
+                    "atk": 720
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 2,
+                "PROP": {
+                    "hp": 28000,
+                    "atk": 1440
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 3,
+                "PROP": {
+                    "hp": 42000,
+                    "atk": 2160
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 4,
+                "PROP": {
+                    "hp": 56000,
+                    "atk": 2880
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 5,
+                "PROP": {
+                    "hp": 70000,
+                    "atk": 3600
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 6,
+                "PROP": {
+                    "hp": 84000,
+                    "atk": 4320
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 7,
+                "PROP": {
+                    "hp": 98000,
+                    "atk": 5040
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 8,
+                "PROP": {
+                    "hp": 112000,
+                    "atk": 5760
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 9,
+                "PROP": {
+                    "hp": 126000,
+                    "atk": 6480
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 10,
+                "PROP": {
+                    "hp": 140000,
+                    "atk": 7200
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 11,
+                "PROP": {
+                    "hp": 154000,
+                    "atk": 7920
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 12,
+                "PROP": {
+                    "hp": 168000,
+                    "atk": 8640
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 13,
+                "PROP": {
+                    "hp": 182000,
+                    "atk": 9360
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 14,
+                "PROP": {
+                    "hp": 196000,
+                    "atk": 10080
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 15,
+                "PROP": {
+                    "hp": 210000,
+                    "atk": 10800
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 16,
+                "PROP": {
+                    "hp": 224000,
+                    "atk": 11520
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 17,
+                "PROP": {
+                    "hp": 238000,
+                    "atk": 12240
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 18,
+                "PROP": {
+                    "hp": 252000,
+                    "atk": 12960
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 19,
+                "PROP": {
+                    "hp": 266000,
+                    "atk": 13680
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 20,
+                "PROP": {
+                    "hp": 280000,
+                    "atk": 14600
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 21,
+                "PROP": {
+                    "hp": 308000,
+                    "atk": 15920
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 22,
+                "PROP": {
+                    "hp": 336000,
+                    "atk": 17440
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 23,
+                "PROP": {
+                    "hp": 364000,
+                    "atk": 18960
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 24,
+                "PROP": {
+                    "hp": 392000,
+                    "atk": 20480
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 25,
+                "PROP": {
+                    "hp": 420000,
+                    "atk": 22000
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 26,
+                "PROP": {
+                    "hp": 448000,
+                    "atk": 23520
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 27,
+                "PROP": {
+                    "hp": 476000,
+                    "atk": 25040
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 28,
+                "PROP": {
+                    "hp": 504000,
+                    "atk": 26560
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 29,
+                "PROP": {
+                    "hp": 532000,
+                    "atk": 28080
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "LEVEL": 30,
+                "PROP": {
+                    "hp": 560000,
+                    "atk": 29600
+                }
+            }
+        ],
+        "2": [
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 1,
+                "PROP": {
+                    "hp": 11900,
+                    "atk": 828
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 2,
+                "PROP": {
+                    "hp": 23800,
+                    "atk": 1656
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 3,
+                "PROP": {
+                    "hp": 35700,
+                    "atk": 2484
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 4,
+                "PROP": {
+                    "hp": 47600,
+                    "atk": 3312
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 5,
+                "PROP": {
+                    "hp": 59500,
+                    "atk": 4140
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 6,
+                "PROP": {
+                    "hp": 71400,
+                    "atk": 4968
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 7,
+                "PROP": {
+                    "hp": 83300,
+                    "atk": 5796
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 8,
+                "PROP": {
+                    "hp": 95200,
+                    "atk": 6624
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 9,
+                "PROP": {
+                    "hp": 107100,
+                    "atk": 7452
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 10,
+                "PROP": {
+                    "hp": 119000,
+                    "atk": 8280
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 11,
+                "PROP": {
+                    "hp": 130900,
+                    "atk": 9108
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 12,
+                "PROP": {
+                    "hp": 142800,
+                    "atk": 9936
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 13,
+                "PROP": {
+                    "hp": 154700,
+                    "atk": 10764
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 14,
+                "PROP": {
+                    "hp": 166600,
+                    "atk": 11592
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 15,
+                "PROP": {
+                    "hp": 178500,
+                    "atk": 12420
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 16,
+                "PROP": {
+                    "hp": 190400,
+                    "atk": 13248
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 17,
+                "PROP": {
+                    "hp": 202300,
+                    "atk": 14076
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 18,
+                "PROP": {
+                    "hp": 214200,
+                    "atk": 14904
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 19,
+                "PROP": {
+                    "hp": 226100,
+                    "atk": 15732
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 20,
+                "PROP": {
+                    "hp": 238000,
+                    "atk": 16790
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 21,
+                "PROP": {
+                    "hp": 261800,
+                    "atk": 18308
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 22,
+                "PROP": {
+                    "hp": 285600,
+                    "atk": 20056
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 23,
+                "PROP": {
+                    "hp": 309400,
+                    "atk": 21804
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 24,
+                "PROP": {
+                    "hp": 333200,
+                    "atk": 23552
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 25,
+                "PROP": {
+                    "hp": 357000,
+                    "atk": 25300
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 26,
+                "PROP": {
+                    "hp": 380800,
+                    "atk": 27048
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 27,
+                "PROP": {
+                    "hp": 404600,
+                    "atk": 28796
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 28,
+                "PROP": {
+                    "hp": 428400,
+                    "atk": 30544
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 29,
+                "PROP": {
+                    "hp": 452200,
+                    "atk": 32292
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "LEVEL": 30,
+                "PROP": {
+                    "hp": 476000,
+                    "atk": 34040
+                }
+            }
+        ],
+        "3": [
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 1,
+                "PROP": {
+                    "hp": 12600,
+                    "atk": 792
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 2,
+                "PROP": {
+                    "hp": 25200,
+                    "atk": 1584
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 3,
+                "PROP": {
+                    "hp": 37800,
+                    "atk": 2376
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 4,
+                "PROP": {
+                    "hp": 50400,
+                    "atk": 3168
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 5,
+                "PROP": {
+                    "hp": 63000,
+                    "atk": 3960
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 6,
+                "PROP": {
+                    "hp": 75600,
+                    "atk": 4752
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 7,
+                "PROP": {
+                    "hp": 88200,
+                    "atk": 5544
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 8,
+                "PROP": {
+                    "hp": 100800,
+                    "atk": 6336
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 9,
+                "PROP": {
+                    "hp": 113400,
+                    "atk": 7128
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 10,
+                "PROP": {
+                    "hp": 126000,
+                    "atk": 7920
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 11,
+                "PROP": {
+                    "hp": 138600,
+                    "atk": 8712
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 12,
+                "PROP": {
+                    "hp": 151200,
+                    "atk": 9504
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 13,
+                "PROP": {
+                    "hp": 163800,
+                    "atk": 10296
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 14,
+                "PROP": {
+                    "hp": 176400,
+                    "atk": 11088
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 15,
+                "PROP": {
+                    "hp": 189000,
+                    "atk": 11880
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 16,
+                "PROP": {
+                    "hp": 201600,
+                    "atk": 12672
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 17,
+                "PROP": {
+                    "hp": 214200,
+                    "atk": 13464
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 18,
+                "PROP": {
+                    "hp": 226800,
+                    "atk": 14256
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 19,
+                "PROP": {
+                    "hp": 239400,
+                    "atk": 15048
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 20,
+                "PROP": {
+                    "hp": 252000,
+                    "atk": 16060
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 21,
+                "PROP": {
+                    "hp": 277200,
+                    "atk": 17512
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 22,
+                "PROP": {
+                    "hp": 302400,
+                    "atk": 19184
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 23,
+                "PROP": {
+                    "hp": 327600,
+                    "atk": 20856
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 24,
+                "PROP": {
+                    "hp": 352800,
+                    "atk": 22528
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 25,
+                "PROP": {
+                    "hp": 378000,
+                    "atk": 24200
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 26,
+                "PROP": {
+                    "hp": 403200,
+                    "atk": 25872
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 27,
+                "PROP": {
+                    "hp": 428400,
+                    "atk": 27544
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 28,
+                "PROP": {
+                    "hp": 453600,
+                    "atk": 29216
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 29,
+                "PROP": {
+                    "hp": 478800,
+                    "atk": 30888
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "LEVEL": 30,
+                "PROP": {
+                    "hp": 504000,
+                    "atk": 32560
+                }
+            }
+        ],
+        "4": [
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 1,
+                "PROP": {
+                    "hp": 13300,
+                    "atk": 756
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 2,
+                "PROP": {
+                    "hp": 26600,
+                    "atk": 1512
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 3,
+                "PROP": {
+                    "hp": 39900,
+                    "atk": 2268
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 4,
+                "PROP": {
+                    "hp": 53200,
+                    "atk": 3024
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 5,
+                "PROP": {
+                    "hp": 66500,
+                    "atk": 3780
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 6,
+                "PROP": {
+                    "hp": 79800,
+                    "atk": 4536
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 7,
+                "PROP": {
+                    "hp": 93100,
+                    "atk": 5292
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 8,
+                "PROP": {
+                    "hp": 106400,
+                    "atk": 6048
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 9,
+                "PROP": {
+                    "hp": 119700,
+                    "atk": 6804
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 10,
+                "PROP": {
+                    "hp": 133000,
+                    "atk": 7560
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 11,
+                "PROP": {
+                    "hp": 146300,
+                    "atk": 8316
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 12,
+                "PROP": {
+                    "hp": 159600,
+                    "atk": 9072
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 13,
+                "PROP": {
+                    "hp": 172900,
+                    "atk": 9828
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 14,
+                "PROP": {
+                    "hp": 186200,
+                    "atk": 10584
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 15,
+                "PROP": {
+                    "hp": 199500,
+                    "atk": 11340
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 16,
+                "PROP": {
+                    "hp": 212800,
+                    "atk": 12096
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 17,
+                "PROP": {
+                    "hp": 226100,
+                    "atk": 12852
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 18,
+                "PROP": {
+                    "hp": 239400,
+                    "atk": 13608
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 19,
+                "PROP": {
+                    "hp": 252700,
+                    "atk": 14364
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 20,
+                "PROP": {
+                    "hp": 266000,
+                    "atk": 15330
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 21,
+                "PROP": {
+                    "hp": 292600,
+                    "atk": 16716
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 22,
+                "PROP": {
+                    "hp": 319200,
+                    "atk": 18312
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 23,
+                "PROP": {
+                    "hp": 345800,
+                    "atk": 19908
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 24,
+                "PROP": {
+                    "hp": 372400,
+                    "atk": 21504
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 25,
+                "PROP": {
+                    "hp": 399000,
+                    "atk": 23100
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 26,
+                "PROP": {
+                    "hp": 425600,
+                    "atk": 24696
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 27,
+                "PROP": {
+                    "hp": 452200,
+                    "atk": 26292
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 28,
+                "PROP": {
+                    "hp": 478800,
+                    "atk": 27888
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 29,
+                "PROP": {
+                    "hp": 505400,
+                    "atk": 29484
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "LEVEL": 30,
+                "PROP": {
+                    "hp": 532000,
+                    "atk": 31080
+                }
+            }
+        ],
+        "5": [
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 1,
+                "PROP": {
+                    "hp": 13300,
+                    "atk": 684
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 2,
+                "PROP": {
+                    "hp": 26600,
+                    "atk": 1368
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 3,
+                "PROP": {
+                    "hp": 39900,
+                    "atk": 2052
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 4,
+                "PROP": {
+                    "hp": 53200,
+                    "atk": 2736
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 5,
+                "PROP": {
+                    "hp": 66500,
+                    "atk": 3420
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 6,
+                "PROP": {
+                    "hp": 79800,
+                    "atk": 4104
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 7,
+                "PROP": {
+                    "hp": 93100,
+                    "atk": 4788
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 8,
+                "PROP": {
+                    "hp": 106400,
+                    "atk": 5472
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 9,
+                "PROP": {
+                    "hp": 119700,
+                    "atk": 6156
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 10,
+                "PROP": {
+                    "hp": 133000,
+                    "atk": 6840
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 11,
+                "PROP": {
+                    "hp": 146300,
+                    "atk": 7524
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 12,
+                "PROP": {
+                    "hp": 159600,
+                    "atk": 8208
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 13,
+                "PROP": {
+                    "hp": 172900,
+                    "atk": 8892
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 14,
+                "PROP": {
+                    "hp": 186200,
+                    "atk": 9576
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 15,
+                "PROP": {
+                    "hp": 199500,
+                    "atk": 10260
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 16,
+                "PROP": {
+                    "hp": 212800,
+                    "atk": 10944
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 17,
+                "PROP": {
+                    "hp": 226100,
+                    "atk": 11628
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 18,
+                "PROP": {
+                    "hp": 239400,
+                    "atk": 12312
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 19,
+                "PROP": {
+                    "hp": 252700,
+                    "atk": 12996
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 20,
+                "PROP": {
+                    "hp": 266000,
+                    "atk": 13870
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 21,
+                "PROP": {
+                    "hp": 292600,
+                    "atk": 15124
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 22,
+                "PROP": {
+                    "hp": 319200,
+                    "atk": 16568
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 23,
+                "PROP": {
+                    "hp": 345800,
+                    "atk": 18012
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 24,
+                "PROP": {
+                    "hp": 372400,
+                    "atk": 19456
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 25,
+                "PROP": {
+                    "hp": 399000,
+                    "atk": 20900
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 26,
+                "PROP": {
+                    "hp": 425600,
+                    "atk": 22344
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 27,
+                "PROP": {
+                    "hp": 452200,
+                    "atk": 23788
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 28,
+                "PROP": {
+                    "hp": 478800,
+                    "atk": 25232
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 29,
+                "PROP": {
+                    "hp": 505400,
+                    "atk": 26676
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "LEVEL": 30,
+                "PROP": {
+                    "hp": 532000,
+                    "atk": 28120
+                }
+            }
+        ],
+        "6": [
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 1,
+                "PROP": {
+                    "hp": 15400,
+                    "atk": 648
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 2,
+                "PROP": {
+                    "hp": 30800,
+                    "atk": 1296
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 3,
+                "PROP": {
+                    "hp": 46200,
+                    "atk": 1944
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 4,
+                "PROP": {
+                    "hp": 61600,
+                    "atk": 2592
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 5,
+                "PROP": {
+                    "hp": 77000,
+                    "atk": 3240
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 6,
+                "PROP": {
+                    "hp": 92400,
+                    "atk": 3888
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 7,
+                "PROP": {
+                    "hp": 107800,
+                    "atk": 4536
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 8,
+                "PROP": {
+                    "hp": 123200,
+                    "atk": 5184
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1
+                ],
+                "LEVEL": 9,
+                "PROP": {
+                    "hp": 138600,
+                    "atk": 5832
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 10,
+                "PROP": {
+                    "hp": 154000,
+                    "atk": 6480
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 11,
+                "PROP": {
+                    "hp": 169400,
+                    "atk": 7128
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 12,
+                "PROP": {
+                    "hp": 184800,
+                    "atk": 7776
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 13,
+                "PROP": {
+                    "hp": 200200,
+                    "atk": 8424
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 14,
+                "PROP": {
+                    "hp": 215600,
+                    "atk": 9072
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 15,
+                "PROP": {
+                    "hp": 231000,
+                    "atk": 9720
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 16,
+                "PROP": {
+                    "hp": 246400,
+                    "atk": 10368
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 17,
+                "PROP": {
+                    "hp": 261800,
+                    "atk": 11016
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 18,
+                "PROP": {
+                    "hp": 277200,
+                    "atk": 11664
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2
+                ],
+                "LEVEL": 19,
+                "PROP": {
+                    "hp": 292600,
+                    "atk": 12312
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 20,
+                "PROP": {
+                    "hp": 308000,
+                    "atk": 13140
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 21,
+                "PROP": {
+                    "hp": 338800,
+                    "atk": 14328
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 22,
+                "PROP": {
+                    "hp": 369600,
+                    "atk": 15696
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 23,
+                "PROP": {
+                    "hp": 400400,
+                    "atk": 17064
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 24,
+                "PROP": {
+                    "hp": 431200,
+                    "atk": 18432
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 25,
+                "PROP": {
+                    "hp": 462000,
+                    "atk": 19800
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 26,
+                "PROP": {
+                    "hp": 492800,
+                    "atk": 21168
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 27,
+                "PROP": {
+                    "hp": 523600,
+                    "atk": 22536
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 28,
+                "PROP": {
+                    "hp": 554400,
+                    "atk": 23904
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3
+                ],
+                "LEVEL": 29,
+                "PROP": {
+                    "hp": 585200,
+                    "atk": 25272
+                }
+            },
+            {
+                "SKILL_COUNT": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "LEVEL": 30,
+                "PROP": {
+                    "hp": 616000,
+                    "atk": 26640
+                }
+            }
+        ]
+    },
+    "CONSUME": {
+        "4": [
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 1
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 8
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 12
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 12
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 20
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 20
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 40
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 2
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 12
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 20
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 32
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 44
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 48
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 56
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 72
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 4
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 12
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 48
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 48
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 80
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 8
+                }
+            ]
+        ],
+        "5": [
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 1
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 8
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 12
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 12
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 20
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 20
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 40
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 2
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 12
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 20
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 32
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 44
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 48
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 56
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 72
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 4
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 12
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 24
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 48
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 48
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 80
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 8
+                }
+            ]
+        ],
+        "6": [
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 1
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 10
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 15
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 15
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 25
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 25
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 50
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 2
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 15
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 25
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 40
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 55
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 70
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 90
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 4
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 15
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 75
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 100
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 8
+                }
+            ]
+        ],
+        "7": [
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 1
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 10
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 15
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 15
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 25
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 25
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 50
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 2
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 15
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 25
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 40
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 55
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 70
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 90
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 4
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 15
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 75
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 100
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 8
+                }
+            ]
+        ],
+        "8": [
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 1
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 12
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 18
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 18
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 2
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 18
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 30
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 48
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 54
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 66
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 72
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 84
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 108
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 4
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 18
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 36
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 54
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 54
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 72
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 72
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 90
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 120
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 8
+                }
+            ]
+        ],
+        "9": [
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 1
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 15
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 23
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 23
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 38
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 38
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30065,
+                    "COUNT": 75
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 2
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 23
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 38
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 60
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 68
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 83
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 90
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 105
+                }
+            ],
+            [
+                {
+                    "GSID": 30066,
+                    "COUNT": 135
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 4
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 23
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 45
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 68
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 68
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 90
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 90
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 113
+                }
+            ],
+            [
+                {
+                    "GSID": 30067,
+                    "COUNT": 150
+                }
+            ],
+            [
+                {
+                    "GSID": 30068,
+                    "COUNT": 8
+                }
+            ]
+        ]
+    }
+}

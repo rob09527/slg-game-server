@@ -1,0 +1,362 @@
+{
+    "60000": {
+        "GSID": 60000,
+        "TYPE": 1,
+        "NAME": "地猛",
+        "QUALITY": 4,
+        "IMAGE": 60000,
+        "IFRAME": 3,
+        "ATTRS": {
+            "camp": {
+                "prdc": 10
+            }
+        }
+    },
+    "60001": {
+        "GSID": 60001,
+        "TYPE": 2,
+        "NAME": "地文",
+        "QUALITY": 4,
+        "IMAGE": 60001,
+        "IFRAME": 3,
+        "ATTRS": {
+            "camp": {
+                "prdc": 10
+            }
+        }
+    },
+    "60002": {
+        "GSID": 60002,
+        "TYPE": 3,
+        "NAME": "地正",
+        "QUALITY": 4,
+        "IMAGE": 60002,
+        "IFRAME": 3,
+        "ATTRS": {
+            "camp": {
+                "prdc": 10
+            }
+        }
+    },
+    "60003": {
+        "GSID": 60003,
+        "TYPE": 4,
+        "NAME": "地辟",
+        "QUALITY": 4,
+        "IMAGE": 60003,
+        "IFRAME": 3,
+        "ATTRS": {
+            "camp": {
+                "prdc": 10
+            }
+        }
+    },
+    "60004": {
+        "GSID": 60004,
+        "TYPE": 5,
+        "NAME": "地阖",
+        "QUALITY": 4,
+        "IMAGE": 60004,
+        "IFRAME": 3,
+        "ATTRS": {
+            "camp": {
+                "prdc": 10
+            }
+        }
+    },
+    "60005": {
+        "GSID": 60005,
+        "TYPE": 6,
+        "NAME": "地强",
+        "QUALITY": 4,
+        "IMAGE": 60005,
+        "IFRAME": 3,
+        "ATTRS": {
+            "camp": {
+                "prdc": 10
+            }
+        }
+    },
+    "60006": {
+        "GSID": 60006,
+        "TYPE": 7,
+        "NAME": "地暗",
+        "QUALITY": 4,
+        "IMAGE": 60006,
+        "IFRAME": 3,
+        "ATTRS": {
+            "camp": {
+                "prdc": 10
+            }
+        }
+    },
+    "60007": {
+        "GSID": 60007,
+        "TYPE": 8,
+        "NAME": "地轴",
+        "QUALITY": 4,
+        "IMAGE": 60007,
+        "IFRAME": 3,
+        "ATTRS": {
+            "camp": {
+                "prdc": 10
+            }
+        }
+    },
+    "60010": {
+        "GSID": 60010,
+        "TYPE": 1,
+        "NAME": "地魁",
+        "QUALITY": 5,
+        "IMAGE": 60010,
+        "IFRAME": 4,
+        "ATTRS": {
+            "camp": {
+                "prdc": 20
+            },
+            "occu": {
+                "pdam": 20
+            }
+        }
+    },
+    "60011": {
+        "GSID": 60011,
+        "TYPE": 2,
+        "NAME": "地煞",
+        "QUALITY": 5,
+        "IMAGE": 60011,
+        "IFRAME": 4,
+        "ATTRS": {
+            "camp": {
+                "prdc": 20
+            },
+            "occu": {
+                "pdam": 20
+            }
+        }
+    },
+    "60012": {
+        "GSID": 60012,
+        "TYPE": 3,
+        "NAME": "地勇",
+        "QUALITY": 5,
+        "IMAGE": 60012,
+        "IFRAME": 4,
+        "ATTRS": {
+            "camp": {
+                "prdc": 20
+            },
+            "occu": {
+                "pdam": 20
+            }
+        }
+    },
+    "60013": {
+        "GSID": 60013,
+        "TYPE": 4,
+        "NAME": "地杰",
+        "QUALITY": 5,
+        "IMAGE": 60013,
+        "IFRAME": 4,
+        "ATTRS": {
+            "camp": {
+                "prdc": 20
+            },
+            "occu": {
+                "pdam": 20
+            }
+        }
+    },
+    "60014": {
+        "GSID": 60014,
+        "TYPE": 5,
+        "NAME": "地雄",
+        "QUALITY": 5,
+        "IMAGE": 60014,
+        "IFRAME": 4,
+        "ATTRS": {
+            "camp": {
+                "prdc": 20
+            },
+            "occu": {
+                "pdam": 20
+            }
+        }
+    },
+    "60015": {
+        "GSID": 60015,
+        "TYPE": 6,
+        "NAME": "地威",
+        "QUALITY": 5,
+        "IMAGE": 60015,
+        "IFRAME": 4,
+        "ATTRS": {
+            "camp": {
+                "prdc": 20
+            },
+            "occu": {
+                "pdam": 20
+            }
+        }
+    },
+    "60016": {
+        "GSID": 60016,
+        "TYPE": 7,
+        "NAME": "地英",
+        "QUALITY": 5,
+        "IMAGE": 60016,
+        "IFRAME": 4,
+        "ATTRS": {
+            "camp": {
+                "prdc": 20
+            },
+            "occu": {
+                "pdam": 20
+            }
+        }
+    },
+    "60017": {
+        "GSID": 60017,
+        "TYPE": 8,
+        "NAME": "地奇",
+        "QUALITY": 5,
+        "IMAGE": 60017,
+        "IFRAME": 4,
+        "ATTRS": {
+            "camp": {
+                "prdc": 20
+            },
+            "occu": {
+                "pdam": 20
+            }
+        }
+    },
+    "60020": {
+        "GSID": 60020,
+        "TYPE": 1,
+        "NAME": "天魁",
+        "QUALITY": 6,
+        "IMAGE": 60020,
+        "IFRAME": 5,
+        "ATTRS": {
+            "camp": {
+                "prdc": 40
+            },
+            "occu": {
+                "pdam": 40
+            }
+        }
+    },
+    "60021": {
+        "GSID": 60021,
+        "TYPE": 2,
+        "NAME": "天罡",
+        "QUALITY": 6,
+        "IMAGE": 60021,
+        "IFRAME": 5,
+        "ATTRS": {
+            "camp": {
+                "prdc": 40
+            },
+            "occu": {
+                "pdam": 40
+            }
+        }
+    },
+    "60022": {
+        "GSID": 60022,
+        "TYPE": 3,
+        "NAME": "天机",
+        "QUALITY": 6,
+        "IMAGE": 60022,
+        "IFRAME": 5,
+        "ATTRS": {
+            "camp": {
+                "prdc": 40
+            },
+            "occu": {
+                "pdam": 40
+            }
+        }
+    },
+    "60023": {
+        "GSID": 60023,
+        "TYPE": 4,
+        "NAME": "天闲",
+        "QUALITY": 6,
+        "IMAGE": 60023,
+        "IFRAME": 5,
+        "ATTRS": {
+            "camp": {
+                "prdc": 40
+            },
+            "occu": {
+                "pdam": 40
+            }
+        }
+    },
+    "60024": {
+        "GSID": 60024,
+        "TYPE": 5,
+        "NAME": "天勇",
+        "QUALITY": 6,
+        "IMAGE": 60024,
+        "IFRAME": 5,
+        "ATTRS": {
+            "camp": {
+                "prdc": 40
+            },
+            "occu": {
+                "pdam": 40
+            }
+        }
+    },
+    "60025": {
+        "GSID": 60025,
+        "TYPE": 6,
+        "NAME": "天雄",
+        "QUALITY": 6,
+        "IMAGE": 60025,
+        "IFRAME": 5,
+        "ATTRS": {
+            "camp": {
+                "prdc": 40
+            },
+            "occu": {
+                "pdam": 40
+            }
+        }
+    },
+    "60026": {
+        "GSID": 60026,
+        "TYPE": 7,
+        "NAME": "天猛",
+        "QUALITY": 6,
+        "IMAGE": 60026,
+        "IFRAME": 5,
+        "ATTRS": {
+            "camp": {
+                "prdc": 40
+            },
+            "occu": {
+                "pdam": 40
+            }
+        }
+    },
+    "60027": {
+        "GSID": 60027,
+        "TYPE": 8,
+        "NAME": "天威",
+        "QUALITY": 6,
+        "IMAGE": 60027,
+        "IFRAME": 5,
+        "ATTRS": {
+            "camp": {
+                "prdc": 40
+            },
+            "occu": {
+                "pdam": 40
+            }
+        }
+    }
+}

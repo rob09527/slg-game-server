@@ -1,0 +1,102 @@
+[
+    {
+        "ID": 1001,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "COST": [
+            {
+                "GSID": 38005,
+                "COUNT": 680
+            }
+        ],
+        "ITEMS": [],
+        "CHOICE": [
+            101,
+            201
+        ]
+    },
+    {
+        "ID": 1002,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "COST": [
+            {
+                "GSID": 38005,
+                "COUNT": 1980
+            }
+        ],
+        "ITEMS": [],
+        "CHOICE": [
+            102,
+            202
+        ]
+    },
+    {
+        "ID": 1003,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "COST": [
+            {
+                "GSID": 38005,
+                "COUNT": 3280
+            }
+        ],
+        "ITEMS": [],
+        "CHOICE": [
+            103,
+            203
+        ]
+    },
+    {
+        "ID": 1004,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "COST": [
+            {
+                "GSID": 38005,
+                "COUNT": 4480
+            }
+        ],
+        "ITEMS": [],
+        "CHOICE": [
+            104,
+            204
+        ]
+    },
+    {
+        "ID": 1005,
+        "EXP": 0,
+        "LIMIT": 1,
+        "VIPRANGE": [
+            0,
+            15
+        ],
+        "COST": [
+            {
+                "GSID": 38005,
+                "COUNT": 6480
+            }
+        ],
+        "ITEMS": [],
+        "CHOICE": [
+            105,
+            205
+        ]
+    }
+]

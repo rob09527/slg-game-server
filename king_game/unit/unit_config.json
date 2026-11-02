@@ -1,0 +1,7 @@
+{
+  "role": {
+    "uid": "ak04",
+    "servid": 9009
+  },
+  "config_path": "../config.local.json"
+}

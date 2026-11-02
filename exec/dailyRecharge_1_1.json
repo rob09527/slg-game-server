@@ -1,0 +1,55 @@
+{
+    "REQUIRE": [
+        {
+            "GSID": 90221,
+            "MINCOUNT": 68
+        },
+        {
+            "GSID": 93315,
+            "MAXCOUNT": 0
+        },
+        {
+            "GSID": -109,
+            "PARAM": [
+                7
+            ]
+        }
+    ],
+    "FROM": [],
+    "TO": [
+        {
+            "GSID": 93315,
+            "COUNT": 1
+        },
+        {
+            "GSID": 30026,
+            "COUNT": 500,
+            "INDEX": 0,
+            "REWARDPOOL": 10003
+        },
+        {
+            "GSID": 30011,
+            "COUNT": 1,
+            "INDEX": 1,
+            "REWARDPOOL": 10003
+        },
+        {
+            "GSID": 30009,
+            "COUNT": 2,
+            "INDEX": 2,
+            "REWARDPOOL": 10003
+        },
+        {
+            "GSID": 37001,
+            "COUNT": 2,
+            "INDEX": 0,
+            "REWARDPOOL": 10004
+        },
+        {
+            "GSID": 30071,
+            "COUNT": 2,
+            "INDEX": 1,
+            "REWARDPOOL": 10004
+        }
+    ]
+}

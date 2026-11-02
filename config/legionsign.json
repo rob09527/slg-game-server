@@ -1,0 +1,56 @@
+{
+    "1": {
+        "SCORE": 2,
+        "EXP": 10,
+        "ITEMS": [
+            {
+                "GSID": 30020,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30179,
+                "COUNT": 1
+            }
+        ]
+    },
+    "2": {
+        "COSUME": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            }
+        ],
+        "SCORE": 3,
+        "EXP": 15,
+        "ITEMS": [
+            {
+                "GSID": 30020,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30179,
+                "COUNT": 1
+            }
+        ]
+    },
+    "3": {
+        "COSUME": [
+            {
+                "GSID": 38005,
+                "COUNT": 300
+            }
+        ],
+        "SCORE": 5,
+        "EXP": 20,
+        "ITEMS": [
+            {
+                "GSID": 30020,
+                "COUNT": 500
+            },
+            {
+                "GSID": 30179,
+                "COUNT": 2
+            }
+        ]
+    }
+}

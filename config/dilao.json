@@ -1,0 +1,7235 @@
+{
+    "REWARD": {
+        "1001": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 25000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1002": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1003": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 35000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1004": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 40000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1005": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 45000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1006": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1007": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1008": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1009": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1010": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 55000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1011": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 60000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1012": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 65000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1013": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 70000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1014": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1015": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1016": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1017": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1018": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1019": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 90000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "1020": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 100000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2001": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 25000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2002": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2003": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 35000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2004": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 40000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2005": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 45000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2006": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2007": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2008": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2009": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2010": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 55000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2011": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 60000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2012": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 65000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2013": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 70000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2014": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2015": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2016": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2017": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2018": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2019": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 90000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "2020": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 100000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3001": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 25000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3002": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3003": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 35000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3004": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 40000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3005": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 45000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3006": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3007": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3008": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3009": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3010": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 55000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3011": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 60000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3012": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 65000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3013": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 70000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3014": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3015": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3016": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3017": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3018": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3019": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 90000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "3020": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 100000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4001": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 25000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4002": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4003": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 35000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4004": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 40000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4005": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 45000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4006": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4007": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4008": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4009": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4010": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 55000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4011": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 60000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4012": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 65000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4013": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 70000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4014": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4015": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4016": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4017": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4018": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4019": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 90000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "4020": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 100000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5001": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 20
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 25000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 35,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5002": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5003": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 25
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 35000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5004": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 40000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5005": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 45000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5006": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5007": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5008": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5009": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5010": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 30
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 55000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5011": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 60000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5012": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 65000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5013": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 35
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 70000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5014": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5015": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5016": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 40
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5017": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 75000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5018": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 45
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 0
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5019": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 90000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        },
+        "5020": {
+            "REWARD": [
+                {
+                    "GSID": 30156,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 25,
+                    "RATE": 100
+                }
+            ],
+            "SREWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30005,
+                    "COUNT": 1,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 100000,
+                    "RATE": 100
+                },
+                {
+                    "GSID": 32146,
+                    "COUNT": 1,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "RATE": 50
+                },
+                {
+                    "GSID": 30174,
+                    "COUNT": 1,
+                    "RATE": 30
+                }
+            ],
+            "SHOP": [
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                },
+                {
+                    "CHANCE": 10,
+                    "TYPE": 1
+                }
+            ],
+            "TIME": 5,
+            "NUM": 5
+        }
+    },
+    "SHOP": {
+        "0": [
+            {
+                "ID": 101,
+                "CHANCE": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 2500
+                }
+            },
+            {
+                "ID": 102,
+                "CHANCE": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 30006,
+                        "COUNT": 20
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 2500
+                }
+            },
+            {
+                "ID": 103,
+                "CHANCE": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 30006,
+                        "COUNT": 10
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 1000
+                }
+            },
+            {
+                "ID": 104,
+                "CHANCE": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 30011,
+                        "COUNT": 5
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 2000
+                }
+            },
+            {
+                "ID": 105,
+                "CHANCE": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 30009,
+                        "COUNT": 10
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 1500
+                }
+            },
+            {
+                "ID": 106,
+                "CHANCE": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 30009,
+                        "COUNT": 20
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 3500
+                }
+            },
+            {
+                "ID": 107,
+                "CHANCE": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 5000000
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 2000
+                }
+            },
+            {
+                "ID": 108,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30001,
+                        "COUNT": 4000000
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 1000
+                }
+            },
+            {
+                "ID": 109,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 3000
+                }
+            },
+            {
+                "ID": 110,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30006,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 600000
+                }
+            },
+            {
+                "ID": 111,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30006,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                }
+            },
+            {
+                "ID": 112,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30011,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 1800000
+                }
+            },
+            {
+                "ID": 113,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30009,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 900000
+                }
+            },
+            {
+                "ID": 114,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30009,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 800000
+                }
+            },
+            {
+                "ID": 115,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 2000000
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 500
+                }
+            },
+            {
+                "ID": 116,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30001,
+                        "COUNT": 2000000
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 600
+                }
+            },
+            {
+                "ID": 117,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 2500
+                }
+            },
+            {
+                "ID": 118,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30006,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 450000
+                }
+            },
+            {
+                "ID": 119,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30006,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 400000
+                }
+            },
+            {
+                "ID": 120,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30011,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 2000000
+                }
+            },
+            {
+                "ID": 121,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30009,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 800000
+                }
+            },
+            {
+                "ID": 122,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30009,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38006,
+                    "COUNT": 900000
+                }
+            },
+            {
+                "ID": 123,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 3500000
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 1000
+                }
+            },
+            {
+                "ID": 124,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 30001,
+                        "COUNT": 3500000
+                    }
+                ],
+                "LIMIT": 2,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 900
+                }
+            },
+            {
+                "ID": 125,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 1,
+                "COST": {
+                    "GSID": 38005,
+                    "COUNT": 2600
+                }
+            }
+        ],
+        "1": [
+            {
+                "ID": 126,
+                "NAME": 9267,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 60
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 1000000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 1000000
+                    }
+                ],
+                "LIMIT": 3,
+                "PRICE": 6,
+                "EXP": 60
+            },
+            {
+                "ID": 127,
+                "NAME": 9268,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 180
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 400
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 3000000
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 18,
+                "EXP": 180
+            },
+            {
+                "ID": 128,
+                "NAME": 9269,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 180
+                    },
+                    {
+                        "GSID": 30016,
+                        "COUNT": 250
+                    },
+                    {
+                        "GSID": 30180,
+                        "COUNT": 20
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 18,
+                "EXP": 180
+            },
+            {
+                "ID": 129,
+                "NAME": 9269,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 180
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 50
+                    },
+                    {
+                        "GSID": 30180,
+                        "COUNT": 20
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 18,
+                "EXP": 180
+            },
+            {
+                "ID": 130,
+                "NAME": 9271,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 2000000
+                    },
+                    {
+                        "GSID": 30180,
+                        "COUNT": 30
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 68,
+                "EXP": 680
+            },
+            {
+                "ID": 131,
+                "NAME": 9272,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1280
+                    },
+                    {
+                        "GSID": 32587,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 12000000
+                    }
+                ],
+                "LIMIT": 1,
+                "PRICE": 128,
+                "EXP": 1280
+            },
+            {
+                "ID": 132,
+                "NAME": 9273,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 3280
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32137,
+                        "COUNT": 5
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 328,
+                "EXP": 3280
+            },
+            {
+                "ID": 133,
+                "NAME": 9274,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 5
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 648,
+                "EXP": 6480
+            },
+            {
+                "ID": 134,
+                "NAME": 9275,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32128,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 8000000
+                    }
+                ],
+                "LIMIT": 1,
+                "PRICE": 648,
+                "EXP": 6480
+            },
+            {
+                "ID": 135,
+                "NAME": 9267,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 60
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 1500000
+                    },
+                    {
+                        "GSID": 30001,
+                        "COUNT": 800000
+                    }
+                ],
+                "LIMIT": 3,
+                "PRICE": 6,
+                "EXP": 60
+            },
+            {
+                "ID": 136,
+                "NAME": 9314,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 3280
+                    },
+                    {
+                        "GSID": 32123,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30092,
+                        "COUNT": 10000
+                    }
+                ],
+                "LIMIT": 1,
+                "PRICE": 328,
+                "EXP": 3280
+            },
+            {
+                "ID": 137,
+                "NAME": 9269,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30016,
+                        "COUNT": 750
+                    },
+                    {
+                        "GSID": 30180,
+                        "COUNT": 80
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 68,
+                "EXP": 680
+            },
+            {
+                "ID": 138,
+                "NAME": 9269,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 30017,
+                        "COUNT": 160
+                    },
+                    {
+                        "GSID": 30180,
+                        "COUNT": 80
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 68,
+                "EXP": 680
+            },
+            {
+                "ID": 139,
+                "NAME": 9271,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 680
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 2000000
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 1500000
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 68,
+                "EXP": 680
+            },
+            {
+                "ID": 140,
+                "NAME": 9272,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 1980
+                    },
+                    {
+                        "GSID": 32587,
+                        "COUNT": 3
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 25000000
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 198,
+                "EXP": 1980
+            },
+            {
+                "ID": 141,
+                "NAME": 9273,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 2
+                    },
+                    {
+                        "GSID": 32137,
+                        "COUNT": 15
+                    }
+                ],
+                "LIMIT": 1,
+                "PRICE": 648,
+                "EXP": 6480
+            },
+            {
+                "ID": 142,
+                "NAME": 9274,
+                "CHANCE": 20,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 10
+                    }
+                ],
+                "LIMIT": 1,
+                "PRICE": 648,
+                "EXP": 6480
+            },
+            {
+                "ID": 143,
+                "NAME": 9275,
+                "CHANCE": 20,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32128,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 5
+                    }
+                ],
+                "LIMIT": 1,
+                "PRICE": 648,
+                "EXP": 6480
+            },
+            {
+                "ID": 144,
+                "NAME": 9267,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 60
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 300
+                    },
+                    {
+                        "GSID": 38006,
+                        "COUNT": 1500000
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 6,
+                "EXP": 60
+            },
+            {
+                "ID": 145,
+                "NAME": 9268,
+                "CHANCE": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 180
+                    },
+                    {
+                        "GSID": 30015,
+                        "COUNT": 500
+                    },
+                    {
+                        "GSID": 30026,
+                        "COUNT": 500
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 18,
+                "EXP": 180
+            },
+            {
+                "ID": 146,
+                "NAME": 9274,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 5
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 648,
+                "EXP": 6480
+            },
+            {
+                "ID": 147,
+                "NAME": 9274,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 6
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 648,
+                "EXP": 6480
+            },
+            {
+                "ID": 148,
+                "NAME": 9274,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 5
+                    }
+                ],
+                "LIMIT": 2,
+                "PRICE": 648,
+                "EXP": 6480
+            },
+            {
+                "ID": 149,
+                "NAME": 9274,
+                "CHANCE": 100,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32596,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 4
+                    }
+                ],
+                "LIMIT": 3,
+                "PRICE": 648,
+                "EXP": 6480
+            },
+            {
+                "ID": 150,
+                "NAME": 9273,
+                "CHANCE": 50,
+                "ITEMS": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32128,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32588,
+                        "COUNT": 1
+                    }
+                ],
+                "LIMIT": 3,
+                "PRICE": 648,
+                "EXP": 6480
+            }
+        ]
+    }
+}

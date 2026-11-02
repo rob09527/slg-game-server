@@ -1,0 +1,650 @@
+[
+    {
+        "ID": 10081,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10101,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10121,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10141,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10082,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10102,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10122,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10142,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10161,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10181,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10201,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10221,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10241,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10261,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10281,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10301,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10321,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10361,
+        "CHANCE": 2,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10381,
+        "CHANCE": 2,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12081,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12101,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12121,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12141,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12082,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12102,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12122,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12142,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12161,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12181,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 1,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12201,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12221,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12241,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12261,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12281,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12301,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12321,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12341,
+        "CHANCE": 2,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12361,
+        "CHANCE": 1,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14081,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14101,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14121,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14141,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14082,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14102,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14122,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14142,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14161,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14181,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14201,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14221,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14241,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14261,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14281,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14301,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14321,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14341,
+        "CHANCE": 2,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14381,
+        "CHANCE": 1,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16081,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16101,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16121,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16141,
+        "CHANCE": 10,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16082,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16102,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16122,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16142,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16161,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16181,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16201,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16221,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16241,
+        "CHANCE": 15,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16261,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16281,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16301,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16321,
+        "CHANCE": 5,
+        "MINLV": 1,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16341,
+        "CHANCE": 1,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16361,
+        "CHANCE": 2,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12401,
+        "CHANCE": 2,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 10341,
+        "CHANCE": 1,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 12381,
+        "CHANCE": 2,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 16381,
+        "CHANCE": 2,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    },
+    {
+        "ID": 14361,
+        "CHANCE": 2,
+        "MINLV": 70,
+        "MAXLV": 999,
+        "MINVIP": 0,
+        "MAXVIP": 13
+    }
+]

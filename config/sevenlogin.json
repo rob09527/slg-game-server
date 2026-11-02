@@ -1,0 +1,170 @@
+[
+    {
+        "DAY": 1,
+        "EXP": 60,
+        "PRICE": 6,
+        "LIMIT": 1,
+        "ITEMS": [
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 100
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 100000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 50000
+            }
+        ]
+    },
+    {
+        "DAY": 2,
+        "EXP": 100,
+        "PRICE": 10,
+        "LIMIT": 1,
+        "ITEMS": [
+            {
+                "GSID": 14282,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 200
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 200000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 100000
+            }
+        ]
+    },
+    {
+        "DAY": 3,
+        "EXP": 140,
+        "PRICE": 14,
+        "LIMIT": 1,
+        "ITEMS": [
+            {
+                "GSID": 10141,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 300
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 400000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 200000
+            }
+        ]
+    },
+    {
+        "DAY": 4,
+        "EXP": 180,
+        "PRICE": 18,
+        "LIMIT": 1,
+        "ITEMS": [
+            {
+                "GSID": 30006,
+                "COUNT": 5
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 400
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 250000
+            }
+        ]
+    },
+    {
+        "DAY": 5,
+        "EXP": 220,
+        "PRICE": 22,
+        "LIMIT": 1,
+        "ITEMS": [
+            {
+                "GSID": 30006,
+                "COUNT": 5
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 500
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 250000
+            }
+        ]
+    },
+    {
+        "DAY": 6,
+        "EXP": 260,
+        "PRICE": 26,
+        "LIMIT": 1,
+        "ITEMS": [
+            {
+                "GSID": 30011,
+                "COUNT": 2
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 1000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 500000
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 250000
+            }
+        ]
+    },
+    {
+        "DAY": 7,
+        "EXP": 300,
+        "PRICE": 30,
+        "LIMIT": 1,
+        "ITEMS": [
+            {
+                "GSID": 33011,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33111,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33211,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33311,
+                "COUNT": 1
+            }
+        ]
+    }
+]

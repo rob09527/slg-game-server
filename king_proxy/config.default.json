@@ -1,0 +1,30 @@
+{
+	"ANNO": "./tmp/anno",
+	"UDP": "./tmp/update",
+	"MAINTAIN": "./tmp/maintain",
+	"WLUID": [],
+	"NO_ENCRYPT_URLs": [
+		"/client/notice/h5",
+		"/client/notice/top",
+		"/sdk/demo/payment"
+	],
+	"TOKENSALT": "YOUR_TOKEN_SALT",
+	"CIPHER": {
+		"ALGORITHM": "aes-128-cbc",
+		"KEY": "YOUR_CIPHER_KEY_",
+		"IV": "YOUR_CIPHER_IV__"
+	},
+	"DB": {
+		"HOST": "localhost",
+		"PORT": 17016,
+		"NAME": "test",
+		"AUTH": {
+			"USER": "root",
+			"PWD": "YOUR_DB_PASSWORD",
+			"SOURCE": "admin"
+		}
+	},
+	"SERVINFO": {
+		"port": 8001
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "name": "battlelogic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {
+    "pm2": "pm2 kill && pm2 start server.js --name battlelogic -i max",
+    "pm2_52": "pm2 start server.js --name battlelogic",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:SAAPCOCO/MCG_threekings_battlelogic.git"
+  },
+  "keywords": [],
+  "author": "kelvin.man",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

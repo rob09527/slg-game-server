@@ -1,0 +1,394 @@
+{
+    "61001": {
+        "GSID": 61001,
+        "QUALITY": 1,
+        "CHANCE": 100,
+        "SKILL": 61001,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 4896
+        },
+        "ADD": {
+            "HP": 1224
+        }
+    },
+    "61002": {
+        "GSID": 61002,
+        "QUALITY": 1,
+        "CHANCE": 100,
+        "SKILL": 61002,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 200
+        },
+        "ADD": {
+            "ATK": 50
+        }
+    },
+    "61003": {
+        "GSID": 61003,
+        "QUALITY": 1,
+        "CHANCE": 100,
+        "SKILL": 61003,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 3264
+        },
+        "ADD": {
+            "HP": 816
+        }
+    },
+    "61004": {
+        "GSID": 61004,
+        "QUALITY": 1,
+        "CHANCE": 100,
+        "SKILL": 61004,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 134
+        },
+        "ADD": {
+            "ATK": 34
+        }
+    },
+    "61011": {
+        "GSID": 61011,
+        "QUALITY": 2,
+        "CHANCE": 100,
+        "SKILL": 61011,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 9792
+        },
+        "ADD": {
+            "HP": 2448
+        }
+    },
+    "61012": {
+        "GSID": 61012,
+        "QUALITY": 2,
+        "CHANCE": 100,
+        "SKILL": 61012,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 403
+        },
+        "ADD": {
+            "ATK": 101
+        }
+    },
+    "61013": {
+        "GSID": 61013,
+        "QUALITY": 2,
+        "CHANCE": 100,
+        "SKILL": 61013,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 6528
+        },
+        "ADD": {
+            "HP": 1632
+        }
+    },
+    "61014": {
+        "GSID": 61014,
+        "QUALITY": 2,
+        "CHANCE": 100,
+        "SKILL": 61014,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 269
+        },
+        "ADD": {
+            "ATK": 67
+        }
+    },
+    "61015": {
+        "GSID": 61015,
+        "QUALITY": 2,
+        "CHANCE": 100,
+        "SKILL": 61015,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 19584
+        },
+        "ADD": {
+            "HP": 4896
+        }
+    },
+    "61016": {
+        "GSID": 61016,
+        "QUALITY": 2,
+        "CHANCE": 100,
+        "SKILL": 61016,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 806
+        },
+        "ADD": {
+            "ATK": 202
+        }
+    },
+    "61021": {
+        "GSID": 61021,
+        "QUALITY": 3,
+        "CHANCE": 100,
+        "SKILL": 61021,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 13056
+        },
+        "ADD": {
+            "HP": 3264
+        },
+        "AWAKE_AFTER": 61026,
+        "AWAKE_NUM": 0
+    },
+    "61022": {
+        "GSID": 61022,
+        "QUALITY": 3,
+        "CHANCE": 100,
+        "SKILL": 61022,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 538
+        },
+        "ADD": {
+            "ATK": 134
+        },
+        "AWAKE_AFTER": 61027,
+        "AWAKE_NUM": 0
+    },
+    "61023": {
+        "GSID": 61023,
+        "QUALITY": 3,
+        "CHANCE": 100,
+        "SKILL": 61023,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 34272
+        },
+        "ADD": {
+            "HP": 8568
+        },
+        "AWAKE_AFTER": 61028,
+        "AWAKE_NUM": 0
+    },
+    "61024": {
+        "GSID": 61024,
+        "QUALITY": 3,
+        "CHANCE": 100,
+        "SKILL": 61024,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 1411
+        },
+        "ADD": {
+            "ATK": 353
+        },
+        "AWAKE_AFTER": 61029,
+        "AWAKE_NUM": 0
+    },
+    "61026": {
+        "GSID": 61026,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61026,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 22848
+        },
+        "ADD": {
+            "HP": 5712
+        },
+        "AWAKE_AFTER": 61031,
+        "AWAKE_NUM": 1
+    },
+    "61027": {
+        "GSID": 61027,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61027,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 941
+        },
+        "ADD": {
+            "ATK": 235
+        },
+        "AWAKE_AFTER": 61032,
+        "AWAKE_NUM": 1
+    },
+    "61028": {
+        "GSID": 61028,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61028,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 48960
+        },
+        "ADD": {
+            "HP": 12240
+        },
+        "AWAKE_AFTER": 61033,
+        "AWAKE_NUM": 1
+    },
+    "61029": {
+        "GSID": 61029,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61029,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 2016
+        },
+        "ADD": {
+            "ATK": 504
+        },
+        "AWAKE_AFTER": 61034,
+        "AWAKE_NUM": 1
+    },
+    "61031": {
+        "GSID": 61031,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61031,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 22848
+        },
+        "ADD": {
+            "HP": 5712
+        },
+        "AWAKE_AFTER": 61036,
+        "AWAKE_NUM": 2
+    },
+    "61032": {
+        "GSID": 61032,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61032,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 941
+        },
+        "ADD": {
+            "ATK": 235
+        },
+        "AWAKE_AFTER": 61037,
+        "AWAKE_NUM": 2
+    },
+    "61033": {
+        "GSID": 61033,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61033,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 48960
+        },
+        "ADD": {
+            "HP": 12240
+        },
+        "AWAKE_AFTER": 61038,
+        "AWAKE_NUM": 2
+    },
+    "61034": {
+        "GSID": 61034,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61034,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 2016
+        },
+        "ADD": {
+            "ATK": 504
+        },
+        "AWAKE_AFTER": 61039,
+        "AWAKE_NUM": 2
+    },
+    "61036": {
+        "GSID": 61036,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61036,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 22848
+        },
+        "ADD": {
+            "HP": 5712
+        },
+        "AWAKE_NUM": 3
+    },
+    "61037": {
+        "GSID": 61037,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61037,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 941
+        },
+        "ADD": {
+            "ATK": 235
+        },
+        "AWAKE_NUM": 3
+    },
+    "61038": {
+        "GSID": 61038,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61038,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "HP": 48960
+        },
+        "ADD": {
+            "HP": 12240
+        },
+        "AWAKE_NUM": 3
+    },
+    "61039": {
+        "GSID": 61039,
+        "QUALITY": 4,
+        "CHANCE": 100,
+        "SKILL": 61039,
+        "MAXLEVEL": 80,
+        "MAXRAISE": 80,
+        "ATTR": {
+            "ATK": 2016
+        },
+        "ADD": {
+            "ATK": 504
+        },
+        "AWAKE_NUM": 3
+    }
+}

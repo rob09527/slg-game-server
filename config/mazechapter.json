@@ -1,0 +1,194 @@
+[
+    {
+        "PREID": 0,
+        "ID": 101,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    1,
+                    30
+                ]
+            },
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    1,
+                    270000
+                ]
+            }
+        ],
+        "MONSTER_ADD_FLOOR": 1,
+        "REWARDS_ADD_FLOOR": 1,
+        "RANDOM_ITEMS": [
+            {
+                "GSID": 36021,
+                "W": 1,
+                "COUNT": [
+                    30,
+                    30
+                ]
+            },
+            {
+                "GSID": 36001,
+                "W": 1,
+                "COUNT": [
+                    5,
+                    5
+                ]
+            },
+            {
+                "GSID": 30015,
+                "W": 1,
+                "COUNT": [
+                    180,
+                    180
+                ]
+            }
+        ]
+    },
+    {
+        "PREID": 1,
+        "ID": 102,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    1,
+                    30
+                ]
+            },
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    1,
+                    270000
+                ]
+            }
+        ],
+        "MONSTER_ADD_FLOOR": 1.2,
+        "REWARDS_ADD_FLOOR": 1,
+        "RANDOM_ITEMS": [
+            {
+                "GSID": 36021,
+                "W": 1,
+                "COUNT": [
+                    30,
+                    30
+                ]
+            },
+            {
+                "GSID": 36001,
+                "W": 1,
+                "COUNT": [
+                    5,
+                    5
+                ]
+            },
+            {
+                "GSID": 30015,
+                "W": 1,
+                "COUNT": [
+                    180,
+                    180
+                ]
+            }
+        ]
+    },
+    {
+        "PREID": 2,
+        "ID": 103,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    1,
+                    30
+                ]
+            },
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    1,
+                    270000
+                ]
+            }
+        ],
+        "MONSTER_ADD_FLOOR": 1.4,
+        "REWARDS_ADD_FLOOR": 1,
+        "RANDOM_ITEMS": [
+            {
+                "GSID": 36021,
+                "W": 1,
+                "COUNT": [
+                    30,
+                    30
+                ]
+            },
+            {
+                "GSID": 36001,
+                "W": 1,
+                "COUNT": [
+                    5,
+                    5
+                ]
+            },
+            {
+                "GSID": 30015,
+                "W": 1,
+                "COUNT": [
+                    180,
+                    180
+                ]
+            }
+        ]
+    },
+    {
+        "PREID": 2,
+        "ID": 203,
+        "ITEMS": [
+            {
+                "GSID": 30015,
+                "COUNT": [
+                    1,
+                    60
+                ]
+            },
+            {
+                "GSID": 38006,
+                "COUNT": [
+                    1,
+                    540000
+                ]
+            }
+        ],
+        "MONSTER_ADD_FLOOR": 1.7,
+        "REWARDS_ADD_FLOOR": 2,
+        "RANDOM_ITEMS": [
+            {
+                "GSID": 36021,
+                "W": 1,
+                "COUNT": [
+                    60,
+                    60
+                ]
+            },
+            {
+                "GSID": 36001,
+                "W": 1,
+                "COUNT": [
+                    10,
+                    10
+                ]
+            },
+            {
+                "GSID": 30015,
+                "W": 1,
+                "COUNT": [
+                    360,
+                    360
+                ]
+            }
+        ]
+    }
+]

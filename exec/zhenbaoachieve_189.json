@@ -1,0 +1,23 @@
+{
+    "REQUIRE": [
+        {
+            "GSID": 98403,
+            "MINCOUNT": 480
+        },
+        {
+            "GSID": 98409,
+            "COUNT": 96
+        }
+    ],
+    "FROM": [],
+    "TO": [
+        {
+            "GSID": 30129,
+            "COUNT": 1
+        },
+        {
+            "GSID": 98409,
+            "COUNT": 1
+        }
+    ]
+}

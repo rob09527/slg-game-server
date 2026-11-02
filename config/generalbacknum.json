@@ -1,0 +1,57 @@
+{
+    "STAR6": {
+        "STAR5_SELF": 2,
+        "STAR5_RANK": 4,
+        "STAR6_RANK": 0,
+        "STAR9_RANK": 0
+    },
+    "STAR7": {
+        "STAR5_SELF": 2,
+        "STAR5_RANK": 8,
+        "STAR6_RANK": 0,
+        "STAR9_RANK": 0
+    },
+    "STAR8": {
+        "STAR5_SELF": 2,
+        "STAR5_RANK": 11,
+        "STAR6_RANK": 1,
+        "STAR9_RANK": 0
+    },
+    "STAR9": {
+        "STAR5_SELF": 3,
+        "STAR5_RANK": 13,
+        "STAR6_RANK": 2,
+        "STAR9_RANK": 0
+    },
+    "STAR10": {
+        "STAR5_SELF": 5,
+        "STAR5_RANK": 13,
+        "STAR6_RANK": 3,
+        "STAR9_RANK": 1
+    },
+    "STAR11": {
+        "STAR5_SELF": 6,
+        "STAR5_RANK": 13,
+        "STAR6_RANK": 3,
+        "STAR9_RANK": 2
+    },
+    "STAR12": {
+        "STAR5_SELF": 8,
+        "STAR5_RANK": 17,
+        "STAR6_RANK": 3,
+        "STAR9_RANK": 3
+    },
+    "STAR13": {
+        "STAR5_SELF": 10,
+        "STAR5_RANK": 21,
+        "STAR6_RANK": 3,
+        "STAR9_RANK": 4
+    },
+    "STAR14": {
+        "STAR5_SELF": 12,
+        "STAR5_RANK": 25,
+        "STAR6_RANK": 3,
+        "STAR9_RANK": 4,
+        "STAR10_RANK": 1
+    }
+}

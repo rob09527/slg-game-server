@@ -1,0 +1,10 @@
+{
+    "REQUIRE": [],
+    "FROM": [
+        {
+            "GSID": 32112,
+            "COUNT": 1
+        }
+    ],
+    "PROBTO": "prob_rbox_32112"
+}

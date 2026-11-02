@@ -1,0 +1,332 @@
+{
+    "101": {
+        "0": {
+            "gsid": 10366,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "1": {
+            "gsid": 10186,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "5": {
+            "gsid": 12286,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "6": {
+            "gsid": 12246,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "9": {
+            "gsid": 16326,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "10": {
+            "gsid": 14366,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "11": {
+            "gsid": 14246,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "zhenfa": {
+            "id": 101,
+            "lv": 15,
+            "pickAttr": {
+                "pasp": 150
+            },
+            "skillID": 30001
+        }
+    },
+    "102": {
+        "1": {
+            "gsid": 14346,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "2": {
+            "gsid": 17126,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "3": {
+            "gsid": 16206,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "7": {
+            "gsid": 10266,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "10": {
+            "gsid": 16266,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "12": {
+            "gsid": 12166,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "14": {
+            "gsid": 10386,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "zhenfa": {
+            "id": 102,
+            "lv": 15,
+            "pickAttr": {
+                "pmdef": 100
+            },
+            "skillID": 30101
+        }
+    },
+    "103": {
+        "2": {
+            "gsid": 18146,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "5": {
+            "gsid": 16346,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "6": {
+            "gsid": 12186,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "8": {
+            "gsid": 10286,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "9": {
+            "gsid": 10306,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "11": {
+            "gsid": 17106,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "13": {
+            "gsid": 12326,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "zhenfa": {
+            "id": 103,
+            "lv": 15,
+            "pickAttr": {
+                "pprdc": 50
+            },
+            "skillID": 30201
+        }
+    },
+    "104": {
+        "0": {
+            "gsid": 18066,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "1": {
+            "gsid": 12386,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "7": {
+            "gsid": 12206,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "8": {
+            "gsid": 14386,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "10": {
+            "gsid": 16306,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "12": {
+            "gsid": 18106,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "13": {
+            "gsid": 17146,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "zhenfa": {
+            "id": 104,
+            "lv": 15,
+            "pickAttr": {
+                "pmrdc": 50
+            },
+            "skillID": 30301
+        }
+    },
+    "105": {
+        "0": {
+            "gsid": 10166,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "5": {
+            "gsid": 12266,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "6": {
+            "gsid": 16366,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "10": {
+            "gsid": 10326,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "11": {
+            "gsid": 14206,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "12": {
+            "gsid": 14306,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "13": {
+            "gsid": 12366,
+            "level": 300,
+            "hpcover": 1,
+            "class": 6,
+            "exhp": 7142857143,
+            "exatk": 12
+        },
+        "zhenfa": {
+            "id": 105,
+            "lv": 15,
+            "pickAttr": {
+                "pmdex": 50
+            },
+            "skillID": 30401
+        }
+    }
+}

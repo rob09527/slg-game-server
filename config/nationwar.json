@@ -1,0 +1,12 @@
+{
+    "SCORE": {
+        "WIN_BASE": 500000,
+        "LOSE_BASE": 250000,
+        "ATTCK_CITY": 1000000,
+        "MAXHP": 50000000,
+        "NO_ATTACK": 175000
+    },
+    "BASE": {
+        "MOVE_TEAM_INTERVAL": 0.5
+    }
+}

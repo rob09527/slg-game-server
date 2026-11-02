@@ -1,0 +1,23 @@
+{
+    "REQUIRE": [
+        {
+            "GSID": 90487,
+            "COUNT": 0
+        },
+        {
+            "GSID": "_legion.score",
+            "MINCOUNT": 100
+        }
+    ],
+    "FROM": [],
+    "TO": [
+        {
+            "GSID": 90487,
+            "COUNT": 1
+        },
+        {
+            "GSID": 36001,
+            "COUNT": 50
+        }
+    ]
+}

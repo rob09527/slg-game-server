@@ -1,0 +1,88 @@
+{
+    "EVENT": [
+        {
+            "MARK": 98911,
+            "PMARK": 98912,
+            "NUM": 5,
+            "TASKTYPE": "recharge_3",
+            "CAST": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "MARK": 98913,
+            "PMARK": 98914,
+            "NUM": 15,
+            "CAST": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 160000
+                }
+            ]
+        }
+    ],
+    "RECYCLE": [
+        {
+            "MARK": 30166,
+            "GSID": 38005,
+            "COUNT": 1
+        },
+        {
+            "MARK": 30167,
+            "GSID": 38005,
+            "COUNT": 1
+        },
+        {
+            "MARK": 30168,
+            "GSID": 38005,
+            "COUNT": 1
+        },
+        {
+            "MARK": 30169,
+            "GSID": 38005,
+            "COUNT": 1
+        }
+    ],
+    "EXEC": [
+        98908,
+        98909,
+        98915,
+        98916
+    ],
+    "OTHER": {
+        "LEVEL": 30,
+        "RATE": 50,
+        "LIVENUMBER": 1,
+        "TITLE": 1,
+        "CONTENT": 1
+    },
+    "OUTPUT": [
+        {
+            "GSID": 30166,
+            "CHANCE": 25
+        },
+        {
+            "GSID": 30167,
+            "CHANCE": 25
+        },
+        {
+            "GSID": 30168,
+            "CHANCE": 25
+        },
+        {
+            "GSID": 30169,
+            "CHANCE": 25
+        }
+    ]
+}

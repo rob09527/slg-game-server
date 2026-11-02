@@ -1,0 +1,116 @@
+{
+    "POOL": [
+        {
+            "GSID": 42013,
+            "COUNT": 3,
+            "CHANCE": 20
+        },
+        {
+            "GSID": 30001,
+            "COUNT": 100000,
+            "CHANCE": 200
+        },
+        {
+            "GSID": 42013,
+            "COUNT": 5,
+            "CHANCE": 15
+        },
+        {
+            "GSID": 38006,
+            "COUNT": 200000,
+            "CHANCE": 200
+        },
+        {
+            "GSID": 30026,
+            "COUNT": 250,
+            "CHANCE": 50
+        },
+        {
+            "GSID": 30015,
+            "COUNT": 100,
+            "CHANCE": 100
+        },
+        {
+            "GSID": 42013,
+            "COUNT": 1,
+            "CHANCE": 180
+        },
+        {
+            "GSID": 36021,
+            "COUNT": 20,
+            "CHANCE": 70
+        }
+    ],
+    "COST": [
+        {
+            "GSID": 30170,
+            "COUNT": 1,
+            "SCORE": 5,
+            "TIMES": 1
+        },
+        {
+            "GSID": 30170,
+            "COUNT": 10,
+            "SCORE": 50,
+            "TIMES": 10
+        }
+    ],
+    "FREE": 24,
+    "REWARD": [
+        {
+            "SCORE": 100,
+            "SIGN": 90010,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "SCORE": 300,
+            "SIGN": 90011,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "SCORE": 500,
+            "SIGN": 90012,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                }
+            ]
+        },
+        {
+            "SCORE": 800,
+            "SIGN": 90013,
+            "ITEMS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "SCORE": 1000,
+            "SIGN": 90014,
+            "ITEMS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 50
+                }
+            ]
+        }
+    ],
+    "MTITLE": "星盘奖励",
+    "MCONTENT": "您有未领取的星盘积分奖励，请领取！",
+    "GENERAL": [
+        17141
+    ]
+}

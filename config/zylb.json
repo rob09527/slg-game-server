@@ -1,0 +1,114 @@
+[
+    [
+        {
+            "OCC": 1,
+            "ICON": "icon_czzp",
+            "BG1": "bg_cclb_01",
+            "BG2": "bg_cclb_02",
+            "HERO": "hero_spr_sunce",
+            "HERONAME": "hero_name_sunce",
+            "TXBIG": "tx_jhzl_big1",
+            "NORMAL": "tx_jhzl_normal",
+            "CHECK": "tx_jhzl_check",
+            "VALUE": 5000,
+            "PRICE": 328,
+            "EXP": 3280,
+            "LIMIT": 1,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 32572,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 12
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "OCC": 2,
+            "ICON": "icon_czzp",
+            "BG1": "bg_cclb_01",
+            "BG2": "bg_cclb_02",
+            "HERO": "hero_spr_zhaoyun",
+            "HERONAME": "hero_name_zhaoyun",
+            "TXBIG": "tx_jhzl_big2",
+            "NORMAL": "tx_jhzl_normal",
+            "CHECK": "tx_jhzl_check",
+            "VALUE": 5000,
+            "PRICE": 328,
+            "EXP": 3280,
+            "LIMIT": 1,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 32572,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 12
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "OCC": 3,
+            "ICON": "icon_czzp",
+            "BG1": "bg_cclb_01",
+            "BG2": "bg_cclb_02",
+            "HERO": "hero_spr_liuxiu",
+            "HERONAME": "hero_name_liuxiu",
+            "TXBIG": "tx_jhzl_big4",
+            "NORMAL": "tx_jhzl_normal",
+            "CHECK": "tx_jhzl_check",
+            "VALUE": 5000,
+            "PRICE": 328,
+            "EXP": 3280,
+            "LIMIT": 1,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 32572,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 12
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "OCC": 4,
+            "ICON": "icon_czzp",
+            "BG1": "bg_cclb_01",
+            "BG2": "bg_cclb_02",
+            "HERO": "hero_spr_yuji",
+            "HERONAME": "hero_name_yuji",
+            "TXBIG": "tx_jhzl_big3",
+            "NORMAL": "tx_jhzl_normal",
+            "CHECK": "tx_jhzl_check",
+            "VALUE": 5000,
+            "PRICE": 328,
+            "EXP": 3280,
+            "LIMIT": 1,
+            "SPECIAL": [],
+            "ITEMS": [
+                {
+                    "GSID": 32572,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 12
+                }
+            ]
+        }
+    ]
+]

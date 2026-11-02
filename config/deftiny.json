@@ -1,0 +1,2116 @@
+{
+    "QUALITY": {
+        "10101": {
+            "ATT": {
+                "atk": 10
+            },
+            "NAME": "攻击 +10",
+            "QUALITY": 102,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10102": {
+            "ATT": {
+                "atk": 20
+            },
+            "NAME": "攻击 +20",
+            "QUALITY": 102,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10103": {
+            "ATT": {
+                "atk": 50
+            },
+            "NAME": "攻击 +50",
+            "QUALITY": 102,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10105": {
+            "ATT": {
+                "atk": 100
+            },
+            "NAME": "攻击 +100",
+            "QUALITY": 102,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 44,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10106": {
+            "ATT": {
+                "atk": 200
+            },
+            "NAME": "攻击 +200",
+            "QUALITY": 102,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10108": {
+            "ATT": {
+                "atk": 500
+            },
+            "NAME": "攻击 +500",
+            "QUALITY": 102,
+            "RARITY": 1,
+            "CHANCE": 50,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10109": {
+            "ATT": {
+                "atk": 1000
+            },
+            "NAME": "攻击 +1000",
+            "QUALITY": 102,
+            "RARITY": 1,
+            "CHANCE": 25,
+            "MIN_LV": 45,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10110": {
+            "ATT": {
+                "atk": 2000
+            },
+            "NAME": "攻击 +2000",
+            "QUALITY": 102,
+            "RARITY": 1,
+            "CHANCE": 25,
+            "MIN_LV": 40,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10111": {
+            "ATT": {
+                "atk": 3000
+            },
+            "NAME": "攻击 +3000",
+            "QUALITY": 102,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 60
+        },
+        "10113": {
+            "ATT": {
+                "atk": 5000
+            },
+            "NAME": "攻击 +5000",
+            "QUALITY": 102,
+            "RARITY": 2,
+            "CHANCE": 10,
+            "MIN_LV": 65,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10116": {
+            "ATT": {
+                "hp": 100
+            },
+            "NAME": "生命 +100",
+            "QUALITY": 101,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10117": {
+            "ATT": {
+                "hp": 200
+            },
+            "NAME": "生命 +200",
+            "QUALITY": 101,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10118": {
+            "ATT": {
+                "hp": 500
+            },
+            "NAME": "生命 +500",
+            "QUALITY": 101,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10120": {
+            "ATT": {
+                "hp": 1000
+            },
+            "NAME": "生命 +1000",
+            "QUALITY": 101,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 44,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10121": {
+            "ATT": {
+                "hp": 2000
+            },
+            "NAME": "生命 +2000",
+            "QUALITY": 101,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10123": {
+            "ATT": {
+                "hp": 5000
+            },
+            "NAME": "生命 +5000",
+            "QUALITY": 101,
+            "RARITY": 1,
+            "CHANCE": 50,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10124": {
+            "ATT": {
+                "hp": 10000
+            },
+            "NAME": "生命 +10000",
+            "QUALITY": 101,
+            "RARITY": 1,
+            "CHANCE": 25,
+            "MIN_LV": 45,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10125": {
+            "ATT": {
+                "hp": 20000
+            },
+            "NAME": "生命 +20000",
+            "QUALITY": 101,
+            "RARITY": 1,
+            "CHANCE": 25,
+            "MIN_LV": 40,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10126": {
+            "ATT": {
+                "hp": 30000
+            },
+            "NAME": "生命 +30000",
+            "QUALITY": 101,
+            "RARITY": 2,
+            "CHANCE": 10,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 60
+        },
+        "10128": {
+            "ATT": {
+                "hp": 50000
+            },
+            "NAME": "生命 +50000",
+            "QUALITY": 101,
+            "RARITY": 2,
+            "CHANCE": 5,
+            "MIN_LV": 65,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10136": {
+            "ATT": {
+                "def": 5
+            },
+            "NAME": "护甲 +5",
+            "QUALITY": 103,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10137": {
+            "ATT": {
+                "def": 8
+            },
+            "NAME": "护甲 +8",
+            "QUALITY": 103,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10138": {
+            "ATT": {
+                "def": 10
+            },
+            "NAME": "护甲 +10",
+            "QUALITY": 103,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10139": {
+            "ATT": {
+                "def": 12
+            },
+            "NAME": "护甲 +12",
+            "QUALITY": 103,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 44,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10140": {
+            "ATT": {
+                "def": 15
+            },
+            "NAME": "护甲 +15",
+            "QUALITY": 103,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10141": {
+            "ATT": {
+                "def": 20
+            },
+            "NAME": "护甲 +20",
+            "QUALITY": 103,
+            "RARITY": 1,
+            "CHANCE": 50,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10142": {
+            "ATT": {
+                "def": 30
+            },
+            "NAME": "护甲 +30",
+            "QUALITY": 103,
+            "RARITY": 1,
+            "CHANCE": 25,
+            "MIN_LV": 45,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10143": {
+            "ATT": {
+                "def": 40
+            },
+            "NAME": "护甲 +40",
+            "QUALITY": 103,
+            "RARITY": 1,
+            "CHANCE": 25,
+            "MIN_LV": 40,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10144": {
+            "ATT": {
+                "def": 50
+            },
+            "NAME": "护甲 +50",
+            "QUALITY": 103,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 60
+        },
+        "10145": {
+            "ATT": {
+                "def": 60
+            },
+            "NAME": "护甲 +60",
+            "QUALITY": 103,
+            "RARITY": 2,
+            "CHANCE": 10,
+            "MIN_LV": 65,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10146": {
+            "ATT": {
+                "mdef": 5
+            },
+            "NAME": "魔抗 +5",
+            "QUALITY": 104,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10147": {
+            "ATT": {
+                "mdef": 8
+            },
+            "NAME": "魔抗 +8",
+            "QUALITY": 104,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10148": {
+            "ATT": {
+                "mdef": 10
+            },
+            "NAME": "魔抗 +10",
+            "QUALITY": 104,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10149": {
+            "ATT": {
+                "mdef": 12
+            },
+            "NAME": "魔抗 +12",
+            "QUALITY": 104,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 44,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10150": {
+            "ATT": {
+                "mdef": 15
+            },
+            "NAME": "魔抗 +15",
+            "QUALITY": 104,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10151": {
+            "ATT": {
+                "mdef": 20
+            },
+            "NAME": "魔抗 +20",
+            "QUALITY": 104,
+            "RARITY": 1,
+            "CHANCE": 50,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10152": {
+            "ATT": {
+                "mdef": 30
+            },
+            "NAME": "魔抗 +30",
+            "QUALITY": 104,
+            "RARITY": 1,
+            "CHANCE": 25,
+            "MIN_LV": 45,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10153": {
+            "ATT": {
+                "mdef": 40
+            },
+            "NAME": "魔抗 +40",
+            "QUALITY": 104,
+            "RARITY": 1,
+            "CHANCE": 25,
+            "MIN_LV": 40,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10154": {
+            "ATT": {
+                "mdef": 50
+            },
+            "NAME": "魔抗 +50",
+            "QUALITY": 104,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 60
+        },
+        "10155": {
+            "ATT": {
+                "mdef": 60
+            },
+            "NAME": "魔抗 +60",
+            "QUALITY": 104,
+            "RARITY": 2,
+            "CHANCE": 10,
+            "MIN_LV": 65,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 36
+        },
+        "10156": {
+            "ATT": {
+                "mp": 2
+            },
+            "NAME": "初始怒气 +2",
+            "QUALITY": 105,
+            "RARITY": 0,
+            "CHANCE": 50,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10157": {
+            "ATT": {
+                "mp": 3
+            },
+            "NAME": "初始怒气 +3",
+            "QUALITY": 105,
+            "RARITY": 0,
+            "CHANCE": 50,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10158": {
+            "ATT": {
+                "mp": 5
+            },
+            "NAME": "初始怒气 +5",
+            "QUALITY": 105,
+            "RARITY": 0,
+            "CHANCE": 80,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10159": {
+            "ATT": {
+                "mp": 8
+            },
+            "NAME": "初始怒气 +8",
+            "QUALITY": 105,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 44,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10160": {
+            "ATT": {
+                "mp": 10
+            },
+            "NAME": "初始怒气 +10",
+            "QUALITY": 105,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10161": {
+            "ATT": {
+                "mp": 12
+            },
+            "NAME": "初始怒气 +12",
+            "QUALITY": 105,
+            "RARITY": 1,
+            "CHANCE": 50,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10162": {
+            "ATT": {
+                "mp": 15
+            },
+            "NAME": "初始怒气 +15",
+            "QUALITY": 105,
+            "RARITY": 1,
+            "CHANCE": 25,
+            "MIN_LV": 45,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10163": {
+            "ATT": {
+                "mp": 18
+            },
+            "NAME": "初始怒气 +18",
+            "QUALITY": 105,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 40,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10164": {
+            "ATT": {
+                "mp": 20
+            },
+            "NAME": "初始怒气 +20",
+            "QUALITY": 105,
+            "RARITY": 2,
+            "CHANCE": 15,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 60
+        },
+        "10165": {
+            "ATT": {
+                "mp": 25
+            },
+            "NAME": "初始怒气 +25",
+            "QUALITY": 105,
+            "RARITY": 2,
+            "CHANCE": 8,
+            "MIN_LV": 65,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10166": {
+            "ATT": {
+                "msp": 20
+            },
+            "NAME": "移动速度 +2%",
+            "QUALITY": 108,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10167": {
+            "ATT": {
+                "msp": 30
+            },
+            "NAME": "移动速度 +3%",
+            "QUALITY": 108,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10168": {
+            "ATT": {
+                "msp": 40
+            },
+            "NAME": "移动速度 +4%",
+            "QUALITY": 108,
+            "RARITY": 0,
+            "CHANCE": 200,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10169": {
+            "ATT": {
+                "msp": 50
+            },
+            "NAME": "移动速度 +5%",
+            "QUALITY": 108,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10170": {
+            "ATT": {
+                "msp": 100
+            },
+            "NAME": "移动速度 +10%",
+            "QUALITY": 108,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10171": {
+            "ATT": {
+                "msp": 150
+            },
+            "NAME": "移动速度 +15%",
+            "QUALITY": 108,
+            "RARITY": 1,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10172": {
+            "ATT": {
+                "msp": 200
+            },
+            "NAME": "移动速度 +20%",
+            "QUALITY": 108,
+            "RARITY": 1,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10173": {
+            "ATT": {
+                "msp": 250
+            },
+            "NAME": "移动速度 +25%",
+            "QUALITY": 108,
+            "RARITY": 2,
+            "CHANCE": 300,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10174": {
+            "ATT": {
+                "msp": 300
+            },
+            "NAME": "移动速度 +30%",
+            "QUALITY": 108,
+            "RARITY": 2,
+            "CHANCE": 400,
+            "MIN_LV": 1,
+            "MAX_LV": 60,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10175": {
+            "ATT": {
+                "msp": 500
+            },
+            "NAME": "移动速度 +50%",
+            "QUALITY": 108,
+            "RARITY": 2,
+            "CHANCE": 500,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10176": {
+            "ATT": {
+                "pmps": 20
+            },
+            "NAME": "怒气恢复 +2%",
+            "QUALITY": 201,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10177": {
+            "ATT": {
+                "pmps": 30
+            },
+            "NAME": "怒气恢复 +3%",
+            "QUALITY": 201,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10178": {
+            "ATT": {
+                "pmps": 40
+            },
+            "NAME": "怒气恢复 +4%",
+            "QUALITY": 201,
+            "RARITY": 0,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10179": {
+            "ATT": {
+                "pmps": 50
+            },
+            "NAME": "怒气恢复 +5%",
+            "QUALITY": 201,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10180": {
+            "ATT": {
+                "pmps": 80
+            },
+            "NAME": "怒气恢复 +8%",
+            "QUALITY": 201,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10181": {
+            "ATT": {
+                "pmps": 100
+            },
+            "NAME": "怒气恢复 +10%",
+            "QUALITY": 201,
+            "RARITY": 1,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10182": {
+            "ATT": {
+                "pmps": 120
+            },
+            "NAME": "怒气恢复 +12%",
+            "QUALITY": 201,
+            "RARITY": 1,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10183": {
+            "ATT": {
+                "pmps": 150
+            },
+            "NAME": "怒气恢复 +15%",
+            "QUALITY": 201,
+            "RARITY": 2,
+            "CHANCE": 300,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10184": {
+            "ATT": {
+                "pmps": 180
+            },
+            "NAME": "怒气恢复 +18%",
+            "QUALITY": 201,
+            "RARITY": 2,
+            "CHANCE": 300,
+            "MIN_LV": 1,
+            "MAX_LV": 55,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10185": {
+            "ATT": {
+                "pmps": 200
+            },
+            "NAME": "怒气恢复 +20%",
+            "QUALITY": 201,
+            "RARITY": 2,
+            "CHANCE": 250,
+            "MIN_LV": 1,
+            "MAX_LV": 55,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10186": {
+            "ATT": {
+                "pasp": 5
+            },
+            "NAME": "攻速 +0.5%",
+            "QUALITY": 202,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10187": {
+            "ATT": {
+                "pasp": 8
+            },
+            "NAME": "攻速 +0.8%",
+            "QUALITY": 202,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10188": {
+            "ATT": {
+                "pasp": 10
+            },
+            "NAME": "攻速 +1%",
+            "QUALITY": 202,
+            "RARITY": 0,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10189": {
+            "ATT": {
+                "pasp": 15
+            },
+            "NAME": "攻速 +1.5%",
+            "QUALITY": 202,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10190": {
+            "ATT": {
+                "pasp": 20
+            },
+            "NAME": "攻速 +2%",
+            "QUALITY": 202,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10191": {
+            "ATT": {
+                "pasp": 25
+            },
+            "NAME": "攻速 +2.5%",
+            "QUALITY": 202,
+            "RARITY": 1,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10192": {
+            "ATT": {
+                "pasp": 30
+            },
+            "NAME": "攻速 +3%",
+            "QUALITY": 202,
+            "RARITY": 1,
+            "CHANCE": 50,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10193": {
+            "ATT": {
+                "pasp": 35
+            },
+            "NAME": "攻速 +3.5%",
+            "QUALITY": 202,
+            "RARITY": 2,
+            "CHANCE": 75,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10194": {
+            "ATT": {
+                "pasp": 40
+            },
+            "NAME": "攻速 +4%",
+            "QUALITY": 202,
+            "RARITY": 2,
+            "CHANCE": 50,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10195": {
+            "ATT": {
+                "pasp": 50
+            },
+            "NAME": "攻速 +5%",
+            "QUALITY": 202,
+            "RARITY": 2,
+            "CHANCE": 25,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10196": {
+            "ATT": {
+                "phea": 20
+            },
+            "NAME": "生命恢复 +2%",
+            "QUALITY": 403,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10197": {
+            "ATT": {
+                "phea": 25
+            },
+            "NAME": "生命恢复 +2.5%",
+            "QUALITY": 403,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10198": {
+            "ATT": {
+                "phea": 30
+            },
+            "NAME": "生命恢复 +3%",
+            "QUALITY": 403,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10199": {
+            "ATT": {
+                "phea": 35
+            },
+            "NAME": "生命恢复 +3.5%",
+            "QUALITY": 403,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10200": {
+            "ATT": {
+                "phea": 40
+            },
+            "NAME": "生命恢复 +4%",
+            "QUALITY": 403,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10201": {
+            "ATT": {
+                "phea": 45
+            },
+            "NAME": "生命恢复 +4.5%",
+            "QUALITY": 403,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 36
+        },
+        "10202": {
+            "ATT": {
+                "phea": 50
+            },
+            "NAME": "生命恢复 +5%",
+            "QUALITY": 403,
+            "RARITY": 1,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10203": {
+            "ATT": {
+                "phea": 52
+            },
+            "NAME": "生命恢复 +5.2%",
+            "QUALITY": 403,
+            "RARITY": 2,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10204": {
+            "ATT": {
+                "phea": 55
+            },
+            "NAME": "生命恢复 +5.5%",
+            "QUALITY": 403,
+            "RARITY": 2,
+            "CHANCE": 200,
+            "MIN_LV": 1,
+            "MAX_LV": 55,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10205": {
+            "ATT": {
+                "phea": 60
+            },
+            "NAME": "生命恢复 +6%",
+            "QUALITY": 403,
+            "RARITY": 2,
+            "CHANCE": 50,
+            "MIN_LV": 1,
+            "MAX_LV": 55,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10206": {
+            "ATT": {
+                "pcd": 10
+            },
+            "NAME": "冷却缩减 +1%",
+            "QUALITY": 215,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10207": {
+            "ATT": {
+                "pcd": 15
+            },
+            "NAME": "冷却缩减 +1.5%",
+            "QUALITY": 215,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10208": {
+            "ATT": {
+                "pcd": 18
+            },
+            "NAME": "冷却缩减 +1.8%",
+            "QUALITY": 215,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10209": {
+            "ATT": {
+                "pcd": 20
+            },
+            "NAME": "冷却缩减 +2%",
+            "QUALITY": 215,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10210": {
+            "ATT": {
+                "pcd": 25
+            },
+            "NAME": "冷却缩减 +2.5%",
+            "QUALITY": 215,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10211": {
+            "ATT": {
+                "pcd": 30
+            },
+            "NAME": "冷却缩减 +3%",
+            "QUALITY": 215,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10212": {
+            "ATT": {
+                "pcd": 35
+            },
+            "NAME": "冷却缩减 +3.5%",
+            "QUALITY": 215,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10213": {
+            "ATT": {
+                "pcd": 40
+            },
+            "NAME": "冷却缩减 +4%",
+            "QUALITY": 215,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10214": {
+            "ATT": {
+                "pcd": 45
+            },
+            "NAME": "冷却缩减 +4.5%",
+            "QUALITY": 215,
+            "RARITY": 2,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10215": {
+            "ATT": {
+                "pcd": 50
+            },
+            "NAME": "冷却缩减 +5%",
+            "QUALITY": 215,
+            "RARITY": 2,
+            "CHANCE": 80,
+            "MIN_LV": 1,
+            "MAX_LV": 55,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10216": {
+            "ATT": {
+                "php": 5
+            },
+            "NAME": "生命 +0.5%",
+            "QUALITY": 101,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10217": {
+            "ATT": {
+                "php": 10
+            },
+            "NAME": "生命 +1%",
+            "QUALITY": 101,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10218": {
+            "ATT": {
+                "php": 15
+            },
+            "NAME": "生命 +1.5%",
+            "QUALITY": 101,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10219": {
+            "ATT": {
+                "php": 20
+            },
+            "NAME": "生命 +2%",
+            "QUALITY": 101,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10220": {
+            "ATT": {
+                "php": 25
+            },
+            "NAME": "生命 +2.5%",
+            "QUALITY": 101,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10221": {
+            "ATT": {
+                "php": 30
+            },
+            "NAME": "生命 +3%",
+            "QUALITY": 101,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10222": {
+            "ATT": {
+                "php": 35
+            },
+            "NAME": "生命 +3.5%",
+            "QUALITY": 101,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10223": {
+            "ATT": {
+                "php": 40
+            },
+            "NAME": "生命 +4%",
+            "QUALITY": 101,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10224": {
+            "ATT": {
+                "php": 45
+            },
+            "NAME": "生命 +4.5%",
+            "QUALITY": 101,
+            "RARITY": 2,
+            "CHANCE": 15,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 15,
+            "MAX_LUCK": 36
+        },
+        "10225": {
+            "ATT": {
+                "php": 50
+            },
+            "NAME": "生命 +5%",
+            "QUALITY": 101,
+            "RARITY": 2,
+            "CHANCE": 8,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 12,
+            "MAX_LUCK": 40
+        },
+        "10226": {
+            "ATT": {
+                "patk": 5
+            },
+            "NAME": "攻击 +0.5%",
+            "QUALITY": 102,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10227": {
+            "ATT": {
+                "patk": 10
+            },
+            "NAME": "攻击 +1%",
+            "QUALITY": 102,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10228": {
+            "ATT": {
+                "patk": 15
+            },
+            "NAME": "攻击 +1.5%",
+            "QUALITY": 102,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10229": {
+            "ATT": {
+                "patk": 20
+            },
+            "NAME": "攻击 +2%",
+            "QUALITY": 102,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10230": {
+            "ATT": {
+                "patk": 25
+            },
+            "NAME": "攻击 +2.5%",
+            "QUALITY": 102,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10231": {
+            "ATT": {
+                "patk": 30
+            },
+            "NAME": "攻击 +3%",
+            "QUALITY": 102,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10232": {
+            "ATT": {
+                "patk": 35
+            },
+            "NAME": "攻击 +3.5%",
+            "QUALITY": 102,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10233": {
+            "ATT": {
+                "patk": 40
+            },
+            "NAME": "攻击 +4%",
+            "QUALITY": 102,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10234": {
+            "ATT": {
+                "patk": 45
+            },
+            "NAME": "攻击 +4.5%",
+            "QUALITY": 102,
+            "RARITY": 2,
+            "CHANCE": 15,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 15,
+            "MAX_LUCK": 36
+        },
+        "10235": {
+            "ATT": {
+                "patk": 50
+            },
+            "NAME": "攻击 +5%",
+            "QUALITY": 102,
+            "RARITY": 2,
+            "CHANCE": 8,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 12,
+            "MAX_LUCK": 40
+        },
+        "10236": {
+            "ATT": {
+                "pdef": 5
+            },
+            "NAME": "护甲 +0.5%",
+            "QUALITY": 103,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10237": {
+            "ATT": {
+                "pdef": 10
+            },
+            "NAME": "护甲 +1%",
+            "QUALITY": 103,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10238": {
+            "ATT": {
+                "pdef": 15
+            },
+            "NAME": "护甲 +1.5%",
+            "QUALITY": 103,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10239": {
+            "ATT": {
+                "pdef": 20
+            },
+            "NAME": "护甲 +2%",
+            "QUALITY": 103,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10240": {
+            "ATT": {
+                "pdef": 25
+            },
+            "NAME": "护甲 +2.5%",
+            "QUALITY": 103,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10241": {
+            "ATT": {
+                "pdef": 30
+            },
+            "NAME": "护甲 +3%",
+            "QUALITY": 103,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10242": {
+            "ATT": {
+                "pdef": 35
+            },
+            "NAME": "护甲 +3.5%",
+            "QUALITY": 103,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10243": {
+            "ATT": {
+                "pdef": 40
+            },
+            "NAME": "护甲 +4%",
+            "QUALITY": 103,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10244": {
+            "ATT": {
+                "pdef": 45
+            },
+            "NAME": "护甲 +4.5%",
+            "QUALITY": 103,
+            "RARITY": 2,
+            "CHANCE": 15,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 15,
+            "MAX_LUCK": 36
+        },
+        "10245": {
+            "ATT": {
+                "pdef": 50
+            },
+            "NAME": "护甲 +5%",
+            "QUALITY": 103,
+            "RARITY": 2,
+            "CHANCE": 8,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 12,
+            "MAX_LUCK": 40
+        },
+        "10246": {
+            "ATT": {
+                "pmdef": 5
+            },
+            "NAME": "魔抗 +0.5%",
+            "QUALITY": 104,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10247": {
+            "ATT": {
+                "pmdef": 10
+            },
+            "NAME": "魔抗 +1%",
+            "QUALITY": 104,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10248": {
+            "ATT": {
+                "pmdef": 15
+            },
+            "NAME": "魔抗 +1.5%",
+            "QUALITY": 104,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10249": {
+            "ATT": {
+                "pmdef": 20
+            },
+            "NAME": "魔抗 +2%",
+            "QUALITY": 104,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10250": {
+            "ATT": {
+                "pmdef": 25
+            },
+            "NAME": "魔抗 +2.5%",
+            "QUALITY": 104,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10251": {
+            "ATT": {
+                "pmdef": 30
+            },
+            "NAME": "魔抗 +3%",
+            "QUALITY": 104,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10252": {
+            "ATT": {
+                "pmdef": 35
+            },
+            "NAME": "魔抗 +3.5%",
+            "QUALITY": 104,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10253": {
+            "ATT": {
+                "pmdef": 40
+            },
+            "NAME": "魔抗 +4%",
+            "QUALITY": 104,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10254": {
+            "ATT": {
+                "pmdef": 45
+            },
+            "NAME": "魔抗 +4.5%",
+            "QUALITY": 104,
+            "RARITY": 2,
+            "CHANCE": 15,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 15,
+            "MAX_LUCK": 36
+        },
+        "10255": {
+            "ATT": {
+                "pmdef": 50
+            },
+            "NAME": "魔抗 +5%",
+            "QUALITY": 104,
+            "RARITY": 2,
+            "CHANCE": 8,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 12,
+            "MAX_LUCK": 40
+        },
+        "10256": {
+            "ATT": {
+                "pcri": 5
+            },
+            "NAME": "暴击率 +0.5%",
+            "QUALITY": 205,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10257": {
+            "ATT": {
+                "pcri": 10
+            },
+            "NAME": "暴击率 +1%",
+            "QUALITY": 205,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10258": {
+            "ATT": {
+                "pcri": 15
+            },
+            "NAME": "暴击率 +1.5%",
+            "QUALITY": 205,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10259": {
+            "ATT": {
+                "pcri": 20
+            },
+            "NAME": "暴击率 +2%",
+            "QUALITY": 205,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10260": {
+            "ATT": {
+                "pcri": 25
+            },
+            "NAME": "暴击率 +2.5%",
+            "QUALITY": 205,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10261": {
+            "ATT": {
+                "pcri": 30
+            },
+            "NAME": "暴击率 +3%",
+            "QUALITY": 205,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10262": {
+            "ATT": {
+                "pcri": 35
+            },
+            "NAME": "暴击率 +3.5%",
+            "QUALITY": 205,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10263": {
+            "ATT": {
+                "pcri": 40
+            },
+            "NAME": "暴击率 +4%",
+            "QUALITY": 205,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 15,
+            "MAX_LUCK": 36
+        },
+        "10264": {
+            "ATT": {
+                "pcri": 45
+            },
+            "NAME": "暴击率 +4.5%",
+            "QUALITY": 205,
+            "RARITY": 2,
+            "CHANCE": 15,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 12,
+            "MAX_LUCK": 40
+        },
+        "10265": {
+            "ATT": {
+                "pcri": 50
+            },
+            "NAME": "暴击率 +5%",
+            "QUALITY": 205,
+            "RARITY": 2,
+            "CHANCE": 8,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10266": {
+            "ATT": {
+                "pcrid": 5
+            },
+            "NAME": "暴伤 +0.5%",
+            "QUALITY": 206,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 50,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10267": {
+            "ATT": {
+                "pcrid": 10
+            },
+            "NAME": "暴伤 +1%",
+            "QUALITY": 206,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10268": {
+            "ATT": {
+                "pcrid": 15
+            },
+            "NAME": "暴伤 +1.5%",
+            "QUALITY": 206,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 30,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 25
+        },
+        "10269": {
+            "ATT": {
+                "pcrid": 20
+            },
+            "NAME": "暴伤 +2%",
+            "QUALITY": 206,
+            "RARITY": 0,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 40
+        },
+        "10270": {
+            "ATT": {
+                "pcrid": 25
+            },
+            "NAME": "暴伤 +2.5%",
+            "QUALITY": 206,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 5,
+            "MAX_LUCK": 40
+        },
+        "10271": {
+            "ATT": {
+                "pcrid": 30
+            },
+            "NAME": "暴伤 +3%",
+            "QUALITY": 206,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 10,
+            "MAX_LUCK": 36
+        },
+        "10272": {
+            "ATT": {
+                "pcrid": 35
+            },
+            "NAME": "暴伤 +3.5%",
+            "QUALITY": 206,
+            "RARITY": 1,
+            "CHANCE": 100,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10273": {
+            "ATT": {
+                "pcrid": 40
+            },
+            "NAME": "暴伤 +4%",
+            "QUALITY": 206,
+            "RARITY": 2,
+            "CHANCE": 20,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 0,
+            "MAX_LUCK": 60
+        },
+        "10274": {
+            "ATT": {
+                "pcrid": 45
+            },
+            "NAME": "暴伤 +4.5%",
+            "QUALITY": 206,
+            "RARITY": 2,
+            "CHANCE": 15,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 15,
+            "MAX_LUCK": 36
+        },
+        "10275": {
+            "ATT": {
+                "pcrid": 50
+            },
+            "NAME": "暴伤 +5%",
+            "QUALITY": 206,
+            "RARITY": 2,
+            "CHANCE": 8,
+            "MIN_LV": 1,
+            "MAX_LV": 999,
+            "MIN_LUCK": 12,
+            "MAX_LUCK": 40
+        }
+    },
+    "COST": {
+        "LIMIT": 20,
+        "COST": 100,
+        "ADDLUCK": 1,
+        "MAXLUCK": 50,
+        "FIRSTGSID": 90708,
+        "REWARDGSID": 90709,
+        "SLOT": [
+            {
+                "LEVEL": 35,
+                "GSID": 10106
+            },
+            {
+                "LEVEL": 39,
+                "GSID": 10193
+            },
+            {
+                "LEVEL": 46,
+                "GSID": 10159
+            }
+        ]
+    },
+    "REWARD": [
+        {
+            "GSID": 30006,
+            "COUNT": 1
+        },
+        {
+            "GSID": 30005,
+            "COUNT": 3
+        }
+    ]
+}

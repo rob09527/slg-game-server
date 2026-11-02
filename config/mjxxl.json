@@ -1,0 +1,208 @@
+{
+ "box": {
+  "1": {
+   "id": 1,
+   "inscore": 3000,
+   "reward_0": 38005,
+   "count_0": 100,
+   "reward_1": 38006,
+   "count_1": 200000,
+   "reward_2": 30001,
+   "count_2": 200000,
+   "state": 0
+  },
+  "2": {
+   "id": 2,
+   "inscore": 6000,
+   "reward_0": 30005,
+   "count_0": 10,
+   "reward_1": 30015,
+   "count_1": 400,
+   "reward_2": 36021,
+   "count_2": 50,
+   "state": 0
+  },
+  "3": {
+   "id": 3,
+   "inscore": 12000,
+   "reward_0": 30009,
+   "count_0": 2,
+   "reward_1": 36001,
+   "count_1": 10,
+   "reward_2": 30006,
+   "count_2": 3,
+   "state": 0
+  }
+ },
+ "task": {
+  "90263": {
+   "id": 90263,
+   "reward_count": 1,
+   "state": 0,
+   "count": 3,
+   "user_count": 0,
+   "page": 1032,
+   "intro": "赠送友情点3次（次数+1）"
+  },
+  "90596": {
+   "id": 90596,
+   "reward_count": 1,
+   "state": 0,
+   "count": 1,
+   "user_count": 0,
+   "page": 1071,
+   "intro": "招降武將1次（次数+1）"
+  },
+  "90714": {
+   "id": 90714,
+   "reward_count": 1,
+   "state": 0,
+   "count": 1,
+   "user_count": 0,
+   "page": 0,
+   "intro": "喵将升级1次（次数+1）"
+  },
+  "90719": {
+   "id": 90719,
+   "reward_count": 1,
+   "state": 0,
+   "count": 1,
+   "user_count": 0,
+   "page": 1028,
+   "intro": "军团签到1次（次数+1）"
+  },
+  "90722": {
+   "id": 90722,
+   "reward_count": 1,
+   "state": 0,
+   "count": 1,
+   "user_count": 0,
+   "page": 1032,
+   "intro": "好友切磋1次（次数+1）"
+  }
+ },
+ "shop": {
+  "1": {
+   "count": 1,
+   "price": 10,
+   "id": 1
+  },
+  "2": {
+   "count": 2,
+   "price": 20,
+   "id": 2
+  },
+  "3": {
+   "count": 3,
+   "price": 30,
+   "id": 3
+  },
+  "4": {
+   "count": 4,
+   "price": 40,
+   "id": 4
+  },
+  "5": {
+   "count": 5,
+   "price": 50,
+   "id": 5
+  },
+  "6": {
+   "count": 6,
+   "price": 60,
+   "id": 6
+  },
+  "7": {
+   "count": 7,
+   "price": 70,
+   "id": 7
+  },
+  "8": {
+   "count": 8,
+   "price": 80,
+   "id": 8
+  },
+  "9": {
+   "count": 9,
+   "price": 90,
+   "id": 9
+  },
+  "10": {
+   "count": 10,
+   "price": 100,
+   "id": 10
+  },
+  "11": {
+   "count": 11,
+   "price": 110,
+   "id": 11
+  },
+  "12": {
+   "count": 12,
+   "price": 120,
+   "id": 12
+  },
+  "13": {
+   "count": 13,
+   "price": 130,
+   "id": 13
+  },
+  "14": {
+   "count": 14,
+   "price": 140,
+   "id": 14
+  },
+  "15": {
+   "count": 15,
+   "price": 150,
+   "id": 15
+  },
+  "16": {
+   "count": 16,
+   "price": 160,
+   "id": 16
+  },
+  "17": {
+   "count": 17,
+   "price": 170,
+   "id": 17
+  },
+  "18": {
+   "count": 18,
+   "price": 180,
+   "id": 18
+  },
+  "19": {
+   "count": 19,
+   "price": 190,
+   "id": 19
+  },
+  "20": {
+   "count": 20,
+   "price": 200,
+   "id": 20
+  }
+ },
+ "score": {
+  "301": {
+   "id": 301,
+   "deplete": 3,
+   "score": 300
+  },
+  "401": {
+   "id": 401,
+   "deplete": 4,
+   "score": 600
+  },
+  "501": {
+   "id": 501,
+   "deplete": 5,
+   "score": 1000
+  },
+  "601": {
+   "id": 601,
+   "deplete": 6,
+   "score": 2000
+  }
+ }
+}

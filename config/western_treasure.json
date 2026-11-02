@@ -1,0 +1,758 @@
+{
+    "SETTING": [
+        {
+            "ID": "normal",
+            "EVENT": [
+                {
+                    "ID": "treasure",
+                    "WEIGH": 700
+                },
+                {
+                    "ID": "boss",
+                    "WEIGH": 300
+                }
+            ],
+            "VIP": [
+                0,
+                15
+            ],
+            "COST": [
+                {
+                    "GSID": 30095,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "ID": "high",
+            "EVENT": [
+                {
+                    "ID": "treasure",
+                    "WEIGH": 0
+                },
+                {
+                    "ID": "boss",
+                    "WEIGH": 1000
+                }
+            ],
+            "VIP": [
+                5,
+                15
+            ],
+            "COST": [
+                {
+                    "GSID": 30095,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 1000
+                }
+            ]
+        }
+    ],
+    "SHOW_REWARD": [
+        {
+            "GSID": 30083,
+            "COUNT": 12,
+            "RARE": 1
+        },
+        {
+            "GSID": 37001,
+            "COUNT": 4,
+            "RARE": 1
+        },
+        {
+            "GSID": 37002,
+            "COUNT": 8,
+            "RARE": 0
+        },
+        {
+            "GSID": 30070,
+            "COUNT": 3,
+            "RARE": 0
+        },
+        {
+            "GSID": 30066,
+            "COUNT": 5,
+            "RARE": 0
+        },
+        {
+            "GSID": 30015,
+            "COUNT": 200,
+            "RARE": 0
+        }
+    ],
+    "BOSS_COST": [
+        {
+            "GSID": 30024,
+            "COUNT": 1
+        }
+    ],
+    "TREASURE_EVENT": [
+        "start",
+        "hole",
+        "guard",
+        "buff",
+        "nreward",
+        "hreward",
+        "rreward"
+    ],
+    "RANDOM_NORMAL_REWARD": [],
+    "RANDOM_HIGH_REWARD": [
+        {
+            "WEIGH": 9000,
+            "REWARD": [
+                {
+                    "GSID": 30083,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "WEIGH": 300,
+            "REWARD": [
+                {
+                    "GSID": 30083,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "WEIGH": 100,
+            "REWARD": [
+                {
+                    "GSID": 30083,
+                    "COUNT": 10
+                }
+            ]
+        }
+    ],
+    "RANDOM_NREWARD": [
+        {
+            "WEIGH": 2100,
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 100000
+                }
+            ]
+        },
+        {
+            "WEIGH": 1300,
+            "REWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 50
+                }
+            ]
+        },
+        {
+            "WEIGH": 1500,
+            "REWARD": [
+                {
+                    "GSID": 30026,
+                    "COUNT": 50
+                }
+            ]
+        },
+        {
+            "WEIGH": 1500,
+            "REWARD": [
+                {
+                    "GSID": 30016,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "WEIGH": 1500,
+            "REWARD": [
+                {
+                    "GSID": 30017,
+                    "COUNT": 3
+                }
+            ]
+        }
+    ],
+    "RANDOM_HREWARD": [
+        {
+            "WEIGH": 9000,
+            "REWARD": [
+                {
+                    "GSID": 30083,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "WEIGH": 300,
+            "REWARD": [
+                {
+                    "GSID": 30083,
+                    "COUNT": 3
+                }
+            ]
+        },
+        {
+            "WEIGH": 100,
+            "REWARD": [
+                {
+                    "GSID": 30083,
+                    "COUNT": 10
+                }
+            ]
+        }
+    ],
+    "RANDOM_RREWARD": [
+        {
+            "WEIGH": 500,
+            "REWARD": [
+                {
+                    "GSID": 37002,
+                    "COUNT": 6
+                }
+            ]
+        }
+    ],
+    "RANDOM_BOSS": [
+        {
+            "WEIGH": 1,
+            "ID": 3001,
+            "GSID": 12061,
+            "BOSSHP": 150000000,
+            "NAME": "赵云5星刺"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3002,
+            "GSID": 10202,
+            "BOSSHP": 150000000,
+            "NAME": "典韦5星先"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3003,
+            "GSID": 10041,
+            "BOSSHP": 150000000,
+            "NAME": "张辽5星刺"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3004,
+            "GSID": 14421,
+            "BOSSHP": 150000000,
+            "NAME": "程普5星射"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3011,
+            "GSID": 12101,
+            "BOSSHP": 300000000,
+            "NAME": "黄忠5星射"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3012,
+            "GSID": 12081,
+            "BOSSHP": 300000000,
+            "NAME": "马超5星刺"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3013,
+            "GSID": 10421,
+            "BOSSHP": 300000000,
+            "NAME": "张郃5星射"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3014,
+            "GSID": 16161,
+            "BOSSHP": 300000000,
+            "NAME": "张角5星军"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3021,
+            "GSID": 14141,
+            "BOSSHP": 450000000,
+            "NAME": "鲁肃5星军"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3022,
+            "GSID": 14121,
+            "BOSSHP": 450000000,
+            "NAME": "陆逊5星军"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3023,
+            "GSID": 10161,
+            "BOSSHP": 450000000,
+            "NAME": "贾诩5星谋"
+        },
+        {
+            "WEIGH": 1,
+            "ID": 3024,
+            "GSID": 14401,
+            "BOSSHP": 450000000,
+            "NAME": "孙坚5星先"
+        }
+    ],
+    "RANDOM_GUARD": [
+        {
+            "WEIGH": 1,
+            "ID": 101,
+            "GSID": 10001
+        },
+        {
+            "WEIGH": 1,
+            "ID": 102,
+            "GSID": 10021
+        },
+        {
+            "WEIGH": 1,
+            "ID": 103,
+            "GSID": 10222
+        },
+        {
+            "WEIGH": 1,
+            "ID": 104,
+            "GSID": 10001
+        },
+        {
+            "WEIGH": 1,
+            "ID": 105,
+            "GSID": 10021
+        },
+        {
+            "WEIGH": 1,
+            "ID": 106,
+            "GSID": 10222
+        },
+        {
+            "WEIGH": 1,
+            "ID": 107,
+            "GSID": 10021
+        },
+        {
+            "WEIGH": 1,
+            "ID": 108,
+            "GSID": 16001
+        },
+        {
+            "WEIGH": 1,
+            "ID": 109,
+            "GSID": 12041
+        },
+        {
+            "WEIGH": 1,
+            "ID": 110,
+            "GSID": 10061
+        },
+        {
+            "WEIGH": 1,
+            "ID": 111,
+            "GSID": 16021
+        },
+        {
+            "WEIGH": 1,
+            "ID": 112,
+            "GSID": 16001
+        },
+        {
+            "WEIGH": 1,
+            "ID": 113,
+            "GSID": 12001
+        },
+        {
+            "WEIGH": 1,
+            "ID": 114,
+            "GSID": 16001
+        }
+    ],
+    "RANDOM_BOSS_REWARD": [
+        [
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 38006,
+                        "COUNT": 1000000
+                    }
+                ]
+            },
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 30001,
+                        "COUNT": 500000
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 30015,
+                        "COUNT": 200
+                    }
+                ]
+            },
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 30026,
+                        "COUNT": 200
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 37001,
+                        "COUNT": 3
+                    }
+                ]
+            },
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 37001,
+                        "COUNT": 4
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 30066,
+                        "COUNT": 5
+                    }
+                ]
+            },
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 30070,
+                        "COUNT": 3
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 30083,
+                        "COUNT": 10
+                    }
+                ]
+            },
+            {
+                "WEIGH": 500,
+                "REWARD": [
+                    {
+                        "GSID": 30083,
+                        "COUNT": 12
+                    }
+                ]
+            }
+        ]
+    ],
+    "MAPS": [
+        {
+            "WEIGH": 500,
+            "ID": 101,
+            "MAP": [
+                [
+                    "start",
+                    "nreward",
+                    "buff",
+                    "hole",
+                    "hreward"
+                ],
+                [
+                    "nreward",
+                    "buff",
+                    "hreward",
+                    "guard",
+                    "nreward"
+                ],
+                [
+                    "nreward",
+                    "nreward",
+                    "nreward",
+                    "hreward",
+                    "rreward"
+                ],
+                [
+                    "hreward",
+                    "nreward",
+                    "nreward",
+                    "nreward",
+                    "hole"
+                ],
+                [
+                    "hole",
+                    "nreward",
+                    "guard",
+                    "hreward",
+                    "nreward"
+                ],
+                [
+                    "hreward",
+                    "nreward",
+                    "nreward",
+                    "nreward",
+                    "rreward"
+                ]
+            ]
+        },
+        {
+            "WEIGH": 500,
+            "ID": 102,
+            "MAP": [
+                [
+                    "nreward",
+                    "rreward",
+                    "nreward",
+                    "nreward",
+                    "hreward"
+                ],
+                [
+                    "guard",
+                    "nreward",
+                    "hreward",
+                    "buff",
+                    "nreward"
+                ],
+                [
+                    "nreward",
+                    "nreward",
+                    "nreward",
+                    "hreward",
+                    "rreward"
+                ],
+                [
+                    "hreward",
+                    "guard",
+                    "hole",
+                    "nreward",
+                    "nreward"
+                ],
+                [
+                    "hole",
+                    "nreward",
+                    "hreward",
+                    "buff",
+                    "nreward"
+                ],
+                [
+                    "hreward",
+                    "nreward",
+                    "hole",
+                    "nreward",
+                    "start"
+                ]
+            ]
+        },
+        {
+            "WEIGH": 500,
+            "ID": 103,
+            "MAP": [
+                [
+                    "nreward",
+                    "nreward",
+                    "hreward",
+                    "nreward",
+                    "start"
+                ],
+                [
+                    "rreward",
+                    "hole",
+                    "nreward",
+                    "buff",
+                    "nreward"
+                ],
+                [
+                    "hreward",
+                    "guard",
+                    "nreward",
+                    "hole",
+                    "buff"
+                ],
+                [
+                    "nreward",
+                    "nreward",
+                    "hreward",
+                    "nreward",
+                    "nreward"
+                ],
+                [
+                    "nreward",
+                    "hole",
+                    "nreward",
+                    "guard",
+                    "hreward"
+                ],
+                [
+                    "hreward",
+                    "rreward",
+                    "nreward",
+                    "hreward",
+                    "nreward"
+                ]
+            ]
+        },
+        {
+            "WEIGH": 500,
+            "ID": 104,
+            "MAP": [
+                [
+                    "hreward",
+                    "nreward",
+                    "start",
+                    "nreward",
+                    "nreward"
+                ],
+                [
+                    "nreward",
+                    "nreward",
+                    "nreward",
+                    "rreward",
+                    "hreward"
+                ],
+                [
+                    "hole",
+                    "nreward",
+                    "buff",
+                    "buff",
+                    "nreward"
+                ],
+                [
+                    "guard",
+                    "hreward",
+                    "hreward",
+                    "nreward",
+                    "hole"
+                ],
+                [
+                    "nreward",
+                    "nreward",
+                    "nreward",
+                    "guard",
+                    "rreward"
+                ],
+                [
+                    "hreward",
+                    "hole",
+                    "nreward",
+                    "nreward",
+                    "hreward"
+                ]
+            ]
+        },
+        {
+            "WEIGH": 500,
+            "ID": 105,
+            "MAP": [
+                [
+                    "hreward",
+                    "hreward",
+                    "nreward",
+                    "nreward",
+                    "hreward"
+                ],
+                [
+                    "hole",
+                    "guard",
+                    "hole",
+                    "hreward",
+                    "nreward"
+                ],
+                [
+                    "nreward",
+                    "nreward",
+                    "nreward",
+                    "buff",
+                    "nreward"
+                ],
+                [
+                    "nreward",
+                    "hreward",
+                    "nreward",
+                    "nreward",
+                    "start"
+                ],
+                [
+                    "nreward",
+                    "guard",
+                    "nreward",
+                    "buff",
+                    "nreward"
+                ],
+                [
+                    "hreward",
+                    "rreward",
+                    "hole",
+                    "rreward",
+                    "nreward"
+                ]
+            ]
+        }
+    ],
+    "RANDOM_BUFF": [
+        {
+            "WEIGH": 1,
+            "BUFFID": 101,
+            "ATTR": "PSKIDAM",
+            "VAL": 500
+        },
+        {
+            "WEIGH": 1,
+            "BUFFID": 102,
+            "ATTR": "PCRID",
+            "VAL": 500
+        },
+        {
+            "WEIGH": 1,
+            "BUFFID": 103,
+            "ATTR": "PCRI",
+            "VAL": 1000
+        },
+        {
+            "WEIGH": 1,
+            "BUFFID": 104,
+            "ATTR": "ATK",
+            "VAL": 500
+        },
+        {
+            "WEIGH": 1,
+            "BUFFID": 105,
+            "ATTR": "PPTHR",
+            "VAL": 500
+        },
+        {
+            "WEIGH": 1,
+            "BUFFID": 106,
+            "ATTR": "PMTHR",
+            "VAL": 500
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "90374": [
+        {
+            "REQUIRE": {
+                "GT": 0
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功将麾下喵灵<color=#FF0000>{gsid}</c>晋升至12星！"
+        }
+    ],
+    "90375": [
+        {
+            "REQUIRE": {
+                "GT": 0
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功将麾下喵灵<color=#FF0000>{gsid}</c>晋升至13星！"
+        }
+    ],
+    "TGRADE": [
+        {
+            "REQUIRE": {
+                "EQ": 6
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>武运昌隆,成功招募到5星良兽<color=#FF0000>{gsid}</c>"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 7
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>武运昌隆,成功招募到5星良兽<color=#FF0000>{gsid}</c>"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 8
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>武运昌隆,成功招募到5星名兽<color=#FF0000>{gsid}</c>"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 9
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>武运昌隆,成功招募到5星名兽<color=#FF0000>{gsid}</c>"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 10
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>武运昌隆,成功招募到传说神兽<color=#FF0000>{gsid}</c>"
+        }
+    ],
+    "TREASURE_QUALITY": [
+        {
+            "REQUIRE": {
+                "EQ": 6
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>鸿运当头,居然获得了神话宝物<color=#FF0000>{gsid}</c>"
+        }
+    ],
+    "vip": [
+        {
+            "REQUIRE": {
+                "EQ": 10
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>，成功晋升至<color=#FF0000>VIP{count}</c>，尊享超值收益和贵族特权！"
+        }
+    ],
+    "OCC_EQUIP": [
+        {
+            "REQUIRE": {
+                "GT": 0
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>合成了<color=#FF0000>T{count}</c>套装-<color=#FF0000>{gsid}</c>，战力大增！"
+        }
+    ],
+    "tower": [
+        {
+            "REQUIRE": {
+                "EQ": 50
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 100
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 150
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 200
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 250
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 300
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 350
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 400
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 450
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 500
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 550
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 600
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 650
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 700
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 750
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        },
+        {
+            "REQUIRE": {
+                "EQ": 800
+            },
+            "TEXT": "恭喜玩家<color=#FF0000>{rname}</c>成功闯过喵将塔<color=#FF0000>{count}</c>层，创造了自己的新记录！"
+        }
+    ]
+}

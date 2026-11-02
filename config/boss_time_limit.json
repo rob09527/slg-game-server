@@ -1,0 +1,3241 @@
+{
+    "101": [
+        {
+            "ID": 10101,
+            "GENERAL": 16141,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 10000
+                },
+                {
+                    "GSID": 62001,
+                    "COUNT": 1
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10102,
+            "GENERAL": 14082,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 25
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10103,
+            "GENERAL": 12142,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 100000
+                },
+                {
+                    "GSID": 62001,
+                    "COUNT": 1
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10104,
+            "GENERAL": 12102,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 150000
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 50
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10105,
+            "GENERAL": 16082,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 75
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        }
+    ],
+    "102": [
+        {
+            "ID": 10201,
+            "GENERAL": 12082,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10202,
+            "GENERAL": 10281,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10203,
+            "GENERAL": 16102,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10204,
+            "GENERAL": 12181,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10205,
+            "GENERAL": 16261,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10290,
+            "BOSSHP": 26000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        10000,
+                        20000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                }
+            ]
+        }
+    ],
+    "103": [
+        {
+            "ID": 10301,
+            "GENERAL": 12161,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 50000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10302,
+            "GENERAL": 16082,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 80000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10303,
+            "GENERAL": 10082,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10304,
+            "GENERAL": 10281,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10305,
+            "GENERAL": 16181,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 300000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10390,
+            "BOSSHP": 56000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        40000,
+                        50000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 50
+                }
+            ]
+        }
+    ],
+    "104": [
+        {
+            "ID": 10401,
+            "GENERAL": 10322,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 100000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10402,
+            "GENERAL": 12162,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10403,
+            "GENERAL": 14322,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 200000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10404,
+            "GENERAL": 16083,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 250000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10405,
+            "GENERAL": 10342,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 500000
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10490,
+            "BOSSHP": 112000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        40000,
+                        50000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 31004,
+                    "COUNT": 1
+                }
+            ]
+        }
+    ],
+    "105": [
+        {
+            "ID": 10501,
+            "GENERAL": 10182,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10502,
+            "GENERAL": 14242,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10503,
+            "GENERAL": 10162,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10504,
+            "GENERAL": 12382,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10505,
+            "GENERAL": 14083,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10590,
+            "BOSSHP": 315000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 36001,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 100
+                }
+            ]
+        }
+    ],
+    "106": [
+        {
+            "ID": 10601,
+            "GENERAL": 16083,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10602,
+            "GENERAL": 12242,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10603,
+            "GENERAL": 10143,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10604,
+            "GENERAL": 12322,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10605,
+            "GENERAL": 14202,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10690,
+            "BOSSHP": 420000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 37007,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 100
+                }
+            ]
+        }
+    ],
+    "107": [
+        {
+            "ID": 10701,
+            "GENERAL": 10282,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10702,
+            "GENERAL": 16382,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10703,
+            "GENERAL": 12103,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10704,
+            "GENERAL": 12143,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10705,
+            "GENERAL": 12262,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10790,
+            "BOSSHP": 525000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 100
+                }
+            ]
+        }
+    ],
+    "108": [
+        {
+            "ID": 10801,
+            "GENERAL": 16143,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10802,
+            "GENERAL": 16083,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10803,
+            "GENERAL": 12242,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10804,
+            "GENERAL": 16162,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10805,
+            "GENERAL": 12282,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10890,
+            "BOSSHP": 630000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 100
+                }
+            ]
+        }
+    ],
+    "109": [
+        {
+            "ID": 10901,
+            "GENERAL": 10143,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10902,
+            "GENERAL": 16143,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10903,
+            "GENERAL": 12103,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10904,
+            "GENERAL": 12322,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10905,
+            "GENERAL": 12162,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 10990,
+            "BOSSHP": 840000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 100
+                }
+            ]
+        }
+    ],
+    "110": [
+        {
+            "ID": 11001,
+            "GENERAL": 16143,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11002,
+            "GENERAL": 12322,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11003,
+            "GENERAL": 14302,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11004,
+            "GENERAL": 10262,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11005,
+            "GENERAL": 16143,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11090,
+            "BOSSHP": 1260000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 100
+                }
+            ]
+        }
+    ],
+    "111": [
+        {
+            "ID": 11101,
+            "GENERAL": 12202,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11102,
+            "GENERAL": 14302,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11103,
+            "GENERAL": 10222,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11104,
+            "GENERAL": 12322,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11105,
+            "GENERAL": 14162,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11190,
+            "BOSSHP": 1680000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 35441,
+                    "COUNT": 50
+                }
+            ]
+        }
+    ],
+    "112": [
+        {
+            "ID": 11201,
+            "GENERAL": 10083,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11202,
+            "GENERAL": 14123,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11203,
+            "GENERAL": 12282,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11204,
+            "GENERAL": 12362,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11205,
+            "GENERAL": 14083,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11290,
+            "BOSSHP": 2100000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "113": [
+        {
+            "ID": 11301,
+            "GENERAL": 16186,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11302,
+            "GENERAL": 10286,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11303,
+            "GENERAL": 12266,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11304,
+            "GENERAL": 16226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11305,
+            "GENERAL": 16306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11390,
+            "BOSSHP": 3150000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "114": [
+        {
+            "ID": 11401,
+            "GENERAL": 14306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11402,
+            "GENERAL": 16306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11403,
+            "GENERAL": 14206,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11404,
+            "GENERAL": 12186,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11405,
+            "GENERAL": 14286,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11490,
+            "BOSSHP": 4200000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "115": [
+        {
+            "ID": 11501,
+            "GENERAL": 10346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11502,
+            "GENERAL": 12386,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11503,
+            "GENERAL": 16346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11504,
+            "GENERAL": 14346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11505,
+            "GENERAL": 10346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11590,
+            "BOSSHP": 6300000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "116": [
+        {
+            "ID": 11601,
+            "GENERAL": 10326,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11602,
+            "GENERAL": 16246,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11603,
+            "GENERAL": 16306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11604,
+            "GENERAL": 14366,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11605,
+            "GENERAL": 10306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11690,
+            "BOSSHP": 8400000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "117": [
+        {
+            "ID": 11701,
+            "GENERAL": 16246,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11702,
+            "GENERAL": 16206,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11703,
+            "GENERAL": 16166,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11704,
+            "GENERAL": 10306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11705,
+            "GENERAL": 12226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11790,
+            "BOSSHP": 10500000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "118": [
+        {
+            "ID": 11801,
+            "GENERAL": 14266,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11802,
+            "GENERAL": 16266,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11803,
+            "GENERAL": 10306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11804,
+            "GENERAL": 16246,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11805,
+            "GENERAL": 10166,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11890,
+            "BOSSHP": 12600000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "119": [
+        {
+            "ID": 11901,
+            "GENERAL": 12186,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11902,
+            "GENERAL": 10226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11903,
+            "GENERAL": 16306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11904,
+            "GENERAL": 10186,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11905,
+            "GENERAL": 14306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 11990,
+            "BOSSHP": 16800000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "120": [
+        {
+            "ID": 12001,
+            "GENERAL": 12346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12002,
+            "GENERAL": 14226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12003,
+            "GENERAL": 16346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12004,
+            "GENERAL": 12286,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12005,
+            "GENERAL": 12166,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12090,
+            "BOSSHP": 21000000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "121": [
+        {
+            "ID": 12101,
+            "GENERAL": 16186,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12102,
+            "GENERAL": 10286,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12103,
+            "GENERAL": 12266,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12104,
+            "GENERAL": 16226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12105,
+            "GENERAL": 16306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12190,
+            "BOSSHP": 25500000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "122": [
+        {
+            "ID": 12201,
+            "GENERAL": 14306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12202,
+            "GENERAL": 16306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12203,
+            "GENERAL": 14206,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12204,
+            "GENERAL": 12186,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12205,
+            "GENERAL": 14286,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12290,
+            "BOSSHP": 30000000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "123": [
+        {
+            "ID": 12301,
+            "GENERAL": 10346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12302,
+            "GENERAL": 12386,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12303,
+            "GENERAL": 16346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12304,
+            "GENERAL": 14346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12305,
+            "GENERAL": 10346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12390,
+            "BOSSHP": 34500000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "124": [
+        {
+            "ID": 12401,
+            "GENERAL": 10326,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12402,
+            "GENERAL": 16246,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12403,
+            "GENERAL": 16306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12404,
+            "GENERAL": 14366,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12405,
+            "GENERAL": 10306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12490,
+            "BOSSHP": 39000000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "125": [
+        {
+            "ID": 12501,
+            "GENERAL": 16246,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12502,
+            "GENERAL": 16206,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12503,
+            "GENERAL": 16166,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12504,
+            "GENERAL": 10306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12505,
+            "GENERAL": 12226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12590,
+            "BOSSHP": 43500000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "126": [
+        {
+            "ID": 12601,
+            "GENERAL": 14266,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12602,
+            "GENERAL": 16266,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12603,
+            "GENERAL": 10306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12604,
+            "GENERAL": 16246,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12605,
+            "GENERAL": 10166,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12690,
+            "BOSSHP": 48000000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "127": [
+        {
+            "ID": 12701,
+            "GENERAL": 12186,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12702,
+            "GENERAL": 10226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12703,
+            "GENERAL": 16306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12704,
+            "GENERAL": 10186,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12705,
+            "GENERAL": 14306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12790,
+            "BOSSHP": 52500000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "128": [
+        {
+            "ID": 12801,
+            "GENERAL": 12346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12802,
+            "GENERAL": 14226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12803,
+            "GENERAL": 16346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12804,
+            "GENERAL": 12286,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12805,
+            "GENERAL": 12166,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12890,
+            "BOSSHP": 57000000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "129": [
+        {
+            "ID": 12901,
+            "GENERAL": 10306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12902,
+            "GENERAL": 16246,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12903,
+            "GENERAL": 10166,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12904,
+            "GENERAL": 12186,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12905,
+            "GENERAL": 10226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 12990,
+            "BOSSHP": 61500000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "130": [
+        {
+            "ID": 13001,
+            "GENERAL": 16306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13002,
+            "GENERAL": 12246,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13003,
+            "GENERAL": 14306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13004,
+            "GENERAL": 12346,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13005,
+            "GENERAL": 14226,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13090,
+            "BOSSHP": 66000000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ],
+    "131": [
+        {
+            "ID": 13101,
+            "GENERAL": 14266,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13102,
+            "GENERAL": 16266,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13103,
+            "GENERAL": 10306,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13104,
+            "GENERAL": 16246,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 5
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13105,
+            "GENERAL": 10166,
+            "BOSSHP": 1,
+            "MUST_WIN": 1,
+            "CREWARDS": null,
+            "REWARDS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 30
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "CAST": []
+        },
+        {
+            "ID": 13190,
+            "BOSSHP": 70500000000,
+            "CREWARDS": [
+                {
+                    "GSID": 38006,
+                    "CCOUNT": [
+                        50000,
+                        60000
+                    ]
+                }
+            ],
+            "REWARD_TYPE": 1,
+            "REWARDS": [
+                {
+                    "GSID": 30011,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 30029,
+                    "COUNT": 200
+                }
+            ]
+        }
+    ]
+}

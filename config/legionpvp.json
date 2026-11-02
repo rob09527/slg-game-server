@@ -1,0 +1,61 @@
+{
+    "REQUIRE": {
+        "LEVEL": 4,
+        "SCORE": 250
+    },
+    "MAX_FATE": 3,
+    "SERVER_LINE": 30,
+    "FLOAT_RATE": 0.5,
+    "MATCH_SEGMENTATION": [
+        {
+            "LIMIT_SCORE": 1050,
+            "RULE": "pvpscore"
+        },
+        {
+            "LIMIT_SCORE": 950,
+            "RULE": "power"
+        },
+        {
+            "LIMIT_SCORE": -1,
+            "RULE": "pvpscore"
+        }
+    ],
+    "SETTLEMENT": {
+        "WINNER": "Math.max( Math.min( Math.round(10 * (1 - SCORE_DIFF / 50 ) ) ,  30) ,  5 )",
+        "LOSER": "-Math.max( Math.min( Math.round(10 * (1+ SCORE_DIFF / 50 ) ) ,  30) ,  5 )",
+        "DRAW": 1
+    },
+    "MAC_STREAK_TIMES": 3,
+    "REWARD": {
+        "WIN": [
+            {
+                "GSID": 30020,
+                "COUNT": 4000
+            },
+            {
+                "GSID": 30052,
+                "COUNT": 12
+            }
+        ],
+        "LOSE": [
+            {
+                "GSID": 30020,
+                "COUNT": 3000
+            },
+            {
+                "GSID": 30052,
+                "COUNT": 9
+            }
+        ],
+        "DRAW": [
+            {
+                "GSID": 30020,
+                "COUNT": 3000
+            },
+            {
+                "GSID": 30052,
+                "COUNT": 9
+            }
+        ]
+    }
+}

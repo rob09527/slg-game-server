@@ -1,0 +1,43 @@
+{
+    "ITEMS": [
+        {
+            "WEEK": 6,
+            "REWARDS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                }
+            ]
+        },
+        {
+            "WEEK": 7,
+            "REWARDS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 200
+                }
+            ]
+        },
+        {
+            "WEEK": 1,
+            "REWARDS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 1
+                }
+            ]
+        }
+    ]
+}

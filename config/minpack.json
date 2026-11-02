@@ -1,0 +1,24 @@
+{
+    "PRICE": 6,
+    "EXP": 60,
+    "LIMIT": 1,
+    "DURATION_HOUR": 24,
+    "ITEMS": [
+        {
+            "GSID": 38006,
+            "COUNT": 100
+        },
+        {
+            "GSID": 38005,
+            "COUNT": 100
+        },
+        {
+            "GSID": 38001,
+            "COUNT": 10000
+        },
+        {
+            "GSID": 30015,
+            "COUNT": 1
+        }
+    ]
+}

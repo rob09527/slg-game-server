@@ -1,0 +1,444 @@
+{
+    "51001": {
+        "TIMELIMIT": -1,
+        "ATT": []
+    },
+    "51005": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 30
+            }
+        ]
+    },
+    "51007": {
+        "TIMELIMIT": 7,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 40
+            },
+            {
+                "ID": "patk",
+                "NUM": 10
+            }
+        ]
+    },
+    "51008": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ]
+    },
+    "51009": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 50
+            },
+            {
+                "ID": "patk",
+                "NUM": 50
+            }
+        ]
+    },
+    "51010": {
+        "TIMELIMIT": 30,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 60
+            },
+            {
+                "ID": "patk",
+                "NUM": 60
+            }
+        ]
+    },
+    "51011": {
+        "TIMELIMIT": 30,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 60
+            },
+            {
+                "ID": "patk",
+                "NUM": 55
+            }
+        ]
+    },
+    "51012": {
+        "TIMELIMIT": 30,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 55
+            },
+            {
+                "ID": "patk",
+                "NUM": 55
+            }
+        ]
+    },
+    "51013": {
+        "TIMELIMIT": 30,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 50
+            },
+            {
+                "ID": "patk",
+                "NUM": 50
+            }
+        ]
+    },
+    "51014": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ]
+    },
+    "51015": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "def",
+                "NUM": 20
+            }
+        ]
+    },
+    "51016": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 20
+            },
+            {
+                "ID": "patk",
+                "NUM": 20
+            }
+        ]
+    },
+    "51017": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 4000
+            },
+            {
+                "ID": "mp",
+                "NUM": 5
+            }
+        ]
+    },
+    "51018": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "atk",
+                "NUM": 200
+            }
+        ]
+    },
+    "51019": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 3000
+            },
+            {
+                "ID": "mdef",
+                "NUM": 8
+            }
+        ]
+    },
+    "51020": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 5000
+            },
+            {
+                "ID": "pdef",
+                "NUM": 25
+            }
+        ]
+    },
+    "51021": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "atk",
+                "NUM": 200
+            }
+        ]
+    },
+    "51022": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "mp",
+                "NUM": 20
+            },
+            {
+                "ID": "pcd",
+                "NUM": 45
+            }
+        ]
+    },
+    "51023": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "msp",
+                "NUM": 30
+            }
+        ]
+    },
+    "51024": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "pmps",
+                "NUM": 50
+            },
+            {
+                "ID": "pasp",
+                "NUM": 50
+            }
+        ]
+    },
+    "51025": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 5000
+            },
+            {
+                "ID": "patk",
+                "NUM": 10
+            }
+        ]
+    },
+    "51026": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "atk",
+                "NUM": 200
+            }
+        ]
+    },
+    "51027": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "atk",
+                "NUM": 200
+            }
+        ]
+    },
+    "51028": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "atk",
+                "NUM": 200
+            }
+        ]
+    },
+    "51029": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 10000
+            },
+            {
+                "ID": "atk",
+                "NUM": 2000
+            }
+        ]
+    },
+    "51030": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 20000
+            },
+            {
+                "ID": "atk",
+                "NUM": 3000
+            }
+        ]
+    },
+    "51031": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 10
+            },
+            {
+                "ID": "patk",
+                "NUM": 10
+            }
+        ]
+    },
+    "51032": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 20
+            },
+            {
+                "ID": "patk",
+                "NUM": 20
+            }
+        ]
+    },
+    "51033": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 30
+            },
+            {
+                "ID": "patk",
+                "NUM": 30
+            }
+        ]
+    },
+    "51034": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 40
+            },
+            {
+                "ID": "patk",
+                "NUM": 40
+            }
+        ]
+    },
+    "51035": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 50
+            },
+            {
+                "ID": "patk",
+                "NUM": 50
+            }
+        ]
+    },
+    "51036": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "hp",
+                "NUM": 2000
+            },
+            {
+                "ID": "msp",
+                "NUM": 30
+            }
+        ]
+    },
+    "51037": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 25
+            },
+            {
+                "ID": "patk",
+                "NUM": 25
+            }
+        ]
+    },
+    "51038": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 25
+            },
+            {
+                "ID": "patk",
+                "NUM": 25
+            }
+        ]
+    },
+    "51039": {
+        "TIMELIMIT": -1,
+        "ATT": [
+            {
+                "ID": "php",
+                "NUM": 25
+            },
+            {
+                "ID": "patk",
+                "NUM": 25
+            }
+        ]
+    }
+}

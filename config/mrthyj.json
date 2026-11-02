@@ -1,0 +1,73 @@
+{
+    "ITEMS": [
+        {
+            "PRICE": 0,
+            "NAME": "免费礼包",
+            "LIMIT": 1,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 20
+                }
+            ]
+        },
+        {
+            "PRICE": 6,
+            "NAME": "鱼露礼包",
+            "LIMIT": 1,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 600000
+                }
+            ]
+        },
+        {
+            "PRICE": 6,
+            "NAME": "进阶礼包",
+            "LIMIT": 1,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 120
+                },
+                {
+                    "GSID": 30006,
+                    "COUNT": 4
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 100
+                }
+            ]
+        },
+        {
+            "PRICE": 12,
+            "NAME": "劫狱礼包",
+            "LIMIT": 1,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 240
+                },
+                {
+                    "GSID": 30197,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30196,
+                    "COUNT": 2
+                }
+            ]
+        }
+    ],
+    "PRICE": 18
+}

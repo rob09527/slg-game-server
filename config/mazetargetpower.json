@@ -1,0 +1,370 @@
+{
+    "101": {
+        "1": {
+            "POWER": [
+                200,
+                400
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1
+        },
+        "2": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1.05
+        },
+        "3": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1.05
+        },
+        "4": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1.1
+        },
+        "5": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1.1
+        },
+        "6": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1.15
+        },
+        "7": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1.2
+        },
+        "8": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1.25
+        },
+        "9": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1.3
+        },
+        "10": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 0.9,
+            "POWER_ADD": 1.3
+        }
+    },
+    "102": {
+        "1": {
+            "POWER": [
+                400,
+                700
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.2
+        },
+        "2": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.25
+        },
+        "3": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.3
+        },
+        "4": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.35
+        },
+        "5": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.4
+        },
+        "6": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.45
+        },
+        "7": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.45
+        },
+        "8": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.5
+        },
+        "9": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.55
+        },
+        "10": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.55
+        }
+    },
+    "103": {
+        "1": {
+            "POWER": [
+                400,
+                800
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.5
+        },
+        "2": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.6
+        },
+        "3": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.7
+        },
+        "4": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.8
+        },
+        "5": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.8
+        },
+        "6": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.9
+        },
+        "7": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.9
+        },
+        "8": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 2
+        },
+        "9": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 2.1
+        },
+        "10": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 2.1
+        }
+    },
+    "203": {
+        "1": {
+            "POWER": [
+                700,
+                1500
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.8
+        },
+        "2": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.9
+        },
+        "3": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.9
+        },
+        "4": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.9
+        },
+        "5": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 1.9
+        },
+        "6": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 2
+        },
+        "7": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 2.1
+        },
+        "8": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 2.2
+        },
+        "9": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 2.3
+        },
+        "10": {
+            "POWER": [
+                0,
+                0
+            ],
+            "HP_ADD": 1,
+            "ATK_ADD": 1,
+            "POWER_ADD": 2.3
+        }
+    }
+}

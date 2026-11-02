@@ -1,0 +1,2986 @@
+{
+    "qiangnubing_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 27,
+            "tframe": 49,
+            "model": "huangse_jian_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 35,
+            "tframe": 65
+        }
+    },
+    "haozhao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 59,
+            "hframe": 27,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 25,
+            "tframe": 45
+        }
+    },
+    "caohong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "chenqun_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 45,
+            "hframe": 25,
+            "tframe": 45,
+            "model": "chengse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 36,
+            "tframe": 67
+        }
+    },
+    "lidian_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 60,
+            "hframe": 17,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "zhanghe_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "lejin_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "huangse_jian_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 29,
+            "tframe": 54
+        }
+    },
+    "zhenji_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 15,
+            "hframe": 20,
+            "tframe": 50,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 83,
+            "tframe": 161
+        }
+    },
+    "xunyu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 44,
+            "hframe": 25,
+            "tframe": 46,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 60
+        }
+    },
+    "xiahouyuan_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 31,
+            "hframe": 23,
+            "tframe": 41,
+            "model": "xiahouyuan_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 39,
+            "tframe": 73
+        }
+    },
+    "zhangliao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 34,
+            "hframe": 21,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 39,
+            "tframe": 73
+        }
+    },
+    "jiaxu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "baise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "simayi_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "simayi_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "pangde_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 62,
+            "hframe": 25,
+            "tframe": 46
+        },
+        "sttinfo": {
+            "hframe": 31,
+            "tframe": 58
+        }
+    },
+    "xuchu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "caocao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 45,
+            "hframe": 25,
+            "tframe": 45
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "xiahoudun_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 30,
+            "hframe": 23,
+            "tframe": 42
+        },
+        "sttinfo": {
+            "hframe": 25,
+            "tframe": 46
+        }
+    },
+    "caoren_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 59,
+            "hframe": 27,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 27,
+            "tframe": 50
+        }
+    },
+    "xuhuang_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "zhangliao_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "guojia_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 44,
+            "hframe": 25,
+            "tframe": 46,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 76
+        }
+    },
+    "hudianwei_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 44,
+            "hframe": 25,
+            "tframe": 46
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 76
+        }
+    },
+    "daofushou_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 52,
+            "hframe": 21,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 60
+        }
+    },
+    "zhangxingcai_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 37,
+            "hframe": 29,
+            "tframe": 53,
+            "model": "chengse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "liufeng_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 54,
+            "hframe": 29,
+            "tframe": 54
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "wangping_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 27,
+            "hframe": 25,
+            "tframe": 45
+        },
+        "sttinfo": {
+            "hframe": 19,
+            "tframe": 33
+        }
+    },
+    "huangyueying_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 27,
+            "hframe": 34,
+            "tframe": 63
+        },
+        "sttinfo": {
+            "hframe": 20,
+            "tframe": 93
+        }
+    },
+    "muludawang_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "zhurong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 31,
+            "hframe": 23,
+            "tframe": 41,
+            "model": "zhurong_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 39,
+            "tframe": 73
+        }
+    },
+    "liaohua_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 44,
+            "hframe": 25,
+            "tframe": 46,
+            "model": "lvse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "menghuo_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 62,
+            "hframe": 25,
+            "tframe": 46
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "guanyu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 43,
+            "tframe": 81
+        }
+    },
+    "pangtong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 41,
+            "hframe": 27,
+            "tframe": 49,
+            "model": "lvse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "liushan_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "xushu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 27,
+            "tframe": 49,
+            "model": "xushu_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "machao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "huangzhong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "huangzhong_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 33,
+            "tframe": 62
+        }
+    },
+    "liubei_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 58,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "jiangwei_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "lvse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "zhangfei_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "zhaoyun_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 27,
+            "tframe": 50
+        }
+    },
+    "zhugeliang_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "huangse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "weiyan_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 27,
+            "hframe": 21,
+            "tframe": 45
+        },
+        "sttinfo": {
+            "hframe": 34,
+            "tframe": 68
+        }
+    },
+    "zhenpangtong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 45,
+            "hframe": 27,
+            "tframe": 45,
+            "model": "zhenpangtong_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 31,
+            "tframe": 68
+        }
+    },
+    "shinv_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 44,
+            "hframe": 25,
+            "tframe": 46,
+            "model": "chengse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 60
+        }
+    },
+    "jiangqin_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 19,
+            "hframe": 20,
+            "tframe": 53,
+            "model": "chengse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 36,
+            "tframe": 67
+        }
+    },
+    "dingfeng_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 44,
+            "hframe": 25,
+            "tframe": 46
+        },
+        "sttinfo": {
+            "hframe": 27,
+            "tframe": 49
+        }
+    },
+    "zhanghong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 52,
+            "hframe": 21,
+            "tframe": 50,
+            "model": "lanse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "lingtong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 67,
+            "hframe": 23,
+            "tframe": 41
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "xiaoqiao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "zise_jian_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "zhugejin_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 33,
+            "hframe": 31,
+            "tframe": 57,
+            "model": "lvse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 60
+        }
+    },
+    "zhangzhao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "lvse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "zhoutai_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 52,
+            "hframe": 21,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "daqiao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "lanse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 43,
+            "tframe": 81
+        }
+    },
+    "sunshangxiang_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 27,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "panzhang_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 58,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 31,
+            "tframe": 57
+        }
+    },
+    "lvmeng_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 31,
+            "hframe": 23,
+            "tframe": 41,
+            "model": "huangse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 43,
+            "tframe": 81
+        }
+    },
+    "luxun_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 41,
+            "hframe": 27,
+            "tframe": 49,
+            "model": "chengse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 60
+        }
+    },
+    "bulianshi_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 49,
+            "hframe": 23,
+            "tframe": 41,
+            "model": "chengse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "ganning_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "sunjian_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 43,
+            "tframe": 81
+        }
+    },
+    "sunquan_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 67,
+            "hframe": 23,
+            "tframe": 41
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "sunce_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 27,
+            "hframe": 25,
+            "tframe": 45,
+            "model": "zise_jian_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 29,
+            "tframe": 53
+        }
+    },
+    "zhouyu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "chengse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "taishici_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 30,
+            "tframe": 49,
+            "model": "taishici_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 74
+        }
+    },
+    "huangjinjun_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 27,
+            "hframe": 25,
+            "tframe": 45
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 60
+        }
+    },
+    "guanhai_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 41,
+            "hframe": 27,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 29,
+            "tframe": 53
+        }
+    },
+    "zhangji_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "lanse_jian_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "zhangliang_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "lvse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 27,
+            "tframe": 50
+        }
+    },
+    "panfeng_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 70,
+            "hframe": 21,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 60
+        }
+    },
+    "hanxiandi_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "guosi_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 27,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "chengong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "baise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "yuji_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "lanse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "wenchou_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 41,
+            "hframe": 27,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 60
+        }
+    },
+    "yanliang_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 59,
+            "hframe": 27,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "gongsunzan_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 18,
+            "hframe": 29,
+            "tframe": 54
+        },
+        "sttinfo": {
+            "hframe": 29,
+            "tframe": 54
+        }
+    },
+    "caiwenji_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "zise_faqiu_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 39,
+            "tframe": 73
+        }
+    },
+    "dongzhuo_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 59,
+            "hframe": 27,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "yuanshao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "chengse_faqiu_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "zhangjiao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 33,
+            "tframe": 62
+        }
+    },
+    "huatuo_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50,
+            "model": "lvse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 70
+        }
+    },
+    "lvbu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 27,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 75
+        }
+    },
+    "huaxiong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 24,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 22,
+            "tframe": 70
+        }
+    },
+    "diaochan_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 20,
+            "tframe": 50,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 26,
+            "tframe": 73
+        }
+    },
+    "huyuanshao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47,
+            "model": "huyuanshao_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "shendaodunbing_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 70,
+            "hframe": 19,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 23,
+            "tframe": 60
+        }
+    },
+    "shenpangtong_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 24,
+            "tframe": 50,
+            "model": "chengse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 35,
+            "tframe": 75
+        }
+    },
+    "shenzhoutai_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 24,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 34,
+            "tframe": 75
+        }
+    },
+    "shenliubei_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 48,
+            "hframe": 24,
+            "tframe": 42,
+            "model": "huangse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 34,
+            "tframe": 75
+        }
+    },
+    "shenlvmeng_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 24,
+            "tframe": 49,
+            "model": "zise_jian_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 34,
+            "tframe": 75
+        }
+    },
+    "shenzhangfei_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 24,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 75
+        }
+    },
+    "shenguanyu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 58,
+            "hframe": 22,
+            "tframe": 50
+        },
+        "sttinfo": {
+            "hframe": 26,
+            "tframe": 81
+        }
+    },
+    "shenluxun_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 24,
+            "hframe": 30,
+            "tframe": 66
+        },
+        "sttinfo": {
+            "hframe": 52,
+            "tframe": 100
+        }
+    },
+    "shenzhugeliang_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 20,
+            "tframe": 50,
+            "model": "shenzhugeliang_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 33,
+            "tframe": 81
+        }
+    },
+    "longxingzhugeliang": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 24,
+            "tframe": 49,
+            "model": "longxingzhugeliang_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 75
+        }
+    },
+    "shenzhouyu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 24,
+            "tframe": 50,
+            "model": "shenzhouyu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 35,
+            "tframe": 75
+        }
+    },
+    "moqibing_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 45,
+            "hframe": 24,
+            "tframe": 45
+        },
+        "sttinfo": {
+            "hframe": 22,
+            "tframe": 45
+        }
+    },
+    "mosimazhao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 30,
+            "hframe": 24,
+            "tframe": 67,
+            "model": "zise_jian_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 70
+        }
+    },
+    "moyuji_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 41,
+            "hframe": 24,
+            "tframe": 49,
+            "model": "baise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 25,
+            "tframe": 60
+        }
+    },
+    "mobulianshi_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 44,
+            "hframe": 24,
+            "tframe": 46,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 34,
+            "tframe": 75
+        }
+    },
+    "modiaochan_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 24,
+            "tframe": 50,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 73
+        }
+    },
+    "modiaochan_fenshen": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 22,
+            "hframe": 24,
+            "tframe": 50,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 73
+        }
+    },
+    "mosimayi_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "120x120",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 40,
+            "hframe": 24,
+            "tframe": 50,
+            "model": "zise_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 38,
+            "tframe": 81
+        }
+    },
+    "mosunquan_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 63,
+            "hframe": 30,
+            "tframe": 45
+        },
+        "sttinfo": {
+            "hframe": 37,
+            "tframe": 76
+        }
+    },
+    "mocaocao_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 41,
+            "hframe": 24,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 70
+        }
+    },
+    "mocaocao_fenshen": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "200x200",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 27,
+            "tframe": 49,
+            "model": "zise_jian_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 35,
+            "tframe": 65
+        }
+    },
+    "molvbu_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 59,
+            "hframe": 30,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 33,
+            "tframe": 75
+        }
+    },
+    "molvbu_fenshen": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 24,
+            "tframe": 49
+        },
+        "sttinfo": {
+            "hframe": 33,
+            "tframe": 75
+        }
+    },
+    "dianwei": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "80x80",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 44,
+            "hframe": 25,
+            "tframe": 46
+        },
+        "sttinfo": {
+            "hframe": 40,
+            "tframe": 76
+        }
+    },
+    "fazheng": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 45,
+            "hframe": 27,
+            "tframe": 45,
+            "model": "zhenpangtong_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 31,
+            "tframe": 68
+        }
+    },
+    "taishici": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 23,
+            "hframe": 30,
+            "tframe": 49,
+            "model": "taishici_attack",
+            "speed": 15
+        },
+        "sttinfo": {
+            "hframe": 32,
+            "tframe": 74
+        }
+    },
+    "zuoci": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47,
+            "model": "huyuanshao_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "peach_1": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47,
+            "model": "d_taohe",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "sunwukong": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "zhubajie": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "xiongmaoren": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "huxianfeng": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "xiaohuxian": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47,
+            "model": "lanse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "kapibala": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "huzi": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "liukou": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "mazei": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "taobing": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "tufei": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "xiangma": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 2,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47,
+            "model": "lanse_faqiu_attack",
+            "speed": 12
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "maozei": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "sanfei": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "shanzei": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "yexingren": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    },
+    "youkou": {
+        "box": {
+            "width": 70,
+            "height": 70
+        },
+        "point": {
+            "x": 0,
+            "y": 20
+        },
+        "findzone": "550x550",
+        "attzone": "280x280",
+        "attrange": 1,
+        "attinfo": {
+            "batti": 43,
+            "hframe": 20,
+            "tframe": 47
+        },
+        "sttinfo": {
+            "hframe": 30,
+            "tframe": 67
+        }
+    }
+}

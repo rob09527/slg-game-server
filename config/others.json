@@ -1,0 +1,481 @@
+{
+    "ROLE_DEFAULT_IMAGEID": 52006,
+    "ROLE_DEFAULT_HEADID": 50006,
+    "NEW_ROLE_DAYS":1092,
+    "FIGHT_CHAPTER":10301,
+    "GENERAL_MATERIAL": {
+        "RATE": {
+            "TEMPLATE": {
+                "SP": {
+                    "30015": 0.5
+                },
+                "DEFAULT": 1
+            }
+        }
+    },
+    "SURRENDER": {
+        "CHAPTER": 10101,
+        "EXCLUDE": 101
+    },
+    "GENERAL_BIND": [null],
+    "GENERAL_UNBIND": {
+        "GSID": 38005,
+        "COUNT": 100
+    },
+    "LEVEL_16":[
+        {"GSID": 30006, "COUNT": 10}
+    ],
+    "BG_TICKET": [
+        50, 50, 50, 50, 50,
+        50, 50, 50, 50, 50,
+        50, 50, 50, 50, 50,
+        50, 50, 50, 50, 50
+    ],
+    "CREATE_GENERAL": [
+        {"GSID": 10241, "RECRUIT": {"NORMAL": 16361, "PREMIUM": 10321}},
+        {"GSID": 12241, "RECRUIT": {"NORMAL": 10381, "PREMIUM": 12281}},
+        {"GSID": 14201, "RECRUIT": {"NORMAL": 16381, "PREMIUM": 14301}}
+    ],
+    "SPACES":{
+        "PET" : 100,
+        "HORSE" : 100
+    },
+    "BAGSPACE_BASE": 60,
+    "BAGSPACE_EXT": 25,
+    "TREASURE_DUST": 34000,
+    "EQUIP_DUST": 33990,
+    "RECRUIT": {
+        "BUS_LIMIT": 300,
+        "SAFE_PREMIUM": 10,
+        "SAFE_LEFT": 10,
+        "GOLD_LIMIT": 200,
+        "FIRST_SPECIAL": {
+            "NORMAL": [14081],
+            "PREMIUM": [12101]
+        },
+        "FREE_TYPE_HOUR": {"NORMAL": 8, "PREMIUM": 22},
+        "ITEMS_COUNT": {"NORMAL": 1, "FRIEND": 5, "PREMIUM": 20, "RARE": 0},
+        "CAST_ITEMS" : {
+            "NORMAL": [
+                {"GSID": 30005, "COUNT": 1}
+            ],
+            "FRIEND": [
+                {"GSID": 30019, "COUNT": 10}
+            ],
+            "PREMIUM": [
+                {"GSID": 30006, "COUNT": 1},
+                {"GSID": 38005, "COUNT": 250, "EVERY": {"TIMES": 10, "MINUS": 500}}
+            ],
+            "RARE": [
+                {"GSID": 30007, "COUNT": 1200}
+            ]
+        }
+    },
+    "SUMMON": {
+        "CAST_ITEMS" : {
+            "WEI": {
+                "ITEMS": [{"GSID": 30011, "COUNT": 1}],
+                "DROP": [
+                    {"GSID": 30012, "MIN": 15, "MAX": 30},
+                    {"GSID": 30013, "MIN": 1, "MAX": 1}
+                ]
+            },
+            "SHU": {
+                "ITEMS": [{"GSID": 30011, "COUNT": 1}],
+                "DROP": [
+                    {"GSID": 30012, "MIN": 15, "MAX": 30},
+                    {"GSID": 30013, "MIN": 1, "MAX": 1}
+                ]
+            },
+            "WU": {
+                "ITEMS": [{"GSID": 30011, "COUNT": 1}],
+                "DROP": [
+                    {"GSID": 30012, "MIN": 15, "MAX": 30},
+                    {"GSID": 30013, "MIN": 1, "MAX": 1}
+                ]
+            },
+            "QX": {
+                "ITEMS": [{"GSID": 30011, "COUNT": 1}],
+                "DROP": [
+                    {"GSID": 30012, "MIN": 15, "MAX": 30},
+                    {"GSID": 30013, "MIN": 1, "MAX": 1}
+                ]
+            },
+            "DM": {
+                "ITEMS": [{"GSID": 30011, "COUNT": 1}],
+                "DROP": [
+                    {"GSID": 30012, "MIN": 15, "MAX": 30},
+                    {"GSID": 30013, "MIN": 1, "MAX": 1}
+                ]
+            }
+        }
+    },
+    "SPIN": {
+        "RECORD_LIMIT": 100,
+        "REFRESH_INTERVAL_HOUR": 24,
+        "FREE_REFRESH_INTERVAL_MIN": 180,
+        "SAFE_EIGHT_TIMES_N": 0,
+        "SAFE_EIGHT_TIMES_P": 100,
+        "REFRESH_ITEMS": {
+            "normal": [
+                {"gsid": 38005, "count": 50}
+            ],
+            "premium": [
+                {"gsid": 38005, "count": 100}
+            ]
+        },
+        "CAST_ITEMS": {
+            "normal": [
+                {"gsid": 30008, "count": 1, "every": {"time": 10, "minus": 0}}
+            ],
+            "premium": [
+                {"gsid": 30009, "count": 1, "every": {"time": 10, "minus": 0}}
+            ]
+        },
+        "DROP_ITEMS": {
+            "normal": [
+                {"gsid": 30010, "min": 5, "max": 5},
+                {"gsid": 30027, "min": 10, "max": 10}
+            ],
+            "premium": [
+                {"gsid": 30025, "min": 5, "max": 5},
+                {"gsid": 30027, "min": 20, "max": 20}
+            ]
+        }
+    },
+    "BIGBATTLE": {
+        "MBOSS": {
+            "TAG": [
+                90460,
+                90461,
+                90462
+            ],
+            "INDEX_NAME": [
+                "火烧赤壁",
+                "夜袭荆州",
+                "威震逍遥津"
+            ],
+            "SINDEX_NAME": [
+                "前军",
+                "中军",
+                "后军"
+            ]
+        },
+        "CASTTYPE": [90268, 90269, 90270],
+        "FREE": [
+            {"GSID": 90021, "COUNT": 2},
+            {"GSID": 90022, "COUNT": 2},
+            {"GSID": 90023, "COUNT": 2}
+        ]
+    },
+    "EXPEDITION": {
+        "ZF_MARK": [90154, 90155, 90156],
+        "ZF_LIMIT": [5, 5, 5],
+        "ZF_ADD": [
+            {"ATTR": "ATK", "RATE": 150},
+            {"ATTR": "HP", "RATE": 150},
+            {"ATTR": "MP", "NUM": 15}
+        ],
+        "SX_CAST": [
+            [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            [2, 2, 3, 3, 4, 4, 5, 5, 5, 5],
+            [3, 4, 5, 5, 5, 5, 5, 5, 5, 5]
+        ]
+    },
+    "GBAGSPACE": {
+        "CAST": [50, 100, 150, 200, 250, 300, 350, 400, 450, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500]
+    },
+    "AFFAIRS": {
+        "REFRESH_CAST": {
+            "GSID": 38005,
+            "COUNT": 10
+        },
+        "BASE_F_MISSION_NUM": 2,
+        "REEL_STAR": [0 ,30021, 99999, 30022, 30030, 30031],
+        "COND": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "LEGION": {
+        "WARBOSS": {
+            "CHALLENGE_CAST": [0, 0, 40, 80]
+        },
+        "RIGHT_ADD_RATE": 20,
+        "FACTORY_LVLIMIT": 7,
+        "CREATECASTYB": 500,
+        "MAIL_INTERVAL": 14400000,
+        "BOSS": {
+            "KILLRANK": [
+                {"RANK": 1, "RATE": 50},
+                {"RANK": 2, "RATE": 35},
+                {"RANK": 3, "RATE": 20}
+            ],
+            "CAST": [0, 0, 40, 80]
+        },
+        "TANHEYBNUM": 200,
+        "OFFLINEHOUR": 72,
+        "TANHETIMEHOUR":8,
+        "LEFTTIMEHOUR": 2,
+        "WBOSS_NEED_LEGIONLEVEL":11,
+        "LEGION_DONATION_LIMIT_HOUR":24,
+        "BOSS_REWARD_TAKEALL_DAY_LIMIT": 3,
+        "DONATION_DAY_COUNT":3
+    },
+    "FRIEND": {
+        "BPINTERVAL": 14400000,
+        "MAXQPHYS": 2,
+        "MAXBPHYS": 10,
+        "DAILYPSEND": 99,
+        "DAILYPRECE": 50,
+        "MAXFRIENDNUM": 50
+    },
+    "PVPTEAM": {
+        "STAINTERVALMIN": 60,
+        "MAXSTA": 10
+    },
+    "PVPKING": {
+        "TOPNUM": 10,
+        "STAGE_TEAMLEN": [1, 1, 2, 2, 2, 3],
+        "DINGJI_SCORE": [
+            [0, 0],
+            [0, 2],
+            [0, 4],
+            [1, 0],
+            [1, 2],
+            [1, 4]
+        ],
+        "REFRESH_INTERVAL_MIN": 15,
+        "HIDE_RATE": 10,
+        "CHALLENGE_CAST_COUNT": 2,
+        "WZ_CONFIG":{"MULTI":30,"SINGLE":10}
+    },
+    "PVPEQUAL": {
+        "CLEANMARK": [
+            94700,
+            94701,
+            94702,
+            94703,
+            94704,
+            94705,
+            94706,
+            94707,
+            94708,
+            94709,
+            94710,
+            94711,
+            94712,
+            94713,
+            94714
+        ],
+        "MYTHICAL": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106
+        ],
+        "CASTRANK": [
+            0,
+            50,
+            50,
+            100,
+            100,
+            100,
+            200,
+            200,
+            200,
+            500
+        ],
+        "RESETCAST": [
+            0,
+            50,
+            100,
+            200,
+            300,
+            500
+        ],
+        "MAXSTA": 20,
+        "STAINTERVALMIN": 60
+    },
+    "BATTLESEASON": {
+        "POS": [
+            [3, 4], [7, 9], [13, 0], [9, 1],
+            [3, 9], [4, 7], [6, 5], [3, 5],
+            [8, 11], [0, 7], [1, 2], [8, 5],
+            [2, 12], [6, 14], [0, 3], [2, 7],
+            [11, 13], [1, 7], [4, 11], [3, 10],
+            [7, 8], [11, 13], [2, 4], [8, 14]
+        ],
+        "VALS": [50, 50, 30, 50]
+    },
+    "MAPEVENT": {
+        "EVENT_TYPE_RATE": {
+            "1": 50,
+            "2": 50,
+            "3": 35,
+            "4": 20,
+            "5": 15,
+            "6": 30,
+            "7": 15
+        },
+        "MAX_EVENT_NUM": 12,
+        "REFRESH_INTERVAL_MIN": 120
+    },
+    "MYTHICAL": {
+        "RESET_TIME_MARK": 90350,
+        "FREE_RESET_NUM": 1,
+        "RESET_CAST": [
+            {"GSID": 38005, "COUNT": 1000}
+        ]
+    },
+    "TECH": {
+        "RESET_TIME_MARK": 90349,
+        "FREE_RESET_NUM": 1,
+        "RESET_CAST": [
+            {"GSID": 38005, "COUNT": 1000}
+        ]
+    },
+    "TOWER": {
+        "MAX_TOKEN_NUM": 20,
+        "REF_INTERVAL_MIN": 15
+    },
+    "DUNGEON": {
+        "ATTRMAX": {
+            "PSKIDAM": 50,
+            "PCRID": 50,
+            "PCRI": 50,
+            "ATK": 100,
+            "PPTHR": 50,
+            "PMTHR": 50
+        },
+        "SHOPREF": {
+            "MAXTIME": 3,
+            "CAST": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1
+                }
+            ]
+        }
+    },
+    "MANOR": {
+        "FIRSTITEM": [
+            {
+                "GSID": 38007,
+                "COUNT": 10
+            }
+        ],
+        "RESET_RATE": {
+            "DEFAULT": 0.5
+        },
+        "REFRESH_HOUR": {
+            "WILD_MONSTER": 6,
+            "BOSS": 8,
+            "RECOVERY_FOOD": 1
+        },
+        "FRIEND_HELP": 2,
+        "FOOD_PRICE":[
+            {"GSID":38005,"COUNT":100}
+        ],
+        "BUY_LIMIT":30,
+        "PATROL_CAST":[
+            {"GSID":38005,"COUNT":100},
+            {"GSID":38005,"COUNT":100},
+            {"GSID":38005,"COUNT":100},
+            {"GSID":38005,"COUNT":100},
+            {"GSID":38005,"COUNT":100}
+        ],
+        "VIP":[
+            {"GSID":38007,"COUNT":10}
+        ]
+    },
+    "OCCTASK":{
+        "ACTIVITY_TIME":30
+    },
+    "RECOMMEND_GIFT" : {
+        "MIN_LIMIT" : 30,
+        "MAX_SUB": 2
+    },
+    "ZHDROUTINE": {
+        "REFDAY": {
+            "DEFAULT": 7
+        },
+        "TIME_END" : {
+            "DEFAULT": 1594915200000
+        },
+        "GJDL":{
+            "CLEANMARK":[38015],
+            "EXCHANGE_COINS":3000
+        }
+    },
+    "WEEKTARGET": {
+        "START": {
+            "DEFAULT": "2020-08-19 00:00",
+            "RELEASE": "2020-08-21 00:00",
+            "PREPUB": "2020-08-20 00:00"
+        },
+        "DAY": 7,
+        "DAY1": 14
+    },
+    "FOURTEENLOGIN": {
+        "START": {
+            "DEFAULT": "2020-09-01 00:00",
+            "RELEASE": "2020-09-25 00:00",
+            "PREPUB": "2020-09-24 00:00"
+        }
+    },
+    "WORTHFUND": {
+        "START": {
+            "DEFAULT": "2020-09-15 00:00",
+            "RELEASE": "2020-09-25 00:00",
+            "PREPUB": "2020-09-24 00:00"
+        }
+    },
+    "VERIFIED": {
+        "CHANNEL": ["papa", "spyouxi"],
+        "REWARD": [
+            {
+                "GSID": 38005,
+                "COUNT": 200
+            },
+            {
+                "GSID": 30001,
+                "COUNT": 10000
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 10000
+            }
+        ]
+    },
+    "TOPKINGPVP": {
+        "THUMBS_UP": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            }
+        ],
+        "THUMBS_UP_NUM":5,
+        "LOTTERY":{
+            "BASE":400000,
+            "RATE":12000
+        }
+    },
+    "MAZE": {
+        "FIGHTING_FACTOR": [1.1,1.3,1.6],
+        "LEVEL_FACTOR":[
+            {"MIN":1,"MAX":70,"ADD_HP":1,"ADD_ATK":1},
+            {"MIN":71,"MAX":100,"ADD_HP":0.95,"ADD_ATK":0.9},
+            {"MIN":101,"MAX":999,"ADD_HP":0.9,"ADD_ATK":0.8}
+        ],
+        "SPECIALBUF": {"hp":15,"atk":15,"def":15,"mdef":15}
+    },
+    "KINGDOM_YOUJIE_TIME": 86400000,
+    "OPEN_SERVID":{
+        "NATIONWAR":[1101,1102,1103,1106,1109,1112,1115,1118,1121,1124,1127,1130,1135,1140,1145,1150,1155,1160,1165,1170,1175,1180,1181,1182,1183,
+            1184,1184,1185,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,
+            1601,1604,1608,1612,1616,1620,1623,1626,1630,1634,1637,1638,1639,1640,1641,1642,1643,1644,1645,1646,1647,1648,1649,1650,
+            1651,1652,1653,1654,1655,1656
+        ]
+    },
+    "SIGNET_STAR_LIMIT":14
+}

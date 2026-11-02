@@ -1,0 +1,32 @@
+{
+    "4": {
+        "CASTITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 50000
+            }
+        ],
+        "ADD_COUNT": 3000,
+        "MULTIPLE": 8
+    },
+    "5": {
+        "CASTITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 50000
+            }
+        ],
+        "ADD_COUNT": 3000,
+        "MULTIPLE": 4
+    },
+    "6": {
+        "CASTITEMS": [
+            {
+                "GSID": 38006,
+                "COUNT": 50000
+            }
+        ],
+        "ADD_COUNT": 3000,
+        "MULTIPLE": 2
+    }
+}

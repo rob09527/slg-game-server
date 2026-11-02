@@ -1,0 +1,3414 @@
+{
+    "XS_CZLB": {
+        "type": "XS_CZLB",
+        "name": "新手点将礼包",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_DJJF": {
+        "type": "XS_DJJF",
+        "name": "新手招募悬赏",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_DJRW": {
+        "type": "XS_DJRW",
+        "name": "新手点将任务",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_ZZTJJ_DJ": {
+        "type": "XS_ZZTJJ_DJ",
+        "name": "新人点将签到",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_CJXG1": {
+        "type": "XS_CJXG1",
+        "name": "新手VIP专属礼包",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_JFBX": {
+        "type": "XS_JFBX",
+        "name": "新手招募积分",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_CJXG2": {
+        "type": "XS_CJXG2",
+        "name": "新手神将礼包",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_GZLB": {
+        "type": "XS_GZLB",
+        "name": "新手高招超值礼包",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_ZMJF": {
+        "type": "XS_ZMJF",
+        "name": "新手招募悬赏",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_ZMQY": {
+        "type": "XS_ZMQY",
+        "name": "新手称心如意",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_XSDH": {
+        "type": "XS_XSDH",
+        "name": "新手限时兑换",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_ZZTJJ_GZ": {
+        "type": "XS_ZZTJJ_GZ",
+        "name": "新手招募签到",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_SZHC": {
+        "type": "XS_SZHC",
+        "name": "新手神装打造",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_CJXG3": {
+        "type": "XS_CJXG3",
+        "name": "新手神将礼包3",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_DJS": {
+        "type": "XS_DJS",
+        "name": "新手点金手",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ZSLB": {
+        "type": "ZSLB",
+        "name": "枭雄曹操",
+        "start": 1627747200000,
+        "etime": 1887206400000,
+        "duration": 7,
+        "mtitle": "活动奖励找回",
+        "mcontent": "尊敬的主公，您事务繁忙，竟忘记领取次日送曹操活动的奖励，我们已帮您找回，请注意查收！",
+        "params": {
+            "reward": {
+                "ID": "DEFAULT",
+                "require": "maxmapid>11105&&90215>=2&&special.zz>0",
+                "limit": 1,
+                "items": [
+                    {
+                        "GSID": 12361,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 16341,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 10301,
+                        "COUNT": 1
+                    }
+                ],
+                "rewardId": "DEFAULT",
+                "proitem1": {
+                    "ID": "proitem1",
+                    "require": "maxmapid>11105",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 50
+                        }
+                    ],
+                    "rewardId": "proitem1"
+                },
+                "proitem2": {
+                    "ID": "proitem2",
+                    "require": "90215>=2",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 50
+                        }
+                    ],
+                    "rewardId": "proitem2"
+                },
+                "proitem3": {
+                    "ID": "proitem3",
+                    "require": "special.zz>0",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 100
+                        }
+                    ],
+                    "rewardId": "proitem3"
+                }
+            },
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "KFLB": {
+        "type": "KFLB",
+        "name": "开服礼包",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 5,
+        "params": {
+            "reward": {},
+            "sppack": {
+                "pack02": {
+                    "ID": "pack02",
+                    "limit": 1,
+                    "price": 6,
+                    "exp": 60,
+                    "title": "txt_czlb_cjzyb_lang",
+                    "dec": "海量资源，所向披靡",
+                    "expand": "{\"rebete\":\"kflb_rebate_03\",\"intro\":\"txt_czlb_hlzysspn_lang\",\"bg\":\"image_czlb_czlbysqf01\",\"icon\":\"image_czlbdtb01_lang\"}",
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 60
+                        },
+                        {
+                            "GSID": 38006,
+                            "COUNT": 500000
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                "pack03": {
+                    "ID": "pack03",
+                    "limit": 1,
+                    "price": 30,
+                    "exp": 300,
+                    "title": "txt_czlb_cjzmb_lang",
+                    "dec": "招募幻兽，领先一步",
+                    "expand": "{\"rebete\":\"kflb_rebate_02\",\"intro\":\"txt_czlb_zmwjlxyb_lang\",\"bg\":\"image_czlb_czlbysqf02\",\"icon\":\"image_czlbdtb02_lang\"}",
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 300
+                        },
+                        {
+                            "GSID": 30006,
+                            "COUNT": 15
+                        },
+                        {
+                            "GSID": 30001,
+                            "COUNT": 1000000
+                        }
+                    ]
+                },
+                "pack01": {
+                    "ID": "pack01",
+                    "limit": 1,
+                    "price": 68,
+                    "exp": 680,
+                    "title": "txt_czlb_zlfsb_lang",
+                    "dec": "豪礼到手，战力飞升",
+                    "expand": "{\"rebete\":\"kflb_rebate_01\",\"intro\":\"txt_czlb_hldszlfs_lang\",\"bg\":\"image_czlb_czlbysqf03\",\"icon\":\"image_czlbdtb03_lang\"}",
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 680
+                        },
+                        {
+                            "GSID": 32801,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 30001,
+                            "COUNT": 5000000
+                        }
+                    ]
+                }
+            },
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "KFLB2": {
+        "type": "KFLB2",
+        "name": "次周超值礼包",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 7,
+        "offtime": 7,
+        "params": {
+            "reward": {},
+            "sppack": {
+                "pack02": {
+                    "ID": "pack02",
+                    "limit": 1,
+                    "price": 6,
+                    "exp": 60,
+                    "title": "kflb_spr_name_01",
+                    "dec": "海量资源，所向披靡",
+                    "expand": "{\"rebete\":\"kflb_rebate_03\",\"intro\":\"txt_czlb_hlzysspn_lang\",\"bg\":\"image_czlb_czlbysqf01\",\"icon\":\"image_czlbdtb01_lang\"}",
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 60
+                        },
+                        {
+                            "GSID": 41014,
+                            "COUNT": 2
+                        },
+                        {
+                            "GSID": 30015,
+                            "COUNT": 200
+                        }
+                    ]
+                },
+                "pack03": {
+                    "ID": "pack03",
+                    "limit": 1,
+                    "price": 30,
+                    "exp": 300,
+                    "title": "kflb_spr_name_02",
+                    "dec": "招募幻兽，领先一步",
+                    "expand": "{\"rebete\":\"kflb_rebate_02\",\"intro\":\"txt_czlb_zmwjlxyb_lang\",\"bg\":\"image_czlb_czlbysqf02\",\"icon\":\"image_czlbdtb02_lang\"}",
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 300
+                        },
+                        {
+                            "GSID": 41004,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 30011,
+                            "COUNT": 4
+                        }
+                    ]
+                },
+                "pack01": {
+                    "ID": "pack01",
+                    "limit": 1,
+                    "price": 68,
+                    "exp": 680,
+                    "title": "kflb_spr_name_03",
+                    "dec": "豪礼到手，战力飞升",
+                    "expand": "{\"rebete\":\"kflb_rebate_01\",\"intro\":\"txt_czlb_hldszlfs_lang\",\"bg\":\"image_czlb_czlbysqf03\",\"icon\":\"image_czlbdtb03_lang\"}",
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 680
+                        },
+                        {
+                            "GSID": 32801,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 30026,
+                            "COUNT": 5000
+                        }
+                    ]
+                }
+            },
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CZLB": {
+        "type": "CZLB",
+        "name": "点将超值礼包",
+        "start": 1668442200000,
+        "etime": 1668960000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "DJJF": {
+        "type": "DJJF",
+        "name": "点将积分",
+        "start": 1668442200000,
+        "etime": 1668960000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "DJRW": {
+        "type": "DJRW",
+        "name": "点将任务",
+        "start": 1668442200000,
+        "etime": 1668960000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "JFBX": {
+        "type": "JFBX",
+        "name": "积分豪礼",
+        "start": 1668442200000,
+        "etime": 1668960000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CJXG2": {
+        "type": "CJXG2",
+        "name": "神将礼包2",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "SMBX": {
+        "type": "SMBX",
+        "name": "金砖限购礼包",
+        "start": 1641744000000,
+        "etime": 1642348799000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CJXG1": {
+        "type": "CJXG1",
+        "name": "VIP专属礼包",
+        "start": 1629129600000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ZZTJJ_DJ": {
+        "type": "ZZTJJ_DJ",
+        "name": "点将签到",
+        "start": 1668442200000,
+        "etime": 1668960000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "GZLB": {
+        "type": "GZLB",
+        "name": "高招超值礼包",
+        "start": 1669047000000,
+        "etime": 1669651199000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ZMJF": {
+        "type": "ZMJF",
+        "name": "招募积分",
+        "start": 1669047000000,
+        "etime": 1669651199000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ZMQY": {
+        "type": "ZMQY",
+        "name": "称心如意",
+        "start": 1669047000000,
+        "etime": 1669651199000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XSDH": {
+        "type": "XSDH",
+        "name": "限时兑换",
+        "start": 1669047000000,
+        "etime": 1669651199000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CJXG3": {
+        "type": "CJXG3",
+        "name": "神将礼包3",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XYZM": {
+        "type": "XYZM",
+        "name": "许愿筑梦",
+        "start": 1669047000000,
+        "etime": 1669651199000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ZZTJJ_GZ": {
+        "type": "ZZTJJ_GZ",
+        "name": "高招签到",
+        "start": 1669047000000,
+        "etime": 1669651199000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "SZHC": {
+        "type": "SZHC",
+        "name": "神装打造",
+        "start": 1669910400000,
+        "etime": 1670515199000,
+        "duration": 0,
+        "roleday": 14,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "GXLB": {
+        "type": "GXLB",
+        "name": "观星超值礼包",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "GXDB": {
+        "type": "GXDB",
+        "name": "观星积分",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XYGX": {
+        "type": "XYGX",
+        "name": "幸运观星",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "QXSY": {
+        "type": "QXSY",
+        "name": "七星闪耀",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "mtitle": "道具回收奖励",
+        "mcontent": "亲爱的玩家：         您在本次七星觉醒活动中有多余的“星光符印”尚未使用，现自动为您兑换成以下奖励：",
+        "expand": "{\n    \"EXCHANGE_COINS\": 3000,\n    \"MARK\": 30084,\n    \"CLEAR_MARKS\": [90627],\n    \"MARKNAME\": \"星光符印\",\n    \"EVENTNAME\": \"七星觉醒\",\n    \"TITLE\": {\n        \"proitem1\" : \"开阳星\",\n        \"proitem2\" : \"玉衡星\",\n        \"proitem3\" : \"天权星\",\n        \"proitem4\" : \"天枢星\",\n        \"proitem5\" : \"天璇星\",\n        \"proitem6\" : \"天玑星\",\n        \"proitem7\" : \"揺光星\"\n    }\n}",
+        "params": {
+            "reward": {
+                "proitem1": {
+                    "ID": "proitem1",
+                    "require": "90627==0",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 20
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32589,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 90627,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem1"
+                },
+                "proitem2": {
+                    "ID": "proitem2",
+                    "require": "90627==1",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 30
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32125,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 90627,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem2"
+                },
+                "proitem3": {
+                    "ID": "proitem3",
+                    "require": "90627==2",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 50
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32588,
+                            "COUNT": 2
+                        },
+                        {
+                            "GSID": 90627,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem3"
+                },
+                "proitem4": {
+                    "ID": "proitem4",
+                    "require": "90627==3",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 100
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30029,
+                            "COUNT": 300
+                        },
+                        {
+                            "GSID": 90627,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem4"
+                },
+                "proitem5": {
+                    "ID": "proitem5",
+                    "require": "90627==4",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 100
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 37008,
+                            "COUNT": 50
+                        },
+                        {
+                            "GSID": 90627,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem5"
+                },
+                "proitem6": {
+                    "ID": "proitem6",
+                    "require": "90627==5",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 200
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32597,
+                            "COUNT": 2
+                        },
+                        {
+                            "GSID": 90627,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem6"
+                },
+                "proitem7": {
+                    "ID": "proitem7",
+                    "require": "90627==6",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 200
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32595,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 90627,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem7"
+                }
+            },
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ZZTJJ_GX": {
+        "type": "ZZTJJ_GX",
+        "name": "观星每日福利",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "THJJ": {
+        "type": "THJJ",
+        "name": "特惠基金",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "JRTC": {
+        "type": "JRTC",
+        "name": "双12狂欢节",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "JTHL": {
+        "type": "JTHL",
+        "name": "狂欢豪礼",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "HDLB": {
+        "type": "HDLB",
+        "name": "囤货礼包",
+        "start": 1680192000000,
+        "etime": 1680710399000,
+        "duration": 0,
+        "roleday": 7,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "THLB": {
+        "type": "THLB",
+        "name": "特惠礼包",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "SDBJ": {
+        "type": "SDBJ",
+        "name": "圣诞笔记",
+        "start": 1674144000000,
+        "etime": 1674748799000,
+        "duration": 0,
+        "roleday": 14,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "JYBP": {
+        "type": "JYBP",
+        "name": "记忆比拼",
+        "start": 1732554000000,
+        "etime": 1733158800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "SGZB": {
+        "type": "SGZB",
+        "name": "典藏占卜",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "SGLB": {
+        "type": "SGLB",
+        "name": "典藏礼包",
+        "start": 1672934400000,
+        "etime": 1673539140000,
+        "duration": 0,
+        "roleday": 7,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ATYZM": {
+        "type": "ATYZM",
+        "name": "龙帝召唤",
+        "start": 1672934400000,
+        "etime": 1673539140000,
+        "duration": 0,
+        "roleday": 7,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ATYZM1": {
+        "type": "ATYZM1",
+        "name": "龙帝召唤1",
+        "start": 1637251200000,
+        "etime": 1637405159000,
+        "roleday": 14,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "SWLB": {
+        "type": "SWLB",
+        "name": "神威礼包",
+        "start": 1672934400000,
+        "etime": 1673539140000,
+        "duration": 0,
+        "roleday": 7,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "YHZH": {
+        "type": "YHZH",
+        "name": "新将招募",
+        "start": 1637251200000,
+        "etime": 1637405159000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "JHLB": {
+        "type": "JHLB",
+        "name": "钜惠礼包",
+        "start": 1672934400000,
+        "etime": 1673539140000,
+        "duration": 0,
+        "roleday": 7,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "DLHL": {
+        "type": "DLHL",
+        "name": "新将来袭",
+        "start": 1672934400000,
+        "etime": 1673539140000,
+        "duration": 0,
+        "roleday": 7,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LJDL1": {
+        "type": "LJDL1",
+        "name": "五一累计登录",
+        "start": 1732554000000,
+        "etime": 1733158800000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "YHSH": {
+        "type": "YHSH",
+        "name": "新将守护",
+        "start": 1672934400000,
+        "etime": 1673539140000,
+        "duration": 0,
+        "roleday": 7,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XLJXLB": {
+        "type": "XLJXLB",
+        "name": "新将觉醒",
+        "start": 1672934400000,
+        "etime": 1673539140000,
+        "duration": 0,
+        "roleday": 7,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "SGLB2": {
+        "type": "SGLB2",
+        "name": "元旦钜惠",
+        "start": 1674144000000,
+        "etime": 1674748799000,
+        "duration": 0,
+        "roleday": 14,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "SGLB1": {
+        "type": "SGLB1",
+        "name": "圣诞礼包",
+        "start": 1648138200000,
+        "etime": 1648742399000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "YD_HYFD": {
+        "type": "YD_HYFD",
+        "name": "好运福袋",
+        "start": 1669910400000,
+        "etime": 1670515199000,
+        "duration": 0,
+        "roleday": 14,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ZJD": {
+        "type": "ZJD",
+        "name": "砸金蛋",
+        "start": 1686157200000,
+        "etime": 1686675600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "GELB": {
+        "type": "GELB",
+        "name": "节日赠礼",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XCZC": {
+        "type": "XCZC",
+        "name": "招财聚宝",
+        "start": 1732554000000,
+        "etime": 1733158800000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "YCCB": {
+        "type": "YCCB",
+        "name": "迎春筹办",
+        "start": 1674144000000,
+        "etime": 1674748799000,
+        "duration": 0,
+        "roleday": 14,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "NY_SIGNIN": {
+        "type": "NY_SIGNIN",
+        "name": "新春签到",
+        "start": 1674144000000,
+        "etime": 1674748799000,
+        "duration": 0,
+        "roleday": 14,
+        "params": {
+            "reward": {
+                "proitem1": {
+                    "ID": "proitem1",
+                    "require": "moment().diff(moment(start).startOf('days'), 'days')>=0",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30006,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem1"
+                },
+                "proitem2": {
+                    "ID": "proitem2",
+                    "require": "moment().diff(moment(start).startOf('days'), 'days')>=1",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30130,
+                            "COUNT": 2
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem2"
+                },
+                "proitem3": {
+                    "ID": "proitem3",
+                    "require": "moment().diff(moment(start).startOf('days'), 'days')>=2",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30130,
+                            "COUNT": 3
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem3"
+                },
+                "proitem4": {
+                    "ID": "proitem4",
+                    "require": "moment().diff(moment(start).startOf('days'), 'days')>=3",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30006,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem4"
+                },
+                "proitem5": {
+                    "ID": "proitem5",
+                    "require": "moment().diff(moment(start).startOf('days'), 'days')>=4",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30128,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem5"
+                },
+                "proitem6": {
+                    "ID": "proitem6",
+                    "require": "moment().diff(moment(start).startOf('days'), 'days')>=5",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30130,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem6"
+                },
+                "proitem7": {
+                    "ID": "proitem7",
+                    "require": "moment().diff(moment(start).startOf('days'), 'days')>=6",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30128,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem7"
+                }
+            },
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "NY_SHOP": {
+        "type": "NY_SHOP",
+        "name": "年货商店",
+        "start": 1674144000000,
+        "etime": 1674748799000,
+        "duration": 0,
+        "roleday": 14,
+        "params": {
+            "reward": {
+                "proitem1": {
+                    "ID": "proitem1",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?600:Math.floor(600*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30130,
+                            "COUNT": 2
+                        }
+                    ],
+                    "rewardId": "proitem1"
+                },
+                "proitem2": {
+                    "ID": "proitem2",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?360:Math.floor(360*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 41013,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem2"
+                },
+                "proitem3": {
+                    "ID": "proitem3",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?480:Math.floor(480*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 41003,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem3"
+                },
+                "proitem4": {
+                    "ID": "proitem4",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?300:Math.floor(300*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30015,
+                            "COUNT": 300
+                        }
+                    ],
+                    "rewardId": "proitem4"
+                },
+                "proitem5": {
+                    "ID": "proitem5",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?500:Math.floor(500*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30065,
+                            "COUNT": 10
+                        }
+                    ],
+                    "rewardId": "proitem5"
+                },
+                "proitem6": {
+                    "ID": "proitem6",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?500:Math.floor(500*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30066,
+                            "COUNT": 5
+                        }
+                    ],
+                    "rewardId": "proitem6"
+                },
+                "proitem7": {
+                    "ID": "proitem7",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?200:Math.floor(200*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30067,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem7"
+                },
+                "proitem8": {
+                    "ID": "proitem8",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?200:Math.floor(200*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30069,
+                            "COUNT": 5
+                        }
+                    ],
+                    "rewardId": "proitem8"
+                },
+                "proitem9": {
+                    "ID": "proitem9",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?450:Math.floor(450*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30070,
+                            "COUNT": 3
+                        }
+                    ],
+                    "rewardId": "proitem9"
+                },
+                "proitem10": {
+                    "ID": "proitem10",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?800:Math.floor(800*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30071,
+                            "COUNT": 2
+                        }
+                    ],
+                    "rewardId": "proitem10"
+                },
+                "proitem11": {
+                    "ID": "proitem11",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?300:Math.floor(300*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30113,
+                            "COUNT": 300
+                        }
+                    ],
+                    "rewardId": "proitem11"
+                },
+                "proitem12": {
+                    "ID": "proitem12",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?400:Math.floor(400*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30114,
+                            "COUNT": 5
+                        }
+                    ],
+                    "rewardId": "proitem12"
+                },
+                "proitem13": {
+                    "ID": "proitem13",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?3000:Math.floor(3000*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 2,
+                    "items": [
+                        {
+                            "GSID": 30068,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem13"
+                },
+                "proitem14": {
+                    "ID": "proitem14",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?3000:Math.floor(3000*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 2,
+                    "items": [
+                        {
+                            "GSID": 30072,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem14"
+                },
+                "proitem15": {
+                    "ID": "proitem15",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?3000:Math.floor(3000*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 2,
+                    "items": [
+                        {
+                            "GSID": 30090,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem15"
+                },
+                "proitem16": {
+                    "ID": "proitem16",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?3000:Math.floor(3000*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 2,
+                    "items": [
+                        {
+                            "GSID": 30093,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem16"
+                },
+                "proitem17": {
+                    "ID": "proitem17",
+                    "consume": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": "(role.getProp(98353)==0?6000:Math.floor(6000*role.getProp(98353)/10))"
+                        }
+                    ],
+                    "limit": 2,
+                    "items": [
+                        {
+                            "GSID": 32130,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem17"
+                }
+            },
+            "sppack": {},
+            "lucky": {
+                "items": [
+                    {
+                        "ID": "proitem1",
+                        "weight": 50,
+                        "items": [
+                            {
+                                "GSID": 98353,
+                                "COUNT": 5
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem2",
+                        "weight": 150,
+                        "items": [
+                            {
+                                "GSID": 98353,
+                                "COUNT": 6
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem3",
+                        "weight": 300,
+                        "items": [
+                            {
+                                "GSID": 98353,
+                                "COUNT": 7
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem4",
+                        "weight": 500,
+                        "items": [
+                            {
+                                "GSID": 98353,
+                                "COUNT": 8
+                            }
+                        ]
+                    }
+                ],
+                "consume": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": "(times == 0?0:times == 1?20:times == 2?40:times == 3?80:times == 4?160:times == 5?200:200)"
+                    },
+                    {
+                        "GSID": 98353,
+                        "COUNT": "role.getProp(98353)"
+                    }
+                ],
+                "limit": -1
+            }
+        }
+    },
+    "YX_UPROAR": {
+        "type": "YX_UPROAR",
+        "name": "大闹元宵",
+        "start": 1648138200000,
+        "etime": 1648742399000,
+        "duration": 0,
+        "params": {
+            "reward": {
+                "proitem1": {
+                    "ID": "proitem1",
+                    "require": "level>=35&&act.YX_UPROAR.lucky.times>=50",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32128,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem1"
+                },
+                "proitem2": {
+                    "ID": "proitem2",
+                    "require": "level>=35&&act.YX_UPROAR.lucky.times>=100",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32588,
+                            "COUNT": 2
+                        }
+                    ],
+                    "rewardId": "proitem2"
+                },
+                "proitem3": {
+                    "ID": "proitem3",
+                    "require": "level>=35&&act.YX_UPROAR.lucky.times>=200",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32131,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem3"
+                },
+                "proitem4": {
+                    "ID": "proitem4",
+                    "require": "level>=35&&act.YX_UPROAR.lucky.times>=300",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 37008,
+                            "COUNT": 50
+                        }
+                    ],
+                    "rewardId": "proitem4"
+                },
+                "proitem5": {
+                    "ID": "proitem5",
+                    "require": "level>=35&&act.YX_UPROAR.lucky.times>=500",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32579,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem5"
+                }
+            },
+            "sppack": {},
+            "lucky": {
+                "items": [
+                    {
+                        "ID": "proitem1",
+                        "weight": 3000,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 38006,
+                                "COUNT": 1000000
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem2",
+                        "weight": 2400,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 30001,
+                                "COUNT": 500000
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem3",
+                        "weight": 1300,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 30015,
+                                "COUNT": 300
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem4",
+                        "weight": 600,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 30113,
+                                "COUNT": 300
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem5",
+                        "weight": 600,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 30114,
+                                "COUNT": 4
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem6",
+                        "weight": 600,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 59000,
+                                "COUNT": 4
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem7",
+                        "weight": 600,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 32126,
+                                "COUNT": 1
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem8",
+                        "weight": 500,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 32117,
+                                "COUNT": 1
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem9",
+                        "weight": 200,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 36001,
+                                "COUNT": 50
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem10",
+                        "weight": 150,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 37001,
+                                "COUNT": 5
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "proitem11",
+                        "weight": 50,
+                        "items": [
+                            {
+                                "GSID": 30124,
+                                "COUNT": 1
+                            },
+                            {
+                                "GSID": 32101,
+                                "COUNT": 1
+                            }
+                        ]
+                    }
+                ],
+                "require": "level>=35",
+                "consume": [
+                    {
+                        "GSID": 30123,
+                        "COUNT": 1
+                    }
+                ],
+                "limit": -1
+            }
+        }
+    },
+    "YX_SHOP": {
+        "type": "YX_SHOP",
+        "name": "元宵商店",
+        "start": 1648138200000,
+        "etime": 1648742399000,
+        "duration": 0,
+        "params": {
+            "reward": {
+                "proitem1": {
+                    "ID": "proitem1",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 360
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 28161,
+                            "COUNT": 50
+                        }
+                    ],
+                    "rewardId": "proitem1"
+                },
+                "proitem2": {
+                    "ID": "proitem2",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 60
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30090,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem2"
+                },
+                "proitem3": {
+                    "ID": "proitem3",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 60
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30068,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem3"
+                },
+                "proitem4": {
+                    "ID": "proitem4",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 60
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30072,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem4"
+                },
+                "proitem5": {
+                    "ID": "proitem5",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 60
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30093,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem5"
+                },
+                "proitem6": {
+                    "ID": "proitem6",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 90
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32124,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem6"
+                },
+                "proitem7": {
+                    "ID": "proitem7",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 72
+                        }
+                    ],
+                    "limit": 2,
+                    "items": [
+                        {
+                            "GSID": 32123,
+                            "COUNT": 2
+                        }
+                    ],
+                    "rewardId": "proitem7"
+                },
+                "proitem8": {
+                    "ID": "proitem8",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 40
+                        }
+                    ],
+                    "limit": 5,
+                    "items": [
+                        {
+                            "GSID": 30067,
+                            "COUNT": 10
+                        }
+                    ],
+                    "rewardId": "proitem8"
+                },
+                "proitem9": {
+                    "ID": "proitem9",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 40
+                        }
+                    ],
+                    "limit": 10,
+                    "items": [
+                        {
+                            "GSID": 30066,
+                            "COUNT": 20
+                        }
+                    ],
+                    "rewardId": "proitem9"
+                },
+                "proitem10": {
+                    "ID": "proitem10",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 100
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 59000,
+                            "COUNT": 50
+                        }
+                    ],
+                    "rewardId": "proitem10"
+                },
+                "proitem11": {
+                    "ID": "proitem11",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 125
+                        }
+                    ],
+                    "limit": 2,
+                    "items": [
+                        {
+                            "GSID": 32128,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem11"
+                },
+                "proitem12": {
+                    "ID": "proitem12",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 50
+                        }
+                    ],
+                    "limit": 2,
+                    "items": [
+                        {
+                            "GSID": 32127,
+                            "COUNT": 2
+                        }
+                    ],
+                    "rewardId": "proitem12"
+                },
+                "proitem13": {
+                    "ID": "proitem13",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 1
+                        }
+                    ],
+                    "limit": 9999,
+                    "items": [
+                        {
+                            "GSID": 38006,
+                            "COUNT": 150000
+                        }
+                    ],
+                    "rewardId": "proitem13"
+                },
+                "proitem14": {
+                    "ID": "proitem14",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 1
+                        }
+                    ],
+                    "limit": 9999,
+                    "items": [
+                        {
+                            "GSID": 30001,
+                            "COUNT": 75000
+                        }
+                    ],
+                    "rewardId": "proitem14"
+                },
+                "proitem15": {
+                    "ID": "proitem15",
+                    "require": "level>=35",
+                    "consume": [
+                        {
+                            "GSID": 30124,
+                            "COUNT": 2
+                        }
+                    ],
+                    "limit": 9999,
+                    "items": [
+                        {
+                            "GSID": 30026,
+                            "COUNT": 100
+                        }
+                    ],
+                    "rewardId": "proitem15"
+                }
+            },
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "YX_SIGNIN": {
+        "type": "YX_SIGNIN",
+        "name": "元宵豪礼",
+        "start": 1646928600000,
+        "etime": 1647532799000,
+        "duration": 0,
+        "params": {
+            "reward": {
+                "proitem1": {
+                    "ID": "proitem1",
+                    "require": "level>=35&&98354>=1",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30107,
+                            "COUNT": 3
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem1"
+                },
+                "proitem2": {
+                    "ID": "proitem2",
+                    "require": "level>=35&&98354>=2",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 38005,
+                            "COUNT": 288
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem2"
+                },
+                "proitem3": {
+                    "ID": "proitem3",
+                    "require": "level>=35&&98354>=3",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30107,
+                            "COUNT": 3
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem3"
+                },
+                "proitem4": {
+                    "ID": "proitem4",
+                    "require": "level>=35&&98354>=4",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30006,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem4"
+                },
+                "proitem5": {
+                    "ID": "proitem5",
+                    "require": "level>=35&&98354>=5",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30107,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem5"
+                },
+                "proitem6": {
+                    "ID": "proitem6",
+                    "require": "level>=35&&98354>=6",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30130,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem6"
+                },
+                "proitem7": {
+                    "ID": "proitem7",
+                    "require": "level>=35&&98354>=7",
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30107,
+                            "COUNT": 5
+                        },
+                        {
+                            "GSID": 30136,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem7"
+                }
+            },
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "YXDH": {
+        "type": "YXDH",
+        "name": "元宵灯会",
+        "start": 1644509400000,
+        "etime": 1645113599000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "YXHL": {
+        "type": "YXHL",
+        "name": "元宵豪礼1",
+        "start": 1609430400000,
+        "etime": 1640966399000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "DJS": {
+        "type": "DJS",
+        "name": "点金手",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "PFLB": {
+        "type": "PFLB",
+        "name": "皮肤礼包",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "HYDT": {
+        "type": "HYDT",
+        "name": "鸿运当头",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_LJCZ": {
+        "type": "XS_LJCZ",
+        "name": "新手累计充值",
+        "start": 1609430400000,
+        "etime": 1640966399000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_LJCZ1": {
+        "type": "XS_LJCZ1",
+        "name": "新手累计充值1",
+        "start": 1609430400000,
+        "etime": 1640966399000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_LJCZ2": {
+        "type": "XS_LJCZ2",
+        "name": "新手累计充值2",
+        "start": 1609430400000,
+        "etime": 1640966399000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_LJCZ3": {
+        "type": "XS_LJCZ3",
+        "name": "新手累计充值3",
+        "start": 1609430400000,
+        "etime": 1640966399000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_LJCZ4": {
+        "type": "XS_LJCZ4",
+        "name": "新手累计充值4",
+        "start": 1609430400000,
+        "etime": 1640966399000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_THLB": {
+        "type": "XS_THLB",
+        "name": "新手特惠礼包",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_GXLB": {
+        "type": "XS_GXLB",
+        "name": "新手观星礼包",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_GXDB": {
+        "type": "XS_GXDB",
+        "name": "新手观星悬赏",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_XYGX": {
+        "type": "XS_XYGX",
+        "name": "新手幸运观星",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_QXSY": {
+        "type": "XS_QXSY",
+        "name": "新手七星闪耀",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "mtitle": "道具回收奖励",
+        "mcontent": "亲爱的玩家：         您在本次七星觉醒活动中有多余的“星光符印”尚未使用，现自动为您兑换成以下奖励：",
+        "expand": "{\n    \"EXCHANGE_COINS\": 3000,\n    \"MARK\": 30084,\n    \"CLEAR_MARKS\": [90580],\n    \"MARKNAME\": \"星光符印\",\n    \"EVENTNAME\": \"七星觉醒\",\n    \"TITLE\": {\n        \"proitem1\" : \"开阳星\",\n        \"proitem2\" : \"玉衡星\",\n        \"proitem3\" : \"天权星\",\n        \"proitem4\" : \"天枢星\",\n        \"proitem5\" : \"天璇星\",\n        \"proitem6\" : \"天玑星\",\n        \"proitem7\" : \"揺光星\"\n    }\n}",
+        "params": {
+            "reward": {
+                "proitem1": {
+                    "ID": "proitem1",
+                    "require": "90580==0",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 20
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32589,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 90580,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem1"
+                },
+                "proitem2": {
+                    "ID": "proitem2",
+                    "require": "90580==1",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 30
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32125,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 90580,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem2"
+                },
+                "proitem3": {
+                    "ID": "proitem3",
+                    "require": "90580==2",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 50
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32573,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 90580,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem3"
+                },
+                "proitem4": {
+                    "ID": "proitem4",
+                    "require": "90580==3",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 100
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 30029,
+                            "COUNT": 300
+                        },
+                        {
+                            "GSID": 90580,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem4"
+                },
+                "proitem5": {
+                    "ID": "proitem5",
+                    "require": "90580==4",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 100
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 34571,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 90580,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem5"
+                },
+                "proitem6": {
+                    "ID": "proitem6",
+                    "require": "90580==5",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 200
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32586,
+                            "COUNT": 2
+                        },
+                        {
+                            "GSID": 90580,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem6"
+                },
+                "proitem7": {
+                    "ID": "proitem7",
+                    "require": "90580==6",
+                    "consume": [
+                        {
+                            "GSID": 30084,
+                            "COUNT": 200
+                        }
+                    ],
+                    "limit": 1,
+                    "items": [
+                        {
+                            "GSID": 32595,
+                            "COUNT": 1
+                        },
+                        {
+                            "GSID": 90580,
+                            "COUNT": 1
+                        }
+                    ],
+                    "rewardId": "proitem7"
+                }
+            },
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_ZZTJJ_GX": {
+        "type": "XS_ZZTJJ_GX",
+        "name": "新手观星每日福利",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_CPLB": {
+        "type": "XS_CPLB",
+        "name": "新手寻宝礼包",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_CPJF": {
+        "type": "XS_CPJF",
+        "name": "新手寻宝悬赏",
+        "start": 1609430400000,
+        "etime": 1629648000000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XS_XYZM": {
+        "type": "XS_XYZM",
+        "name": "新手许愿筑梦",
+        "start": 1640966400000,
+        "etime": 1882108800000,
+        "duration": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "MJBG": {
+        "type": "MJBG",
+        "name": "探宝秘境",
+        "start": 1706025600000,
+        "etime": 1706630399000,
+        "duration": 0,
+        "roleday": 3,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "MJSL": {
+        "type": "MJSL",
+        "name": "探宝任务",
+        "start": 1706025600000,
+        "etime": 1706630399000,
+        "duration": 0,
+        "roleday": 3,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LJCZ": {
+        "type": "LJCZ",
+        "name": "累计充值",
+        "start": 1649260800000,
+        "etime": 1649865599000,
+        "duration": 0,
+        "roleday": 7,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "BJSR": {
+        "type": "BJSR",
+        "name": "探宝礼包",
+        "start": 1706025600000,
+        "etime": 1706630399000,
+        "duration": 0,
+        "roleday": 3,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "FLLB1": {
+        "type": "FLLB1",
+        "name": "返利礼包1",
+        "start": 1732554000000,
+        "etime": 1733158800000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "VIPZKSD1": {
+        "type": "VIPZKSD1",
+        "name": "vip折扣商店1",
+        "start": 1731344400000,
+        "etime": 1731949200000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "YD_XFYL": {
+        "type": "YD_XFYL",
+        "name": "消费有礼",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LXLJCZ": {
+        "type": "LXLJCZ",
+        "name": "连续累计充值",
+        "start": 1669564800000,
+        "etime": 1670169599000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LJCZ4": {
+        "type": "LJCZ4",
+        "name": "累计充值4",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "DZLBRMB": {
+        "type": "DZLBRMB",
+        "name": "定制礼包",
+        "start": 1732554000000,
+        "etime": 1733158800000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LXLJCZ1": {
+        "type": "LXLJCZ1",
+        "name": "连续累计充值1",
+        "start": 1732554000000,
+        "etime": 1733158800000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LJCZ1": {
+        "type": "LJCZ1",
+        "name": "累计充值1",
+        "start": 1732554000000,
+        "etime": 1733158800000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CPJF": {
+        "type": "CPJF",
+        "name": "寻宝悬赏",
+        "start": 1731949200000,
+        "etime": 1732554000000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CPLB": {
+        "type": "CPLB",
+        "name": "寻宝礼包",
+        "start": 1731949200000,
+        "etime": 1732554000000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "HGLB1": {
+        "type": "HGLB1",
+        "name": "惠顾礼包1",
+        "start": 1731344400000,
+        "etime": 1731949200000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "JNXL": {
+        "type": "JNXL",
+        "name": "购物满减",
+        "start": 1731949200000,
+        "etime": 1732554000000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "YD_XFYL2": {
+        "type": "YD_XFYL2",
+        "name": "消费有礼2",
+        "start": 1731949200000,
+        "etime": 1732554000000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LXLJCZ2": {
+        "type": "LXLJCZ2",
+        "name": "连续累计充值2",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LJCZ2": {
+        "type": "LJCZ2",
+        "name": "累计充值2",
+        "start": 1731949200000,
+        "etime": 1732554000000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "DZLBRMB2": {
+        "type": "DZLBRMB2",
+        "name": "定制礼包2",
+        "start": 1731344400000,
+        "etime": 1731949200000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LXLJCZ3": {
+        "type": "LXLJCZ3",
+        "name": "连续累计充值3",
+        "start": 1731344400000,
+        "etime": 1731949200000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LJCZ3": {
+        "type": "LJCZ3",
+        "name": "累计充值3",
+        "start": 1731344400000,
+        "etime": 1731949200000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CPJF2": {
+        "type": "CPJF2",
+        "name": "寻宝悬赏2",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CPLB2": {
+        "type": "CPLB2",
+        "name": "寻宝礼包2",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "SMZMXS1": {
+        "type": "SMZMXS1",
+        "name": "限时神魔招募",
+        "start": 1732554000000,
+        "etime": 1733158800000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "MJXXL": {
+        "type": "MJXXL",
+        "name": "消消乐",
+        "start": 1731949200000,
+        "etime": 1732554000000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CZPHB": {
+        "type": "CZPHB",
+        "name": "充值排行榜活动",
+        "start": 1726506000000,
+        "etime": 1726765200000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "XHYXHB": {
+        "type": "XHYXHB",
+        "name": "小黄鱼消耗排行榜",
+        "start": 1729270800000,
+        "etime": 1729530000000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "FTMPHB": {
+        "type": "FTMPHB",
+        "name": "飞天猫排行榜",
+        "start": 1690045200000,
+        "etime": 1690650000000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CJZM": {
+        "type": "CJZM",
+        "name": "超级招募",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CJLB": {
+        "type": "CJLB",
+        "name": "超级礼包",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "TXZ": {
+        "type": "TXZ",
+        "name": "通行证",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "CJRW": {
+        "type": "CJRW",
+        "name": "超级任务",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "LGLB": {
+        "type": "LGLB",
+        "name": "连购礼包",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ELGODA": {
+        "type": "ELGODA",
+        "name": "神树夺宝",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ELTASK": {
+        "type": "ELTASK",
+        "name": "神树地图任务",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ELGIFT": {
+        "type": "ELGIFT",
+        "name": "神树成就",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ELPAS1": {
+        "type": "ELPAS1",
+        "name": "神树通行证",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    },
+    "ELSHOP": {
+        "type": "ELSHOP",
+        "name": "神树兑换商店",
+        "start": 1733158800000,
+        "etime": 1733763600000,
+        "duration": 0,
+        "roleday": 0,
+        "params": {
+            "reward": {},
+            "sppack": {},
+            "lucky": {
+                "items": []
+            }
+        }
+    }
+}

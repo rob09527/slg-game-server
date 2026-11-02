@@ -1,0 +1,1544 @@
+{
+    "TALENT": {
+        "10101": {
+            "OCC": 1,
+            "ROW": 1,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PMDEF",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10101
+        },
+        "10102": {
+            "OCC": 1,
+            "ROW": 1,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 8800,
+                    "GROWN": 8800
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10102
+        },
+        "10103": {
+            "OCC": 1,
+            "ROW": 1,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "ATK",
+                    "BASE": 800,
+                    "GROWN": 800
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10103
+        },
+        "10201": {
+            "OCC": 1,
+            "ROW": 2,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "MSP",
+                    "BASE": 60,
+                    "GROWN": 60
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10201
+        },
+        "10202": {
+            "OCC": 1,
+            "ROW": 2,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PPTHR",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10202
+        },
+        "10203": {
+            "OCC": 1,
+            "ROW": 2,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PEFC",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10203
+        },
+        "10301": {
+            "OCC": 1,
+            "ROW": 3,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 5200,
+                    "GROWN": 5200
+                },
+                {
+                    "KEY": "ATK",
+                    "BASE": 0,
+                    "GROWN": 0
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10301
+        },
+        "10302": {
+            "OCC": 1,
+            "ROW": 3,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PMPS",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10302
+        },
+        "10303": {
+            "OCC": 1,
+            "ROW": 3,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PASP",
+                    "BASE": 36,
+                    "GROWN": 36
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10303
+        },
+        "10401": {
+            "OCC": 1,
+            "ROW": 4,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "ATK",
+                    "BASE": 1000,
+                    "GROWN": 1000
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10401
+        },
+        "10402": {
+            "OCC": 1,
+            "ROW": 4,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "ACCU",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10402
+        },
+        "10403": {
+            "OCC": 1,
+            "ROW": 4,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PMRDC",
+                    "BASE": 24,
+                    "GROWN": 24
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10403
+        },
+        "10501": {
+            "OCC": 1,
+            "ROW": 5,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PDAM",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10501
+        },
+        "10502": {
+            "OCC": 1,
+            "ROW": 5,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PRATK",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10502
+        },
+        "10503": {
+            "OCC": 1,
+            "ROW": 5,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PRDC",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 10503
+        },
+        "20101": {
+            "OCC": 2,
+            "ROW": 1,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PMDEF",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20101
+        },
+        "20102": {
+            "OCC": 2,
+            "ROW": 1,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 8800,
+                    "GROWN": 8800
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20102
+        },
+        "20103": {
+            "OCC": 2,
+            "ROW": 1,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PDEF",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20103
+        },
+        "20201": {
+            "OCC": 2,
+            "ROW": 2,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PCRI",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20201
+        },
+        "20202": {
+            "OCC": 2,
+            "ROW": 2,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PMPS",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20202
+        },
+        "20203": {
+            "OCC": 2,
+            "ROW": 2,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "MSP",
+                    "BASE": 60,
+                    "GROWN": 60
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20203
+        },
+        "20301": {
+            "OCC": 2,
+            "ROW": 3,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PASP",
+                    "BASE": 40,
+                    "GROWN": 40
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20301
+        },
+        "20302": {
+            "OCC": 2,
+            "ROW": 3,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PATKDAM",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20302
+        },
+        "20303": {
+            "OCC": 2,
+            "ROW": 3,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "ACCU",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20303
+        },
+        "20401": {
+            "OCC": 2,
+            "ROW": 4,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PSKIDAM",
+                    "BASE": 24,
+                    "GROWN": 24
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20401
+        },
+        "20402": {
+            "OCC": 2,
+            "ROW": 4,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "ATK",
+                    "BASE": 1000,
+                    "GROWN": 1000
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20402
+        },
+        "20403": {
+            "OCC": 2,
+            "ROW": 4,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PCRI",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20403
+        },
+        "20501": {
+            "OCC": 2,
+            "ROW": 5,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PDEX",
+                    "BASE": 24,
+                    "GROWN": 24
+                },
+                {
+                    "KEY": "PMDEX",
+                    "BASE": 0,
+                    "GROWN": 0
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20501
+        },
+        "20502": {
+            "OCC": 2,
+            "ROW": 5,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PPTHR",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20502
+        },
+        "20503": {
+            "OCC": 2,
+            "ROW": 5,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PCRID",
+                    "BASE": 60,
+                    "GROWN": 60
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 20503
+        },
+        "30101": {
+            "OCC": 3,
+            "ROW": 1,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PMDEF",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30101
+        },
+        "30102": {
+            "OCC": 3,
+            "ROW": 1,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 8800,
+                    "GROWN": 8800
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30102
+        },
+        "30103": {
+            "OCC": 3,
+            "ROW": 1,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PMDEX",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30103
+        },
+        "30201": {
+            "OCC": 3,
+            "ROW": 2,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PMTHR",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30201
+        },
+        "30202": {
+            "OCC": 3,
+            "ROW": 2,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "ATK",
+                    "BASE": 680,
+                    "GROWN": 680
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30202
+        },
+        "30203": {
+            "OCC": 3,
+            "ROW": 2,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PPTHR",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30203
+        },
+        "30301": {
+            "OCC": 3,
+            "ROW": 3,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PASP",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30301
+        },
+        "30302": {
+            "OCC": 3,
+            "ROW": 3,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PATKDAM",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30302
+        },
+        "30303": {
+            "OCC": 3,
+            "ROW": 3,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PSKIDAM",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30303
+        },
+        "30401": {
+            "OCC": 3,
+            "ROW": 4,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 8000,
+                    "GROWN": 8000
+                },
+                {
+                    "KEY": "ATK",
+                    "BASE": 0,
+                    "GROWN": 0
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30401
+        },
+        "30402": {
+            "OCC": 3,
+            "ROW": 4,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "ACCU",
+                    "BASE": 16,
+                    "GROWN": 16
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30402
+        },
+        "30403": {
+            "OCC": 3,
+            "ROW": 4,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "ATK",
+                    "BASE": 1400,
+                    "GROWN": 1400
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30403
+        },
+        "30501": {
+            "OCC": 3,
+            "ROW": 5,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PASP",
+                    "BASE": 50,
+                    "GROWN": 50
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30501
+        },
+        "30502": {
+            "OCC": 3,
+            "ROW": 5,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PRATK",
+                    "BASE": 16,
+                    "GROWN": 16
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30502
+        },
+        "30503": {
+            "OCC": 3,
+            "ROW": 5,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PPTHR",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 30503
+        },
+        "40101": {
+            "OCC": 4,
+            "ROW": 1,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PMDEF",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40101
+        },
+        "40102": {
+            "OCC": 4,
+            "ROW": 1,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 8800,
+                    "GROWN": 8800
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40102
+        },
+        "40103": {
+            "OCC": 4,
+            "ROW": 1,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "ATK",
+                    "BASE": 480,
+                    "GROWN": 480
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40103
+        },
+        "40201": {
+            "OCC": 4,
+            "ROW": 2,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "ACCU",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40201
+        },
+        "40202": {
+            "OCC": 4,
+            "ROW": 2,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PPRDC",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40202
+        },
+        "40203": {
+            "OCC": 4,
+            "ROW": 2,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PMRDC",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40203
+        },
+        "40301": {
+            "OCC": 4,
+            "ROW": 3,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 5200,
+                    "GROWN": 5200
+                },
+                {
+                    "KEY": "ATK",
+                    "BASE": 0,
+                    "GROWN": 0
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40301
+        },
+        "40302": {
+            "OCC": 4,
+            "ROW": 3,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PASP",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40302
+        },
+        "40303": {
+            "OCC": 4,
+            "ROW": 3,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PEFC",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40303
+        },
+        "40401": {
+            "OCC": 4,
+            "ROW": 4,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "ATK",
+                    "BASE": 1000,
+                    "GROWN": 1000
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40401
+        },
+        "40402": {
+            "OCC": 4,
+            "ROW": 4,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PMTHR",
+                    "BASE": 15,
+                    "GROWN": 15
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40402
+        },
+        "40403": {
+            "OCC": 4,
+            "ROW": 4,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "ACCU",
+                    "BASE": 24,
+                    "GROWN": 24
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40403
+        },
+        "40501": {
+            "OCC": 4,
+            "ROW": 5,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PSKIDAM",
+                    "BASE": 40,
+                    "GROWN": 40
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40501
+        },
+        "40502": {
+            "OCC": 4,
+            "ROW": 5,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PDAM",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40502
+        },
+        "40503": {
+            "OCC": 4,
+            "ROW": 5,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PMDAM",
+                    "BASE": 40,
+                    "GROWN": 40
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 40503
+        },
+        "50101": {
+            "OCC": 5,
+            "ROW": 1,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PMDEF",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50101
+        },
+        "50102": {
+            "OCC": 5,
+            "ROW": 1,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 8800,
+                    "GROWN": 8800
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50102
+        },
+        "50103": {
+            "OCC": 5,
+            "ROW": 1,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PMDEX",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50103
+        },
+        "50201": {
+            "OCC": 5,
+            "ROW": 2,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PHEA",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50201
+        },
+        "50202": {
+            "OCC": 5,
+            "ROW": 2,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "MSP",
+                    "BASE": 60,
+                    "GROWN": 60
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50202
+        },
+        "50203": {
+            "OCC": 5,
+            "ROW": 2,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "ATK",
+                    "BASE": 480,
+                    "GROWN": 480
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50203
+        },
+        "50301": {
+            "OCC": 5,
+            "ROW": 3,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PMTHR",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50301
+        },
+        "50302": {
+            "OCC": 5,
+            "ROW": 3,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PATKDAM",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50302
+        },
+        "50303": {
+            "OCC": 5,
+            "ROW": 3,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PPTHR",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50303
+        },
+        "50401": {
+            "OCC": 5,
+            "ROW": 4,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 12000,
+                    "GROWN": 12000
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50401
+        },
+        "50402": {
+            "OCC": 5,
+            "ROW": 4,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PPRDC",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50402
+        },
+        "50403": {
+            "OCC": 5,
+            "ROW": 4,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PMRDC",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50403
+        },
+        "50501": {
+            "OCC": 5,
+            "ROW": 5,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 6000,
+                    "GROWN": 6000
+                },
+                {
+                    "KEY": "ATK",
+                    "BASE": 0,
+                    "GROWN": 0
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50501
+        },
+        "50502": {
+            "OCC": 5,
+            "ROW": 5,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PMPS",
+                    "BASE": 40,
+                    "GROWN": 40
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50502
+        },
+        "50503": {
+            "OCC": 5,
+            "ROW": 5,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PASP",
+                    "BASE": 50,
+                    "GROWN": 50
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 50503
+        },
+        "60101": {
+            "OCC": 6,
+            "ROW": 1,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PMDEF",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60101
+        },
+        "60102": {
+            "OCC": 6,
+            "ROW": 1,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 8800,
+                    "GROWN": 8800
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60102
+        },
+        "60103": {
+            "OCC": 6,
+            "ROW": 1,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "ATK",
+                    "BASE": 800,
+                    "GROWN": 800
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60103
+        },
+        "60201": {
+            "OCC": 6,
+            "ROW": 2,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "MSP",
+                    "BASE": 60,
+                    "GROWN": 60
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60201
+        },
+        "60202": {
+            "OCC": 6,
+            "ROW": 2,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PDEF",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60202
+        },
+        "60203": {
+            "OCC": 6,
+            "ROW": 2,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "ACCU",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60203
+        },
+        "60301": {
+            "OCC": 6,
+            "ROW": 3,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 5200,
+                    "GROWN": 5200
+                },
+                {
+                    "KEY": "ATK",
+                    "BASE": 0,
+                    "GROWN": 0
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60301
+        },
+        "60302": {
+            "OCC": 6,
+            "ROW": 3,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "PRDC",
+                    "BASE": 10,
+                    "GROWN": 10
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60302
+        },
+        "60303": {
+            "OCC": 6,
+            "ROW": 3,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PPTHR",
+                    "BASE": 20,
+                    "GROWN": 20
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60303
+        },
+        "60401": {
+            "OCC": 6,
+            "ROW": 4,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "HP",
+                    "BASE": 14000,
+                    "GROWN": 14000
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60401
+        },
+        "60402": {
+            "OCC": 6,
+            "ROW": 4,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "ACCU",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60402
+        },
+        "60403": {
+            "OCC": 6,
+            "ROW": 4,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PMRDC",
+                    "BASE": 24,
+                    "GROWN": 24
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60403
+        },
+        "60501": {
+            "OCC": 6,
+            "ROW": 5,
+            "POS": 1,
+            "ATTR": [
+                {
+                    "KEY": "PMPS",
+                    "BASE": 60,
+                    "GROWN": 60
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60501
+        },
+        "60502": {
+            "OCC": 6,
+            "ROW": 5,
+            "POS": 2,
+            "ATTR": [
+                {
+                    "KEY": "DPCRI",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60502
+        },
+        "60503": {
+            "OCC": 6,
+            "ROW": 5,
+            "POS": 3,
+            "ATTR": [
+                {
+                    "KEY": "PRDC",
+                    "BASE": 30,
+                    "GROWN": 30
+                }
+            ],
+            "MAXLV": 5,
+            "COST": 1,
+            "ID": 60503
+        }
+    },
+    "TALENT_SKILL": {
+        "101": {
+            "OCC": 1,
+            "SKILL": 901,
+            "ROW": 1,
+            "COST": 5
+        },
+        "102": {
+            "OCC": 1,
+            "SKILL": 902,
+            "ROW": 2,
+            "COST": 10
+        },
+        "103": {
+            "OCC": 1,
+            "SKILL": 903,
+            "ROW": 3,
+            "COST": 15
+        },
+        "104": {
+            "OCC": 1,
+            "SKILL": 904,
+            "ROW": 4,
+            "COST": 20
+        },
+        "105": {
+            "OCC": 1,
+            "SKILL": 905,
+            "ROW": 5,
+            "COST": 25
+        },
+        "201": {
+            "OCC": 2,
+            "SKILL": 911,
+            "ROW": 1,
+            "COST": 5
+        },
+        "202": {
+            "OCC": 2,
+            "SKILL": 912,
+            "ROW": 2,
+            "COST": 10
+        },
+        "203": {
+            "OCC": 2,
+            "SKILL": 913,
+            "ROW": 3,
+            "COST": 15
+        },
+        "204": {
+            "OCC": 2,
+            "SKILL": 914,
+            "ROW": 4,
+            "COST": 20
+        },
+        "205": {
+            "OCC": 2,
+            "SKILL": 915,
+            "ROW": 5,
+            "COST": 25
+        },
+        "301": {
+            "OCC": 3,
+            "SKILL": 921,
+            "ROW": 1,
+            "COST": 5
+        },
+        "302": {
+            "OCC": 3,
+            "SKILL": 922,
+            "ROW": 2,
+            "COST": 10
+        },
+        "303": {
+            "OCC": 3,
+            "SKILL": 923,
+            "ROW": 3,
+            "COST": 15
+        },
+        "304": {
+            "OCC": 3,
+            "SKILL": 924,
+            "ROW": 4,
+            "COST": 20
+        },
+        "305": {
+            "OCC": 3,
+            "SKILL": 925,
+            "ROW": 5,
+            "COST": 25
+        },
+        "401": {
+            "OCC": 4,
+            "SKILL": 931,
+            "ROW": 1,
+            "COST": 5
+        },
+        "402": {
+            "OCC": 4,
+            "SKILL": 932,
+            "ROW": 2,
+            "COST": 10
+        },
+        "403": {
+            "OCC": 4,
+            "SKILL": 933,
+            "ROW": 3,
+            "COST": 15
+        },
+        "404": {
+            "OCC": 4,
+            "SKILL": 934,
+            "ROW": 4,
+            "COST": 20
+        },
+        "405": {
+            "OCC": 4,
+            "SKILL": 935,
+            "ROW": 5,
+            "COST": 25
+        },
+        "501": {
+            "OCC": 5,
+            "SKILL": 941,
+            "ROW": 1,
+            "COST": 5
+        },
+        "502": {
+            "OCC": 5,
+            "SKILL": 942,
+            "ROW": 2,
+            "COST": 10
+        },
+        "503": {
+            "OCC": 5,
+            "SKILL": 943,
+            "ROW": 3,
+            "COST": 15
+        },
+        "504": {
+            "OCC": 5,
+            "SKILL": 944,
+            "ROW": 4,
+            "COST": 20
+        },
+        "505": {
+            "OCC": 5,
+            "SKILL": 945,
+            "ROW": 5,
+            "COST": 25
+        }
+    },
+    "RESET": {
+        "CAST": [
+            {
+                "GSID": 38005,
+                "COUNT": 1000
+            }
+        ]
+    }
+}

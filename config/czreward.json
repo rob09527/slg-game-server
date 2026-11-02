@@ -1,0 +1,362 @@
+[
+    {
+        "LEVEL": 25,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 0,
+        "PATH": "jijin_1",
+        "STAGE": 1,
+        "POS": 1
+    },
+    {
+        "LEVEL": 30,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 1,
+        "PATH": "jijin_1",
+        "STAGE": 1,
+        "POS": 2
+    },
+    {
+        "LEVEL": 35,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 2,
+        "PATH": "jijin_1",
+        "STAGE": 1,
+        "POS": 3
+    },
+    {
+        "LEVEL": 40,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 3,
+        "PATH": "jijin_1",
+        "STAGE": 1,
+        "POS": 4
+    },
+    {
+        "LEVEL": 45,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 4,
+        "PATH": "jijin_1",
+        "STAGE": 1,
+        "POS": 5
+    },
+    {
+        "LEVEL": 50,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 5,
+        "PATH": "jijin_1",
+        "STAGE": 1,
+        "POS": 6
+    },
+    {
+        "LEVEL": 55,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 6,
+        "PATH": "jijin_2",
+        "STAGE": 1,
+        "POS": 7
+    },
+    {
+        "LEVEL": 60,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 7,
+        "PATH": "jijin_2",
+        "STAGE": 1,
+        "POS": 8
+    },
+    {
+        "LEVEL": 65,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 8,
+        "PATH": "jijin_2",
+        "STAGE": 1,
+        "POS": 9
+    },
+    {
+        "LEVEL": 70,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 9,
+        "PATH": "jijin_2",
+        "STAGE": 1,
+        "POS": 10
+    },
+    {
+        "LEVEL": 72,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 10,
+        "PATH": "jijin_2",
+        "STAGE": 1,
+        "POS": 11
+    },
+    {
+        "LEVEL": 75,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 11,
+        "PATH": "jijin_3",
+        "STAGE": 1,
+        "POS": 12
+    },
+    {
+        "LEVEL": 80,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 12,
+        "PATH": "jijin_1",
+        "STAGE": 2,
+        "POS": 13
+    },
+    {
+        "LEVEL": 82,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 13,
+        "PATH": "jijin_1",
+        "STAGE": 2,
+        "POS": 14
+    },
+    {
+        "LEVEL": 84,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 14,
+        "PATH": "jijin_1",
+        "STAGE": 2,
+        "POS": 15
+    },
+    {
+        "LEVEL": 86,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 15,
+        "PATH": "jijin_1",
+        "STAGE": 2,
+        "POS": 16
+    },
+    {
+        "LEVEL": 88,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 16,
+        "PATH": "jijin_1",
+        "STAGE": 2,
+        "POS": 17
+    },
+    {
+        "LEVEL": 90,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 17,
+        "PATH": "jijin_1",
+        "STAGE": 2,
+        "POS": 18
+    },
+    {
+        "LEVEL": 92,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 18,
+        "PATH": "jijin_2",
+        "STAGE": 2,
+        "POS": 19
+    },
+    {
+        "LEVEL": 94,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 19,
+        "PATH": "jijin_2",
+        "STAGE": 2,
+        "POS": 20
+    },
+    {
+        "LEVEL": 96,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 20,
+        "PATH": "jijin_2",
+        "STAGE": 2,
+        "POS": 21
+    },
+    {
+        "LEVEL": 98,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 21,
+        "PATH": "jijin_2",
+        "STAGE": 2,
+        "POS": 22
+    },
+    {
+        "LEVEL": 99,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 22,
+        "PATH": "jijin_2",
+        "STAGE": 2,
+        "POS": 23
+    },
+    {
+        "LEVEL": 100,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 23,
+        "PATH": "jijin_3",
+        "STAGE": 2,
+        "POS": 24
+    },
+    {
+        "LEVEL": 105,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 24,
+        "PATH": "jijin_1",
+        "STAGE": 3,
+        "POS": 25
+    },
+    {
+        "LEVEL": 107,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 25,
+        "PATH": "jijin_1",
+        "STAGE": 3,
+        "POS": 26
+    },
+    {
+        "LEVEL": 109,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 26,
+        "PATH": "jijin_1",
+        "STAGE": 3,
+        "POS": 27
+    },
+    {
+        "LEVEL": 111,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 27,
+        "PATH": "jijin_1",
+        "STAGE": 3,
+        "POS": 28
+    },
+    {
+        "LEVEL": 113,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 28,
+        "PATH": "jijin_1",
+        "STAGE": 3,
+        "POS": 29
+    },
+    {
+        "LEVEL": 115,
+        "YBNUM": 1200,
+        "MARK": 97405,
+        "OMARK": 90273,
+        "NUM": 29,
+        "PATH": "jijin_1",
+        "STAGE": 3,
+        "POS": 30
+    },
+    {
+        "LEVEL": 117,
+        "YBNUM": 1200,
+        "MARK": 97406,
+        "OMARK": 90273,
+        "NUM": 30,
+        "PATH": "jijin_2",
+        "STAGE": 3,
+        "POS": 1
+    },
+    {
+        "LEVEL": 119,
+        "YBNUM": 1200,
+        "MARK": 97406,
+        "OMARK": 90273,
+        "NUM": 31,
+        "PATH": "jijin_2",
+        "STAGE": 3,
+        "POS": 2
+    },
+    {
+        "LEVEL": 121,
+        "YBNUM": 1200,
+        "MARK": 97406,
+        "OMARK": 90273,
+        "NUM": 32,
+        "PATH": "jijin_2",
+        "STAGE": 3,
+        "POS": 3
+    },
+    {
+        "LEVEL": 123,
+        "YBNUM": 1200,
+        "MARK": 97406,
+        "OMARK": 90273,
+        "NUM": 33,
+        "PATH": "jijin_2",
+        "STAGE": 3,
+        "POS": 4
+    },
+    {
+        "LEVEL": 125,
+        "YBNUM": 1200,
+        "MARK": 97406,
+        "OMARK": 90273,
+        "NUM": 34,
+        "PATH": "jijin_2",
+        "STAGE": 3,
+        "POS": 5
+    },
+    {
+        "LEVEL": 130,
+        "YBNUM": 1200,
+        "MARK": 97406,
+        "OMARK": 90273,
+        "NUM": 35,
+        "PATH": "jijin_3",
+        "STAGE": 3,
+        "POS": 6
+    }
+]

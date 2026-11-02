@@ -1,0 +1,407 @@
+{
+    "seed": "1703065859510",
+    "battleid": "6582b903ea9b7965b9633d6b",
+    "season": 4,
+    "type": "chapter",
+    "player": {
+        "mythic": {
+            "level": 120,
+            "class": 4,
+            "pskill": [
+                30,
+                30,
+                30,
+                30
+            ],
+            "talent": [],
+            "talentskill": [
+                60000,
+                60001,
+                60002,
+                60003
+            ],
+            "tid": "101"
+        },
+        "team": {
+            "17": {
+                "inherit": {
+                    "prop": [],
+                    "time": 0
+                },
+                "exclusive": {
+                    "level": 0,
+                    "property": [],
+                    "skill": [],
+                    "gsid": 39000
+                },
+                "horse": [],
+                "level": 140,
+                "class": 6,
+                "equip": [],
+                "book": [],
+                "soul": [],
+                "occusuitskill": [],
+                "stone": [],
+                "create": 1698658694497,
+                "gsid": 17101,
+                "issoul": false,
+                "property": {
+                    "hp": 1192711,
+                    "atk": 49069,
+                    "def": 2281,
+                    "mdef": 2145,
+                    "mp": 40,
+                    "atktime": 1.5,
+                    "range": 80,
+                    "msp": 300,
+                    "pmps": 80,
+                    "pcri": 100,
+                    "pcrid": 1500,
+                    "pdex": 65,
+                    "pmdex": 40,
+                    "ppdam": 90,
+                    "pmdam": 90,
+                    "pprdc": 130,
+                    "pmrdc": 130,
+                    "php": 240,
+                    "patk": 120,
+                    "pdef": 70,
+                    "pmdef": 70,
+                    "pxfatk": 100,
+                    "pckatk": 200,
+                    "pjsatk": 100,
+                    "pmsatk": 100,
+                    "portrait": "shenzhangfei_2",
+                    "phsatk": 100,
+                    "zsprdc": 100,
+                    "ckprdc": 100,
+                    "ssprdc": 100,
+                    "jsprdc": 100,
+                    "msprdc": 100,
+                    "hwprdc": 100,
+                    "accu": 50,
+                    "dpcri": 80
+                },
+                "star": 5,
+                "power": 1362284,
+                "camp": 5,
+                "occu": 1,
+                "skill": [
+                    42341,
+                    42346,
+                    42351,
+                    42356
+                ],
+                "_ownerlevel": 140,
+                "destiny": false,
+                "beastsoul": [],
+                "guid": "6541efda85e4e76d8c0a198e"
+            }
+        },
+        "power": 1362284,
+        "zhenfa": {
+            "id": 101,
+            "lv": 50,
+            "skillID": 30004,
+            "pos": [
+                7,
+                8
+            ],
+            "pickAttr": {
+                "pasp": 350
+            },
+            "star": 10
+        }
+    },
+    "enemy": {
+        "team": {
+            "7": {
+                "gsid": 10246,
+                "class": 6,
+                "level": 335,
+                "star": 10,
+                "camp": 1,
+                "occu": 4,
+                "skill": [
+                    40243,
+                    40248,
+                    40253,
+                    40258
+                ],
+                "property": {
+                    "hp": 1079350,
+                    "atk": 72895,
+                    "def": 1098,
+                    "mdef": 1189,
+                    "mp": 48,
+                    "atktime": 1.5,
+                    "range": 160,
+                    "msp": 300,
+                    "pcri": 50,
+                    "pcrid": 1500,
+                    "portrait": "simayi_2"
+                },
+                "power": 1460718
+            },
+            "9": {
+                "gsid": 10166,
+                "class": 6,
+                "level": 335,
+                "star": 10,
+                "camp": 1,
+                "occu": 5,
+                "skill": [
+                    40163,
+                    40168,
+                    40173,
+                    40178
+                ],
+                "property": {
+                    "hp": 992767,
+                    "atk": 50007,
+                    "def": 1087,
+                    "mdef": 1179,
+                    "mp": 40,
+                    "atktime": 1.5,
+                    "range": 160,
+                    "msp": 300,
+                    "pcri": 50,
+                    "pcrid": 1500,
+                    "portrait": "xunyu_2"
+                },
+                "power": 1177199
+            },
+            "10": {
+                "gsid": 16326,
+                "class": 6,
+                "level": 335,
+                "star": 10,
+                "camp": 4,
+                "occu": 5,
+                "skill": [
+                    46323,
+                    46328,
+                    46333,
+                    46338
+                ],
+                "property": {
+                    "hp": 770964,
+                    "atk": 78137,
+                    "def": 950,
+                    "mdef": 1189,
+                    "mp": 40,
+                    "atktime": 1.5,
+                    "range": 160,
+                    "msp": 300,
+                    "pcri": 50,
+                    "pcrid": 1500,
+                    "portrait": "huatuo_2"
+                },
+                "power": 1316697
+            },
+            "11": {
+                "gsid": 16386,
+                "class": 6,
+                "level": 335,
+                "star": 10,
+                "camp": 4,
+                "occu": 5,
+                "skill": [
+                    46383,
+                    46388,
+                    46393,
+                    46398
+                ],
+                "property": {
+                    "hp": 1245404,
+                    "atk": 64824,
+                    "def": 1077,
+                    "mdef": 1214,
+                    "mp": 40,
+                    "atktime": 1.5,
+                    "range": 160,
+                    "msp": 300,
+                    "pcri": 50,
+                    "pcrid": 1500,
+                    "portrait": "diaochan_2"
+                },
+                "power": 1483892
+            },
+            "12": {
+                "gsid": 16166,
+                "class": 6,
+                "level": 335,
+                "star": 10,
+                "camp": 4,
+                "occu": 4,
+                "skill": [
+                    46163,
+                    46168,
+                    46173,
+                    46178
+                ],
+                "property": {
+                    "hp": 907377,
+                    "atk": 60836,
+                    "def": 950,
+                    "mdef": 1341,
+                    "mp": 48,
+                    "atktime": 1.5,
+                    "range": 160,
+                    "msp": 300,
+                    "pcri": 50,
+                    "pcrid": 1500,
+                    "portrait": "yuji_2"
+                },
+                "power": 1232745
+            },
+            "13": {
+                "gsid": 16306,
+                "class": 6,
+                "level": 335,
+                "star": 10,
+                "camp": 4,
+                "occu": 4,
+                "skill": [
+                    46303,
+                    46308,
+                    46313,
+                    46318
+                ],
+                "property": {
+                    "hp": 1079350,
+                    "atk": 74778,
+                    "def": 996,
+                    "mdef": 1249,
+                    "mp": 48,
+                    "atktime": 1.5,
+                    "range": 160,
+                    "msp": 300,
+                    "pcri": 50,
+                    "pcrid": 1500,
+                    "portrait": "zhangjiao_2"
+                },
+                "power": 1478498
+            },
+            "14": {
+                "gsid": 10226,
+                "class": 6,
+                "level": 335,
+                "star": 10,
+                "camp": 1,
+                "occu": 4,
+                "skill": [
+                    40223,
+                    40228,
+                    40233,
+                    40238
+                ],
+                "property": {
+                    "hp": 929111,
+                    "atk": 57302,
+                    "def": 1052,
+                    "mdef": 1235,
+                    "mp": 48,
+                    "atktime": 1.5,
+                    "range": 160,
+                    "msp": 300,
+                    "pcri": 50,
+                    "pcrid": 1500,
+                    "portrait": "jiaxu_2"
+                },
+                "power": 1210889
+            }
+        },
+        "zhenfa": {
+            "star": 0
+        },
+        "power": 9360638
+    },
+    "seasonInfo": {
+        "season": 4,
+        "left": 200,
+        "right": 335,
+        "pos": [
+            8,
+            14
+        ]
+    },
+    "lcards": [
+        {
+            "id": 35000
+        },
+        {
+            "id": 35020
+        },
+        {
+            "id": 35040
+        },
+        {
+            "id": 35280
+        },
+        {
+            "id": 35080
+        },
+        {
+            "id": 35100
+        },
+        {
+            "id": 35380
+        },
+        {
+            "id": 35140
+        },
+        {
+            "id": 35160
+        },
+        {
+            "id": 35180
+        },
+        {
+            "id": 35200
+        },
+        {
+            "id": 35220
+        },
+        {
+            "id": 35240
+        },
+        {
+            "id": 35260
+        },
+        {
+            "id": 35060
+        },
+        {
+            "id": 35300
+        },
+        {
+            "id": 35320
+        },
+        {
+            "id": 35340
+        },
+        {
+            "id": 35360
+        },
+        {
+            "id": 35120
+        },
+        {
+            "id": 35400
+        },
+        {
+            "id": 35420
+        },
+        {
+            "id": 35440
+        },
+        {
+            "id": 35460
+        },
+        {
+            "id": 35480
+        }
+    ],
+    "rcards": []
+}

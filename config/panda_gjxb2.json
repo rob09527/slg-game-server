@@ -1,0 +1,1297 @@
+{
+    "base": {
+        "FREE": 10,
+        "GSID": 38024,
+        "ONE": 1,
+        "TEN": 10,
+        "FUND_PRICE": 98,
+        "FUND_EXP": 980,
+        "EVENT_MAX": 12
+    },
+    "map": {
+        "101": {
+            "ID": 101,
+            "NAME": "凉州",
+            "COND": 50,
+            "BIG": [
+                20341,
+                30162,
+                32137
+            ],
+            "GROUP": 1101,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 20341,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 20,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 33007,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 25000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "102": {
+            "ID": 102,
+            "NAME": "并州",
+            "COND": 100,
+            "BIG": [
+                24381,
+                30162,
+                32137
+            ],
+            "GROUP": 1102,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 24381,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 20,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 33207,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "103": {
+            "ID": 103,
+            "NAME": "幽州",
+            "COND": 150,
+            "BIG": [
+                22361,
+                30162,
+                32137
+            ],
+            "GROUP": 1103,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 22361,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 30,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 33107,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 35000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "104": {
+            "ID": 104,
+            "NAME": "冀州",
+            "COND": 200,
+            "BIG": [
+                26341,
+                30162,
+                32137
+            ],
+            "GROUP": 1104,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 26341,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 30,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 33307,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 40000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "105": {
+            "ID": 105,
+            "NAME": "青州",
+            "COND": 250,
+            "BIG": [
+                20341,
+                30162,
+                32137
+            ],
+            "GROUP": 1105,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 20341,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 50,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 75
+                },
+                {
+                    "GSID": 33007,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 40000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "106": {
+            "ID": 106,
+            "NAME": "雍州",
+            "COND": 300,
+            "BIG": [
+                24381,
+                30162,
+                32137
+            ],
+            "GROUP": 1106,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 24381,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 50,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 75
+                },
+                {
+                    "GSID": 33207,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "107": {
+            "ID": 107,
+            "NAME": "司州",
+            "COND": 350,
+            "BIG": [
+                22361,
+                30162,
+                32137
+            ],
+            "GROUP": 1107,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 22361,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 75
+                },
+                {
+                    "GSID": 33107,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "108": {
+            "ID": 108,
+            "NAME": "兖州",
+            "COND": 400,
+            "BIG": [
+                26341,
+                30162,
+                32137
+            ],
+            "GROUP": 1108,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 26341,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 75
+                },
+                {
+                    "GSID": 33307,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "109": {
+            "ID": 109,
+            "NAME": "豫州",
+            "COND": 450,
+            "BIG": [
+                20341,
+                30162,
+                32137
+            ],
+            "GROUP": 1109,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 20341,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30129,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 80,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 33007,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "110": {
+            "ID": 110,
+            "NAME": "徐州",
+            "COND": 600,
+            "BIG": [
+                24381,
+                30162,
+                32137
+            ],
+            "GROUP": 1110,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 24381,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30129,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 80,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 33207,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "111": {
+            "ID": 111,
+            "NAME": "益州",
+            "COND": 700,
+            "BIG": [
+                22361,
+                30162,
+                32137
+            ],
+            "GROUP": 1111,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 22361,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30129,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 1,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 33107,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 50000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "112": {
+            "ID": 112,
+            "NAME": "荆州",
+            "COND": 800,
+            "BIG": [
+                26341,
+                30162,
+                32137
+            ],
+            "GROUP": 1112,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 26341,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30129,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 1,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 33307,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 60000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "113": {
+            "ID": 113,
+            "NAME": "扬州",
+            "COND": 900,
+            "BIG": [
+                22361,
+                20341,
+                30162,
+                32137
+            ],
+            "GROUP": 1113,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 22361,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 20341,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 2,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 33208,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 80000,
+                    "CHANCE": 300
+                }
+            ]
+        },
+        "114": {
+            "ID": 114,
+            "NAME": "交州",
+            "COND": 1000,
+            "BIG": [
+                26341,
+                24381,
+                30162,
+                32137
+            ],
+            "GROUP": 1114,
+            "ODDS": 2000,
+            "ITEMS": [
+                {
+                    "GSID": 26341,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 24381,
+                    "COUNT": 2,
+                    "CHANCE": 100
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 2,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 32137,
+                    "COUNT": 1,
+                    "CHANCE": 200
+                },
+                {
+                    "GSID": 33308,
+                    "COUNT": 1,
+                    "CHANCE": 50
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 100000,
+                    "CHANCE": 300
+                }
+            ]
+        }
+    },
+    "shop": {
+        "1": {
+            "ID": 1,
+            "CASH": 0,
+            "PRICE": 100,
+            "EXP": 0,
+            "LIMIT": 1,
+            "TYPE": 1,
+            "SCORE": 0,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 250000
+                }
+            ]
+        },
+        "2": {
+            "ID": 2,
+            "CASH": 0,
+            "PRICE": 1000,
+            "EXP": 0,
+            "LIMIT": 1,
+            "TYPE": 1,
+            "SCORE": 0,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 150000
+                }
+            ]
+        },
+        "3": {
+            "ID": 3,
+            "CASH": 0,
+            "PRICE": 2000,
+            "EXP": 0,
+            "LIMIT": 1,
+            "TYPE": 1,
+            "SCORE": 0,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 20
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                }
+            ]
+        },
+        "4": {
+            "ID": 4,
+            "CASH": 1,
+            "PRICE": 6,
+            "EXP": 60,
+            "LIMIT": 1,
+            "TYPE": 1,
+            "SCORE": 0,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 200
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 500000
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 1
+                }
+            ]
+        },
+        "5": {
+            "ID": 5,
+            "CASH": 1,
+            "PRICE": 12,
+            "EXP": 120,
+            "LIMIT": 1,
+            "TYPE": 1,
+            "SCORE": 0,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30015,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 800000
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 1
+                }
+            ]
+        },
+        "6": {
+            "ID": 6,
+            "CASH": 1,
+            "PRICE": 12,
+            "EXP": 120,
+            "LIMIT": 2,
+            "TYPE": 0,
+            "SCORE": 20,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 300
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 1000000
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 5
+                }
+            ]
+        },
+        "7": {
+            "ID": 7,
+            "CASH": 1,
+            "PRICE": 18,
+            "EXP": 180,
+            "LIMIT": 2,
+            "TYPE": 0,
+            "SCORE": 0,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 15
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 15
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 600
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 10
+                }
+            ]
+        },
+        "8": {
+            "ID": 8,
+            "CASH": 1,
+            "PRICE": 30,
+            "EXP": 300,
+            "LIMIT": 2,
+            "TYPE": 0,
+            "SCORE": 50,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 25
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 30026,
+                    "COUNT": 900
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 500000
+                }
+            ]
+        },
+        "9": {
+            "ID": 9,
+            "CASH": 1,
+            "PRICE": 68,
+            "EXP": 680,
+            "LIMIT": 2,
+            "TYPE": 0,
+            "SCORE": 100,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 25
+                },
+                {
+                    "GSID": 32126,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 10
+                }
+            ]
+        },
+        "10": {
+            "ID": 10,
+            "CASH": 1,
+            "PRICE": 128,
+            "EXP": 1280,
+            "LIMIT": 2,
+            "TYPE": 0,
+            "SCORE": 200,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 50
+                },
+                {
+                    "GSID": 32127,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 5
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 20
+                }
+            ]
+        },
+        "11": {
+            "ID": 11,
+            "CASH": 1,
+            "PRICE": 198,
+            "EXP": 1980,
+            "LIMIT": 2,
+            "TYPE": 0,
+            "SCORE": 350,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 75
+                },
+                {
+                    "GSID": 32596,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 10
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 25
+                }
+            ]
+        },
+        "12": {
+            "ID": 12,
+            "CASH": 1,
+            "PRICE": 328,
+            "EXP": 3280,
+            "LIMIT": 2,
+            "TYPE": 0,
+            "SCORE": 500,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 90
+                },
+                {
+                    "GSID": 32127,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 32577,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30160,
+                    "COUNT": 80
+                }
+            ]
+        },
+        "13": {
+            "ID": 13,
+            "CASH": 1,
+            "PRICE": 648,
+            "EXP": 6480,
+            "LIMIT": 2,
+            "TYPE": 0,
+            "SCORE": 750,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 150
+                },
+                {
+                    "GSID": 32134,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 32578,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 30161,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "14": {
+            "ID": 14,
+            "CASH": 1,
+            "PRICE": 648,
+            "EXP": 6480,
+            "LIMIT": 2,
+            "TYPE": 0,
+            "SCORE": 1000,
+            "ITEMS": [
+                {
+                    "GSID": 38024,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 32128,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 20
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000000
+                }
+            ]
+        },
+        "15": {
+            "ID": 15,
+            "CASH": 1,
+            "PRICE": 648,
+            "EXP": 6480,
+            "LIMIT": 1,
+            "TYPE": 0,
+            "SCORE": 1200,
+            "ITEMS": [
+                {
+                    "GSID": 32579,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 32118,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30162,
+                    "COUNT": 20
+                },
+                {
+                    "GSID": 38006,
+                    "COUNT": 30000000
+                }
+            ]
+        },
+        "16": {
+            "ID": 16,
+            "CASH": 1,
+            "PRICE": 648,
+            "EXP": 6480,
+            "LIMIT": 1,
+            "TYPE": 0,
+            "SCORE": 1200,
+            "ITEMS": [
+                {
+                    "GSID": 32597,
+                    "COUNT": 1
+                },
+                {
+                    "GSID": 32127,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 20
+                },
+                {
+                    "GSID": 30001,
+                    "COUNT": 4000000
+                }
+            ]
+        }
+    },
+    "fund": {
+        "15": {
+            "SCORE": 15,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 38024,
+                    "COUNT": 10
+                }
+            ],
+            "PAYS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 38024,
+                    "COUNT": 30
+                }
+            ]
+        },
+        "120": {
+            "SCORE": 120,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 38024,
+                    "COUNT": 10
+                }
+            ],
+            "PAYS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 38024,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "250": {
+            "SCORE": 250,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 100
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 5
+                }
+            ],
+            "PAYS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 38024,
+                    "COUNT": 30
+                }
+            ]
+        },
+        "400": {
+            "SCORE": 400,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 150
+                },
+                {
+                    "GSID": 38024,
+                    "COUNT": 20
+                }
+            ],
+            "PAYS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 38024,
+                    "COUNT": 50
+                }
+            ]
+        },
+        "600": {
+            "SCORE": 600,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 150
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 5
+                }
+            ],
+            "PAYS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 500
+                },
+                {
+                    "GSID": 32132,
+                    "COUNT": 1
+                }
+            ]
+        },
+        "900": {
+            "SCORE": 900,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 200
+                },
+                {
+                    "GSID": 38024,
+                    "COUNT": 20
+                }
+            ],
+            "PAYS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 600
+                },
+                {
+                    "GSID": 32132,
+                    "COUNT": 2
+                }
+            ]
+        },
+        "1200": {
+            "SCORE": 1200,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 200
+                },
+                {
+                    "GSID": 38024,
+                    "COUNT": 20
+                }
+            ],
+            "PAYS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 800
+                },
+                {
+                    "GSID": 32578,
+                    "COUNT": 1
+                }
+            ]
+        },
+        "1500": {
+            "SCORE": 1500,
+            "ITEMS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 200
+                },
+                {
+                    "GSID": 38022,
+                    "COUNT": 20
+                }
+            ],
+            "PAYS": [
+                {
+                    "GSID": 38005,
+                    "COUNT": 1000
+                },
+                {
+                    "GSID": 32133,
+                    "COUNT": 1
+                }
+            ]
+        }
+    }
+}

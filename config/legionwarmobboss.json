@@ -1,0 +1,630 @@
+[
+    {
+        "SEASON": 1,
+        "BATTLESET": 1,
+        "LV": 100,
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 30,
+                "MAXCOUNT": 60
+            }
+        ],
+        "STAGE": [
+            {
+                "DAMGE": 100000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 200000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 500000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "mdef",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 1000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "mdef",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 3000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 6000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 10000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "prdc",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 20000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "pdam",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 50000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": "100000000000",
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": "999900000000",
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            }
+        ]
+    },
+    {
+        "SEASON": 2,
+        "BATTLESET": 2,
+        "LV": 100,
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 30,
+                "MAXCOUNT": 60
+            }
+        ],
+        "STAGE": [
+            {
+                "DAMGE": 100000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 200000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 500000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "mdef",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 1000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "mdef",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 3000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 6000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 10000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "prdc",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 20000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "pdam",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 50000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": "100000000000",
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": "999900000000",
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            }
+        ]
+    },
+    {
+        "SEASON": 3,
+        "BATTLESET": 3,
+        "LV": 100,
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 30,
+                "MAXCOUNT": 60
+            }
+        ],
+        "STAGE": [
+            {
+                "DAMGE": 100000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 200000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 500000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "mdef",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 1000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "mdef",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 3000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 6000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 10000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "prdc",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 20000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "pdam",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 50000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": "100000000000",
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": "999900000000",
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            }
+        ]
+    },
+    {
+        "SEASON": 4,
+        "BATTLESET": 4,
+        "LV": 100,
+        "CREWARD": [
+            {
+                "GSID": 30020,
+                "MINCOUNT": 30,
+                "MAXCOUNT": 60
+            }
+        ],
+        "STAGE": [
+            {
+                "DAMGE": 100000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 200000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 500000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "mdef",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 1000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "mdef",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 3000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 6000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 10000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "prdc",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 20000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "pdam",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": 50000000000,
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "hp",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": "100000000000",
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            },
+            {
+                "DAMGE": "999900000000",
+                "REWARD": [
+                    {
+                        "GSID": 30052,
+                        "COUNT": 1
+                    }
+                ],
+                "ATTR": {
+                    "KEY": "atk",
+                    "VAL": 5
+                }
+            }
+        ]
+    }
+]

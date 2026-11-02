@@ -1,0 +1,226 @@
+[
+    {
+        "ITEM": [
+            {
+                "INDEX": 5001,
+                "PRICE": 648,
+                "EXP": 6480,
+                "LIMIT": 1,
+                "VALUE": 30480,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 12
+                    },
+                    {
+                        "GSID": 32630,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ],
+        "id": 2,
+        "SHOW": [
+            10401,
+            12421,
+            14401,
+            16401
+        ],
+        "PRICE": 448,
+        "EXP": 4480,
+        "PRICE_ORG": 556,
+        "GIFT0": 5001,
+        "SPEC_GSID0": 38005,
+        "SPEC_COUNT0": 4480,
+        "TYPE": 2
+    },
+    {
+        "ITEM": [
+            {
+                "INDEX": 5001,
+                "PRICE": 648,
+                "EXP": 6480,
+                "LIMIT": 2,
+                "VALUE": 30480,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32636,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 18
+                    }
+                ]
+            }
+        ],
+        "id": 3,
+        "SHOW": [
+            17101,
+            17121
+        ],
+        "PRICE": 448,
+        "EXP": 4480,
+        "PRICE_ORG": 556,
+        "GIFT0": 5001,
+        "SPEC_GSID0": 38005,
+        "SPEC_COUNT0": 4480,
+        "TYPE": 3
+    },
+    {
+        "ITEM": [
+            {
+                "INDEX": 5001,
+                "PRICE": 648,
+                "EXP": 6480,
+                "LIMIT": 2,
+                "VALUE": 30480,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 17141,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32802,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ],
+        "id": 4,
+        "SHOW": [
+            17141
+        ],
+        "PRICE": 448,
+        "EXP": 4480,
+        "PRICE_ORG": 556,
+        "GIFT0": 5001,
+        "SPEC_GSID0": 38005,
+        "SPEC_COUNT0": 4480,
+        "TYPE": 4
+    },
+    {
+        "ITEM": [
+            {
+                "INDEX": 5001,
+                "PRICE": 648,
+                "EXP": 6480,
+                "LIMIT": 2,
+                "VALUE": 30480,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 32637,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 30011,
+                        "COUNT": 18
+                    }
+                ]
+            }
+        ],
+        "id": 5,
+        "SHOW": [
+            18101,
+            18121
+        ],
+        "PRICE": 448,
+        "EXP": 4480,
+        "PRICE_ORG": 556,
+        "GIFT0": 5001,
+        "SPEC_GSID0": 38005,
+        "SPEC_COUNT0": 4480,
+        "TYPE": 5
+    },
+    {
+        "ITEM": [
+            {
+                "INDEX": 5001,
+                "PRICE": 648,
+                "EXP": 6480,
+                "LIMIT": 2,
+                "VALUE": 30480,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 6480
+                    },
+                    {
+                        "GSID": 18141,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32802,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ],
+        "id": 6,
+        "SHOW": [
+            18141
+        ],
+        "PRICE": 448,
+        "EXP": 4480,
+        "PRICE_ORG": 556,
+        "GIFT0": 5001,
+        "SPEC_GSID0": 38005,
+        "SPEC_COUNT0": 4480,
+        "TYPE": 6
+    },
+    {
+        "ITEM": [
+            {
+                "INDEX": 5001,
+                "PRICE": 328,
+                "EXP": 3280,
+                "LIMIT": 2,
+                "VALUE": 24280,
+                "REWARD": [
+                    {
+                        "GSID": 38005,
+                        "COUNT": 3280
+                    },
+                    {
+                        "GSID": 32633,
+                        "COUNT": 1
+                    },
+                    {
+                        "GSID": 32801,
+                        "COUNT": 1
+                    }
+                ]
+            }
+        ],
+        "id": 7,
+        "SHOW": [
+            16341,
+            12361,
+            10341,
+            14381
+        ],
+        "PRICE": 448,
+        "EXP": 4480,
+        "PRICE_ORG": 556,
+        "GIFT0": 5001,
+        "SPEC_GSID0": 38005,
+        "SPEC_COUNT0": 4480,
+        "TYPE": 1
+    }
+]
